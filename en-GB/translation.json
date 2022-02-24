@@ -116,6 +116,23 @@
         "CancelText": "Are you sure to cancel your subscription of Citasion Premium?",
         "Confirm": "Confirm"
       }
+    },
+    "Home": {
+      "HomeView": {
+        "introducing": "",
+        "citasion": "",
+        "intro": "",
+        "check1": "",
+        "check2": "",
+        "check3": "",
+        "check4": "",
+        "check5": "",
+        "addToChrome": "",
+        "itsFree": "",
+        "addToFirefox": "",
+        "addToEdge": "",
+        "VideoTitle": ""
+      }
     }
   }
 }

@@ -116,6 +116,23 @@
         "CancelText": "您确定要取消Citasion套餐吗?",
         "Confirm": "确定"
       }
+    },
+    "Home": {
+      "HomeView": {
+        "introducing": "",
+        "citasion": "",
+        "intro": "",
+        "check1": "",
+        "check2": "",
+        "check3": "",
+        "check4": "",
+        "check5": "",
+        "addToChrome": "",
+        "itsFree": "",
+        "addToFirefox": "",
+        "addToEdge": "",
+        "VideoTitle": ""
+      }
     }
   }
 }

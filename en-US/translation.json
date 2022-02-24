@@ -116,6 +116,23 @@
         "CancelText": "Are you sure to cancel your subscription of Citasion Premium?",
         "Confirm": "Confirm"
       }
+    },
+    "Home": {
+      "HomeView": {
+        "introducing": "Introducing",
+        "citasion": "Citasion",
+        "intro": "Intuitive reference management built for collaborations on the web.",
+        "check1": "A click-away reference importation",
+        "check2": "Sharable reference projects",
+        "check3": "Non fuss reference management for collaborative writing",
+        "check4": "1,000+ of available reference styles",
+        "check5": "Smart insights into your literature and reference list",
+        "addToChrome": "Add to Chrome",
+        "itsFree": "It's Free",
+        "addToFirefox": "Add to Firefox",
+        "addToEdge": "Add to Edge",
+        "VideoTitle": "Citasion - Need Help Writing a Paper?"
+      }
     }
   }
 }
