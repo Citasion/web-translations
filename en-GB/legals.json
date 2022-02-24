@@ -1,0 +1,11 @@
+{
+  "views": {
+    "legals": {
+      "PrivacyView": {
+        "title": "__STRING_NOT_TRANSLATED__",
+        "date": "__STRING_NOT_TRANSLATED__",
+        "TopContent": "__STRING_NOT_TRANSLATED__"
+      }
+    }
+  }
+}
