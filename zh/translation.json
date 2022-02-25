@@ -127,12 +127,74 @@
         "check3": "",
         "check4": "",
         "check5": "",
-        "addToChrome": "",
-        "itsFree": "",
-        "addToFirefox": "",
-        "addToEdge": "",
-        "VideoTitle": ""
+        "VideoTitle": "",
+        "addToFirefoxBtn": "<0>Add to Firefox</0><1>It's free</1>",
+        "addToChromeBtn": "<0>Add to Chrome</0><1>It's Free</1>",
+        "addToEdgeBtn": "<0>Add to Edge</0><1>It's Free</1>",
+        "exploreCitasion": "",
+        "note1": "",
+        "note1Text": "",
+        "note2": "",
+        "note2Text": "",
+        "note3": "",
+        "note3Text": "",
+        "worksOnline": "",
+        "searchPapers": "",
+        "write": "",
+        "googleScholar": "",
+        "ACM": "",
+        "googleDocs": "",
+        "word": "",
+        "springer": "",
+        "10more": "",
+        "overleaf": "",
+        "andmore": "",
+        "intuitiveNote": "",
+        "getStarted": "",
+        "chromeExtension": "",
+        "firefoxAddon": "",
+        "edgeAddon": "",
+        "wordAddin": ""
       }
+    },
+    "auth": {
+      "LoginIframeView": {
+        "signinGoogle": "",
+        "signinMicrosoft": "",
+        "citasionLogin": "",
+        "loginNote": "",
+        "check1": "",
+        "check2": "",
+        "check3": "",
+        "check4": "",
+        "citasionMemberLogin": "",
+        "protectionNote": "This site is protected by reCAPTCHA and the <2>Google Privacy Policy</2> and <6>Terms of Service</6> apply.",
+        "termsPrivacy": "<0>Terms and Conditions</0> · <2>Privacy Policy</2>"
+      }
+    }
+  },
+  "globals": {
+    "product": "",
+    "plans": "",
+    "chromeExtension": "",
+    "firefoxAddon": "",
+    "edgeAddon": "",
+    "wordAddin": "",
+    "trust": "",
+    "terms": "",
+    "privacy": "",
+    "extensionPrivacy": "",
+    "connect": "",
+    "blogs": "",
+    "help": "",
+    "facebook": "",
+    "twitter": "",
+    "linkedin": "",
+    "login": ""
+  },
+  "components": {
+    "HeadBar": {
+      "hello": "Hello "
     }
   }
 }

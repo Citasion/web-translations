@@ -6,6 +6,38 @@
         "title": "",
         "date": "",
         "topContent": ""
+      },
+      "Privacy": {
+        "collectionHeading": "",
+        "informationYouProvide": "",
+        "accountInfo": "",
+        "contentYouSubmit": "",
+        "actionYouTake": "",
+        "transactionalInfo": "",
+        "infoAutomatic": "",
+        "logUsage": "",
+        "infoCookies": "",
+        "locationInfo": "",
+        "thirdParties": "",
+        "audience": "",
+        "whyWeCollect": "",
+        "howWeProtect": "",
+        "yourChoices": "",
+        "accessChangeInfo": "",
+        "deletingAccount": "",
+        "controlLinkedServices": "",
+        "controllingCookies": "",
+        "controllingAds": "",
+        "doNotTrack": "",
+        "controllingPromotional": "",
+        "yourRights": "",
+        "dataSubject": "",
+        "internationalData": "",
+        "EEAUsers": "",
+        "californiaUsers": "",
+        "children": "",
+        "changesToPolicy": "",
+        "contactUs": ""
       }
     }
   }

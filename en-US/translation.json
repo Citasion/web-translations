@@ -127,12 +127,74 @@
         "check3": "Non fuss reference management for collaborative writing",
         "check4": "1,000+ of available reference styles",
         "check5": "Smart insights into your literature and reference list",
-        "addToChrome": "Add to Chrome",
-        "itsFree": "It's Free",
-        "addToFirefox": "Add to Firefox",
-        "addToEdge": "Add to Edge",
-        "VideoTitle": "Citasion - Need Help Writing a Paper?"
+        "VideoTitle": "Citasion - Need Help Writing a Paper?",
+        "addToFirefoxBtn": "<0>Add to Firefox</0><1>It's free</1>",
+        "addToChromeBtn": "<0>Add to Chrome</0><1>It's Free</1>",
+        "addToEdgeBtn": "<0>Add to Edge</0><1>It's Free</1>",
+        "exploreCitasion": "Explore Citasion",
+        "note1": "Reference Management for Web",
+        "note1Text": "A project-based reference management built for the web. Works with Google Docs, Word, and Overleaf.",
+        "note2": "Seamless Research Collaboration",
+        "note2Text": "Share your references projects and insights with others. Write and manage references collaboratively and with ease.",
+        "note3": "Smart Reference Recommendation",
+        "note3Text": "A.I. powered system finds the paper you are about to cite, and provides tailored recommendations for your research projects.",
+        "worksOnline": "Works Online Where You Write and Cite",
+        "searchPapers": "Where You Search For Papers",
+        "write": "Where You Write",
+        "googleScholar": "Google Scholar",
+        "ACM": "ACM",
+        "googleDocs": "Google Docs",
+        "word": "Word",
+        "springer": "Springer",
+        "10more": "... and 10+ more",
+        "overleaf": "Overleaf",
+        "andmore": "... and more",
+        "intuitiveNote": "Intuitive Reference Management Awaits",
+        "getStarted": "Get started for free and manage your references with ease",
+        "chromeExtension": "Chrome Extension",
+        "firefoxAddon": "Firefox Add-on",
+        "edgeAddon": "Edge Add-on",
+        "wordAddin": "Word Add-In"
       }
+    },
+    "auth": {
+      "LoginIframeView": {
+        "signinGoogle": "Sign in with Google",
+        "signinMicrosoft": "Sign in with Microsoft",
+        "citasionLogin": "Citasion: Login",
+        "loginNote": "Log in Citasion now to unlock:",
+        "check1": "One-click paper importation",
+        "check2": "Easy referencing for Google Docs, Overleaf and Word",
+        "check3": "Full support of collaborative writing",
+        "check4": "AI-based recommendations and analytics",
+        "citasionMemberLogin": "Citasion Member Login",
+        "protectionNote": "This site is protected by reCAPTCHA and the <2>Google Privacy Policy</2> and <6>Terms of Service</6> apply.",
+        "termsPrivacy": "<0>Terms and Conditions</0> · <2>Privacy Policy</2>"
+      }
+    }
+  },
+  "globals": {
+    "product": "Product",
+    "plans": "Plans",
+    "chromeExtension": "Chrome Extension",
+    "firefoxAddon": "Firefox Addon",
+    "edgeAddon": "Edge Addon",
+    "wordAddin": "Word Add-in",
+    "trust": "Trust",
+    "terms": "Terms and Conditions",
+    "privacy": "Privacy Policy",
+    "extensionPrivacy": "Extension Privacy Policy",
+    "connect": "Connect",
+    "blogs": "Blogs",
+    "help": "Help Center",
+    "facebook": "Facebook",
+    "twitter": "Twitter",
+    "linkedin": "LinkedIn",
+    "login": "Log in"
+  },
+  "components": {
+    "HeadBar": {
+      "hello": "Hello "
     }
   }
 }
