@@ -38,6 +38,47 @@
         "children": "",
         "changesToPolicy": "",
         "contactUs": ""
+      },
+      "CookieNoticeView": {
+        "pageTitle": "",
+        "title": "",
+        "date": "",
+        "intro": "",
+        "cookieDefs": "",
+        "strictlyNecessary": "",
+        "functional": "",
+        "analytics": "",
+        "cookieControl": "",
+        "thirdParty": ""
+      },
+      "PersonalInfoRequestsView": {
+        "pageTitle": "",
+        "title": "",
+        "process": "",
+        "privacyinfo": ""
+      },
+      "PrivacyExtensionView": {
+        "pageTitle": "",
+        "title": "",
+        "date": "",
+        "topContent": ""
+      },
+      "TermsView": {
+        "pageTitle": "",
+        "title": "",
+        "date": "",
+        "definitions": "",
+        "copyright": "",
+        "licence": "",
+        "rightsAndLimits": "",
+        "notAllowed": "",
+        "enforcement": "",
+        "termination": "",
+        "warranties": "",
+        "liability": "",
+        "individual": "",
+        "organizations": "",
+        "arbitration": ""
       }
     }
   }

@@ -7,8 +7,7 @@
         "status2": "Gratis ",
         "status3": "Premium",
         "question": "¿Necesitas ayuda?",
-        "support": "Consulte nuestro centro de soporte ",
-        "": ""
+        "support": "Consulte nuestro centro de soporte "
       },
       "TopBar": {
         "Account": "Cuenta",
@@ -39,7 +38,12 @@
         "DeleteTextShare": "Esta operación impedirá que accedas a este proyecto compartido en el futuro. ¿Está seguro?",
         "DeleteTextConfirm": "Escribe el nombre del proyecto para eliminar lo:",
         "DeleteTextProjectName": "Nombre del proyecto",
-        "": ""
+        "pageTitle": "",
+        "myProjects": "",
+        "sharedProjects": "",
+        "addnewCaps": "",
+        "addnew": "",
+        "whatIsName": ""
       }
     },
     "reference": {
@@ -114,7 +118,11 @@
         "CancelMySubscription": "Cancelar mi suscripción",
         "CancelTitle": "Cancelar Suscripción Premium de Citasion ",
         "CancelText": "Está seguro de cancelar su suscripción a Citasion Premium?",
-        "Confirm": "Confirmar"
+        "Confirm": "Confirmar",
+        "pageTitle": "",
+        "defaultPlan": "",
+        "manageSubscription": "",
+        "willExpire": "Your premium trial will expire by ."
       }
     },
     "Home": {
@@ -170,6 +178,15 @@
         "citasionMemberLogin": "",
         "protectionNote": "This site is protected by reCAPTCHA and the <2>Google Privacy Policy</2> and <6>Terms of Service</6> apply.",
         "termsPrivacy": "<0>Terms and Conditions</0> · <2>Privacy Policy</2>"
+      },
+      "LoginView": {
+        "memberLogin": "",
+        "dontHaveAccount": "",
+        "captchaNote": "This site is protected by reCAPTCHA and the <2>Google Privacy Policy</2> and <6>Terms of Service</6> apply.",
+        "signGoogle": "",
+        "signMicrosoft": "",
+        "pageTitle": "",
+        "pageDescription": ""
       }
     }
   },
@@ -190,7 +207,19 @@
     "facebook": "",
     "twitter": "",
     "linkedin": "",
-    "login": ""
+    "login": "",
+    "signup": "",
+    "loading": "",
+    "": "",
+    "profile": "",
+    "subscription": "",
+    "projectname": "",
+    "confirm": "",
+    "projects": "",
+    "references": "",
+    "account": "",
+    "apps": "",
+    "premium": ""
   },
   "components": {
     "HeadBar": {

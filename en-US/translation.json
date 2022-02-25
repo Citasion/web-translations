@@ -7,8 +7,7 @@
         "status2": "Free",
         "status3": "Premium",
         "question": "Need Help?",
-        "support": "Check our support center",
-        "": ""
+        "support": "Check our support center"
       },
       "TopBar": {
         "Account": "Account",
@@ -39,7 +38,12 @@
         "DeleteTextShare": "This operation will stop you from accessing this shared project in the future. Are you sure?",
         "DeleteTextConfirm": "Confirm you want to delete this project by typing its name:",
         "DeleteTextProjectName": "Project Name",
-        "": ""
+        "myProjects": "My Projects",
+        "sharedProjects": "Shared Projects",
+        "pageTitle": "Citasion: Projects",
+        "whatIsName": "What is the name of this new project?",
+        "addnew": "Add a new project",
+        "addnewCaps": "ADD A NEW PROJECT"
       }
     },
     "reference": {
@@ -114,7 +118,11 @@
         "CancelMySubscription": "Cancel My Subscription",
         "CancelTitle": "Cancel Citasion Premium Subscription",
         "CancelText": "Are you sure to cancel your subscription of Citasion Premium?",
-        "Confirm": "Confirm"
+        "Confirm": "Confirm",
+        "pageTitle": "Citasion: Account Settings",
+        "defaultPlan": "Default Plan",
+        "manageSubscription": "Manage your subscription",
+        "willExpire": "Your premium trial will expire by ."
       }
     },
     "Home": {
@@ -170,6 +178,15 @@
         "citasionMemberLogin": "Citasion Member Login",
         "protectionNote": "This site is protected by reCAPTCHA and the <2>Google Privacy Policy</2> and <6>Terms of Service</6> apply.",
         "termsPrivacy": "<0>Terms and Conditions</0> · <2>Privacy Policy</2>"
+      },
+      "LoginView": {
+        "memberLogin": "Citasion Member Login",
+        "dontHaveAccount": "Don’t have an account?",
+        "captchaNote": "This site is protected by reCAPTCHA and the <2>Google Privacy Policy</2> and <6>Terms of Service</6> apply.",
+        "signGoogle": "Sign in with Google",
+        "signMicrosoft": "Sign in with Microsoft",
+        "pageTitle": "Citasion: Login",
+        "pageDescription": "Log in to your Citasion Account and manage your references with ease."
       }
     }
   },
@@ -190,7 +207,19 @@
     "facebook": "Facebook",
     "twitter": "Twitter",
     "linkedin": "LinkedIn",
-    "login": "Log in"
+    "login": "Log in",
+    "signup": "Sign Up",
+    "loading": "Loading",
+    "confirm": "Confirm",
+    "projectname": "Project name",
+    "profile": "Profile",
+    "subscription": "Subscription",
+    "": "",
+    "projects": "Projects",
+    "references": "References",
+    "account": "Account",
+    "apps": "Apps",
+    "premium": "Premium"
   },
   "components": {
     "HeadBar": {

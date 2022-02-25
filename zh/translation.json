@@ -7,8 +7,7 @@
         "status2": "免费用户",
         "status3": "付费会员",
         "question": "需要帮助?",
-        "support": "点这里查看更多",
-        "": ""
+        "support": "点这里查看更多"
       },
       "TopBar": {
         "Account": "用户设置",
@@ -39,7 +38,12 @@
         "DeleteTextShare": "未来您将无法访问此项目以及项目内的引用文献。您确定吗？",
         "DeleteTextConfirm": "请输入该项目名称来确定您想要删除此项目：",
         "DeleteTextProjectName": "项目名称",
-        "": ""
+        "pageTitle": "",
+        "myProjects": "",
+        "sharedProjects": "",
+        "addnewCaps": "",
+        "addnew": "",
+        "whatIsName": ""
       }
     },
     "reference": {
@@ -114,7 +118,11 @@
         "CancelMySubscription": "取消套餐",
         "CancelTitle": "取消套餐",
         "CancelText": "您确定要取消Citasion套餐吗?",
-        "Confirm": "确定"
+        "Confirm": "确定",
+        "pageTitle": "",
+        "defaultPlan": "",
+        "manageSubscription": "",
+        "willExpire": "Your premium trial will expire by ."
       }
     },
     "Home": {
@@ -170,6 +178,15 @@
         "citasionMemberLogin": "",
         "protectionNote": "This site is protected by reCAPTCHA and the <2>Google Privacy Policy</2> and <6>Terms of Service</6> apply.",
         "termsPrivacy": "<0>Terms and Conditions</0> · <2>Privacy Policy</2>"
+      },
+      "LoginView": {
+        "memberLogin": "",
+        "dontHaveAccount": "",
+        "captchaNote": "This site is protected by reCAPTCHA and the <2>Google Privacy Policy</2> and <6>Terms of Service</6> apply.",
+        "signGoogle": "",
+        "signMicrosoft": "",
+        "pageTitle": "",
+        "pageDescription": ""
       }
     }
   },
@@ -190,7 +207,19 @@
     "facebook": "",
     "twitter": "",
     "linkedin": "",
-    "login": ""
+    "login": "",
+    "signup": "",
+    "loading": "",
+    "": "",
+    "profile": "",
+    "subscription": "",
+    "projectname": "",
+    "confirm": "",
+    "projects": "",
+    "references": "",
+    "account": "",
+    "apps": "",
+    "premium": ""
   },
   "components": {
     "HeadBar": {
