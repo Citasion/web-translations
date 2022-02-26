@@ -301,7 +301,16 @@
     "bibtex": "BibTeX",
     "ris": "RIS",
     "nbib": "NBIB",
-    "endnoteXml": "EndNote XML"
+    "endnoteXml": "EndNote XML",
+    "type": "Type",
+    "journalPaper": "Journal Paper",
+    "required": "Required",
+    "journal": "Journal",
+    "year": "Year",
+    "pdfLink": "PDF Link/URL",
+    "organization": "Organization",
+    "lastAccessed": "Last accessed",
+    "publisher": "Publisher"
   },
   "components": {
     "HeadBar": {
@@ -339,6 +348,17 @@
       "copyPaste": "Copy & Paste BibTeX",
       "copyPasteHere": "Copy and paste your BibTeX list here",
       "readMoreBibtex": "Read more about BibTeX syntax"
+    },
+    "CitationAddDialog": {
+      "addReference": "Add A Reference"
+    },
+    "AddForms": {
+      "pdfLinkNeeds": "PDF Link needs to be a valid url.",
+      "validInfoNeeded": "Valid paper information is not provided",
+      "oneAdded": "1 paper was added successfully.",
+      "paperTitle": "Paper Title",
+      "authors": "Authors (please list authors in the format of \"last name, first name; last name, first name; ...\")",
+      "authorPlaceholder": "e.g., Hellas, Arto; Ihantola, Petri; Petersen, Andrew"
     }
   }
 }
