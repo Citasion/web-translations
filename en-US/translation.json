@@ -321,6 +321,14 @@
       "selectedFiles": "Selected files",
       "readMoreAboutFormats": "Read more about the formats of reference files that we accept",
       "addBibtexList": "Add A bibtex list"
+    },
+    "UploadPdfDialog": {
+      "uploadPdf": "Upload PDF Files",
+      "uploadOneOrMorePdf": "You can upload one or more PDF paper files.",
+      "CitasionWillParse": "Citasion will parse all the detectable metadata of the uploaded PDF files and generate reference entries.",
+      "dragDrop": "Drag and drop files here or click",
+      "selectedFiles": "Selected files",
+      "pdfLackMeta": "Some PDF papers may lack the metadata to be parsed. Read more about PDF metadata"
     }
   }
 }
