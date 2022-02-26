@@ -50,8 +50,8 @@
         "shareOthersDialog": "To share this project with others, please type or paste their email addresses and click Share.",
         "shareOthers": "Share with others",
         "emailAddresses": "Email Addresses",
-        "articlesReferenced": "<0></0><1>journal articles referenced</1>",
-        "conferenceReferenced": "<0></0><1>conference proceedings referenced</1>",
+        "articlesReferenced": "<0>{{types.article}}</0><1>journal articles referenced</1>",
+        "conferenceReferenced": "<0>{{types.inproceedings}}</0><1>conference proceedings referenced</1>",
         "topSources": "<0>Top   </0><1>reference sources:</1>",
         "expandAbstract": "Expand to see the abstract",
         "addReferencesProject": "Add references to this project",
@@ -74,7 +74,7 @@
         "uploadPdf": "Upload PDF Files",
         "parsePdf": "Parse PDF Files",
         "uploadRefs": "Upload Reference Files",
-        "numberInThisProject": "<0></0><1>paper(s) in this project</1>",
+        "numberInThisProject": "<0>{{number}}</0><1>paper(s) in this project</1>",
         "updateOrDelete": "Update or delete this reference",
         "projectInfo": "Project Information",
         "updateProjectInfo": "Updating your project information allows us to provide the most helpful insights into your literature.",
@@ -91,7 +91,10 @@
         "venueAnalytics": "Target venue analytics",
         "targetVenue": "What is your target venue (journal/conference) for this project?",
         "gotIt": "Got it. It will take us sometime to analyze the target venue!",
-        "updatingVenueNote": "Updating the venue information allows us to analyze your target journal or conference. The analytics provides insights into the trending topics and standards of the venue."
+        "updatingVenueNote": "Updating the venue information allows us to analyze your target journal or conference. The analytics provides insights into the trending topics and standards of the venue.",
+        "searchAPaper": "Search a paper",
+        "venueName": "Venue name",
+        "venueUrl": "Venue URL"
       },
       "ProjectDetailsViews": {
         "numreferences": "Number of references by year",
@@ -293,7 +296,8 @@
     "owner": "Owner",
     "pending": "Pending",
     "premiumFeatures": "Premium Features",
-    "submit": "Submit"
+    "submit": "Submit",
+    "gopremium": "Go Premium"
   },
   "components": {
     "HeadBar": {

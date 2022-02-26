@@ -52,8 +52,8 @@
         "numreferences": "Number of references by year"
       },
       "ProjectDetailsView": {
-        "articlesReferenced": "<0></0><1>journal articles referenced</1>",
-        "conferenceReferenced": "<0></0><1>conference proceedings referenced</1>",
+        "articlesReferenced": "<0>{{types.article}}</0><1>journal articles referenced</1>",
+        "conferenceReferenced": "<0>{{types.inproceedings}}</0><1>conference proceedings referenced</1>",
         "shareOthers": "Share with others",
         "shareOthersDialog": "To share this project with others, please type or paste their email addresses and click Share.",
         "emailAddresses": "",
@@ -79,7 +79,7 @@
         "anExampleRfid": "",
         "anExampleRethink": "",
         "addmanually": "",
-        "numberInThisProject": "<0></0><1>paper(s) in this project</1>",
+        "numberInThisProject": "<0>{{number}}</0><1>paper(s) in this project</1>",
         "updateOrDelete": "Update or delete this reference",
         "projectInfo": "",
         "updateProjectInfo": "Updating your project information allows us to provide the most helpful insights into your literature.",
@@ -96,7 +96,10 @@
         "venueAnalytics": "Target venue analytics",
         "targetVenue": "What is your target venue (journal/conference) for this project?",
         "gotIt": "Got it. It will take us sometime to analyse the target venue!",
-        "updatingVenueNote": "Updating the venue information allows us to analyze your target journal or conference. The analytics provides insights into the trending topics and standards of the venue."
+        "updatingVenueNote": "Updating the venue information allows us to analyze your target journal or conference. The analytics provides insights into the trending topics and standards of the venue.",
+        "searchAPaper": "Search a paper",
+        "venueName": "Venue name",
+        "venueUrl": ""
       }
     },
     "reference": {
@@ -261,11 +264,11 @@
     "twitter": "",
     "linkedin": "LinkedIn",
     "login": "Log in",
-    "signup": "",
+    "signup": "Sign Up",
     "loading": "Loading",
     "": "",
     "profile": "Profile",
-    "subscription": "",
+    "subscription": "Subscription",
     "projectname": "Project name",
     "confirm": "Confirm",
     "projects": "Projects",
@@ -274,7 +277,7 @@
     "apps": "Apps",
     "premium": "Premium",
     "analytics": "Literature Analytics",
-    "share": "",
+    "share": "Share",
     "active": "Active",
     "inactive": "Inactive",
     "about": "About",
@@ -285,7 +288,7 @@
     "abstract": "Abstract",
     "acm": "ACM",
     "ieee": "IEEE",
-    "springer": "",
+    "springer": "Springer",
     "update": "",
     "delete": "Delete",
     "updated": "",
@@ -293,7 +296,8 @@
     "owner": "Owner",
     "pending": "Pending",
     "premiumFeatures": "Premium Features",
-    "submit": "Submit"
+    "submit": "Submit",
+    "gopremium": "Go Premium"
   },
   "components": {
     "HeadBar": {
