@@ -302,6 +302,11 @@
   "components": {
     "HeadBar": {
       "hello": "Hello "
+    },
+    "UploadReferenceDialog": {
+      "cannotBeParsed": "None of the uploaded reference data files can be parsed",
+      "wasAdded": "{{response}} paper was added successfully.",
+      "wereAdded": "{{response}} papers were added successfully."
     }
   }
 }
