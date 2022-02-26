@@ -44,11 +44,11 @@
         "title": "",
         "date": "",
         "intro": "",
-        "cookieDefs": "",
+        "cookieDefs": "## ¿Qué son las cookies y cómo las utiliza Citasion?\n\nUna cookie es un pequeño archivo de texto que un sitio almacena en su ordenador o dispositivo móvil cuando usted visita el sitio. Los navegadores admiten cookies y tecnologías similares (como el almacenamiento local y los píxeles) para que un sitio como Citasion pueda recordar información sobre su visita y pueda utilizar la información para mejorar su experiencia y para crear estadísticas anónimas agregadas sobre el uso del sitio. En este Aviso, utilizamos el término \"cookie\" para referirnos tanto a las cookies como a tecnologías similares.\n\nLas cookies pueden ser instaladas por el sitio que usted está visitando (denominadas \"cookies de origen\") o por un tercero, como los que prestan servicios de análisis o publicidad o contenidos interactivos en el sitio (\"cookies de terceros\"). Además de utilizar cookies en nuestros sitios, también podemos servir nuestras cookies (concretamente, nuestro píxel publicitario) en sitios de terceros operados por anunciantes de Citasion que utilizan nuestra tecnología publicitaria.\n\nNuestras cookies de origen incluyen cookies estrictamente necesarias, cookies funcionales y cookies relacionadas con la analítica/el rendimiento.",
         "strictlyNecessary": "",
         "functional": "",
-        "analytics": "",
-        "cookieControl": "",
+        "analytics": "_Análisis y rendimiento_: Estas cookies nos permiten contar las visitas y las fuentes de tráfico para poder medir y mejorar el rendimiento de nuestro sitio. Nos ayudan a saber qué páginas son las más y las menos populares y a ver cómo se mueven los visitantes por el sitio.",
+        "cookieControl": "## ¿Cómo puedo controlar las cookies y el uso de mis datos?\n\nHay varias maneras de controlar cómo se recoge la información de las cookies en Citasion y cómo se utiliza esa información.\n\nLa configuración de su navegador\n\nSu navegador incluye controles que le permiten gestionar el uso de cookies por parte de los sitios que visita. La mayoría de los navegadores tienen funciones que le permiten ver y eliminar las cookies almacenadas en su dispositivo y bloquear las cookies de todos los sitios o de algunos de ellos.",
         "thirdParty": ""
       },
       "PersonalInfoRequestsView": {

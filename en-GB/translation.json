@@ -47,9 +47,9 @@
         "emailAddresses": ""
       },
       "ProjectDetailsViews": {
-        "beforeGraph": "",
-        "afterGraph": "",
-        "numreferences": ""
+        "beforeGraph": "Before {{yearValue}}",
+        "afterGraph": "After {{yearValue}}",
+        "numreferences": "Number of references by year"
       },
       "ProjectDetailsView": {
         "articlesReferenced": "<0></0><1>journal articles referenced</1>",
@@ -60,7 +60,7 @@
         "topSources": "<0>Top   </0><1>reference sources:</1>",
         "expandAbstract": "",
         "addReferencesProject": "",
-        "uploadRefs": "",
+        "uploadRefs": "Upload Reference Files",
         "parsePdf": "",
         "uploadPdf": "",
         "copyPaste": "",
@@ -119,7 +119,7 @@
         "IEEEExample": "an example paper titled 'RFID Tag and RF Structures on a Paper Substrate Using Inkjet-Printing Technology'",
         "SpringerExample": "an example paper titled 'Rethinking student-teacher relationships in higher education: a multidimensional approach'",
         "AlsoManual": "You can also add a reference manually by clicking the ADD REFERENCES button",
-        "Total": "",
+        "Total": "Total",
         "Choose": "Choose",
         "Paper": "paper in all your projects",
         "Papers": "papers in all your projects",

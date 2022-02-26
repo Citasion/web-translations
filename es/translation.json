@@ -47,9 +47,9 @@
         "emailAddresses": ""
       },
       "ProjectDetailsViews": {
-        "beforeGraph": "",
-        "afterGraph": "",
-        "numreferences": ""
+        "beforeGraph": "Antes de {{yearValue}}",
+        "afterGraph": "Después de {{yearValue}}",
+        "numreferences": "Número de referencias por año"
       },
       "ProjectDetailsView": {
         "articlesReferenced": "<0></0><1>journal articles referenced</1>",
@@ -60,7 +60,7 @@
         "topSources": "<0>Top   </0><1>reference sources:</1>",
         "expandAbstract": "",
         "addReferencesProject": "",
-        "uploadRefs": "",
+        "uploadRefs": "Cargar archivos de referencia",
         "parsePdf": "",
         "uploadPdf": "",
         "copyPaste": "",
@@ -119,7 +119,7 @@
         "IEEEExample": "un documento de ejemplo titulado 'RFID Tag and RF Structures on a Paper Substrate Using Inkjet-Printing Technology'",
         "SpringerExample": "un artículo de ejemplo titulado 'Rethinking student-teacher relationships in higher education: a multidimensional approach'",
         "AlsoManual": "También puede agregar una referencia manualmente haciendo clic en el botón AGREGAR REFERENCIAS",
-        "Total": "",
+        "Total": "Total",
         "Choose": "Elegir",
         "Paper": "artículo en todos tus proyectos",
         "Papers": "artículos en todos tus proyectos",
