@@ -329,6 +329,16 @@
       "dragDrop": "Drag and drop files here or click",
       "selectedFiles": "Selected files",
       "pdfLackMeta": "Some PDF papers may lack the metadata to be parsed. Read more about PDF metadata"
+    },
+    "BibtexAddDialog": {
+      "invalid": "The provided BibTex list is invalid",
+      "added": "{{count}} paper was added successfully.",
+      "failed": "{{count}} paper was not added because of invalid syntax.",
+      "noAdded": "0 papers were added because no new papers were detected",
+      "somethingWrong": "Something went wrong in parsing your BibTex list. Please double check your BibTex list",
+      "copyPaste": "Copy & Paste BibTeX",
+      "copyPasteHere": "Copy and paste your BibTeX list here",
+      "readMoreBibtex": "Read more about BibTeX syntax"
     }
   }
 }
