@@ -97,7 +97,9 @@
         "targetVenue": "¿Cuál es el lugar de destino (revista/conferencia) de este proyecto?",
         "gotIt": "",
         "updatingVenueNote": "La actualización de la información sobre el lugar de celebración nos permite analizar su revista o conferencia objetivo. El análisis proporciona información sobre los temas de tendencia y las normas del lugar de celebración.",
-        "searchAPaper": "Buscar un artículo"
+        "searchAPaper": "Buscar un artículo",
+        "venueName": "",
+        "venueUrl": ""
       }
     },
     "reference": {
@@ -294,11 +296,18 @@
     "owner": "Propietario",
     "pending": "Pendiente",
     "premiumFeatures": "Características Premium",
-    "submit": "Enviar"
+    "submit": "Enviar",
+    "gopremium": ""
   },
   "components": {
     "HeadBar": {
       "hello": "Hello "
+    },
+    "UploadReferenceDialog": {
+      "wasAdded": "",
+      "wereAdded": "",
+      "numberAdded": "",
+      "numberAdded_plural": ""
     }
   }
 }

@@ -52,12 +52,12 @@
         "numreferences": ""
       },
       "ProjectDetailsView": {
-        "articlesReferenced": "",
-        "conferenceReferenced": "",
+        "articlesReferenced": "<0><0>{{types}}</0></0><1>journal articles referenced</1>",
+        "conferenceReferenced": "<0></0><1>conference proceedings referenced</1>",
         "shareOthers": "",
         "shareOthersDialog": "",
         "emailAddresses": "",
-        "topSources": "",
+        "topSources": "<0>Top   </0><1>reference sources:</1>",
         "expandAbstract": "",
         "addReferencesProject": "",
         "uploadRefs": "",
@@ -79,7 +79,7 @@
         "anExampleRfid": "",
         "anExampleRethink": "",
         "addmanually": "",
-        "numberInThisProject": "",
+        "numberInThisProject": "<0><0>{{number}}</0></0><1>paper(s) in this project</1>",
         "updateOrDelete": "",
         "projectInfo": "",
         "updateProjectInfo": "",
@@ -89,14 +89,17 @@
         "recommendedArticles": "",
         "loadMoreRecs": "",
         "loadedAllRecs": "",
-        "numberOfRecommendations": "",
+        "numberOfRecommendations": "<0><0>{{number}}</0></0><1>articles are recommended based on your writing and the references in this project</1>",
         "accessInsightDashboardNote": "",
         "accessInsightDashboardNoteFree": "",
         "analyzingRightNow": "",
         "venueAnalytics": "",
         "targetVenue": "",
         "gotIt": "",
-        "updatingVenueNote": ""
+        "updatingVenueNote": "",
+        "searchAPaper": "",
+        "venueName": "",
+        "venueUrl": ""
       }
     },
     "reference": {
@@ -293,11 +296,17 @@
     "owner": "",
     "pending": "",
     "premiumFeatures": "",
-    "submit": ""
+    "submit": "",
+    "gopremium": ""
   },
   "components": {
     "HeadBar": {
       "hello": "Hello "
+    },
+    "UploadReferenceDialog": {
+      "wasAdded": "",
+      "wereAdded": "",
+      "numberAdded_0": ""
     }
   }
 }

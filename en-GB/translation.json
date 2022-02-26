@@ -302,6 +302,12 @@
   "components": {
     "HeadBar": {
       "hello": "Hello "
+    },
+    "UploadReferenceDialog": {
+      "wasAdded": "",
+      "wereAdded": "",
+      "numberAdded": "",
+      "numberAdded_plural": ""
     }
   }
 }

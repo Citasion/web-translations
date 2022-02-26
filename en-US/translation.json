@@ -297,16 +297,30 @@
     "pending": "Pending",
     "premiumFeatures": "Premium Features",
     "submit": "Submit",
-    "gopremium": "Go Premium"
+    "gopremium": "Go Premium",
+    "bibtex": "BibTeX",
+    "ris": "RIS",
+    "nbib": "NBIB",
+    "endnoteXml": "EndNote XML"
   },
   "components": {
     "HeadBar": {
       "hello": "Hello "
     },
     "UploadReferenceDialog": {
-      "cannotBeParsed": "None of the uploaded reference data files can be parsed",
       "wasAdded": "{{response}} paper was added successfully.",
-      "wereAdded": "{{response}} papers were added successfully."
+      "wereAdded": "{{response}} papers were added successfully.",
+      "numberAdded": "{{response}} paper was added successfully.",
+      "numberAdded_plural": "",
+      "noneUploaded": "None of the uploaded reference data files can be parsed",
+      "noneAdded": "0 papers were added because no new papers were detected",
+      "uploadFiles": "Upload Reference Files",
+      "importTypes": "Citasion can import references from the following file types:",
+      "uploadOneOrMore": "You can upload one or more exported reference data files.",
+      "dragDrop": "Drag and drop files here or click",
+      "selectedFiles": "Selected files",
+      "readMoreAboutFormats": "Read more about the formats of reference files that we accept",
+      "addBibtexList": "Add A bibtex list"
     }
   }
 }

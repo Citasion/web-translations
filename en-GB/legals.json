@@ -9,7 +9,76 @@
         "rightsAndLimits": "# Description of other rights and limitations\n* Unless you have the express written permission from the Company, you may not distribute the Site, Software and Services or any portion thereof to any third parties.\n* You may not disassemble or reverse engineer Site, Software and Services for any purpose, other than for reviewing the code for personal review, and at all times are bound by the terms \nof this Agreement.\n* The Company may provide you with support services, and any supplemental software code provided  to you as part of those services shall be considered part of Site, Software and Services and  subject to the terms and conditions of this Agreement.\n* You must comply with all applicable laws regarding use of Site, Software and Services.",
         "termination": "# Termination\nYour right to use Site, Software and Services continues until terminated by the Company, which may terminate this Agreement and your licence to use Site, Software and Services at any time, without cause and without notice. You may terminate this agreement at any time by uninstalling and stop using Site, Software and Services. This Agreement will automatically terminate if you fail to comply with any of the terms of this Agreement. Upon termination, you agree to stop using and uninstall Site, Software and Services. ",
         "title": "# Terms of Service and Licence Agreement ",
-        "warranties": "# No Warranties\nSite, Software and Services is provided “As Is” and does not come with any kind of warranty whatsoever. The Company does not warrant or assume responsibility for the accuracy or completeness of any information, text, graphics, links or other items contained within Site, Software and Services. Site, Software and Services makes no warranties respecting any harm that may be caused by the transmission of any kind of computer virus."
+        "warranties": "# No Warranties\nSite, Software and Services is provided “As Is” and does not come with any kind of warranty whatsoever. The Company does not warrant or assume responsibility for the accuracy or completeness of any information, text, graphics, links or other items contained within Site, Software and Services. Site, Software and Services makes no warranties respecting any harm that may be caused by the transmission of any kind of computer virus.",
+        "date": "",
+        "definitions": "",
+        "copyright": "",
+        "enforcement": "",
+        "liability": "",
+        "individual": "",
+        "arbitration": ""
+      },
+      "CookieNoticeView": {
+        "pageTitle": "",
+        "title": "",
+        "date": "",
+        "intro": "",
+        "cookieDefs": "",
+        "strictlyNecessary": "",
+        "functional": "",
+        "analytics": "",
+        "cookieControl": "",
+        "thirdParty": ""
+      },
+      "PersonalInfoRequestsView": {
+        "pageTitle": "",
+        "title": "",
+        "process": "",
+        "privacyinfo": ""
+      },
+      "PrivacyExtensionView": {
+        "pageTitle": "",
+        "title": "",
+        "date": "",
+        "topContent": ""
+      },
+      "Privacy": {
+        "collectionHeading": "",
+        "informationYouProvide": "",
+        "accountInfo": "",
+        "contentYouSubmit": "",
+        "actionYouTake": "",
+        "transactionalInfo": "",
+        "infoAutomatic": "",
+        "logUsage": "",
+        "infoCookies": "",
+        "locationInfo": "",
+        "thirdParties": "",
+        "audience": "",
+        "whyWeCollect": "",
+        "howWeProtect": "",
+        "yourChoices": "",
+        "accessChangeInfo": "",
+        "deletingAccount": "",
+        "controlLinkedServices": "",
+        "controllingCookies": "",
+        "controllingAds": "",
+        "doNotTrack": "",
+        "controllingPromotional": "",
+        "yourRights": "",
+        "dataSubject": "",
+        "internationalData": "",
+        "EEAUsers": "",
+        "californiaUsers": "",
+        "children": "",
+        "changesToPolicy": "",
+        "contactUs": ""
+      },
+      "PrivacyView": {
+        "pageTitle": "",
+        "title": "",
+        "date": "",
+        "topContent": ""
       }
     }
   }
