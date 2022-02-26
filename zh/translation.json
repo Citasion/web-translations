@@ -89,7 +89,14 @@
         "recommendedArticles": "",
         "loadMoreRecs": "",
         "loadedAllRecs": "",
-        "numberOfRecommendations": ""
+        "numberOfRecommendations": "<0><0>{{number}}</0></0><1>articles are recommended based on your writing and the references in this project</1>",
+        "accessInsightDashboardNote": "",
+        "accessInsightDashboardNoteFree": "",
+        "analyzingRightNow": "",
+        "venueAnalytics": "",
+        "targetVenue": "",
+        "gotIt": "",
+        "updatingVenueNote": ""
       }
     },
     "reference": {
@@ -267,7 +274,7 @@
     "apps": "",
     "premium": "",
     "target": "场地分析",
-    "analytics": "文献分析",
+    "analytics": "",
     "share": "",
     "active": "",
     "inactive": "",
@@ -284,7 +291,9 @@
     "updated": "",
     "tags": "",
     "owner": "",
-    "pending": ""
+    "pending": "",
+    "premiumFeatures": "",
+    "submit": ""
   },
   "components": {
     "HeadBar": {
