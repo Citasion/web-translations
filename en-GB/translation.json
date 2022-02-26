@@ -54,7 +54,7 @@
       "ProjectDetailsView": {
         "articlesReferenced": "<0></0><1>journal articles referenced</1>",
         "conferenceReferenced": "<0></0><1>conference proceedings referenced</1>",
-        "shareOthers": "",
+        "shareOthers": "Share with others",
         "shareOthersDialog": "To share this project with others, please type or paste their email addresses and click Share.",
         "emailAddresses": "",
         "topSources": "<0>Top   </0><1>reference sources:</1>",
@@ -84,7 +84,7 @@
         "projectInfo": "",
         "updateProjectInfo": "Updating your project information allows us to provide the most helpful insights into your literature.",
         "projectTitle": "",
-        "researchGoals": "",
+        "researchGoals": "Research Goals & Questions",
         "projectMembers": "",
         "recommendedArticles": "",
         "loadMoreRecs": "",

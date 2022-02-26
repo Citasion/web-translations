@@ -47,22 +47,22 @@
         "emailAddresses": ""
       },
       "ProjectDetailsViews": {
-        "beforeGraph": "",
-        "afterGraph": "",
-        "numreferences": ""
+        "beforeGraph": "Antes de {{yearValue}}",
+        "afterGraph": "Después de {{yearValue}}",
+        "numreferences": "Número de referencias por año"
       },
       "ProjectDetailsView": {
         "articlesReferenced": "<0></0><1>journal articles referenced</1>",
         "conferenceReferenced": "<0></0><1>conference proceedings referenced</1>",
-        "shareOthers": "",
-        "shareOthersDialog": "",
+        "shareOthers": "Compartir con otros",
+        "shareOthersDialog": "Para compartir este proyecto con otras personas, escribe o pegue sus direcciones de correo electrónico y haga clic en Compartir.",
         "emailAddresses": "",
         "topSources": "<0>Top   </0><1>reference sources:</1>",
         "expandAbstract": "",
         "addReferencesProject": "",
-        "uploadRefs": "",
+        "uploadRefs": "Subir archivos de referencia",
         "parsePdf": "",
-        "uploadPdf": "",
+        "uploadPdf": "Subir archivos PDF",
         "copyPaste": "",
         "addReferenceManually": "",
         "importExtension": "",
@@ -80,11 +80,11 @@
         "anExampleRethink": "",
         "addmanually": "",
         "numberInThisProject": "<0></0><1>paper(s) in this project</1>",
-        "updateOrDelete": "",
+        "updateOrDelete": "Actualizar o eliminar esta referencia",
         "projectInfo": "",
-        "updateProjectInfo": "",
+        "updateProjectInfo": "La actualización de la información de su proyecto nos permite proporcionar los datos más útiles sobre su literatura.",
         "projectTitle": "",
-        "researchGoals": "",
+        "researchGoals": "Objetivos y preguntas de la investigación",
         "projectMembers": "",
         "recommendedArticles": "",
         "loadMoreRecs": "",
@@ -93,10 +93,10 @@
         "accessInsightDashboardNote": "",
         "accessInsightDashboardNoteFree": "",
         "analyzingRightNow": "",
-        "venueAnalytics": "",
-        "targetVenue": "",
+        "venueAnalytics": "Análisis del lugar de destino",
+        "targetVenue": "¿Cuál es el lugar de destino (revista/conferencia) de este proyecto?",
         "gotIt": "",
-        "updatingVenueNote": ""
+        "updatingVenueNote": "La actualización de la información sobre el lugar de celebración nos permite analizar su revista o conferencia objetivo. El análisis proporciona información sobre los temas de tendencia y las normas del lugar de celebración."
       }
     },
     "reference": {
@@ -119,7 +119,7 @@
         "IEEEExample": "un documento de ejemplo titulado 'RFID Tag and RF Structures on a Paper Substrate Using Inkjet-Printing Technology'",
         "SpringerExample": "un artículo de ejemplo titulado 'Rethinking student-teacher relationships in higher education: a multidimensional approach'",
         "AlsoManual": "También puede agregar una referencia manualmente haciendo clic en el botón AGREGAR REFERENCIAS",
-        "Total": "",
+        "Total": "Total",
         "Choose": "Elegir",
         "Paper": "artículo en todos tus proyectos",
         "Papers": "artículos en todos tus proyectos",
