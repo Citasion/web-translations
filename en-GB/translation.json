@@ -90,13 +90,13 @@
         "loadMoreRecs": "",
         "loadedAllRecs": "",
         "numberOfRecommendations": "<0><0>{{number}}</0></0><1>articles are recommended based on your writing and the references in this project</1>",
-        "accessInsightDashboardNote": "",
-        "accessInsightDashboardNoteFree": "",
-        "analyzingRightNow": "",
-        "venueAnalytics": "",
-        "targetVenue": "",
-        "gotIt": "",
-        "updatingVenueNote": ""
+        "accessInsightDashboardNote": "Accessing Insight Dashboard is a premium feature. You can upgrade your account to use it.",
+        "accessInsightDashboardNoteFree": "Insight Dashboard is not supported for projects owned by users of the free tier.",
+        "analyzingRightNow": "We are analysing your writing and the references in this project to provide the best article recommendations. Please check again later. ",
+        "venueAnalytics": "Target venue analytics",
+        "targetVenue": "What is your target venue (journal/conference) for this project?",
+        "gotIt": "Got it. It will take us sometime to analyse the target venue!",
+        "updatingVenueNote": "Updating the venue information allows us to analyze your target journal or conference. The analytics provides insights into the trending topics and standards of the venue."
       }
     },
     "reference": {
@@ -293,7 +293,7 @@
     "owner": "Owner",
     "pending": "Pending",
     "premiumFeatures": "Premium Features",
-    "submit": ""
+    "submit": "Submit"
   },
   "components": {
     "HeadBar": {

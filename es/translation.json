@@ -89,7 +89,14 @@
         "recommendedArticles": "",
         "loadMoreRecs": "",
         "loadedAllRecs": "",
-        "numberOfRecommendations": ""
+        "numberOfRecommendations": "",
+        "accessInsightDashboardNote": "El acceso a Insight Dashboard es una función premium. Puede actualizar su cuenta para utilizarla.",
+        "accessInsightDashboardNoteFree": "Insight Dashboard no es compatible con los proyectos de los usuarios del nivel gratuito.",
+        "analyzingRightNow": "Estamos analizando su redacción y las referencias de este proyecto para ofrecer las mejores recomendaciones de artículos. Por favor, vuelve a comprobarlo más tarde.",
+        "gotIt": "Lo tenemos. ¡Nos llevará algún tiempo analizar el lugar de destino!",
+        "targetVenue": "¿Cuál es el lugar de destino (revista/conferencia) de este proyecto?",
+        "updatingVenueNote": "La actualización de la información sobre el lugar de celebración nos permite analizar su revista o conferencia objetivo. El análisis proporciona información sobre los temas de tendencia y las normas del lugar de celebración.",
+        "venueAnalytics": "Análisis del lugar de destino"
       }
     },
     "reference": {
@@ -284,7 +291,9 @@
     "updated": "",
     "tags": "",
     "owner": "",
-    "pending": ""
+    "pending": "",
+    "premiumFeatures": "Características Premium",
+    "submit": "Enviar"
   },
   "components": {
     "HeadBar": {
