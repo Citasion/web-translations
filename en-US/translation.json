@@ -373,14 +373,14 @@
     "select": "Select",
     "frequentlyAskedQuestions": "Frequently Asked Questions",
     "volume": "",
-    "article": "",
-    "inproceedings": "",
-    "incollection": "",
-    "book": "",
-    "proceedings": "",
-    "phdthesis": "",
-    "techreport": "",
-    "misc": "",
+    "article": "Journal Article",
+    "inproceedings": "Conference Article",
+    "incollection": "Book Chapter",
+    "book": "Book",
+    "proceedings": "Proceeding",
+    "phdthesis": "Ph.D. or Master thesis",
+    "techreport": "Technical Documentation",
+    "misc": "Miscellaneous",
     "googleDocs": "Google Docs",
     "overleaf": "Overleaf",
     "word": "Word",
@@ -392,7 +392,7 @@
     },
     "UploadReferenceDialog": {
       "numberAdded": "{{response}} paper was added successfully.",
-      "numberAdded_plural": "",
+      "numberAdded_plural": "{{response}} papers were added successfully.",
       "noneUploaded": "None of the uploaded reference data files can be parsed",
       "noneAdded": "0 papers were added because no new papers were detected",
       "uploadFiles": "Upload Reference Files",
@@ -419,8 +419,8 @@
       "copyPaste": "Copy & Paste BibTeX",
       "copyPasteHere": "Copy and paste your BibTeX list here",
       "readMoreBibtex": "Read more about BibTeX syntax",
-      "added_plural": "",
-      "failed_plural": ""
+      "added_plural": "{{count}} papers were added successfully.",
+      "failed_plural": "{{count}} papers were not added because of invalid syntax."
     },
     "CitationAddDialog": {
       "addReference": "Add A Reference"
@@ -433,7 +433,7 @@
       "authors": "Authors (please list authors in the format of \"last name, first name; last name, first name; ...\")",
       "authorPlaceholder": "e.g., Hellas, Arto; Ihantola, Petri; Petersen, Andrew",
       "conference": "Conference or Conference Proceeding",
-      "conferenceDate": ""
+      "conferenceDate": "Conference Date"
     },
     "TranslationBox": {
       "message": "This page has not yet been translated. Click here to translate using Google Translate."
