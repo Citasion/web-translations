@@ -269,7 +269,22 @@
         "muchMore": "...and much more",
         "targetVenue": "Target venue analytics",
         "unlimitedPdf": "Unlimited PDF paper storage",
-        "everythingInFree": "Everything in Free Tier"
+        "everythingInFree": "Everything in Free Tier",
+        "completeFeature": "A Complete Feature List",
+        "allFeatures": "All Features",
+        "currentList": "The current list of other research aggregators includes ACM Digital Library, PubMed, Springer, and IEEE Xplore. We are working hard to expand the list constantly.",
+        "identifyYearGaps": "Identify year gaps in your literature review",
+        "recommendTheMost": "Recommend the most relevant literature to the paper that you are working on",
+        "collaborativeAcademic": "Collaborative academic writing",
+        "grabTheNext": "Grab the next reference that you are about to cite.",
+        "enjoyedBy": "Enjoyed by Users From",
+        "formsOfPayment": "What forms of payment do you accept?",
+        "formsOfPaymentAccepted": "We accept major credit cards (e.g., Visa, American Express, Mastercard, Discover) and PayPal.",
+        "premiumPlan": "What does the Premium Plan include?",
+        "premiumPlanDetails": "Citasion's Premium Plan offers unlimited numbers of projects and references, advanced literature analytics, recommendations, venue analytics, and unlimited PDF paper storage.",
+        "volumeDiscounts": "Do you have any volume discounts?",
+        "tryPremium": "Can I try Citasion Premium for free?",
+        "tryPremiumAnswer": "Yes! All users on the Free Plan can try out Citasion Premium for 90 days. All it takes is to create a free Citasion account. After that, you can revist this page, and the option of free trial will show up."
       }
     }
   },
@@ -344,7 +359,8 @@
     "number": "Number",
     "emailAddress": "Email Address",
     "free": "Free",
-    "select": "Select"
+    "select": "Select",
+    "frequentlyAskedQuestions": "Frequently Asked Questions"
   },
   "components": {
     "HeadBar": {
