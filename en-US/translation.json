@@ -365,6 +365,9 @@
       "authors": "Authors (please list authors in the format of \"last name, first name; last name, first name; ...\")",
       "authorPlaceholder": "e.g., Hellas, Arto; Ihantola, Petri; Petersen, Andrew",
       "conference": "Conference or Conference Proceeding"
+    },
+    "TranslationBox": {
+      "message": "This page has not yet been translated. Click here to translate using Google Translate."
     }
   }
 }
