@@ -284,7 +284,8 @@
         "premiumPlanDetails": "Citasion's Premium Plan offers unlimited numbers of projects and references, advanced literature analytics, recommendations, venue analytics, and unlimited PDF paper storage.",
         "volumeDiscounts": "Do you have any volume discounts?",
         "tryPremium": "Can I try Citasion Premium for free?",
-        "tryPremiumAnswer": "Yes! All users on the Free Plan can try out Citasion Premium for 90 days. All it takes is to create a free Citasion account. After that, you can revist this page, and the option of free trial will show up."
+        "tryPremiumAnswer": "Yes! All users on the Free Plan can try out Citasion Premium for 90 days. All it takes is to create a free Citasion account. After that, you can revist this page, and the option of free trial will show up.",
+        "freeTrialFor_plural": ""
       }
     }
   },
@@ -345,7 +346,6 @@
     "nbib": "NBIB",
     "endnoteXml": "EndNote XML",
     "type": "Type",
-    "journalPaper": "Journal Paper",
     "required": "Required",
     "journal": "Journal",
     "year": "Year",
@@ -360,15 +360,22 @@
     "emailAddress": "Email Address",
     "free": "Free",
     "select": "Select",
-    "frequentlyAskedQuestions": "Frequently Asked Questions"
+    "frequentlyAskedQuestions": "Frequently Asked Questions",
+    "volume": "",
+    "article": "",
+    "inproceedings": "",
+    "incollection": "",
+    "book": "",
+    "proceedings": "",
+    "phdthesis": "",
+    "techreport": "",
+    "misc": ""
   },
   "components": {
     "HeadBar": {
       "hello": "Hello {{user.name}}"
     },
     "UploadReferenceDialog": {
-      "wasAdded": "{{response}} paper was added successfully.",
-      "wereAdded": "{{response}} papers were added successfully.",
       "numberAdded": "{{response}} paper was added successfully.",
       "numberAdded_plural": "",
       "noneUploaded": "None of the uploaded reference data files can be parsed",
@@ -378,8 +385,7 @@
       "uploadOneOrMore": "You can upload one or more exported reference data files.",
       "dragDrop": "Drag and drop files here or click",
       "selectedFiles": "Selected files",
-      "readMoreAboutFormats": "Read more about the formats of reference files that we accept",
-      "addBibtexList": "Add A bibtex list"
+      "readMoreAboutFormats": "Read more about the formats of reference files that we accept"
     },
     "UploadPdfDialog": {
       "uploadPdf": "Upload PDF Files",
@@ -397,7 +403,9 @@
       "somethingWrong": "Something went wrong in parsing your BibTex list. Please double check your BibTex list",
       "copyPaste": "Copy & Paste BibTeX",
       "copyPasteHere": "Copy and paste your BibTeX list here",
-      "readMoreBibtex": "Read more about BibTeX syntax"
+      "readMoreBibtex": "Read more about BibTeX syntax",
+      "added_plural": "",
+      "failed_plural": ""
     },
     "CitationAddDialog": {
       "addReference": "Add A Reference"
@@ -409,7 +417,8 @@
       "paperTitle": "Paper Title",
       "authors": "Authors (please list authors in the format of \"last name, first name; last name, first name; ...\")",
       "authorPlaceholder": "e.g., Hellas, Arto; Ihantola, Petri; Petersen, Andrew",
-      "conference": "Conference or Conference Proceeding"
+      "conference": "Conference or Conference Proceeding",
+      "conferenceDate": ""
     },
     "TranslationBox": {
       "message": "This page has not yet been translated. Click here to translate using Google Translate."
@@ -437,7 +446,8 @@
       "youMustAgree": "You must agree to our terms",
       "received": "Your message has been received!",
       "questionTypes": "Question types",
-      "tellUsMore": "Tell us more"
+      "tellUsMore": "Tell us more",
+      "iHaveReadTerms": "I have read the <2>Terms and Conditions</2>"
     }
   }
 }

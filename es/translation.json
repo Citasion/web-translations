@@ -99,7 +99,8 @@
         "updatingVenueNote": "La actualización de la información sobre el lugar de celebración nos permite analizar su revista o conferencia objetivo. El análisis proporciona información sobre los temas de tendencia y las normas del lugar de celebración.",
         "searchAPaper": "Buscar un artículo",
         "venueName": "",
-        "venueUrl": ""
+        "venueUrl": "",
+        "addReferencesInMany": ""
       }
     },
     "reference": {
@@ -145,7 +146,8 @@
       "WordText": "El Word Add-in del Citasion es gratis y lo ayuda a administrar citas y referencias en Word.",
       "WordNote": "Nota:",
       "WordOr": "o",
-      "WordNote2": "aún se requiere extensión para la importación de referencia"
+      "WordNote2": "aún se requiere extensión para la importación de referencia",
+      "citasionApps": ""
     },
     "account": {
       "AccountView": {
@@ -244,6 +246,47 @@
         "pageTitle": "",
         "pageDescription": ""
       }
+    },
+    "campaign": {
+      "CampaignStarter": {
+        "elevate": "",
+        "goBeyond": "",
+        "forIndividual": "",
+        "basicReference": "",
+        "currentPlan": "",
+        "defaultPlan": "",
+        "oneClick": "",
+        "unlimitedRefs": "",
+        "unlimitedProjects": "",
+        "styles": "",
+        "freeTrialFor": "",
+        "freeTrialFor_plural": "",
+        "advancedReference": "",
+        "startFree": "",
+        "welcomePremium": "",
+        "youHaveAccess": "",
+        "enhanced": "",
+        "literatureAnalytics": "",
+        "muchMore": "",
+        "everythingInFree": "",
+        "targetVenue": "",
+        "unlimitedPdf": "",
+        "completeFeature": "",
+        "allFeatures": "",
+        "currentList": "",
+        "identifyYearGaps": "",
+        "recommendTheMost": "",
+        "collaborativeAcademic": "",
+        "grabTheNext": "",
+        "enjoyedBy": "",
+        "formsOfPayment": "",
+        "formsOfPaymentAccepted": "",
+        "premiumPlan": "",
+        "premiumPlanDetails": "",
+        "volumeDiscounts": "",
+        "tryPremium": "",
+        "tryPremiumAnswer": ""
+      }
     }
   },
   "globals": {
@@ -297,17 +340,114 @@
     "pending": "Pendiente",
     "premiumFeatures": "Características Premium",
     "submit": "Enviar",
-    "gopremium": ""
+    "gopremium": "",
+    "required": "",
+    "journal": "",
+    "year": "",
+    "volume": "",
+    "number": "",
+    "pages": "",
+    "pdfLink": "",
+    "organization": "",
+    "lastAccessed": "",
+    "publisher": "",
+    "publisherLocation": "",
+    "institution": "",
+    "article": "",
+    "inproceedings": "",
+    "incollection": "",
+    "book": "",
+    "proceedings": "",
+    "phdthesis": "",
+    "techreport": "",
+    "misc": "",
+    "type": "",
+    "bibtex": "",
+    "ris": "",
+    "nbib": "",
+    "endnoteXml": "",
+    "free": "",
+    "select": "",
+    "frequentlyAskedQuestions": "",
+    "emailAddress": ""
   },
   "components": {
     "HeadBar": {
       "hello": "Hello {{user.name}}"
     },
     "UploadReferenceDialog": {
-      "wasAdded": "",
-      "wereAdded": "",
       "numberAdded": "",
-      "numberAdded_plural": ""
+      "numberAdded_plural": "",
+      "noneUploaded": "",
+      "noneAdded": "",
+      "uploadFiles": "",
+      "importTypes": "",
+      "uploadOneOrMore": "",
+      "dragDrop": "",
+      "selectedFiles": "",
+      "readMoreAboutFormats": ""
+    },
+    "AddForms": {
+      "pdfLinkNeeds": "",
+      "validInfoNeeded": "",
+      "oneAdded": "",
+      "paperTitle": "",
+      "authors": "",
+      "authorPlaceholder": "",
+      "conference": "",
+      "conferenceDate": ""
+    },
+    "BibtexAddDialog": {
+      "invalid": "",
+      "added": "",
+      "added_plural": "",
+      "failed": "",
+      "failed_plural": "",
+      "noAdded": "",
+      "somethingWrong": "",
+      "copyPaste": "",
+      "copyPasteHere": "",
+      "readMoreBibtex": ""
+    },
+    "CitationAddDialog": {
+      "addReference": ""
+    },
+    "TranslationBox": {
+      "message": "This page has not yet been translated. Click here to translate using Google Translate."
+    },
+    "UploadPdfDialog": {
+      "uploadPdf": "",
+      "uploadOneOrMorePdf": "",
+      "CitasionWillParse": "",
+      "dragDrop": "",
+      "selectedFiles": "",
+      "pdfLackMeta": ""
+    },
+    "ContactForm": {
+      "howToStart": "",
+      "extension": "",
+      "wordAddin": "",
+      "googledocs": "",
+      "overleaf": "",
+      "word": "",
+      "billing": "",
+      "others": "",
+      "cantfind": "",
+      "youMustAgree": "",
+      "received": "",
+      "questionTypes": "",
+      "tellUsMore": "",
+      "iHaveReadTerms": "I have read the <2>Terms and Conditions</2>"
+    },
+    "Header": {
+      "howCanWeHelp": "",
+      "youMayBeAble": ""
+    },
+    "Reading": {
+      "howToStart": "",
+      "addPapers": "",
+      "write": "",
+      "billing": ""
     }
   }
 }
