@@ -315,7 +315,8 @@
     "pages": "Pages",
     "publisherLocation": "Publisher location",
     "institution": "Institution",
-    "number": "Number"
+    "number": "Number",
+    "emailAddress": "Email Address"
   },
   "components": {
     "HeadBar": {
@@ -368,6 +369,31 @@
     },
     "TranslationBox": {
       "message": "This page has not yet been translated. Click here to translate using Google Translate."
+    },
+    "Header": {
+      "howCanWeHelp": "Hi! How can we help?",
+      "youMayBeAble": "You may be able to find your answers below:"
+    },
+    "Reading": {
+      "howToStart": "How to start Citasion",
+      "addPapers": "Add papers to your Citasion projects",
+      "write": "Write papers with Citasion",
+      "billing": "Billing and subscription"
+    },
+    "ContactForm": {
+      "howToStart": "How to start Citasion",
+      "extension": "Chrome/Firefox/Edge extension",
+      "wordAddin": "Word Add-in",
+      "googledocs": "Writing in Google Docs",
+      "overleaf": "Writing in Overleaf",
+      "word": "Writing in Word",
+      "billing": "Billing",
+      "others": "Others",
+      "cantfind": "Can't find your answers? Contact Us!",
+      "youMustAgree": "You must agree to our terms",
+      "received": "Your message has been received!",
+      "questionTypes": "Question types",
+      "tellUsMore": "Tell us more"
     }
   }
 }
