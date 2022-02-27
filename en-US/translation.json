@@ -146,7 +146,8 @@
       "WordText": "Citasion's free Word Add-in helps you manage ciatations and references in Word.",
       "WordNote": "Note:",
       "WordOr": "or",
-      "WordNote2": "extension is still required for reference importation"
+      "WordNote2": "extension is still required for reference importation",
+      "citasionApps": "Citasion Apps"
     },
     "account": {
       "AccountView": {
@@ -245,6 +246,31 @@
         "pageTitle": "Citasion: Login",
         "pageDescription": "Log in to your Citasion Account and manage your references with ease."
       }
+    },
+    "campaign": {
+      "CampaignStarter": {
+        "elevate": "Elevate Your Reference Management to a New Level",
+        "goBeyond": "Go beyond reference management. Choose a premium plan to ensure effective collaborative academic writing and get deep insights into your literature for every paper you write.",
+        "forIndividual": "For individual users",
+        "basicReference": "Basic reference management",
+        "currentPlan": "Current Plan",
+        "defaultPlan": "Default Plan",
+        "oneClick": "One-click reference importation",
+        "unlimitedRefs": "Unlimited references",
+        "unlimitedProjects": "Unlimited sharable projects",
+        "styles": "1000+ reference styles",
+        "freeTrialFor": "Free trial of {{count}} month",
+        "advancedReference": "Advanced reference management & literature analytics",
+        "startFree": "Start Free Trial",
+        "welcomePremium": "Welcome to Citasion Premium",
+        "youHaveAccess": "You now have access to:",
+        "enhanced": "Enhanced automatic reference importation",
+        "literatureAnalytics": "Literature Analytics & Recommendations",
+        "muchMore": "...and much more",
+        "targetVenue": "Target venue analytics",
+        "unlimitedPdf": "Unlimited PDF paper storage",
+        "everythingInFree": "Everything in Free Tier"
+      }
     }
   },
   "globals": {
@@ -316,11 +342,13 @@
     "publisherLocation": "Publisher location",
     "institution": "Institution",
     "number": "Number",
-    "emailAddress": "Email Address"
+    "emailAddress": "Email Address",
+    "free": "Free",
+    "select": "Select"
   },
   "components": {
     "HeadBar": {
-      "hello": "Hello "
+      "hello": "Hello {{user.name}}"
     },
     "UploadReferenceDialog": {
       "wasAdded": "{{response}} paper was added successfully.",

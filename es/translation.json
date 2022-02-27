@@ -301,7 +301,7 @@
   },
   "components": {
     "HeadBar": {
-      "hello": "Hello "
+      "hello": "Hello {{user.name}}"
     },
     "UploadReferenceDialog": {
       "wasAdded": "",
