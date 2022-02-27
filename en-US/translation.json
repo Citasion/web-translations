@@ -94,7 +94,8 @@
         "updatingVenueNote": "Updating the venue information allows us to analyze your target journal or conference. The analytics provides insights into the trending topics and standards of the venue.",
         "searchAPaper": "Search a paper",
         "venueName": "Venue name",
-        "venueUrl": "Venue URL"
+        "venueUrl": "Venue URL",
+        "addReferencesInMany": "Add references in different ways"
       },
       "ProjectDetailsViews": {
         "numreferences": "Number of references by year",
@@ -312,7 +313,9 @@
     "lastAccessed": "Last accessed",
     "publisher": "Publisher",
     "pages": "Pages",
-    "publisherLocation": "Publisher location"
+    "publisherLocation": "Publisher location",
+    "institution": "Institution",
+    "number": "Number"
   },
   "components": {
     "HeadBar": {
@@ -361,8 +364,7 @@
       "paperTitle": "Paper Title",
       "authors": "Authors (please list authors in the format of \"last name, first name; last name, first name; ...\")",
       "authorPlaceholder": "e.g., Hellas, Arto; Ihantola, Petri; Petersen, Andrew",
-      "conference": "Conference or Conference Proceeding",
-      "conferenceDate": "Date of the conference"
+      "conference": "Conference or Conference Proceeding"
     }
   }
 }
