@@ -285,7 +285,18 @@
         "volumeDiscounts": "Do you have any volume discounts?",
         "tryPremium": "Can I try Citasion Premium for free?",
         "tryPremiumAnswer": "Yes! All users on the Free Plan can try out Citasion Premium for 90 days. All it takes is to create a free Citasion account. After that, you can revist this page, and the option of free trial will show up.",
-        "freeTrialFor_plural": ""
+        "freeTrialFor_plural": "",
+        "pageTitle": "Citasion: Go Premium",
+        "pageDesc": "Take your reference management to the next level of efficiency.",
+        "otherResearchAggregators": "Other research aggregators",
+        "basicAnalysis": "Basic analysis",
+        "gapIdentification": "Gap identification",
+        "literatureRecommendation": "Literature recommendation",
+        "pdfStorage": "PDF paper storage",
+        "organize": "Organize literature by project(s)",
+        "1000reference": "1000+ reference styles",
+        "smartCitationFinder": "Smart citation finder",
+        "shareableProjects": "Sharable projects of literatures"
       }
     }
   },
@@ -369,7 +380,11 @@
     "proceedings": "",
     "phdthesis": "",
     "techreport": "",
-    "misc": ""
+    "misc": "",
+    "googleDocs": "Google Docs",
+    "overleaf": "Overleaf",
+    "word": "Word",
+    "unlimited": "Unlimited"
   },
   "components": {
     "HeadBar": {
