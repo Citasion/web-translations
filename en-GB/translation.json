@@ -411,31 +411,31 @@
       "readMoreAboutFormats": ""
     },
     "AddForms": {
-      "pdfLinkNeeds": "",
-      "validInfoNeeded": "",
-      "oneAdded": "",
-      "paperTitle": "",
-      "authors": "",
-      "authorPlaceholder": "",
-      "conference": "",
-      "oneUpdated": "",
-      "chapterTitle": "",
-      "editor": ""
+      "pdfLinkNeeds": "PDF Link needs to be a valid url.",
+      "validInfoNeeded": "Valid paper information is not provided",
+      "oneAdded": "1 paper was added successfully.",
+      "paperTitle": "Paper Title",
+      "authors": "Authors (please list authors in the format of \"last name, first name; last name, first name; ...\")",
+      "authorPlaceholder": "e.g., Hellas, Arto; Ihantola, Petri; Petersen, Andrew",
+      "conference": "Conference or Conference Proceeding",
+      "oneUpdated": "This paper was updated successfully.",
+      "chapterTitle": "Chapter Title",
+      "editor": "Editor (separate different editors by commas)"
     },
     "BibtexAddDialog": {
-      "invalid": "",
-      "added": "",
-      "added_plural": "",
-      "failed": "",
-      "failed_plural": "",
-      "noAdded": "",
-      "somethingWrong": "",
-      "copyPaste": "",
-      "copyPasteHere": "",
-      "readMoreBibtex": ""
+      "invalid": "The provided BibTex list is invalid",
+      "added": "{{count}} paper was added successfully.",
+      "added_plural": "{{count}} papers were added successfully.",
+      "failed": "{{count}} paper was not added because of invalid syntax.",
+      "failed_plural": "{{count}} papers were not added because of invalid syntax.",
+      "noAdded": "0 papers were added because no new papers were detected",
+      "somethingWrong": "Something went wrong in parsing your BibTeX list. Please double check your BibTex list",
+      "copyPaste": "Copy & Paste BibTeX",
+      "copyPasteHere": "Copy and paste your BibTeX list here",
+      "readMoreBibtex": "Read more about BibTeX syntax"
     },
     "CitationAddDialog": {
-      "addReference": ""
+      "addReference": "Add A Reference"
     },
     "TranslationBox": {
       "message": "This page has not yet been translated. Click here to translate using Google Translate."
@@ -449,30 +449,30 @@
       "pdfLackMeta": ""
     },
     "ContactForm": {
-      "howToStart": "",
-      "extension": "",
-      "wordAddin": "",
-      "googledocs": "",
-      "overleaf": "",
-      "word": "",
-      "billing": "",
-      "others": "",
-      "cantfind": "",
-      "youMustAgree": "",
-      "received": "",
-      "questionTypes": "",
-      "tellUsMore": "",
+      "howToStart": "How to start Citasion",
+      "extension": "Chrome/Firefox/Edge extension",
+      "wordAddin": "Word Add-in",
+      "googledocs": "Writing in Google Docs",
+      "overleaf": "Writing in Overleaf",
+      "word": "Writing in Word",
+      "billing": "Billing",
+      "others": "Others",
+      "cantfind": "Can't find your answers? Contact Us!",
+      "youMustAgree": "You must agree to our terms",
+      "received": "Your message has been received!",
+      "questionTypes": "Question types",
+      "tellUsMore": "Tell us more",
       "iHaveReadTerms": "I have read the <2>Terms and Conditions</2>"
     },
     "Header": {
-      "howCanWeHelp": "",
-      "youMayBeAble": ""
+      "howCanWeHelp": "Hi! How can we help?",
+      "youMayBeAble": "You may be able to find your answers below:"
     },
     "Reading": {
-      "howToStart": "",
-      "addPapers": "",
+      "howToStart": "How to start Citasion",
+      "addPapers": "Add papers to your Citasion projects",
       "write": "",
-      "billing": ""
+      "billing": "Billing and subscription"
     }
   }
 }

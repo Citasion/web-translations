@@ -285,7 +285,7 @@
         "volumeDiscounts": "Do you have any volume discounts?",
         "tryPremium": "Can I try Citasion Premium for free?",
         "tryPremiumAnswer": "Yes! All users on the Free Plan can try out Citasion Premium for 90 days. All it takes is to create a free Citasion account. After that, you can revist this page, and the option of free trial will show up.",
-        "freeTrialFor_plural": "",
+        "freeTrialFor_plural": "Free trial of {{count}} months",
         "pageTitle": "Citasion: Go Premium",
         "pageDesc": "Take your reference management to the next level of efficiency.",
         "otherResearchAggregators": "Other research aggregators",
@@ -327,7 +327,6 @@
     "projectname": "Project name",
     "profile": "Profile",
     "subscription": "Subscription",
-    "": "",
     "projects": "Projects",
     "references": "References",
     "account": "Account",
@@ -392,7 +391,8 @@
     "chapter": "Chapter",
     "series": "Series",
     "thesisTitle": "Thesis Title",
-    "schoolLocation": "School Location"
+    "schoolLocation": "School Location",
+    "": ""
   },
   "components": {
     "HeadBar": {
@@ -423,7 +423,7 @@
       "added": "{{count}} paper was added successfully.",
       "failed": "{{count}} paper was not added because of invalid syntax.",
       "noAdded": "0 papers were added because no new papers were detected",
-      "somethingWrong": "Something went wrong in parsing your BibTex list. Please double check your BibTex list",
+      "somethingWrong": "Something went wrong in parsing your BibTeX list. Please double check your BibTex list",
       "copyPaste": "Copy & Paste BibTeX",
       "copyPasteHere": "Copy and paste your BibTeX list here",
       "readMoreBibtex": "Read more about BibTeX syntax",
@@ -443,7 +443,7 @@
       "conference": "Conference or Conference Proceeding",
       "chapterTitle": "Chapter Title",
       "editor": "Editor (separate different editors by commas)",
-      "oneUpdated": "This paper is updated successfully."
+      "oneUpdated": "This paper was updated successfully."
     },
     "TranslationBox": {
       "message": "This page has not yet been translated. Click here to translate using Google Translate."

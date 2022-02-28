@@ -411,31 +411,31 @@
       "readMoreAboutFormats": ""
     },
     "AddForms": {
-      "pdfLinkNeeds": "",
-      "validInfoNeeded": "",
-      "oneAdded": "",
-      "paperTitle": "",
-      "authors": "",
-      "authorPlaceholder": "",
-      "conference": "",
-      "oneUpdated": "",
-      "chapterTitle": "",
-      "editor": ""
+      "pdfLinkNeeds": "El enlace al PDF debe ser una url válida.",
+      "validInfoNeeded": "No se proporcionó información válida en articulo",
+      "oneAdded": "Se ha añadido 1 artículo con éxito.",
+      "paperTitle": "Título del artículo",
+      "authors": "Autores (por favor, enumere los autores en el formato de \"apellido, nombre; apellido, nombre; ...\")",
+      "authorPlaceholder": "e.g., Hellas, Arto; Ihantola, Petri; Petersen, Andrew",
+      "conference": "Conferencia o acta de conferencia",
+      "oneUpdated": "Este artículo se ha actualizado con éxito.",
+      "chapterTitle": "Título del capítulo",
+      "editor": "Editor (separe los diferentes editores con comas)"
     },
     "BibtexAddDialog": {
-      "invalid": "",
-      "added": "",
-      "added_plural": "",
-      "failed": "",
-      "failed_plural": "",
-      "noAdded": "",
-      "somethingWrong": "",
-      "copyPaste": "",
-      "copyPasteHere": "",
-      "readMoreBibtex": ""
+      "invalid": "La lista BibTex proporcionada no es válida",
+      "added": "{{count}} artículo ha sido añadido con éxito.",
+      "added_plural": "Se han añadido {{count}} artículos con éxito.",
+      "failed": "{{count}} artículo no se ha añadido debido a una sintaxis no válida.",
+      "failed_plural": "{{count}} artículos no se añadieron debido a una sintaxis no válida.",
+      "noAdded": "Se añadieron 0 documentos porque no se detectaron nuevos documentos",
+      "somethingWrong": "Algo salió mal al analizar su lista BibTeX. Por favor, compruebe su lista BibTex",
+      "copyPaste": "Copiar y pegar BibTeX",
+      "copyPasteHere": "Copie y pegue su lista BibTeX aquí",
+      "readMoreBibtex": "Más información sobre la sintaxis de BibTeX"
     },
     "CitationAddDialog": {
-      "addReference": ""
+      "addReference": "Añadir una referencia"
     },
     "TranslationBox": {
       "message": "This page has not yet been translated. Click here to translate using Google Translate."
@@ -449,30 +449,30 @@
       "pdfLackMeta": ""
     },
     "ContactForm": {
-      "howToStart": "",
-      "extension": "",
-      "wordAddin": "",
-      "googledocs": "",
-      "overleaf": "",
-      "word": "",
-      "billing": "",
-      "others": "",
-      "cantfind": "",
-      "youMustAgree": "",
-      "received": "",
-      "questionTypes": "",
-      "tellUsMore": "",
+      "howToStart": "Cómo empezar Citasion",
+      "extension": "Extensión Chrome/Firefox/Edge",
+      "wordAddin": "Word Add-in",
+      "googledocs": "Escribir en Google Docs",
+      "overleaf": "Escribir en Overleaf",
+      "word": "Escribir en Word",
+      "billing": "Facturación",
+      "others": "Otros",
+      "cantfind": "¿No encuentra sus respuestas? Póngase en contacto con nosotros.",
+      "youMustAgree": "Debe aceptar nuestros términos",
+      "received": "Su mensaje ha sido recibido.",
+      "questionTypes": "Tipos de preguntas",
+      "tellUsMore": "Denos más información",
       "iHaveReadTerms": "I have read the <2>Terms and Conditions</2>"
     },
     "Header": {
-      "howCanWeHelp": "",
-      "youMayBeAble": ""
+      "howCanWeHelp": "Hola, ¿cómo podemos ayudar?",
+      "youMayBeAble": "Es posible que pueda encontrar sus respuestas a través de la siguiente página:"
     },
     "Reading": {
-      "howToStart": "",
-      "addPapers": "",
+      "howToStart": "Cómo empezar Citasion",
+      "addPapers": "Añade artículos a sus proyectos Citasion",
       "write": "",
-      "billing": ""
+      "billing": "Facturación y suscripción"
     }
   }
 }
