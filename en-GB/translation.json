@@ -399,16 +399,16 @@
       "hello": "Hello {{user.name}}"
     },
     "UploadReferenceDialog": {
-      "numberAdded": "",
-      "numberAdded_plural": "",
-      "noneUploaded": "",
-      "noneAdded": "",
-      "uploadFiles": "",
-      "importTypes": "",
-      "uploadOneOrMore": "",
-      "dragDrop": "",
-      "selectedFiles": "",
-      "readMoreAboutFormats": ""
+      "numberAdded": "{{response}} paper was added successfully.",
+      "numberAdded_plural": "{{response}} papers were added successfully.",
+      "noneUploaded": "None of the uploaded reference data files can be parsed",
+      "noneAdded": "0 papers were added because no new papers were detected",
+      "uploadFiles": "Upload Reference Files",
+      "importTypes": "Citasion can import references from the following file types:",
+      "uploadOneOrMore": "You can upload one or more exported reference data files.",
+      "dragDrop": "Drag and drop files here or click",
+      "selectedFiles": "Selected files",
+      "readMoreAboutFormats": "Read more about the formats of reference files that we accept"
     },
     "AddForms": {
       "pdfLinkNeeds": "PDF Link needs to be a valid url.",
@@ -441,12 +441,12 @@
       "message": "This page has not yet been translated. Click here to translate using Google Translate."
     },
     "UploadPdfDialog": {
-      "uploadPdf": "",
-      "uploadOneOrMorePdf": "",
-      "CitasionWillParse": "",
-      "dragDrop": "",
-      "selectedFiles": "",
-      "pdfLackMeta": ""
+      "uploadPdf": "Upload PDF Files",
+      "uploadOneOrMorePdf": "You can upload one or more PDF paper files.",
+      "CitasionWillParse": "Citasion will parse all the detectable metadata of the uploaded PDF files and generate reference entries.",
+      "dragDrop": "Drag and drop files here or click",
+      "selectedFiles": "Selected files",
+      "pdfLackMeta": "Some PDF papers may lack the metadata to be parsed. Read more about PDF metadata"
     },
     "ContactForm": {
       "howToStart": "How to start Citasion",
@@ -471,7 +471,7 @@
     "Reading": {
       "howToStart": "How to start Citasion",
       "addPapers": "Add papers to your Citasion projects",
-      "write": "",
+      "write": "Write papers with Citasion",
       "billing": "Billing and subscription"
     }
   }

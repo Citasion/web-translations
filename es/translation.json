@@ -399,16 +399,16 @@
       "hello": "Hello {{user.name}}"
     },
     "UploadReferenceDialog": {
-      "numberAdded": "",
-      "numberAdded_plural": "",
-      "noneUploaded": "",
-      "noneAdded": "",
-      "uploadFiles": "",
-      "importTypes": "",
-      "uploadOneOrMore": "",
-      "dragDrop": "",
-      "selectedFiles": "",
-      "readMoreAboutFormats": ""
+      "numberAdded": "Se ha añadido {{response}} artículo con éxito.",
+      "numberAdded_plural": "Se han añadido {{response}} articulos con éxito.",
+      "noneUploaded": "Ninguno de los archivos de datos de referencia cargados puede ser analizado",
+      "noneAdded": "Se añadieron 0 artículos porque no se detectaron nuevos artículos",
+      "uploadFiles": "Subir archivos de referencia",
+      "importTypes": "Citasion puede importar referencias de los siguientes tipos de archivos:",
+      "uploadOneOrMore": "Puede cargar uno o varios archivos de datos de referencia exportados.",
+      "dragDrop": "Arrastre y suelte los archivos aquí o haga clic en",
+      "selectedFiles": "Archivos seleccionados",
+      "readMoreAboutFormats": "Más información sobre los formatos de archivos de referencia que aceptamos"
     },
     "AddForms": {
       "pdfLinkNeeds": "El enlace al PDF debe ser una url válida.",
@@ -441,12 +441,12 @@
       "message": "This page has not yet been translated. Click here to translate using Google Translate."
     },
     "UploadPdfDialog": {
-      "uploadPdf": "",
-      "uploadOneOrMorePdf": "",
-      "CitasionWillParse": "",
-      "dragDrop": "",
-      "selectedFiles": "",
-      "pdfLackMeta": ""
+      "uploadPdf": "Subir archivos PDF",
+      "uploadOneOrMorePdf": "Puede cargar uno o varios archivos de documentos PDF.",
+      "CitasionWillParse": "Citasion analizará todos los metadatos detectables de los archivos PDF cargados y generará entradas de referencia.",
+      "dragDrop": "Arrastre y suelte los archivos aquí o haga clic en",
+      "selectedFiles": "Archivos seleccionados",
+      "pdfLackMeta": "Algunos artículos en PDF pueden carecer de los metadatos necesarios para ser analizados. Más información sobre los metadatos PDF"
     },
     "ContactForm": {
       "howToStart": "Cómo empezar Citasion",
@@ -471,7 +471,7 @@
     "Reading": {
       "howToStart": "Cómo empezar Citasion",
       "addPapers": "Añade artículos a sus proyectos Citasion",
-      "write": "",
+      "write": "Escribe artículos con Citasion",
       "billing": "Facturación y suscripción"
     }
   }
