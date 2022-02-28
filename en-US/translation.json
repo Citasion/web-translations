@@ -441,7 +441,8 @@
       "conference": "Conference or Conference Proceeding",
       "conferenceDate": "Conference Date",
       "chapterTitle": "Chapter Title",
-      "editor": "Editor (separate different editors by commas)"
+      "editor": "Editor (separate different editors by commas)",
+      "oneUpdated": "This paper is updated successfully."
     },
     "TranslationBox": {
       "message": "This page has not yet been translated. Click here to translate using Google Translate."
