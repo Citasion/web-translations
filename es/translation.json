@@ -180,12 +180,12 @@
         "pageTitle": "Citasion: Configuración de la cuenta",
         "defaultPlan": "Plan por defecto",
         "manageSubscription": "Gestionar su suscripción",
-        "willExpire": "Your premium trial will expire by ."
+        "willExpire": "Su prueba premium expirará en {{expiryDate}}."
       }
     },
     "Home": {
       "HomeView": {
-        "introducing": "Introducción a",
+        "introducing": "Presentamos",
         "citasion": "Citasion",
         "intro": "Gestión de referencias intuitiva creada para las colaboraciones en la web.",
         "check1": "Una importación de referencias a golpe de clic",
@@ -194,10 +194,10 @@
         "check4": "Más de 1.000 estilos de referencia disponibles",
         "check5": "Una visión inteligente de su bibliografía y lista de referencias",
         "VideoTitle": "Citasion - ¿Necesita ayuda para escribir un artículo?",
-        "addToFirefoxBtn": "<0>Add to Firefox</0><1>It's free</1>",
-        "addToChromeBtn": "<0>Add to Chrome</0><1>It's Free</1>",
-        "addToEdgeBtn": "<0>Add to Edge</0><1>It's Free</1>",
-        "exploreCitasion": "Explorar Citasion",
+        "addToFirefoxBtn": "<0>Añadir a Firefox</0>. <1>Es gratis</1>",
+        "addToChromeBtn": "<0>Añadir a Chrome</0>. <1>Es gratis</1>",
+        "addToEdgeBtn": "<0>Añadir a Edge</0>. <1>Es gratis</1>",
+        "exploreCitasion": "Explora Citasion",
         "note1": "Gestión de referencias para la web",
         "note1Text": "Una gestión de referencias basada en proyectos construida para la web. Funciona con Google Docs, Word y Overleaf.",
         "note2": "Colaboración sin fisuras en la investigación",
