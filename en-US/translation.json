@@ -372,7 +372,7 @@
     "free": "Free",
     "select": "Select",
     "frequentlyAskedQuestions": "Frequently Asked Questions",
-    "volume": "",
+    "volume": "Volume",
     "article": "Journal Article",
     "inproceedings": "Conference Article",
     "incollection": "Book Chapter",
@@ -384,7 +384,13 @@
     "googleDocs": "Google Docs",
     "overleaf": "Overleaf",
     "word": "Word",
-    "unlimited": "Unlimited"
+    "unlimited": "Unlimited",
+    "title": "Title",
+    "bookTitle": "Book Title",
+    "chapter": "Chapter",
+    "series": "Series",
+    "thesisTitle": "Thesis Title",
+    "schoolLocation": "School Location"
   },
   "components": {
     "HeadBar": {
@@ -433,7 +439,9 @@
       "authors": "Authors (please list authors in the format of \"last name, first name; last name, first name; ...\")",
       "authorPlaceholder": "e.g., Hellas, Arto; Ihantola, Petri; Petersen, Andrew",
       "conference": "Conference or Conference Proceeding",
-      "conferenceDate": "Conference Date"
+      "conferenceDate": "Conference Date",
+      "chapterTitle": "Chapter Title",
+      "editor": "Editor (separate different editors by commas)"
     },
     "TranslationBox": {
       "message": "This page has not yet been translated. Click here to translate using Google Translate."
