@@ -296,7 +296,10 @@
         "organize": "Organize literature by project(s)",
         "1000reference": "1000+ reference styles",
         "smartCitationFinder": "Smart citation finder",
-        "shareableProjects": "Sharable projects of literatures"
+        "shareableProjects": "Sharable projects of literatures",
+        "startingAt": "<0>Starting at </0><1>$2.99</1><2>/month</2>",
+        "premiumExpire": "Your premium trial will expire by <2><0>{{expiryDate}}</0></2>.",
+        "volumeDiscountsAnswer": "Yes! We offer volume discounts on annual plans for more than 5 members. Please <2><0>contact us</0></2> if you’re buying a plan for more than 5 members."
       }
     }
   },
@@ -366,7 +369,6 @@
     "publisher": "Publisher",
     "pages": "Pages",
     "publisherLocation": "Publisher location",
-    "institution": "Institution",
     "number": "Number",
     "emailAddress": "Email Address",
     "free": "Free",
@@ -439,7 +441,6 @@
       "authors": "Authors (please list authors in the format of \"last name, first name; last name, first name; ...\")",
       "authorPlaceholder": "e.g., Hellas, Arto; Ihantola, Petri; Petersen, Andrew",
       "conference": "Conference or Conference Proceeding",
-      "conferenceDate": "Conference Date",
       "chapterTitle": "Chapter Title",
       "editor": "Editor (separate different editors by commas)",
       "oneUpdated": "This paper is updated successfully."

@@ -285,7 +285,21 @@
         "premiumPlanDetails": "",
         "volumeDiscounts": "",
         "tryPremium": "",
-        "tryPremiumAnswer": ""
+        "tryPremiumAnswer": "",
+        "otherResearchAggregators": "",
+        "basicAnalysis": "",
+        "gapIdentification": "",
+        "literatureRecommendation": "",
+        "pdfStorage": "",
+        "organize": "",
+        "1000reference": "",
+        "shareableProjects": "",
+        "smartCitationFinder": "",
+        "pageTitle": "",
+        "pageDesc": "",
+        "startingAt": "<0>Starting at </0><1>$2.99</1><2>/month</2>",
+        "premiumExpire": "Your premium trial will expire by <2><0>{{expiryDate}}</0></2>.",
+        "volumeDiscountsAnswer": "Yes! We offer volume discounts on annual plans for more than 5 members. Please <2><0>contact us</0></2> if you’re buying a plan for more than 5 members."
       }
     }
   },
@@ -352,7 +366,6 @@
     "lastAccessed": "",
     "publisher": "",
     "publisherLocation": "",
-    "institution": "",
     "article": "",
     "inproceedings": "",
     "incollection": "",
@@ -369,7 +382,17 @@
     "free": "",
     "select": "",
     "frequentlyAskedQuestions": "",
-    "emailAddress": ""
+    "emailAddress": "",
+    "title": "",
+    "bookTitle": "",
+    "thesisTitle": "",
+    "schoolLocation": "",
+    "series": "",
+    "chapter": "",
+    "unlimited": "",
+    "googleDocs": "",
+    "word": "",
+    "overleaf": ""
   },
   "components": {
     "HeadBar": {
@@ -395,7 +418,9 @@
       "authors": "",
       "authorPlaceholder": "",
       "conference": "",
-      "conferenceDate": ""
+      "oneUpdated": "",
+      "chapterTitle": "",
+      "editor": ""
     },
     "BibtexAddDialog": {
       "invalid": "",
