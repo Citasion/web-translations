@@ -396,7 +396,7 @@
   },
   "components": {
     "HeadBar": {
-      "hello": "Hello {{user.name}}"
+      "hello": "Hola {{user.name}}"
     },
     "UploadReferenceDialog": {
       "numberAdded": "Se ha añadido {{response}} artículo con éxito.",
