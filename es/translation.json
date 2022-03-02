@@ -180,7 +180,9 @@
         "pageTitle": "Citasion: Configuración de la cuenta",
         "defaultPlan": "Plan por defecto",
         "manageSubscription": "Gestionar su suscripción",
-        "willExpire": "Su prueba premium expirará en {{expiryDate}}."
+        "willExpire": "Su prueba premium expirará en {{expiryDate}}.",
+        "expirationDate": "",
+        "currentSubscription": ""
       }
     },
     "Home": {

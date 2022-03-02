@@ -1,0 +1,6 @@
+# Auto detect text files
+* text=auto
+
+# definitive text files
+*.md eol=lf
+*.json eol=lf

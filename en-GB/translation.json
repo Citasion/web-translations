@@ -180,7 +180,9 @@
         "pageTitle": "Citasion: Account Settings",
         "defaultPlan": "Default Plan",
         "manageSubscription": "Manage your subscription",
-        "willExpire": "Your premium trial will expire by ."
+        "willExpire": "Your premium trial will expire by .",
+        "expirationDate": "",
+        "currentSubscription": ""
       }
     },
     "Home": {

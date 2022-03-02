@@ -180,7 +180,9 @@
         "pageTitle": "",
         "defaultPlan": "",
         "manageSubscription": "",
-        "willExpire": "Your premium trial will expire by <2>{{expiryDate}}</2>."
+        "willExpire": "Your premium trial will expire by <2>{{expiryDate}}</2>.",
+        "expirationDate": "",
+        "currentSubscription": ""
       }
     },
     "auth": {
