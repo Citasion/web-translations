@@ -245,6 +245,14 @@
         "signMicrosoft": "Sign in with Microsoft",
         "pageTitle": "Citasion: Login",
         "pageDescription": "Log in to your Citasion Account and manage your references with ease."
+      },
+      "RegisterView": {
+        "signupGoogle": "",
+        "signupMicrosoft": "",
+        "pageTitle": "",
+        "pageDesc": "",
+        "startWith": "",
+        "alreadyHave": ""
       }
     },
     "campaign": {

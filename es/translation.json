@@ -245,6 +245,14 @@
         "signMicrosoft": "Acceder con Microsoft",
         "pageTitle": "Citasion: Iniciar sesión",
         "pageDescription": "Acceda a su cuenta de Citasion y gestione sus referencias con facilidad."
+      },
+      "RegisterView": {
+        "signupGoogle": "",
+        "signupMicrosoft": "",
+        "pageTitle": "",
+        "pageDesc": "",
+        "startWith": "",
+        "alreadyHave": ""
       }
     },
     "campaign": {
