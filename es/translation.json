@@ -333,7 +333,7 @@
     "login": "Entrar",
     "signup": "Registrar",
     "loading": "Cargando",
-    "": "",
+    "": "<0>{{title}}</0>",
     "profile": "Perfil",
     "subscription": "Suscripción",
     "projectname": "Nombre del proyecto",

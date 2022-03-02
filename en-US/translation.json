@@ -402,7 +402,7 @@
     "series": "Series",
     "thesisTitle": "Thesis Title",
     "schoolLocation": "School Location",
-    "": ""
+    "": "<0>{{title}}</0>"
   },
   "components": {
     "HeadBar": {
