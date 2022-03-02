@@ -247,12 +247,12 @@
         "pageDescription": "Acceda a su cuenta de Citasion y gestione sus referencias con facilidad."
       },
       "RegisterView": {
-        "signupGoogle": "",
-        "signupMicrosoft": "",
-        "pageTitle": "",
-        "pageDesc": "",
-        "startWith": "",
-        "alreadyHave": ""
+        "signupGoogle": "Registrarse en Google",
+        "signupMicrosoft": "Regístrese con Microsoft",
+        "pageTitle": "Citasion: Registre una cuenta",
+        "pageDesc": "Registre una cuenta Citasion y gestione sus referencias con facilidad.",
+        "startWith": "Comienza con Citasion",
+        "alreadyHave": "¿Ya tiene una cuenta?"
       }
     },
     "campaign": {
