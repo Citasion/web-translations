@@ -181,8 +181,8 @@
         "defaultPlan": "Plan por defecto",
         "manageSubscription": "Gestionar su suscripción",
         "willExpire": "Su prueba premium expirará en {{expiryDate}}.",
-        "expirationDate": "",
-        "currentSubscription": ""
+        "expirationDate": "Fecha de caducidad {{date}}.",
+        "currentSubscription": "Su suscripción actual se cancela, pero puede seguir utilizando Citasion Premium hasta la fecha de caducidad."
       }
     },
     "Home": {
