@@ -247,7 +247,9 @@
         "signGoogle": "Sign in with Google",
         "signMicrosoft": "Sign in with Microsoft",
         "pageTitle": "Citasion: Login",
-        "pageDescription": "Log in to your Citasion Account and manage your references with ease."
+        "pageDescription": "Log in to your Citasion Account and manage your references with ease.",
+        "signupUserPass": "Sign in with Email",
+        "signEmail": "Sign in with Email"
       },
       "RegisterView": {
         "pageTitle": "Citasion: Register An Account",
@@ -255,7 +257,8 @@
         "startWith": "Start with Citasion",
         "alreadyHave": "Already have an account?",
         "signupGoogle": "Sign up with Google",
-        "signupMicrosoft": "Sign up with Microsoft"
+        "signupMicrosoft": "Sign up with Microsoft",
+        "signupUserPass": "Sign up with Email"
       }
     },
     "campaign": {

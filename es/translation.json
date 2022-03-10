@@ -247,7 +247,8 @@
         "signGoogle": "Acceder con Google",
         "signMicrosoft": "Acceder con Microsoft",
         "pageTitle": "Citasion: Iniciar sesión",
-        "pageDescription": "Acceda a su cuenta de Citasion y gestione sus referencias con facilidad."
+        "pageDescription": "Acceda a su cuenta de Citasion y gestione sus referencias con facilidad.",
+        "signEmail": "Acceder con el correo electrónico"
       },
       "RegisterView": {
         "signupGoogle": "Registrarse en Google",
@@ -255,7 +256,8 @@
         "pageTitle": "Citasion: Registre una cuenta",
         "pageDesc": "Registre una cuenta Citasion y gestione sus referencias con facilidad.",
         "startWith": "Comienza con Citasion",
-        "alreadyHave": "¿Ya tiene una cuenta?"
+        "alreadyHave": "¿Ya tiene una cuenta?",
+        "signupUserPass": "Regístrese con el correo electrónico"
       }
     },
     "campaign": {
