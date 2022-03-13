@@ -259,6 +259,10 @@
         "signupGoogle": "Sign up with Google",
         "signupMicrosoft": "Sign up with Microsoft",
         "signupUserPass": "Sign up with Email"
+      },
+      "EmailVerification": {
+        "title": "Email Verification Required",
+        "text": "Your email needs to verified in order to access your account. Please visit your email and follow the instructions that are provided there."
       }
     },
     "campaign": {
@@ -406,7 +410,9 @@
     "series": "Series",
     "thesisTitle": "Thesis Title",
     "schoolLocation": "School Location",
-    "": "<0>{{title}}</0>"
+    "": "<0>{{title}}</0>",
+    "email": "Email",
+    "password": "Password"
   },
   "components": {
     "HeadBar": {

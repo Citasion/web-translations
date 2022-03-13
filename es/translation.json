@@ -258,6 +258,10 @@
         "startWith": "Comienza con Citasion",
         "alreadyHave": "¿Ya tiene una cuenta?",
         "signupUserPass": "Regístrese con el correo electrónico"
+      },
+      "EmailVerification": {
+        "title": "Se requiere la verificación del correo electrónico",
+        "text": "Su correo electrónico debe ser verificado para poder acceder a su cuenta. Por favor, visite su correo electrónico y siga las instrucciones que se proporcionan allí."
       }
     },
     "campaign": {

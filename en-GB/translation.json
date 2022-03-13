@@ -258,6 +258,10 @@
         "startWith": "Start with Citasion",
         "alreadyHave": "Already have an account?",
         "signupUserPass": "Sign up with Email"
+      },
+      "EmailVerification": {
+        "title": "Email Verification Required",
+        "text": "Your email needs to verified in order to access your account. Please visit your email and follow the instructions that are provided there."
       }
     },
     "campaign": {
