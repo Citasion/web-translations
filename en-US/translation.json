@@ -415,7 +415,8 @@
     "password": "Password",
     "yes": "Yes",
     "no": "No",
-    "iagree": "I Agree"
+    "iagree": "I Agree",
+    "error": "Error"
   },
   "components": {
     "HeadBar": {
@@ -504,6 +505,19 @@
       "deleteReference": "Delete This Reference",
       "note1": "This operation will permanently delete this reference. Are you sure?",
       "note2": "This operation will remove this reference from the current project but won't delete the reference itself. Are you sure?"
+    },
+    "Errors": {
+      "message": "We are working on fixing this issue. Please try again."
+    },
+    "ParsePdfDialog": {
+      "noneParsed": "None of the uploaded PDFs can be parsed",
+      "parsedSuccessfully": "{{count}} paper was added successfully.",
+      "zeroPapers": "0 papers were added because no new papers were detected",
+      "parsePDFFiles": "Parse PDF Files",
+      "uploadMore": "You can upload one or more PDF paper files.",
+      "parseMetadata": "Citasion will parse all the detectable metadata of the uploaded PDF files and generate reference entries.",
+      "thinking": "Thinking about storing all your PDF paper files online in one-place?",
+      "somePapers": "Some PDF papers may lack the metadata to be parsed. Read more about PDF metadata"
     }
   }
 }
