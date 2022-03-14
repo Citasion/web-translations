@@ -412,7 +412,10 @@
     "schoolLocation": "School Location",
     "": "<0>{{title}}</0>",
     "email": "Email",
-    "password": "Password"
+    "password": "Password",
+    "yes": "Yes",
+    "no": "No",
+    "iagree": "I Agree"
   },
   "components": {
     "HeadBar": {
@@ -493,6 +496,14 @@
       "questionTypes": "Question types",
       "tellUsMore": "Tell us more",
       "iHaveReadTerms": "I have read the <2>Terms and Conditions</2>"
+    },
+    "CitationUpdateDialog": {
+      "updateReference": "Update This Reference"
+    },
+    "CitationDeleteDialog": {
+      "deleteReference": "Delete This Reference",
+      "note1": "This operation will permanently delete this reference. Are you sure?",
+      "note2": "This operation will remove this reference from the current project but won't delete the reference itself. Are you sure?"
     }
   }
 }
