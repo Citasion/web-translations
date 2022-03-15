@@ -79,7 +79,12 @@
         "individual": "# Individual User\nIf you are an individual subscriber, or are using the Site, Services and Software, this Agreement is between you, individually, and Citasion.",
         "organizations": "# Organizational Users\nIf you are an employee, faculty member or student of a university, school or other entity or organization that has subscribed to Site, Software and Services (an “Enterprise Subscriber”), you are an “Authorized User” of your Enterprise Subscriber and (i) you represent that you have your Enterprise Subscriber’s permission and authority to use the Site, Software and Services and your Enterprise Subscriber’s “User Content” (as defined below) subject to this Agreement, (ii) this Agreement is an agreement between you, individually, and Citasion, and (iii) your Enterprise Subscriber is jointly responsible for your use of the Site, Software and Services.\n\nIf you are entering into this Agreement on behalf of an Enterprise Subscriber, you represent that you have the authority to bind the Enterprise Subscriber to this Agreement, in which case references to “you” in this Agreement shall mean the Enterprise Subscriber. If you do not have such authority, you must not accept this Agreement and may not use the Site, Software and Services.",
         "arbitration": "# Arbitration clause\nTHIS AGREEMENT CONTAINS AN ARBITRATION AGREEMENT, WHICH WILL, WITH LIMITED EXCEPTIONS, REQUIRE YOU TO SUBMIT CLAIMS YOU HAVE AGAINST CITASION AND ITS LICENSORS AND ITS SUPPLIERS TO BINDING AND FINAL ARBITRATION. UNDER THE ARBITRATION AGREEMENT (1) YOU WILL ONLY BE PERMITTED TO PURSUE CLAIMS AGAINST Citasion AND ITS LICENSORS AND ITS SUPPLIERS ON YOUR OWN BEHALF, NOT AS A PLAINTIFF OR CLASS MEMBER IN ANY CLASS OR REPRESENTATIVE ACTION OR  PROCEEDING, (2) YOU WILL ONLY BE PERMITTED TO SEEK RELIEF (INCLUDING MONETARY, INJUNCTIVE, AND DECLARATORY RELIEF) ON YOUR OWN BEHALF, AND (3) YOU ARE WAIVING YOUR RIGHT TO A JURY TRIAL AND YOUR RIGHT TO HAVE YOUR CLAIMS DECIDED BY A JUDGE OR JURY."
-      }
+      },
+      "terms": "Citasion: Terms of Service and License Agreement",
+      "privacy": "Citasion: Privacy Policy",
+      "cookie": "Citasion: Cookie Notice",
+      "privacyExtension": "Citasion: Extension / Add-on / Add-in Privacy Policy",
+      "personalInfo": "Citasion: Personal Information Request"
     }
   }
 }
