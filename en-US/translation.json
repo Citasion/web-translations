@@ -454,7 +454,12 @@
     "citasionPremium": "Citasion Premium",
     "subtotal": "Subtotal",
     "taxes": "Taxes",
-    "total": "Total"
+    "total": "Total",
+    "status": "Status",
+    "amount": "Amount",
+    "id": "ID",
+    "date": "Date",
+    "view": "View"
   },
   "components": {
     "HeadBar": {
