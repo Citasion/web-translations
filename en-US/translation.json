@@ -329,6 +329,18 @@
         "title": "Citasion: Smart online reference management",
         "desc": "Citasion is a free reference management tool that makes online academic writing effective. Getting started is simple — download Citasion's extension ..."
       }
+    },
+    "errors": {
+      "NotAuthorized": {
+        "mightLost": "You might be lost. You are not authorized to access this page.",
+        "back": "Back to home"
+      },
+      "NotFoundView": {
+        "mightLost": "You might be lost. The page you are looking for isn’t here."
+      },
+      "UnknownError": {
+        "error": "An error just occurred."
+      }
     }
   },
   "globals": {
