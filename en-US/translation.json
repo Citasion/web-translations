@@ -263,6 +263,10 @@
       "EmailVerification": {
         "title": "Email Verification Required",
         "text": "Your email needs to verified in order to access your account. Please visit your email and follow the instructions that are provided there."
+      },
+      "AuthRedirect": {
+        "errorVerify": "We were unable to verify your email. Please contact support@citasion.com",
+        "invalidPassword": "Invalid password reset token"
       }
     },
     "campaign": {
@@ -318,6 +322,18 @@
         "startingAt": "<0>Starting at </0><1>$2.99</1><2>/month</2>",
         "premiumExpire": "Your premium trial will expire by <2><0>{{expiryDate}}</0></2>.",
         "volumeDiscountsAnswer": "Yes! We offer volume discounts on annual plans for more than 5 members. Please <2><0>contact us</0></2> if you’re buying a plan for more than 5 members."
+      }
+    },
+    "errors": {
+      "NotAuthorized": {
+        "mightLost": "You might be lost. You are not authorized to access this page.",
+        "back": "Back to home"
+      },
+      "NotFoundView": {
+        "mightLost": "You might be lost. The page you are looking for isn’t here."
+      },
+      "UnknownError": {
+        "error": "An error just occurred."
       }
     }
   },
