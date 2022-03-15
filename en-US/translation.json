@@ -348,6 +348,46 @@
         "dateOfIssue": "Date of issue",
         "billedTo": "Billed to"
       }
+    },
+    "pricing": {
+      "PlanChange": {
+        "experience": "Experience the Full Power of Citasion",
+        "chooseDiff": "Choose a Different Premium Plan",
+        "manageRefs": "Manage References.",
+        "premiumfeatures": "Premium users can manage unlimited number of references.",
+        "literatureInsights": "Get Literature Insights.",
+        "literaturesummary": "Worrying about if there are gaps in your literature review? Want to find similar papers but have difficulties in formating effective queries? We have you covered.",
+        "collaborateWithOthers": "Collaborate with others.",
+        "collaborateSummary": "Work with other researchers through project-based reference management to maximize the efficiency of collaborative academic writing.",
+        "testimonial": "Citasion doesn't only manage my references but also allow me to have confidence in my literature review.",
+        "testimonialName": "- Vanessa Dennen, Instructional Technology Researcher",
+        "premiumPromoText": "Citasion Premium helps you conduct comprehensive and insightful literature review.",
+        "changePlan": "Change Your Plan",
+        "currentPlan": "Current Plan",
+        "currentPlanText": "{{subscription.plan}} Plan",
+        "priceText": "{{subscription.priceMonthly}} / month + tax",
+        "chargedOn": "charged on {{plan}} basis",
+        "newPlan": "New Plan",
+        "planName": "{{data.name}} Plan",
+        "newPlanPrice": "{{data.priceMonthly}} / month + tax",
+        "chargedOnNew": "charged on {{newPlan}} basis",
+        "whatHappens": "What happens next?",
+        "expiry": "Your existing plan will expire by {{date}}",
+        "newPlanExpiry": "Your new plan starts by {{date}} and you’ll be charged {{bill}} + tax on that day",
+        "futureCharge": "You would be charged on a {{plan}} basis in the future",
+        "paypalredirect": "You will be directed to Paypal to confirm the change of your plan. You will receive an email from us when your plan is updated successfully",
+        "paypalemail": "You will receive an email from us when your plan is updated successfully",
+        "bestValue": "Best Value",
+        "individualPlans": "INDIVIDUAL PLANS",
+        "upgradePremium": "Upgrade to Premium",
+        "transactionProgress": "Transaction in progress. Please do not refresh the page.",
+        "youHaveChosen": "You have chosen",
+        "planMonth": "{{plan}} Plan {{date}} / month",
+        "weNotice": "We notice that you haven't reached the expiration date of your canceled subscription. You can use the premium service until the expiration date. If you purchase a new plan, you will NOT get a refund for the remaining time of the canceled subscription.",
+        "updatePayment": "Update Payment",
+        "changePaymentMethod": "Change Your Payment Method",
+        "changesWillBeEffective": "Changes will be effective in the next billing cycle."
+      }
     }
   },
   "globals": {
@@ -459,7 +499,8 @@
     "amount": "Amount",
     "id": "ID",
     "date": "Date",
-    "view": "View"
+    "view": "View",
+    "checkout": "Check Out"
   },
   "components": {
     "HeadBar": {
