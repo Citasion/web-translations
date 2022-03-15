@@ -341,6 +341,13 @@
       "UnknownError": {
         "error": "An error just occurred."
       }
+    },
+    "invoice": {
+      "InvoiceDetailView": {
+        "invoiceDetails": "Invoice Details",
+        "dateOfIssue": "Date of issue",
+        "billedTo": "Billed to"
+      }
     }
   },
   "globals": {
@@ -438,7 +445,16 @@
     "yes": "Yes",
     "no": "No",
     "iagree": "I Agree",
-    "error": "Error"
+    "error": "Error",
+    "invoices": "Invoices",
+    "paid": "Paid",
+    "invoice": "Invoice",
+    "dueDate": "Due date",
+    "description": "Description",
+    "citasionPremium": "Citasion Premium",
+    "subtotal": "Subtotal",
+    "taxes": "Taxes",
+    "total": "Total"
   },
   "components": {
     "HeadBar": {
