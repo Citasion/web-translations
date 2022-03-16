@@ -2,7 +2,6 @@
   "views": {
     "legals": {
       "PrivacyView": {
-        "pageTitle": "Política de privacidad de Citasion",
         "title": "# Política de privacidad de Citasion",
         "date": "*A partir del 14 de octubre de 2021*",
         "topContent": "Queremos que comprenda cómo y por qué Citasion LLC. \n(\"Citasion\", \"nosotros\" o \"nosotros\") recopila, utiliza y comparte información sobre usted cuando utiliza nuestros sitios, aplicaciones móviles, widgets y otros productos y servicios en línea (colectivamente, los \"Servicios\") o cuando \ninteractuar con nosotros o recibir una comunicación nuestra. \nEsta Política de privacidad se aplica a todos nuestros Servicios, incluidos complementos, complementos y extensiones."
@@ -40,7 +39,6 @@
         "contactUs": "## Contacto\n\nSi tiene otras preguntas sobre esta política de privacidad, póngase en contacto con nosotros en\n\ninfo@citasion.com"
       },
       "CookieNoticeView": {
-        "pageTitle": "Citasion: Aviso sobre las cookies",
         "title": "# Aviso sobre las cookies",
         "date": "Última actualización: 19 de septiembre de 2021.",
         "intro": "Este Aviso de Cookies explica cómo utilizamos las cookies y tecnologías similares, así como las opciones que tiene para controlarlas.",
@@ -52,19 +50,16 @@
         "thirdParty": "## Exclusión de terceros\n\nLos principales grupos de la industria de la publicidad en línea ofrecen herramientas para limitar el uso de cookies con fines publicitarios por parte de los terceros participantes. En estos sitios se puede encontrar más información de la Network Advertising Initiative, la Digital Advertising Alliance y, para los usuarios de la UE, la European Interactive Digital Advertising Alliance. Además, Google pone a disposición de los usuarios de la web el complemento de inhabilitación para navegadores de Google Analytics para evitar la recopilación de datos a través de Google Analytics."
       },
       "PersonalInfoRequestsView": {
-        "pageTitle": "Citasion: Solicitud de información personal",
         "title": "# ¿Cómo puedo solicitar una copia de mis datos e información de Citasion? ",
         "process": "Para solicitar una copia de sus datos e información de Citasion: \n\nEnvíe un correo electrónico a datarequests@citasion.com desde la dirección de correo electrónico que ha verificado con su cuenta de Citasion.\n\nDespués de enviar tu solicitud, la preparación de tus datos puede tardar hasta 30 días. Una vez que sus datos estén listos, le enviaremos un mensaje de correo electrónico con un enlace para descargar sus datos a su cuenta de Citasion. O, en algunas circunstancias, podemos enviar tus datos a la dirección de correo electrónico asociada a tu cuenta si has verificado esa dirección.\n\nSi no quieres esperar, también puedes acceder a algunos de tus datos e información (incluyendo tus citas y proyectos) a través de tu cuenta de Citasion en cualquier momento. \n",
         "privacyinfo": "Para obtener más información sobre sus datos y su privacidad en Citasion, consulte nuestra [Política de privacidad](/legal/privacy) y el [Acuerdo de usuario](/legal/terms). "
       },
       "PrivacyExtensionView": {
-        "pageTitle": "Citasion: Política de privacidad de extensiones, add-on y add-in",
         "title": "# Política de privacidad de la extensión / add-on / add-in\n\n* Extensión de Chrome\n* Add-on de Firefox\n* Extensión de Edge\n* Add-in de Word",
         "date": "*A partir del 21 de octubre de 2021*",
         "topContent": "Queremos que usted entienda cómo y por qué Citasion LLC (\"Citasion\", \"nosotros\" o \"nuestro\") recopila, utiliza y comparte información sobre usted cuando utiliza nuestra Extensión / Add-on / Add-in (en adelante, \"Servicios\") o cuando interactúa de otro modo con nosotros o recibe una comunicación nuestra.\n\nEl uso de la información recibida de la API de Google se ajustará a la Política de datos del usuario de Chrome Web Store, incluidos los requisitos de uso limitado."
       },
       "TermsView": {
-        "pageTitle": "Citasion: Condiciones de servicio y acuerdo de licencia",
         "title": "# Condiciones de servicio y acuerdo de licencia",
         "date": "*En vigor a partir del 1 de octubre de 2021*",
         "definitions": "## Definiciones\nJunto con sus subsidiarias y otras filiales, Citasion LLC, pone a disposición el \"Sitio\" (sitios web que incluyen, sin limitación, citasion.com y todos los subdominios), el \"Software\" (software y aplicaciones móviles) y los \"Servicios\" (que incluyen, sin limitación, sugerencias y/o correcciones de la escritura, detección de plagio y servicios de corrección humana) para ayudar a las personas a comunicarse más eficazmente. El acceso y el uso del Sitio, el Software y los Servicios existentes de Citasion, así como de cualquier Sitio, Software y Servicios futuros proporcionados por Citasion, se rigen por estas Condiciones de Servicio y Acuerdo de Licencia (este \"Acuerdo\").\n\nESTE ES UN ACUERDO LEGALMENTE VINCULANTE. SI NO ENTIENDE ESTE ACUERDO, O NO ACEPTA ESTAR OBLIGADO POR ÉL O POR LA POLÍTICA DE PRIVACIDAD A LA QUE SE HACE REFERENCIA EN EL MISMO, DEBE ABANDONAR INMEDIATAMENTE EL SITIO Y NO ESTÁ AUTORIZADO A ACCEDER O UTILIZAR NINGUNO DE LOS SITIOS, SOFTWARE Y SERVICIOS. AL ACCEDER O UTILIZAR EL SITIO, EL SOFTWARE Y LOS SERVICIOS, USTED CONFIRMA QUE TIENE AL MENOS 18 AÑOS DE EDAD (O SI TIENE ENTRE 13 Y 17 AÑOS, INCLUSIVE, QUE ESTÁ UTILIZANDO EL SITIO, LOS SERVICIOS Y/O EL SOFTWARE SÓLO CON LA APROBACIÓN DE SUS PADRES O TUTORES), QUE ESTÁ LEGALMENTE CAPACITADO PARA CELEBRAR ESTE ACUERDO Y QUE HA LEÍDO, COMPRENDIDO Y ACEPTADO QUEDAR VINCULADO POR ESTE ACUERDO.\n\nEste Acuerdo es un acuerdo legal entre usted y la Compañía, que es la propietaria legal del Sitio, el Software y los Servicios creados por la Compañía, y proporciona los términos y condiciones por los cuales usted puede usar el Sitio, el Software y los Servicios producidos por la Compañía, incluyendo cualquier medio asociado, guiones, materiales impresos y documentación en línea o electrónica. Si no le gusta lo que ve aquí, no instale ni utilice el Sitio, el Software y los Servicios. Sin embargo, al descargar o utilizar el Sitio, el Software y los Servicios, usted acepta utilizarlos de acuerdo con los términos de este acuerdo legal.",
@@ -79,7 +74,12 @@
         "individual": "# Usuario individual\nSi usted es un suscriptor individual, o está utilizando el Sitio, los Servicios y el Software, este Acuerdo es entre usted, individualmente, y Citasion.",
         "organizations": "# Usuarios de la organización\nSi usted es un empleado, profesor o estudiante de una universidad, escuela u otra entidad u organización que se ha suscrito al Sitio, al Software y a los Servicios (un \"Suscriptor de Empresa\"), usted es un \"Usuario Autorizado\" de su Suscriptor de Empresa y (i) declara que tiene el permiso y la autoridad de su Suscriptor de Empresa para utilizar el Sitio, (ii) el presente Contrato es un acuerdo entre usted, individualmente, y Citasion, y (iii) su Suscriptor de Empresa es conjuntamente responsable de su uso del Sitio, el Software y los Servicios.\n\nSi celebra el presente Contrato en nombre de un Suscriptor de la Empresa, usted declara que tiene la autoridad para obligar al Suscriptor de la Empresa a cumplir el presente Contrato, en cuyo caso las referencias a \"usted\" en el presente Contrato se referirán al Suscriptor de la Empresa. Si no tiene dicha autoridad, no debe aceptar este Acuerdo y no puede utilizar el Sitio, el Software y los Servicios.",
         "arbitration": "# Cláusula de arbitraje\nEL PRESENTE CONTRATO CONTIENE UN ACUERDO DE ARBITRAJE QUE, CON LIMITADAS EXCEPCIONES, LE OBLIGA A SOMETER LAS RECLAMACIONES QUE TENGA CONTRA CITASION Y SUS LICENCIANTES Y PROVEEDORES A UN ARBITRAJE VINCULANTE Y DEFINITIVO. EN VIRTUD DEL ACUERDO DE ARBITRAJE (1) SÓLO SE LE PERMITIRÁ PRESENTAR RECLAMACIONES CONTRA CITASION Y SUS LICENCIADORES Y SUS PROVEEDORES EN SU PROPIO NOMBRE, Y NO COMO DEMANDANTE O MIEMBRO DE UNA COLECCIÓN EN CUALQUIER ACCIÓN O PROCEDIMIENTO DE CARÁCTER COLECTIVO O REPRESENTATIVO, (2) SÓLO SE LE PERMITIRÁ SOLICITAR UNA REPARACIÓN (INCLUIDA UNA REPARACIÓN MONETARIA, CAUTELAR Y DECLARATIVA) EN SU PROPIO NOMBRE, Y (3) ESTÁ RENUNCIANDO A SU DERECHO A UN JUICIO CON JURADO Y A SU DERECHO A QUE SUS RECLAMACIONES SEAN DECIDIDAS POR UN JUEZ O UN JURADO."
-      }
+      },
+      "terms": "",
+      "privacy": "",
+      "cookie": "",
+      "privacyExtension": "",
+      "personalInfo": ""
     }
   }
 }

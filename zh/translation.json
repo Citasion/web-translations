@@ -38,13 +38,11 @@
         "DeleteTextShare": "未来您将无法访问此项目以及项目内的引用文献。您确定吗？",
         "DeleteTextConfirm": "请输入该项目名称来确定您想要删除此项目：",
         "DeleteTextProjectName": "项目名称",
-        "emailAddresses": "",
         "addnewCaps": "",
         "addnew": "",
         "whatIsName": "",
-        "pageTitle": "",
-        "myProjects": "",
-        "sharedProjects": ""
+        "projectNameReq": "",
+        "": ""
       },
       "ProjectDetailsView": {
         "accessInsightDashboardNote": "",
@@ -178,7 +176,6 @@
         "CancelText": "您确定要取消Citasion套餐吗?",
         "Confirm": "确定",
         "pageTitle": "",
-        "defaultPlan": "",
         "manageSubscription": "",
         "willExpire": "Your premium trial will expire by <2>{{expiryDate}}</2>.",
         "expirationDate": "",
@@ -189,7 +186,6 @@
       "LoginIframeView": {
         "signinGoogle": "",
         "signinMicrosoft": "",
-        "citasionLogin": "",
         "loginNote": "",
         "check1": "",
         "check2": "",
@@ -206,7 +202,8 @@
         "pageDescription": "",
         "memberLogin": "",
         "dontHaveAccount": "",
-        "captchaNote": "This site is protected by reCAPTCHA and the <2>Google Privacy Policy</2> and <6>Terms of Service</6> apply."
+        "captchaNote": "This site is protected by reCAPTCHA and the <2>Google Privacy Policy</2> and <6>Terms of Service</6> apply.",
+        "signEmail": ""
       },
       "RegisterView": {
         "signupGoogle": "",
@@ -214,7 +211,16 @@
         "pageTitle": "",
         "pageDesc": "",
         "startWith": "",
-        "alreadyHave": ""
+        "alreadyHave": "",
+        "signupUserPass": ""
+      },
+      "AuthRedirect": {
+        "errorVerify": "",
+        "invalidPassword": ""
+      },
+      "EmailVerification": {
+        "title": "",
+        "text": ""
       }
     },
     "campaign": {
@@ -308,8 +314,99 @@
         "springer": "",
         "10more": "",
         "overleaf": "",
-        "andmore": ""
+        "andmore": "",
+        "check6": ""
       }
+    },
+    "errors": {
+      "NotAuthorized": {
+        "mightLost": "",
+        "back": ""
+      },
+      "NotFoundView": {
+        "mightLost": ""
+      },
+      "UnknownError": {
+        "error": ""
+      }
+    },
+    "home": {
+      "HomeView": {
+        "title": "",
+        "desc": ""
+      }
+    },
+    "invoice": {
+      "InvoiceDetailView": {
+        "dateOfIssue": "",
+        "billedTo": ""
+      }
+    },
+    "pricing": {
+      "PlanChange": {
+        "bestValue": "",
+        "changePlan": "",
+        "individualPlans": "",
+        "experience": "",
+        "chooseDiff": "",
+        "manageRefs": "",
+        "premiumfeatures": "",
+        "literatureInsights": "",
+        "literaturesummary": "",
+        "collaborateWithOthers": "",
+        "collaborateSummary": "",
+        "testimonial": "",
+        "testimonialName": "",
+        "premiumPromoText": "",
+        "currentPlan": "",
+        "currentPlanText": "",
+        "priceText": "",
+        "chargedOn": "",
+        "newPlan": "",
+        "planName": "",
+        "newPlanPrice": "",
+        "whatHappens": "",
+        "expiry": "",
+        "newPlanExpiry": "",
+        "futureCharge": "",
+        "paypalredirect": "",
+        "paypalemail": "",
+        "upgradePremium": "",
+        "transactionProgress": "",
+        "youHaveChosen": "",
+        "planMonth": "",
+        "weNotice": "",
+        "updatePayment": "",
+        "changePaymentMethod": "",
+        "changesWillBeEffective": ""
+      }
+    },
+    "references": {
+      "ReferenceBrowseView": {
+        "selectRef": "",
+        "updateRef": ""
+      }
+    },
+    "support": {
+      "title": ""
+    },
+    "uninstall": {
+      "why": "",
+      "yourMessage": "",
+      "pleaseSelect": "",
+      "pleaseCheck": "",
+      "paperImport]": "",
+      "website]": "",
+      "googledocs]": "",
+      "overleaf]": "",
+      "word]": "",
+      "slows": "",
+      "createAccount": "",
+      "other": "",
+      "improve": "",
+      "helpUs": "",
+      "helpUsText": "",
+      "title": ""
     }
   },
   "components": {
@@ -358,7 +455,6 @@
       "noneAdded": "",
       "uploadFiles": "",
       "importTypes": "",
-      "uploadOneOrMore": "",
       "dragDrop": "",
       "selectedFiles": "",
       "readMoreAboutFormats": ""
@@ -388,6 +484,31 @@
       "addPapers": "",
       "write": "",
       "billing": ""
+    },
+    "CitationDeleteDialog": {
+      "deleteReference": "",
+      "note1": "",
+      "note2": ""
+    },
+    "CitationUpdateDialog": {
+      "updateReference": ""
+    },
+    "CookiesNotification": {
+      "weUseCookies": "We use Cookies to ensure that we give you the best experience on our website. Read our <2>Privacy Policy</2>."
+    },
+    "Errors": {
+      "message": ""
+    },
+    "ParsePdfDialog": {
+      "noneParsed": "",
+      "parsedSuccessfully_0": "",
+      "zeroPapers": "",
+      "parsePDFFiles": "",
+      "uploadMore": "",
+      "parseMetadata": "",
+      "thinking": "",
+      "somePapers": "",
+      "tryCitasion": "Try <2><0>Citasion Premium</0></2> for free for 3 months."
     }
   },
   "globals": {
@@ -449,7 +570,6 @@
     "": "<0>{{title}}</0>",
     "profile": "",
     "subscription": "",
-    "signup": "",
     "free": "",
     "googleScholar": "",
     "unlimited": "",
@@ -479,6 +599,33 @@
     "tags": "",
     "owner": "",
     "pending": "",
-    "emailAddress": ""
-  }
+    "emailAddress": "",
+    "yes": "",
+    "no": "",
+    "iagree": "",
+    "error": "",
+    "email": "",
+    "password": "",
+    "invoices": "",
+    "paid": "",
+    "invoice": "",
+    "dueDate": "",
+    "description": "",
+    "citasionPremium": "",
+    "subtotal": "",
+    "taxes": "",
+    "total": "",
+    "status": "",
+    "amount": "",
+    "id": "",
+    "date": "",
+    "view": "",
+    "checkout": "",
+    "PdfFile": ""
+  },
+  "<0>$</0><1> / month</1>": "<0>$</0><1> / month</1>",
+  "<0></0>": "<0></0>",
+  "Your subscription will automatically renew every  month(s). You will be charged $ on each renewal until you cancel in your account settings. If you cancel, previous charges will not be refunded, but you may continue to use the service until the end of the term you paid for. By clicking the \"Check out\" button above, you are agreeing to our <7>Terms of Service</7>. If you have questions, you can reach out to us by sending an email to us at <9>support@citasion.com</9>.": "Your subscription will automatically renew every  month(s). You will be charged $ on each renewal until you cancel in your account settings. If you cancel, previous charges will not be refunded, but you may continue to use the service until the end of the term you paid for. By clicking the \"Check out\" button above, you are agreeing to our <7>Terms of Service</7>. If you have questions, you can reach out to us by sending an email to us at <9>support@citasion.com</9>.",
+  "The change of payment method will be effective in your next billing cycle. By clicking the Paypal button above, you are agreeing to our <2>Terms of Service</2>. If you have questions, you can reach out to us by sending an email to us at <4>support@citasion.cm</4>.": "The change of payment method will be effective in your next billing cycle. By clicking the Paypal button above, you are agreeing to our <2>Terms of Service</2>. If you have questions, you can reach out to us by sending an email to us at <4>support@citasion.cm</4>.",
+  "The change of payment method will be effective in your next billing cycle. By clicking the  button above, you are agreeing to our <4>Terms of Service</4>. If you have questions, you can reach out to us by sending an email to us at <6>support@citasion.com</6>.": "The change of payment method will be effective in your next billing cycle. By clicking the  button above, you are agreeing to our <4>Terms of Service</4>. If you have questions, you can reach out to us by sending an email to us at <6>support@citasion.com</6>."
 }

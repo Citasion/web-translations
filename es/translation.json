@@ -38,13 +38,11 @@
         "DeleteTextShare": "Esta operación impedirá que accedas a este proyecto compartido en el futuro. ¿Está seguro?",
         "DeleteTextConfirm": "Escribe el nombre del proyecto para eliminar lo:",
         "DeleteTextProjectName": "Nombre del proyecto",
-        "pageTitle": "Citasion: Proyectos",
-        "myProjects": "Mis proyectos",
-        "sharedProjects": "Proyectos compartidos",
         "addnewCaps": "AÑADIR UN NUEVO PROYECTO",
         "addnew": "Añadir un nuevo proyecto",
         "whatIsName": "¿Cuál es el nombre de este nuevo proyecto?",
-        "emailAddresses": "Direcciones de correo electrónico"
+        "projectNameReq": "",
+        "": ""
       },
       "ProjectDetailsViews": {
         "beforeGraph": "Antes de {{yearValue}}",
@@ -178,7 +176,6 @@
         "CancelText": "Está seguro de cancelar su suscripción a Citasion Premium?",
         "Confirm": "Confirmar",
         "pageTitle": "Citasion: Configuración de la cuenta",
-        "defaultPlan": "Plan por defecto",
         "manageSubscription": "Gestionar su suscripción",
         "willExpire": "Su prueba premium expirará en {{expiryDate}}.",
         "expirationDate": "Fecha de caducidad {{date}}.",
@@ -230,7 +227,6 @@
       "LoginIframeView": {
         "signinGoogle": "Acceder con Google",
         "signinMicrosoft": "Acceder con Microsoft",
-        "citasionLogin": "Citasion: Iniciar sesión",
         "loginNote": "Entra en Citasion ahora para desbloquearlo:",
         "check1": "Importación de artículos con un solo clic",
         "check2": "Fácil referenciación para Google Docs, Overleaf y Word",
@@ -262,6 +258,10 @@
       "EmailVerification": {
         "title": "Se requiere la verificación del correo electrónico",
         "text": "Su correo electrónico debe ser verificado para poder acceder a su cuenta. Por favor, visite su correo electrónico y siga las instrucciones que se proporcionan allí."
+      },
+      "AuthRedirect": {
+        "errorVerify": "",
+        "invalidPassword": ""
       }
     },
     "campaign": {
@@ -318,6 +318,96 @@
         "premiumExpire": "Your premium trial will expire by <2><0>{{expiryDate}}</0></2>.",
         "volumeDiscountsAnswer": "Yes! We offer volume discounts on annual plans for more than 5 members. Please <2><0>contact us</0></2> if you’re buying a plan for more than 5 members."
       }
+    },
+    "errors": {
+      "NotAuthorized": {
+        "mightLost": "",
+        "back": ""
+      },
+      "NotFoundView": {
+        "mightLost": ""
+      },
+      "UnknownError": {
+        "error": ""
+      }
+    },
+    "home": {
+      "HomeView": {
+        "title": "",
+        "desc": ""
+      }
+    },
+    "invoice": {
+      "InvoiceDetailView": {
+        "dateOfIssue": "",
+        "billedTo": ""
+      }
+    },
+    "pricing": {
+      "PlanChange": {
+        "bestValue": "",
+        "changePlan": "",
+        "individualPlans": "",
+        "experience": "",
+        "chooseDiff": "",
+        "manageRefs": "",
+        "premiumfeatures": "",
+        "literatureInsights": "",
+        "literaturesummary": "",
+        "collaborateWithOthers": "",
+        "collaborateSummary": "",
+        "testimonial": "",
+        "testimonialName": "",
+        "premiumPromoText": "",
+        "currentPlan": "",
+        "currentPlanText": "",
+        "priceText": "",
+        "chargedOn": "",
+        "newPlan": "",
+        "planName": "",
+        "newPlanPrice": "",
+        "whatHappens": "",
+        "expiry": "",
+        "newPlanExpiry": "",
+        "futureCharge": "",
+        "paypalredirect": "",
+        "paypalemail": "",
+        "upgradePremium": "",
+        "transactionProgress": "",
+        "youHaveChosen": "",
+        "planMonth": "",
+        "weNotice": "",
+        "updatePayment": "",
+        "changePaymentMethod": "",
+        "changesWillBeEffective": ""
+      }
+    },
+    "references": {
+      "ReferenceBrowseView": {
+        "selectRef": "",
+        "updateRef": ""
+      }
+    },
+    "support": {
+      "title": ""
+    },
+    "uninstall": {
+      "why": "",
+      "yourMessage": "",
+      "pleaseSelect": "",
+      "pleaseCheck": "",
+      "paperImport]": "",
+      "website]": "",
+      "googledocs]": "",
+      "overleaf]": "",
+      "word]": "",
+      "slows": "",
+      "createAccount": "",
+      "other": "",
+      "improve": "",
+      "helpUs": "",
+      "helpUsText": "",
+      "title": ""
     }
   },
   "globals": {
@@ -338,7 +428,6 @@
     "twitter": "Twitter",
     "linkedin": "LinkedIn",
     "login": "Entrar",
-    "signup": "Registrar",
     "loading": "Cargando",
     "": "<0>{{title}}</0>",
     "profile": "Perfil",
@@ -409,7 +498,29 @@
     "unlimited": "Ilimitado",
     "googleDocs": "Google Docs",
     "word": "Word",
-    "overleaf": "Overleaf"
+    "overleaf": "Overleaf",
+    "yes": "",
+    "no": "",
+    "iagree": "",
+    "error": "",
+    "email": "",
+    "password": "",
+    "invoices": "",
+    "paid": "",
+    "invoice": "",
+    "dueDate": "",
+    "description": "",
+    "citasionPremium": "",
+    "subtotal": "",
+    "taxes": "",
+    "total": "",
+    "status": "",
+    "amount": "",
+    "id": "",
+    "date": "",
+    "view": "",
+    "checkout": "",
+    "PdfFile": ""
   },
   "components": {
     "HeadBar": {
@@ -422,7 +533,6 @@
       "noneAdded": "Se añadieron 0 artículos porque no se detectaron nuevos artículos",
       "uploadFiles": "Subir archivos de referencia",
       "importTypes": "Citasion puede importar referencias de los siguientes tipos de archivos:",
-      "uploadOneOrMore": "Puede cargar uno o varios archivos de datos de referencia exportados.",
       "dragDrop": "Arrastre y suelte los archivos aquí o haga clic en",
       "selectedFiles": "Archivos seleccionados",
       "readMoreAboutFormats": "Más información sobre los formatos de archivos de referencia que aceptamos"
@@ -490,6 +600,37 @@
       "addPapers": "Añade artículos a sus proyectos Citasion",
       "write": "Escribe artículos con Citasion",
       "billing": "Facturación y suscripción"
+    },
+    "CitationDeleteDialog": {
+      "deleteReference": "",
+      "note1": "",
+      "note2": ""
+    },
+    "CitationUpdateDialog": {
+      "updateReference": ""
+    },
+    "CookiesNotification": {
+      "weUseCookies": "We use Cookies to ensure that we give you the best experience on our website. Read our <2>Privacy Policy</2>."
+    },
+    "Errors": {
+      "message": ""
+    },
+    "ParsePdfDialog": {
+      "noneParsed": "",
+      "parsedSuccessfully": "",
+      "parsedSuccessfully_plural": "",
+      "zeroPapers": "",
+      "parsePDFFiles": "",
+      "uploadMore": "",
+      "parseMetadata": "",
+      "thinking": "",
+      "somePapers": "",
+      "tryCitasion": "Try <2><0>Citasion Premium</0></2> for free for 3 months."
     }
-  }
+  },
+  "<0>$</0><1> / month</1>": "<0>$</0><1> / month</1>",
+  "<0></0>": "<0></0>",
+  "Your subscription will automatically renew every  month(s). You will be charged $ on each renewal until you cancel in your account settings. If you cancel, previous charges will not be refunded, but you may continue to use the service until the end of the term you paid for. By clicking the \"Check out\" button above, you are agreeing to our <7>Terms of Service</7>. If you have questions, you can reach out to us by sending an email to us at <9>support@citasion.com</9>.": "Your subscription will automatically renew every  month(s). You will be charged $ on each renewal until you cancel in your account settings. If you cancel, previous charges will not be refunded, but you may continue to use the service until the end of the term you paid for. By clicking the \"Check out\" button above, you are agreeing to our <7>Terms of Service</7>. If you have questions, you can reach out to us by sending an email to us at <9>support@citasion.com</9>.",
+  "The change of payment method will be effective in your next billing cycle. By clicking the Paypal button above, you are agreeing to our <2>Terms of Service</2>. If you have questions, you can reach out to us by sending an email to us at <4>support@citasion.cm</4>.": "The change of payment method will be effective in your next billing cycle. By clicking the Paypal button above, you are agreeing to our <2>Terms of Service</2>. If you have questions, you can reach out to us by sending an email to us at <4>support@citasion.cm</4>.",
+  "The change of payment method will be effective in your next billing cycle. By clicking the  button above, you are agreeing to our <4>Terms of Service</4>. If you have questions, you can reach out to us by sending an email to us at <6>support@citasion.com</6>.": "The change of payment method will be effective in your next billing cycle. By clicking the  button above, you are agreeing to our <4>Terms of Service</4>. If you have questions, you can reach out to us by sending an email to us at <6>support@citasion.com</6>."
 }
