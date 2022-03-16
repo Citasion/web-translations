@@ -379,7 +379,7 @@
         "weNotice": "We notice that you haven't reached the expiration date of your canceled subscription. You can use the premium service until the expiration date. If you purchase a new plan, you will NOT get a refund for the remaining time of the canceled subscription.",
         "updatePayment": "Update Payment",
         "changePaymentMethod": "Change Your Payment Method",
-        "changesWillBeEffective": "Changes will be effective in the next billing cycle."
+        "changesWillBeEffective": "Changes will take effect in the next billing cycle."
       }
     },
     "references": {

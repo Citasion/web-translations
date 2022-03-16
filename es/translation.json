@@ -339,30 +339,30 @@
     },
     "invoice": {
       "InvoiceDetailView": {
-        "dateOfIssue": "",
-        "billedTo": ""
+        "dateOfIssue": "Fecha de emisión",
+        "billedTo": "Facturado a"
       }
     },
     "pricing": {
       "PlanChange": {
-        "bestValue": "",
-        "changePlan": "",
+        "bestValue": "El mejor valor",
+        "changePlan": "Cambie su plan",
         "individualPlans": "",
         "experience": "",
-        "chooseDiff": "",
+        "chooseDiff": "Elija un plan Premium diferente",
         "manageRefs": "",
         "premiumfeatures": "",
         "literatureInsights": "",
         "literaturesummary": "",
-        "collaborateWithOthers": "",
-        "collaborateSummary": "",
+        "collaborateWithOthers": "Colaborar con otros.",
+        "collaborateSummary": "Trabaje con otros investigadores mediante la gestión de referencias basada en proyectos para maximizar la eficiencia de la escritura académica colaborativa.",
         "testimonial": "",
         "testimonialName": "",
         "premiumPromoText": "",
-        "currentPlan": "",
-        "currentPlanText": "",
+        "currentPlan": "Plan actual",
+        "currentPlanText": "{{subscription.plan}} Plan",
         "priceText": "",
-        "chargedOn": "",
+        "chargedOn": "se cobran {{plan}}",
         "newPlan": "",
         "planName": "",
         "newPlanPrice": "",
@@ -378,8 +378,8 @@
         "planMonth": "",
         "weNotice": "",
         "updatePayment": "",
-        "changePaymentMethod": "",
-        "changesWillBeEffective": ""
+        "changePaymentMethod": "Cambiar el método de pago",
+        "changesWillBeEffective": "Los cambios entrarán en vigor en el siguiente ciclo de facturación."
       }
     },
     "references": {

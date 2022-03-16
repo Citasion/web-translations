@@ -339,30 +339,30 @@
     },
     "invoice": {
       "InvoiceDetailView": {
-        "dateOfIssue": "",
-        "billedTo": ""
+        "dateOfIssue": "Date of issue",
+        "billedTo": "Billed to"
       }
     },
     "pricing": {
       "PlanChange": {
-        "bestValue": "",
-        "changePlan": "",
+        "bestValue": "Best Value",
+        "changePlan": "Change Your Plan",
         "individualPlans": "",
         "experience": "",
-        "chooseDiff": "",
+        "chooseDiff": "Choose a Different Premium Plan",
         "manageRefs": "",
         "premiumfeatures": "",
         "literatureInsights": "",
         "literaturesummary": "",
-        "collaborateWithOthers": "",
-        "collaborateSummary": "",
+        "collaborateWithOthers": "Collaborate with others.",
+        "collaborateSummary": "Work with other researchers through project-based reference management to maximize the efficiency of collaborative academic writing.",
         "testimonial": "",
         "testimonialName": "",
         "premiumPromoText": "",
-        "currentPlan": "",
-        "currentPlanText": "",
+        "currentPlan": "Current Plan",
+        "currentPlanText": "{{subscription.plan}} Plan",
         "priceText": "",
-        "chargedOn": "",
+        "chargedOn": "charged on {{plan}} basis",
         "newPlan": "",
         "planName": "",
         "newPlanPrice": "",
@@ -378,8 +378,8 @@
         "planMonth": "",
         "weNotice": "",
         "updatePayment": "",
-        "changePaymentMethod": "",
-        "changesWillBeEffective": ""
+        "changePaymentMethod": "Change Your Payment Method",
+        "changesWillBeEffective": "Changes will take effect in the next billing cycle."
       }
     },
     "references": {
