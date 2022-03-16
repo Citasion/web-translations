@@ -602,21 +602,21 @@
       "billing": "Facturación y suscripción"
     },
     "CitationDeleteDialog": {
-      "deleteReference": "",
-      "note1": "",
-      "note2": ""
+      "deleteReference": "Borrar esta referencia",
+      "note1": "Esta operación eliminará permanentemente esta referencia. ¿Está usted seguro?",
+      "note2": "Esta operación eliminará esta referencia del proyecto actual pero no eliminará la referencia en sí. ¿Está usted seguro?"
     },
     "CitationUpdateDialog": {
-      "updateReference": ""
+      "updateReference": "Actualizar esta referencia"
     },
     "CookiesNotification": {
       "weUseCookies": "We use Cookies to ensure that we give you the best experience on our website. Read our <2>Privacy Policy</2>."
     },
     "Errors": {
-      "message": ""
+      "message": "Estamos trabajando para solucionar este problema. Por favor, inténtelo de nuevo."
     },
     "ParsePdfDialog": {
-      "noneParsed": "",
+      "noneParsed": "Ninguno de los PDF cargados puede ser analizado",
       "parsedSuccessfully": "",
       "parsedSuccessfully_plural": "",
       "zeroPapers": "",

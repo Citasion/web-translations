@@ -75,11 +75,11 @@
         "date": "*Effective October 14, 2021*",
         "topContent": "We want you to understand how and why Citasion LLC. (\"Citasion,\" \"we\" or \"us\") collects, uses, and shares information about you when you use our sites, mobile apps, widgets, and other online products and services (collectively, the “Services”) or when you otherwise interact with us or receive a communication from us. This Privacy Policy applies to all of our Services including Add-ons, Add-ins and Extensions."
       },
-      "terms": "",
-      "privacy": "",
-      "cookie": "",
-      "privacyExtension": "",
-      "personalInfo": ""
+      "terms": "Citasion: Terms of Service and License Agreement",
+      "privacy": "Citasion: Privacy Policy",
+      "cookie": "Citasion: Cookie Notice",
+      "privacyExtension": "Citasion: Extension / Add-on / Add-in Privacy Policy",
+      "personalInfo": "Citasion: Personal Information Request"
     }
   }
 }

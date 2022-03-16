@@ -75,11 +75,11 @@
         "organizations": "# Usuarios de la organización\nSi usted es un empleado, profesor o estudiante de una universidad, escuela u otra entidad u organización que se ha suscrito al Sitio, al Software y a los Servicios (un \"Suscriptor de Empresa\"), usted es un \"Usuario Autorizado\" de su Suscriptor de Empresa y (i) declara que tiene el permiso y la autoridad de su Suscriptor de Empresa para utilizar el Sitio, (ii) el presente Contrato es un acuerdo entre usted, individualmente, y Citasion, y (iii) su Suscriptor de Empresa es conjuntamente responsable de su uso del Sitio, el Software y los Servicios.\n\nSi celebra el presente Contrato en nombre de un Suscriptor de la Empresa, usted declara que tiene la autoridad para obligar al Suscriptor de la Empresa a cumplir el presente Contrato, en cuyo caso las referencias a \"usted\" en el presente Contrato se referirán al Suscriptor de la Empresa. Si no tiene dicha autoridad, no debe aceptar este Acuerdo y no puede utilizar el Sitio, el Software y los Servicios.",
         "arbitration": "# Cláusula de arbitraje\nEL PRESENTE CONTRATO CONTIENE UN ACUERDO DE ARBITRAJE QUE, CON LIMITADAS EXCEPCIONES, LE OBLIGA A SOMETER LAS RECLAMACIONES QUE TENGA CONTRA CITASION Y SUS LICENCIANTES Y PROVEEDORES A UN ARBITRAJE VINCULANTE Y DEFINITIVO. EN VIRTUD DEL ACUERDO DE ARBITRAJE (1) SÓLO SE LE PERMITIRÁ PRESENTAR RECLAMACIONES CONTRA CITASION Y SUS LICENCIADORES Y SUS PROVEEDORES EN SU PROPIO NOMBRE, Y NO COMO DEMANDANTE O MIEMBRO DE UNA COLECCIÓN EN CUALQUIER ACCIÓN O PROCEDIMIENTO DE CARÁCTER COLECTIVO O REPRESENTATIVO, (2) SÓLO SE LE PERMITIRÁ SOLICITAR UNA REPARACIÓN (INCLUIDA UNA REPARACIÓN MONETARIA, CAUTELAR Y DECLARATIVA) EN SU PROPIO NOMBRE, Y (3) ESTÁ RENUNCIANDO A SU DERECHO A UN JUICIO CON JURADO Y A SU DERECHO A QUE SUS RECLAMACIONES SEAN DECIDIDAS POR UN JUEZ O UN JURADO."
       },
-      "terms": "",
-      "privacy": "",
-      "cookie": "",
-      "privacyExtension": "",
-      "personalInfo": ""
+      "terms": "Citasion: Condiciones de servicio y acuerdo de licencia",
+      "privacy": "Citasion: Política de privacidad",
+      "cookie": "Citasion: Aviso sobre las cookies",
+      "privacyExtension": "Citasion: Política de privacidad de la extensión / add-on / add-in",
+      "personalInfo": "Citasion: Solicitud de información personal"
     }
   }
 }
