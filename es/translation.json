@@ -617,12 +617,12 @@
     },
     "ParsePdfDialog": {
       "noneParsed": "Ninguno de los PDF cargados puede ser analizado",
-      "parsedSuccessfully": "",
-      "parsedSuccessfully_plural": "",
+      "parsedSuccessfully": "Se ha añadido {{count}} articulo con éxito.",
+      "parsedSuccessfully_plural": "{{count}} artículos fueron añadidos con éxito.",
       "zeroPapers": "",
-      "parsePDFFiles": "",
+      "parsePDFFiles": "Analizar archivos PDF",
       "uploadMore": "",
-      "parseMetadata": "",
+      "parseMetadata": "Citasion analizará todos los metadatos detectables de los archivos PDF cargados y generará entradas de referencia.",
       "thinking": "",
       "somePapers": "",
       "tryCitasion": "Try <2><0>Citasion Premium</0></2> for free for 3 months."

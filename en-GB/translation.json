@@ -617,12 +617,12 @@
     },
     "ParsePdfDialog": {
       "noneParsed": "None of the uploaded PDFs can be parsed",
-      "parsedSuccessfully": "",
-      "parsedSuccessfully_plural": "",
+      "parsedSuccessfully": "{{count}} paper was added successfully.",
+      "parsedSuccessfully_plural": "{{count}} papers were added successfully.",
       "zeroPapers": "",
-      "parsePDFFiles": "",
+      "parsePDFFiles": "Parse PDF Files",
       "uploadMore": "",
-      "parseMetadata": "",
+      "parseMetadata": "Citasion will parse all the detectable metadata of the uploaded PDF files and generate reference entries.",
       "thinking": "",
       "somePapers": "",
       "tryCitasion": "Try <2><0>Citasion Premium</0></2> for free for 3 months."
