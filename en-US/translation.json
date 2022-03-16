@@ -396,6 +396,9 @@
         "selectRef": "Select this reference",
         "updateRef": "Update or delete this reference"
       }
+    },
+    "support": {
+      "title": "Citasion: Support Center"
     }
   },
   "globals": {
