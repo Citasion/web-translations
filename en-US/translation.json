@@ -399,6 +399,25 @@
     },
     "support": {
       "title": "Citasion: Support Center"
+    },
+    "uninstall": {
+      "title": "Citasion: Sorry to see you go",
+      "why": "Why did you uninstall Citasion?",
+      "yourMessage": "Your message has been received!",
+      "pleaseSelect": "Please select at least one option.",
+      "pleaseCheck": "Please check all that apply:",
+      "paperImport]": "Paper importation doesn't work well",
+      "website]": "Website doesn't work well",
+      "googledocs]": "Doesn't work well on Google Docs",
+      "overleaf]": "Doesn't work well on Overleaf",
+      "word]": "Doesn't work well on Word",
+      "slows]": "Slows down my computer",
+      "slows": "Slows down my computer",
+      "createAccount": "I don't want to create an account",
+      "other": "Other reasons",
+      "improve": "How else can we improve Citasion?",
+      "helpUs": "Help Us Improve",
+      "helpUsText": "We know our reference management tool isn’t perfect, and we’re committed to making it better for you. Can you ket us know why you uninstalled the Citasion extension?"
     }
   },
   "globals": {
