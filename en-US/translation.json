@@ -390,6 +390,12 @@
         "changePaymentMethod": "Change Your Payment Method",
         "changesWillBeEffective": "Changes will be effective in the next billing cycle."
       }
+    },
+    "references": {
+      "ReferenceBrowseView": {
+        "selectRef": "Select this reference",
+        "updateRef": "Update or delete this reference"
+      }
     }
   },
   "globals": {
@@ -502,7 +508,8 @@
     "id": "ID",
     "date": "Date",
     "view": "View",
-    "checkout": "Check Out"
+    "checkout": "Check Out",
+    "PdfFile": "PDF File"
   },
   "components": {
     "HeadBar": {
