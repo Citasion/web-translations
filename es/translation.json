@@ -50,8 +50,8 @@
         "numreferences": "Número de referencias por año"
       },
       "ProjectDetailsView": {
-        "articlesReferenced": "<0>{{types.article}}</0><1>artículos de revistas referenciados</1>",
-        "conferenceReferenced": "<0>{{types.inproceedings}}</0><1>actas de conferencias referenciadas</1>",
+        "articlesReferenced": "<0>{{number}}</0><1>artículos de revistas referenciados</1>",
+        "conferenceReferenced": "<0>{{number}}</0><1>actas de conferencias referenciadas</1>",
         "shareOthers": "Compartir con otros",
         "shareOthersDialog": "Para compartir este proyecto con otras personas, escribe o pegue sus direcciones de correo electrónico y haga clic en Compartir.",
         "emailAddresses": "Direcciones de correo electrónico",
@@ -340,7 +340,8 @@
     "invoice": {
       "InvoiceDetailView": {
         "dateOfIssue": "Fecha de emisión",
-        "billedTo": "Facturado a"
+        "billedTo": "Facturado a",
+        "invoiceDetails": ""
       }
     },
     "pricing": {

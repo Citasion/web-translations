@@ -339,7 +339,8 @@
     "invoice": {
       "InvoiceDetailView": {
         "dateOfIssue": "",
-        "billedTo": ""
+        "billedTo": "",
+        "invoiceDetails": ""
       }
     },
     "pricing": {

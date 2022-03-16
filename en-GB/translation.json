@@ -50,8 +50,8 @@
         "numreferences": "Number of references by year"
       },
       "ProjectDetailsView": {
-        "articlesReferenced": "<0>{{types.article}}</0><1>journal articles referenced</1>",
-        "conferenceReferenced": "<0>{{types.inproceedings}}</0><1>conference proceedings referenced</1>",
+        "articlesReferenced": "<0>{{number}}</0><1>journal articles referenced</1>",
+        "conferenceReferenced": "<0>{{number}}</0><1>conference proceedings referenced</1>",
         "shareOthers": "Share with others",
         "shareOthersDialog": "To share this project with others, please type or paste their email addresses and click Share.",
         "emailAddresses": "Email Addresses",
@@ -340,7 +340,8 @@
     "invoice": {
       "InvoiceDetailView": {
         "dateOfIssue": "Date of issue",
-        "billedTo": "Billed to"
+        "billedTo": "Billed to",
+        "invoiceDetails": ""
       }
     },
     "pricing": {
