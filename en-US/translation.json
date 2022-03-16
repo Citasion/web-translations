@@ -44,7 +44,8 @@
         "whatIsName": "What is the name of this new project?",
         "addnew": "Add a new project",
         "addnewCaps": "ADD A NEW PROJECT",
-        "emailAddresses": "Email Addresses"
+        "emailAddresses": "Email Addresses",
+        "projectNameReq": "Project name is required"
       },
       "ProjectDetailsView": {
         "shareOthersDialog": "To share this project with others, please type or paste their email addresses and click Share.",
@@ -95,7 +96,8 @@
         "searchAPaper": "Search a paper",
         "venueName": "Venue name",
         "venueUrl": "Venue URL",
-        "addReferencesInMany": "Add references in different ways"
+        "addReferencesInMany": "Add references in different ways",
+        "accessingInsight": "Accessing Insight Dashboard is a premium feature. You can upgrade your account to use it."
       },
       "ProjectDetailsViews": {
         "numreferences": "Number of references by year",
