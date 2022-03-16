@@ -362,7 +362,7 @@
         "priceText": "{{subscription.priceMonthly}} / month + tax",
         "chargedOn": "charged on {{plan}} basis",
         "newPlan": "New Plan",
-        "planName": "{{data.name}} Plan",
+        "planName": "{{plan}} Plan",
         "newPlanPrice": "{{data.priceMonthly}} / month + tax",
         "whatHappens": "What happens next?",
         "expiry": "Your existing plan will expire by {{date}}",
