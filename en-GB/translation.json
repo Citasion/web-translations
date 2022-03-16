@@ -260,8 +260,8 @@
         "text": "Your email needs to verified in order to access your account. Please visit your email and follow the instructions that are provided there."
       },
       "AuthRedirect": {
-        "errorVerify": "",
-        "invalidPassword": ""
+        "errorVerify": "We were unable to verify your email. Please contact support@citasion.com",
+        "invalidPassword": "Invalid password reset token"
       }
     },
     "campaign": {
@@ -321,20 +321,20 @@
     },
     "errors": {
       "NotAuthorized": {
-        "mightLost": "",
-        "back": ""
+        "mightLost": "You might be lost. You are not authorized to access this page.",
+        "back": "Back to home"
       },
       "NotFoundView": {
-        "mightLost": ""
+        "mightLost": "You might be lost. The page you are looking for isn’t here."
       },
       "UnknownError": {
-        "error": ""
+        "error": "An error just occurred."
       }
     },
     "home": {
       "HomeView": {
-        "title": "",
-        "desc": ""
+        "title": "Citasion: Smart online reference management",
+        "desc": "Citasion is a free reference management tool that makes online academic writing effective. Getting started is simple — download Citasion's extension ..."
       }
     },
     "invoice": {
@@ -499,7 +499,7 @@
     "googleDocs": "Google Docs",
     "word": "Word",
     "overleaf": "Overleaf",
-    "yes": "",
+    "yes": "Yes",
     "no": "No",
     "iagree": "I Agree",
     "error": "Error",
@@ -512,13 +512,13 @@
     "description": "Description",
     "citasionPremium": "Citasion Premium",
     "subtotal": "Subtotal",
-    "taxes": "",
-    "total": "",
+    "taxes": "Taxes",
+    "total": "Total",
     "status": "Status",
     "amount": "Amount",
     "id": "ID",
     "date": "Date",
-    "view": "",
+    "view": "View",
     "checkout": "Check Out",
     "PdfFile": "PDF File"
   },

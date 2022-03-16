@@ -260,8 +260,8 @@
         "text": "Su correo electrónico debe ser verificado para poder acceder a su cuenta. Por favor, visite su correo electrónico y siga las instrucciones que se proporcionan allí."
       },
       "AuthRedirect": {
-        "errorVerify": "",
-        "invalidPassword": ""
+        "errorVerify": "No hemos podido verificar su correo electrónico. Por favor, póngase en contacto con support@citasion.com",
+        "invalidPassword": "Ficha de restablecimiento de contraseña no esta válida"
       }
     },
     "campaign": {
@@ -321,20 +321,20 @@
     },
     "errors": {
       "NotAuthorized": {
-        "mightLost": "",
-        "back": ""
+        "mightLost": "Puede estar perdido. No está autorizado a acceder a esta página.",
+        "back": "Volver al inicio"
       },
       "NotFoundView": {
-        "mightLost": ""
+        "mightLost": "Puede estar perdido. La página que busca no está aquí."
       },
       "UnknownError": {
-        "error": ""
+        "error": "Se ha producido un error."
       }
     },
     "home": {
       "HomeView": {
-        "title": "",
-        "desc": ""
+        "title": "Citasion: Gestión inteligente de referencias en línea",
+        "desc": "Citasion es una herramienta gratuita de gestión de referencias que hace que la escritura académica en línea sea eficaz. Empezar es sencillo: descarga la extensión de Citasion..."
       }
     },
     "invoice": {
@@ -499,7 +499,7 @@
     "googleDocs": "Google Docs",
     "word": "Word",
     "overleaf": "Overleaf",
-    "yes": "",
+    "yes": "Sí",
     "no": "No",
     "iagree": "Estoy de acuerdo",
     "error": "Error",
@@ -512,13 +512,13 @@
     "description": "Descripción",
     "citasionPremium": "Citasion Premium",
     "subtotal": "Subtotal",
-    "taxes": "",
-    "total": "",
+    "taxes": "Impuestos",
+    "total": "Total",
     "status": "Estatus",
     "amount": "Cantidad",
     "id": "ID",
     "date": "Fecha",
-    "view": "",
+    "view": "Ver",
     "checkout": "Comprobación",
     "PdfFile": "Archivo PDF"
   },
