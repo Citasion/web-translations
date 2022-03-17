@@ -534,8 +534,8 @@
       "hello": "Hola {{name}}"
     },
     "UploadReferenceDialog": {
-      "numberAdded": "Se ha añadido {{response}} artículo con éxito.",
-      "numberAdded_plural": "Se han añadido {{response}} articulos con éxito.",
+      "numberAdded": "Se ha añadido {{count}} artículo con éxito.",
+      "numberAdded_plural": "Se han añadido {{count}} articulos con éxito.",
       "noneUploaded": "Ninguno de los archivos de datos de referencia cargados puede ser analizado",
       "noneAdded": "Se añadieron 0 artículos porque no se detectaron nuevos artículos",
       "uploadFiles": "Subir archivos de referencia",

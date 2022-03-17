@@ -534,8 +534,8 @@
       "hello": "Hello {{name}}"
     },
     "UploadReferenceDialog": {
-      "numberAdded": "{{response}} paper was added successfully.",
-      "numberAdded_plural": "{{response}} papers were added successfully.",
+      "numberAdded": "{{count}} paper was added successfully.",
+      "numberAdded_plural": "{{count}} papers were added successfully.",
       "noneUploaded": "None of the uploaded reference data files can be parsed",
       "noneAdded": "0 papers were added because no new papers were detected",
       "uploadFiles": "Upload Reference Files",
