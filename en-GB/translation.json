@@ -532,9 +532,9 @@
     "checkout": "Check Out",
     "PdfFile": "PDF File",
     "selectedFiles": "Selected files",
-    "monthly": "",
-    "quarterly": "",
-    "annual": ""
+    "monthly": "Monthly",
+    "quarterly": "Quarterly",
+    "annual": "Annual"
   },
   "components": {
     "HeadBar": {
