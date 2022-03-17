@@ -130,7 +130,10 @@
         "Project": "Project",
         "SelectedProject": "the project that you want to add the selected references to",
         "AddPaperToolTip": "Add the selected references",
-        "Confirm": "Confirm"
+        "Confirm": "Confirm",
+        "wasAddedToProject": "{{count}} selected paper was added successfully to Project {{project}}",
+        "wasAddedToProject_plural": "{{count}}selected papers were added successfully to Project {{project}}",
+        "wasAddedToProject_0": "The selected paper(s) have already been added to Project {{project}}"
       }
     },
     "application": {

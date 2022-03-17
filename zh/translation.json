@@ -130,7 +130,8 @@
         "Project": "项目",
         "SelectedProject": "您要添加选中引用的项目",
         "AddPaperToolTip": "添加选择的引用",
-        "Confirm": "确定"
+        "Confirm": "确定",
+        "wasAddedToProject_0": ""
       }
     },
     "application": {
