@@ -159,7 +159,7 @@
         "Email": "Correo electrónico",
         "Free": "Gratis",
         "Premium": "Premium",
-        "GoPremium": "Hazte Premium",
+        "GoPremium": "Ir a Premium",
         "PaymentMethod": "Método de pago",
         "FreeFeatures1": "Importación de referencias con un solo clic",
         "FreeFeatures2": "Referencias ilimitadas",
@@ -320,8 +320,8 @@
         "pageTitle": "Citasion: Ir al premium",
         "pageDesc": "Lleve su gestión de referencias al siguiente nivel de eficiencia.",
         "startingAt": "<0>Starting at </0><1>$2.99</1><2>/month</2>",
-        "premiumExpire": "Your premium trial will expire by <2><0>{{expiryDate}}</0></2>.",
-        "volumeDiscountsAnswer": "Yes! We offer volume discounts on annual plans for more than 5 members. Please <2><0>contact us</0></2> if you’re buying a plan for more than 5 members."
+        "premiumExpire": "Su prueba premium expirará en <2><0>{{expiryDate}}</0></2>.",
+        "volumeDiscountsAnswer": "Sí. Ofrecemos descuentos por volumen en planes anuales para más de 5 miembros. Por favor, <2><0>contacta con nosotros</0></2> si vas a comprar un plan para más de 5 miembros."
       }
     },
     "errors": {
@@ -496,7 +496,7 @@
     "nbib": "NBIB",
     "endnoteXml": "EndNote XML",
     "free": "Gratis",
-    "select": "Seleccione",
+    "select": "Seleccionar",
     "frequentlyAskedQuestions": "Preguntas frecuentes",
     "emailAddress": "Dirección de correo electrónico",
     "title": "Título",
@@ -531,7 +531,10 @@
     "view": "Ver",
     "checkout": "Comprobación",
     "PdfFile": "Archivo PDF",
-    "selectedFiles": "Archivos seleccionados"
+    "selectedFiles": "Archivos seleccionados",
+    "monthly": "",
+    "quarterly": "",
+    "annual": ""
   },
   "components": {
     "HeadBar": {
