@@ -531,7 +531,7 @@
   },
   "components": {
     "HeadBar": {
-      "hello": "Hello {{user.name}}"
+      "hello": "Hello {{name}}"
     },
     "UploadReferenceDialog": {
       "numberAdded": "{{response}} paper was added successfully.",
