@@ -464,7 +464,8 @@
       "importTypes": "",
       "dragDrop": "",
       "selectedFiles": "",
-      "readMoreAboutFormats": ""
+      "readMoreAboutFormats": "",
+      "youCanUpload": ""
     },
     "ContactForm": {
       "howToStart": "",
@@ -515,7 +516,8 @@
       "parseMetadata": "",
       "thinking": "",
       "somePapers": "",
-      "tryCitasion": ""
+      "tryCitasion": "Try <2><0>Citasion Premium</0></2> for free for 3 months.",
+      "dragAndDrop": ""
     }
   },
   "globals": {
@@ -628,6 +630,7 @@
     "date": "",
     "view": "",
     "checkout": "",
-    "PdfFile": ""
+    "PdfFile": "",
+    "selectedFiles": ""
   }
 }
