@@ -391,30 +391,30 @@
     },
     "references": {
       "ReferenceBrowseView": {
-        "selectRef": "",
-        "updateRef": ""
+        "selectRef": "Seleccionar esta referencia",
+        "updateRef": "Actualizar o eliminar esta referencia"
       }
     },
     "support": {
-      "title": ""
+      "title": "Citasion: Centro de apoyo"
     },
     "uninstall": {
-      "why": "",
-      "yourMessage": "",
-      "pleaseSelect": "",
-      "pleaseCheck": "",
-      "paperImport]": "",
-      "website]": "",
-      "googledocs]": "",
-      "overleaf]": "",
-      "word]": "",
-      "slows": "",
-      "createAccount": "",
-      "other": "",
-      "improve": "",
-      "helpUs": "",
-      "helpUsText": "",
-      "title": ""
+      "why": "¿Por qué has desinstalado Citasion?",
+      "yourMessage": "Su mensaje ha sido recibido.",
+      "pleaseSelect": "Por favor, seleccione al menos una opción.",
+      "pleaseCheck": "Por favor, marque todo lo que corresponda:",
+      "paperImport]": "La importación de artículos no funciona bien",
+      "website]": "El sitio web no funciona bien",
+      "googledocs]": "No funciona bien en Google Docs",
+      "overleaf]": "No funciona bien en Overleaf",
+      "word]": "No funciona bien en Word",
+      "slows": "El software ralentiza mi ordenador",
+      "createAccount": "No quiero crear una cuenta",
+      "other": "Otras razones",
+      "improve": "¿De qué otra forma podemos mejorar Citasion?",
+      "helpUs": "Ayúdanos a mejorar",
+      "helpUsText": "Sabemos que nuestra herramienta de gestión de referencias no es perfecta, y nos comprometemos a mejorarla para usted. Puede decirnos por qué ha desinstalado la extensión Citasion?",
+      "title": "Citasion: Lamento que se vaya"
     }
   },
   "globals": {
