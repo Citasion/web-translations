@@ -42,7 +42,9 @@
         "addnew": "Add a new project",
         "addnewCaps": "ADD A NEW PROJECT",
         "projectNameReq": "Project name is required",
-        "": ""
+        "errorLoading": "Errors in loading shared projects. Please try refreshing this page.",
+        "Shared": "Shared Projects",
+        "My": "My Projects"
       },
       "ProjectDetailsView": {
         "shareOthersDialog": "To share this project with others, please type or paste their email addresses and click Share.",

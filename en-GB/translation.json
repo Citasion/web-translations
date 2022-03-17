@@ -42,7 +42,9 @@
         "addnew": "Add a new project",
         "whatIsName": "What is the name of this new project?",
         "projectNameReq": "",
-        "": ""
+        "errorLoading": "",
+        "My": "",
+        "Shared": ""
       },
       "ProjectDetailsViews": {
         "beforeGraph": "Before {{yearValue}}",

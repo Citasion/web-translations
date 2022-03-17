@@ -42,7 +42,9 @@
         "addnew": "",
         "whatIsName": "",
         "projectNameReq": "",
-        "": ""
+        "errorLoading": "",
+        "My": "",
+        "Shared": ""
       },
       "ProjectDetailsView": {
         "accessInsightDashboardNote": "",
