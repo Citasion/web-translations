@@ -542,7 +542,8 @@
       "importTypes": "Citasion puede importar referencias de los siguientes tipos de archivos:",
       "dragDrop": "Arrastre y suelte los archivos aquí o haga clic en",
       "selectedFiles": "Archivos seleccionados",
-      "readMoreAboutFormats": "Más información sobre los formatos de archivos de referencia que aceptamos"
+      "readMoreAboutFormats": "Más información sobre los formatos de archivos de referencia que aceptamos",
+      "youCanUpload": "Puede cargar uno o varios archivos de datos de referencia exportados."
     },
     "AddForms": {
       "pdfLinkNeeds": "El enlace al PDF debe ser una url válida.",
