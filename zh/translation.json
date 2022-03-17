@@ -632,6 +632,9 @@
     "view": "",
     "checkout": "",
     "PdfFile": "",
-    "selectedFiles": ""
+    "selectedFiles": "",
+    "monthly": "",
+    "quarterly": "",
+    "annual": ""
   }
 }
