@@ -382,7 +382,11 @@
         "weNotice": "",
         "updatePayment": "",
         "changePaymentMethod": "Cambiar el método de pago",
-        "changesWillBeEffective": "Los cambios entrarán en vigor en el siguiente ciclo de facturación."
+        "changesWillBeEffective": "Los cambios entrarán en vigor en el siguiente ciclo de facturación.",
+        "paymentChangeAgreement": "The change of payment method will be effective in your next billing cycle. By clicking the Paypal button above, you are agreeing to our <2>Terms of Service</2>. If you have questions, you can reach out to us by sending an email to us at <4>support@citasion.cm</4>.",
+        "priceDiscount": "<0>$</0><1> / month</1>",
+        "paymentAgreement": "Your subscription will automatically renew every <1>{{frequency}}</1> month(s). You will be charged <4>{{price}}</4> on each renewal until you cancel in your account settings. If you cancel, previous charges will not be refunded, but you may continue to use the service until the end of the term you paid for. By clicking the \"Check out\" button above, you are agreeing to our <7>Terms of Service</7>. If you have questions, you can reach out to us by sending an email to us at <9>support@citasion.com</9>.",
+        "saveDiscount": ""
       }
     },
     "references": {
@@ -630,10 +634,5 @@
       "somePapers": "Algunos documentos PDF pueden carecer de metadatos para ser analizados. Más información sobre los metadatos PDF",
       "tryCitasion": "Try <2><0>Citasion Premium</0></2> for free for 3 months."
     }
-  },
-  "<0>$</0><1> / month</1>": "<0>$</0><1> / month</1>",
-  "<0></0>": "<0></0>",
-  "Your subscription will automatically renew every  month(s). You will be charged $ on each renewal until you cancel in your account settings. If you cancel, previous charges will not be refunded, but you may continue to use the service until the end of the term you paid for. By clicking the \"Check out\" button above, you are agreeing to our <7>Terms of Service</7>. If you have questions, you can reach out to us by sending an email to us at <9>support@citasion.com</9>.": "Your subscription will automatically renew every  month(s). You will be charged $ on each renewal until you cancel in your account settings. If you cancel, previous charges will not be refunded, but you may continue to use the service until the end of the term you paid for. By clicking the \"Check out\" button above, you are agreeing to our <7>Terms of Service</7>. If you have questions, you can reach out to us by sending an email to us at <9>support@citasion.com</9>.",
-  "The change of payment method will be effective in your next billing cycle. By clicking the Paypal button above, you are agreeing to our <2>Terms of Service</2>. If you have questions, you can reach out to us by sending an email to us at <4>support@citasion.cm</4>.": "The change of payment method will be effective in your next billing cycle. By clicking the Paypal button above, you are agreeing to our <2>Terms of Service</2>. If you have questions, you can reach out to us by sending an email to us at <4>support@citasion.cm</4>.",
-  "The change of payment method will be effective in your next billing cycle. By clicking the  button above, you are agreeing to our <4>Terms of Service</4>. If you have questions, you can reach out to us by sending an email to us at <6>support@citasion.com</6>.": "The change of payment method will be effective in your next billing cycle. By clicking the  button above, you are agreeing to our <4>Terms of Service</4>. If you have questions, you can reach out to us by sending an email to us at <6>support@citasion.com</6>."
+  }
 }
