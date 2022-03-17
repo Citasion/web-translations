@@ -343,7 +343,7 @@
       "InvoiceDetailView": {
         "dateOfIssue": "Date of issue",
         "billedTo": "Billed to",
-        "invoiceDetails": ""
+        "invoiceDetails": "Invoice Details"
       }
     },
     "pricing": {
@@ -366,7 +366,7 @@
         "chargedOn": "charged on {{plan}} basis",
         "newPlan": "New Plan",
         "planName": "{{plan}} Plan",
-        "newPlanPrice": "{{data.priceMonthly}} / month + tax",
+        "newPlanPrice": "{{price}} / month + tax",
         "whatHappens": "What happens next?",
         "expiry": "Your existing plan will expire by {{date}}",
         "newPlanExpiry": "Your new plan starts by {{date}} and you’ll be charged {{bill}} + tax on that day",
