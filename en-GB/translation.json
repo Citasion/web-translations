@@ -387,9 +387,10 @@
         "changePaymentMethod": "Change Your Payment Method",
         "changesWillBeEffective": "Changes will take effect in the next billing cycle.",
         "paymentChangeAgreement": "The change of payment method will be effective in your next billing cycle. By clicking the Paypal button above, you are agreeing to our <2>Terms of Service</2>. If you have questions, you can reach out to us by sending an email to us at <4>support@citasion.cm</4>.",
-        "priceDiscount": "<0>$</0><1> / month</1>",
+        "priceDiscount": "<0>${{price}}</0><1> / month</1>",
         "paymentAgreement": "Your subscription will automatically renew every <1>{{frequency}}</1> month(s). You will be charged <4>{{price}}</4> on each renewal until you cancel in your account settings. If you cancel, previous charges will not be refunded, but you may continue to use the service until the end of the term you paid for. By clicking the \"Check out\" button above, you are agreeing to our <7>Terms of Service</7>. If you have questions, you can reach out to us by sending an email to us at <9>support@citasion.com</9>.",
-        "saveDiscount": "save {{discount}}%"
+        "saveDiscount": "save {{discount}}%",
+        "billedAsOne": "Billed as one payment of ${{price}}"
       }
     },
     "references": {
