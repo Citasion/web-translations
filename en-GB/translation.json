@@ -527,7 +527,8 @@
     "date": "Date",
     "view": "View",
     "checkout": "Check Out",
-    "PdfFile": "PDF File"
+    "PdfFile": "PDF File",
+    "selectedFiles": "Selected files"
   },
   "components": {
     "HeadBar": {
@@ -633,7 +634,8 @@
       "parseMetadata": "Citasion will parse all the detectable metadata of the uploaded PDF files and generate reference entries.",
       "thinking": "Thinking about storing all your PDF paper files online in one-place?",
       "somePapers": "Some PDF papers may lack the metadata to be parsed. Read more about PDF metadata",
-      "tryCitasion": "Try <2><0>Citasion Premium</0></2> for free for 3 months."
+      "tryCitasion": "Try <2><0>Citasion Premium</0></2> for free for 3 months.",
+      "dragAndDrop": "Drag and drop files here or click"
     }
   }
 }

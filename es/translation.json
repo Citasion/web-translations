@@ -527,7 +527,8 @@
     "date": "Fecha",
     "view": "Ver",
     "checkout": "Comprobación",
-    "PdfFile": "Archivo PDF"
+    "PdfFile": "Archivo PDF",
+    "selectedFiles": "Archivos seleccionados"
   },
   "components": {
     "HeadBar": {
@@ -633,7 +634,8 @@
       "parseMetadata": "Citasion analizará todos los metadatos detectables de los archivos PDF cargados y generará entradas de referencia.",
       "thinking": "¿Estás pensando en almacenar todos tus archivos PDF en línea en un solo lugar?",
       "somePapers": "Algunos documentos PDF pueden carecer de metadatos para ser analizados. Más información sobre los metadatos PDF",
-      "tryCitasion": "Try <2><0>Citasion Premium</0></2> for free for 3 months."
+      "tryCitasion": "Prueba <2><0>Citasion Premium</0></2> gratis durante 3 meses.",
+      "dragAndDrop": "Arrastre y suelte los archivos aquí o haga clic en"
     }
   }
 }
