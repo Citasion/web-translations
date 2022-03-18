@@ -187,6 +187,8 @@
     },
     "Home": {
       "HomeView": {
+        "title": "Citasion: Smart online reference management",
+        "desc": "Citasion is a free reference management tool that makes online academic writing effective. Getting started is simple — download Citasion's extension ...",
         "introducing": "Presentamos",
         "citasion": "Citasion",
         "intro": "Gestión de referencias intuitiva creada para las colaboraciones en la web.",
@@ -195,7 +197,6 @@
         "check3": "Gestión de referencias sin complicaciones para la escritura colaborativa",
         "check4": "Más de 1.000 estilos de referencia disponibles",
         "check5": "Una visión inteligente de su bibliografía y lista de referencias",
-        "check6": "Funciona en ordenadores de sobremesa y tabletas con Windows, macOS, Linux y Android*",
         "VideoTitle": "Citasion - ¿Necesita ayuda para escribir un artículo?",
         "addToFirefoxBtn": "<0>Añadir a Firefox</0>. <1>Es gratis</1>",
         "addToChromeBtn": "<0>Añadir a Chrome</0>. <1>Es gratis</1>",
