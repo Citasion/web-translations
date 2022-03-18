@@ -81,5 +81,14 @@
       "privacyExtension": "Citasion: Política de privacidad de la extensión / add-on / add-in",
       "personalInfo": "Citasion: Solicitud de información personal"
     }
+  },
+  "layouts": {
+    "LegalLayout": {
+      "NavBar": {
+        "extensionPrivacy": "Política de privacidad de la extensión",
+        "cookieNotice": "Aviso sobre las cookies",
+        "personalInfoRequests": "Solicitudes de información personal"
+      }
+    }
   }
 }

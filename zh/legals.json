@@ -81,5 +81,14 @@
       "privacyExtension": "",
       "personalInfo": ""
     }
+  },
+  "layouts": {
+    "LegalLayout": {
+      "NavBar": {
+        "extensionPrivacy": "",
+        "cookieNotice": "",
+        "personalInfoRequests": ""
+      }
+    }
   }
 }
