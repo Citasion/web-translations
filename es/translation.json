@@ -38,13 +38,13 @@
         "DeleteTextShare": "Esta operación impedirá que accedas a este proyecto compartido en el futuro. ¿Está seguro?",
         "DeleteTextConfirm": "Escribe el nombre del proyecto para eliminar lo:",
         "DeleteTextProjectName": "Nombre del proyecto",
-        "pageTitle": "Citasion: Proyectos",
-        "myProjects": "Mis proyectos",
-        "sharedProjects": "Proyectos compartidos",
         "addnewCaps": "AÑADIR UN NUEVO PROYECTO",
         "addnew": "Añadir un nuevo proyecto",
         "whatIsName": "¿Cuál es el nombre de este nuevo proyecto?",
-        "emailAddresses": "Direcciones de correo electrónico"
+        "projectNameReq": "El nombre del proyecto es obligatorio",
+        "errorLoading": "Errores en la carga de proyectos compartidos. Por favor, intente actualizar esta página.",
+        "My": "Mis proyectos",
+        "Shared": "Proyectos compartidos"
       },
       "ProjectDetailsViews": {
         "beforeGraph": "Antes de {{yearValue}}",
@@ -52,8 +52,8 @@
         "numreferences": "Número de referencias por año"
       },
       "ProjectDetailsView": {
-        "articlesReferenced": "<0>{{types.article}}</0><1>artículos de revistas referenciados</1>",
-        "conferenceReferenced": "<0>{{types.inproceedings}}</0><1>actas de conferencias referenciadas</1>",
+        "articlesReferenced": "<0>{{number}}</0><1>artículos de revistas referenciados</1>",
+        "conferenceReferenced": "<0>{{number}}</0><1>actas de conferencias referenciadas</1>",
         "shareOthers": "Compartir con otros",
         "shareOthersDialog": "Para compartir este proyecto con otras personas, escribe o pegue sus direcciones de correo electrónico y haga clic en Compartir.",
         "emailAddresses": "Direcciones de correo electrónico",
@@ -130,7 +130,10 @@
         "Project": "Proyectos",
         "SelectedProject": "el proyecto al que desea agregar las referencias seleccionadas",
         "AddPaperToolTip": "Agregar las referencias seleccionadas",
-        "Confirm": "Confirmar"
+        "Confirm": "Confirmar",
+        "wasAddedToProject": "{{count}} artículo seleccionado se ha añadido con éxito al Proyecto {{project}}",
+        "wasAddedToProject_plural": "{{count}} artículos seleccionados se añadieron con éxito al Proyecto {{project}}",
+        "wasAddedToProject_0": "Los artículos seleccionados ya se han añadido al proyecto {{project}}"
       }
     },
     "application": {
@@ -156,7 +159,7 @@
         "Email": "Correo electrónico",
         "Free": "Gratis",
         "Premium": "Premium",
-        "GoPremium": "Hazte Premium",
+        "GoPremium": "Ir a Premium",
         "PaymentMethod": "Método de pago",
         "FreeFeatures1": "Importación de referencias con un solo clic",
         "FreeFeatures2": "Referencias ilimitadas",
@@ -178,7 +181,6 @@
         "CancelText": "Está seguro de cancelar su suscripción a Citasion Premium?",
         "Confirm": "Confirmar",
         "pageTitle": "Citasion: Configuración de la cuenta",
-        "defaultPlan": "Plan por defecto",
         "manageSubscription": "Gestionar su suscripción",
         "willExpire": "Su prueba premium expirará en {{expiryDate}}.",
         "expirationDate": "Fecha de caducidad {{date}}.",
@@ -231,7 +233,6 @@
       "LoginIframeView": {
         "signinGoogle": "Acceder con Google",
         "signinMicrosoft": "Acceder con Microsoft",
-        "citasionLogin": "Citasion: Iniciar sesión",
         "loginNote": "Entra en Citasion ahora para desbloquearlo:",
         "check1": "Importación de artículos con un solo clic",
         "check2": "Fácil referenciación para Google Docs, Overleaf y Word",
@@ -259,6 +260,14 @@
         "startWith": "Comienza con Citasion",
         "alreadyHave": "¿Ya tiene una cuenta?",
         "signupUserPass": "Regístrese con el correo electrónico"
+      },
+      "EmailVerification": {
+        "title": "Se requiere la verificación del correo electrónico",
+        "text": "Su correo electrónico debe ser verificado para poder acceder a su cuenta. Por favor, visite su correo electrónico y siga las instrucciones que se proporcionan allí."
+      },
+      "AuthRedirect": {
+        "errorVerify": "No hemos podido verificar su correo electrónico. Por favor, póngase en contacto con support@citasion.com",
+        "invalidPassword": "Ficha de restablecimiento de contraseña no esta válida"
       }
     },
     "campaign": {
@@ -312,9 +321,105 @@
         "pageTitle": "Citasion: Ir al premium",
         "pageDesc": "Lleve su gestión de referencias al siguiente nivel de eficiencia.",
         "startingAt": "<0>Starting at </0><1>$2.99</1><2>/month</2>",
-        "premiumExpire": "Your premium trial will expire by <2><0>{{expiryDate}}</0></2>.",
-        "volumeDiscountsAnswer": "Yes! We offer volume discounts on annual plans for more than 5 members. Please <2><0>contact us</0></2> if you’re buying a plan for more than 5 members."
+        "premiumExpire": "Su prueba premium expirará en <2><0>{{expiryDate}}</0></2>.",
+        "volumeDiscountsAnswer": "Sí. Ofrecemos descuentos por volumen en planes anuales para más de 5 miembros. Por favor, <2><0>contacta con nosotros</0></2> si vas a comprar un plan para más de 5 miembros."
       }
+    },
+    "errors": {
+      "NotAuthorized": {
+        "mightLost": "Puede estar perdido. No está autorizado a acceder a esta página.",
+        "back": "Volver al inicio"
+      },
+      "NotFoundView": {
+        "mightLost": "Puede estar perdido. La página que busca no está aquí."
+      },
+      "UnknownError": {
+        "error": "Se ha producido un error."
+      }
+    },
+    "home": {
+      "HomeView": {
+        "title": "Citasion: Gestión inteligente de referencias en línea",
+        "desc": "Citasion es una herramienta gratuita de gestión de referencias que hace que la escritura académica en línea sea eficaz. Empezar es sencillo: descarga la extensión de Citasion..."
+      }
+    },
+    "invoice": {
+      "InvoiceDetailView": {
+        "dateOfIssue": "Fecha de emisión",
+        "billedTo": "Facturado a",
+        "invoiceDetails": "Detalles de la factura"
+      }
+    },
+    "pricing": {
+      "PlanChange": {
+        "bestValue": "El mejor valor",
+        "changePlan": "Cambie su plan",
+        "individualPlans": "PLANES INDIVIDUALES",
+        "experience": "Experimenta toda la potencia de Citasion",
+        "chooseDiff": "Elija un plan Premium diferente",
+        "manageRefs": "Gestionar las referencias.",
+        "premiumfeatures": "Los usuarios Premium pueden gestionar un número ilimitado de referencias.",
+        "literatureInsights": "Obtener información sobre la literatura.",
+        "literaturesummary": "¿Le preocupa si hay lagunas en su revisión bibliográfica? ¿Desea encontrar artículos similares pero tiene dificultades para formular consultas eficaces? Nosotros le ayudamos.",
+        "collaborateWithOthers": "Colaborar con otros.",
+        "collaborateSummary": "Trabaje con otros investigadores mediante la gestión de referencias basada en proyectos para maximizar la eficiencia de la escritura académica colaborativa.",
+        "testimonial": "Citasion no sólo gestiona mis referencias sino que también me permite tener confianza en mi revisión bibliográfica.",
+        "testimonialName": "- Vanessa Dennen, investigadora de tecnología educativa",
+        "premiumPromoText": "Citasion Premium le ayuda a realizar una revisión bibliográfica exhaustiva y perspicaz.",
+        "currentPlan": "Plan actual",
+        "currentPlanText": "{{subscription.plan}} Plan",
+        "priceText": "{{price}} / mes + impuestos",
+        "chargedOn": "se cobran {{plan}}",
+        "newPlan": "Nuevo plan",
+        "planName": "{{plan}} Plan",
+        "newPlanPrice": "{{price}} / mes + impuestos",
+        "whatHappens": "¿Qué pasa después?",
+        "expiry": "Su plan actual expirará en {{date}}",
+        "newPlanExpiry": "Su nuevo plan comienza en {{date}} y se le cobrará {{bill}} + impuestos ese día",
+        "futureCharge": "En el futuro se le cobraría {{plan}}",
+        "paypalredirect": "Será dirigido a Paypal para confirmar el cambio de su plan. Usted recibirá un correo electrónico de nosotros cuando su plan se actualiza con éxito",
+        "paypalemail": "Recibirás un correo electrónico cuando su plan se actualice correctamente",
+        "upgradePremium": "Pasar a Premium",
+        "transactionProgress": "Transacción en curso. Por favor, no actualice la página.",
+        "youHaveChosen": "Usted ha elegido",
+        "planMonth": "{{plan}} Plan {{date}} / mes",
+        "weNotice": "Nos hemos dado cuenta de que no ha llegado la fecha de caducidad de su suscripción cancelada. Puedes utilizar el servicio premium hasta la fecha de caducidad. Si adquieres un nuevo plan, NO se te reembolsará el tiempo restante de la suscripción cancelada.",
+        "updatePayment": "Actualizar el pago",
+        "changePaymentMethod": "Cambiar el método de pago",
+        "changesWillBeEffective": "Los cambios entrarán en vigor en el siguiente ciclo de facturación.",
+        "paymentChangeAgreement": "The change of payment method will be effective in your next billing cycle. By clicking the Paypal button above, you are agreeing to our <2>Terms of Service</2>. If you have questions, you can reach out to us by sending an email to us at <4>support@citasion.cm</4>.",
+        "priceDiscount": "<0>${{price}}</0><1> / mes</1>",
+        "paymentAgreement": "Su suscripción se renovará automáticamente cada <1>{frecuencia}}</1> mes(es). Se le cobrará <4>{precio}}</4> en cada renovación hasta que la cancele en la configuración de su cuenta. Si cancelas, no se reembolsarán los cargos anteriores, pero podrás seguir utilizando el servicio hasta el final del plazo que hayas pagado. Al hacer clic en el botón \"Check out\" de arriba, está aceptando nuestros <7>Términos de Servicio</7>. Si tiene preguntas, puede ponerse en contacto con nosotros enviando un correo electrónico a <9>support@citasion.com</9>.",
+        "saveDiscount": "ahorra un {{discount}}%.",
+        "billedAsOne": "Facturado como un solo pago de ${{price}}"
+      }
+    },
+    "references": {
+      "ReferenceBrowseView": {
+        "selectRef": "Seleccionar esta referencia",
+        "updateRef": "Actualizar o eliminar esta referencia"
+      }
+    },
+    "support": {
+      "title": "Citasion: Centro de apoyo"
+    },
+    "uninstall": {
+      "why": "¿Por qué has desinstalado Citasion?",
+      "yourMessage": "Su mensaje ha sido recibido.",
+      "pleaseSelect": "Por favor, seleccione al menos una opción.",
+      "pleaseCheck": "Por favor, marque todo lo que corresponda:",
+      "paperImport]": "La importación de artículos no funciona bien",
+      "website]": "El sitio web no funciona bien",
+      "googledocs]": "No funciona bien en Google Docs",
+      "overleaf]": "No funciona bien en Overleaf",
+      "word]": "No funciona bien en Word",
+      "slows": "El software ralentiza mi ordenador",
+      "createAccount": "No quiero crear una cuenta",
+      "other": "Otras razones",
+      "improve": "¿De qué otra forma podemos mejorar Citasion?",
+      "helpUs": "Ayúdanos a mejorar",
+      "helpUsText": "Sabemos que nuestra herramienta de gestión de referencias no es perfecta, y nos comprometemos a mejorarla para usted. Puede decirnos por qué ha desinstalado la extensión Citasion?",
+      "title": "Citasion: Lamento que se vaya"
     }
   },
   "globals": {
@@ -335,7 +440,6 @@
     "twitter": "Twitter",
     "linkedin": "LinkedIn",
     "login": "Entrar",
-    "signup": "Registrar",
     "loading": "Cargando",
     "": "<0>{{title}}</0>",
     "profile": "Perfil",
@@ -394,7 +498,7 @@
     "nbib": "NBIB",
     "endnoteXml": "EndNote XML",
     "free": "Gratis",
-    "select": "Seleccione",
+    "select": "Seleccionar",
     "frequentlyAskedQuestions": "Preguntas frecuentes",
     "emailAddress": "Dirección de correo electrónico",
     "title": "Título",
@@ -406,23 +510,49 @@
     "unlimited": "Ilimitado",
     "googleDocs": "Google Docs",
     "word": "Word",
-    "overleaf": "Overleaf"
+    "overleaf": "Overleaf",
+    "yes": "Sí",
+    "no": "No",
+    "iagree": "Estoy de acuerdo",
+    "error": "Error",
+    "email": "Correo electrónico",
+    "password": "Contraseña",
+    "invoices": "Facturas",
+    "paid": "Pagado",
+    "invoice": "Factura",
+    "dueDate": "Fecha de vencimiento",
+    "description": "Descripción",
+    "citasionPremium": "Citasion Premium",
+    "subtotal": "Subtotal",
+    "taxes": "Impuestos",
+    "total": "Total",
+    "status": "Estatus",
+    "amount": "Cantidad",
+    "id": "ID",
+    "date": "Fecha",
+    "view": "Ver",
+    "checkout": "Comprobación",
+    "PdfFile": "Archivo PDF",
+    "selectedFiles": "Archivos seleccionados",
+    "monthly": "Mensualmente",
+    "quarterly": "Trimestralmente",
+    "annual": "Anualmente"
   },
   "components": {
     "HeadBar": {
-      "hello": "Hola {{user.name}}"
+      "hello": "Hola {{name}}"
     },
     "UploadReferenceDialog": {
-      "numberAdded": "Se ha añadido {{response}} artículo con éxito.",
-      "numberAdded_plural": "Se han añadido {{response}} articulos con éxito.",
+      "numberAdded": "Se ha añadido {{count}} artículo con éxito.",
+      "numberAdded_plural": "Se han añadido {{count}} articulos con éxito.",
       "noneUploaded": "Ninguno de los archivos de datos de referencia cargados puede ser analizado",
       "noneAdded": "Se añadieron 0 artículos porque no se detectaron nuevos artículos",
       "uploadFiles": "Subir archivos de referencia",
       "importTypes": "Citasion puede importar referencias de los siguientes tipos de archivos:",
-      "uploadOneOrMore": "Puede cargar uno o varios archivos de datos de referencia exportados.",
       "dragDrop": "Arrastre y suelte los archivos aquí o haga clic en",
       "selectedFiles": "Archivos seleccionados",
-      "readMoreAboutFormats": "Más información sobre los formatos de archivos de referencia que aceptamos"
+      "readMoreAboutFormats": "Más información sobre los formatos de archivos de referencia que aceptamos",
+      "youCanUpload": "Puede cargar uno o varios archivos de datos de referencia exportados."
     },
     "AddForms": {
       "pdfLinkNeeds": "El enlace al PDF debe ser una url válida.",
@@ -487,6 +617,33 @@
       "addPapers": "Añade artículos a sus proyectos Citasion",
       "write": "Escribe artículos con Citasion",
       "billing": "Facturación y suscripción"
+    },
+    "CitationDeleteDialog": {
+      "deleteReference": "Borrar esta referencia",
+      "note1": "Esta operación eliminará permanentemente esta referencia. ¿Está usted seguro?",
+      "note2": "Esta operación eliminará esta referencia del proyecto actual pero no eliminará la referencia en sí. ¿Está usted seguro?"
+    },
+    "CitationUpdateDialog": {
+      "updateReference": "Actualizar esta referencia"
+    },
+    "CookiesNotification": {
+      "weUseCookies": "We use Cookies to ensure that we give you the best experience on our website. Read our <2>Privacy Policy</2>."
+    },
+    "Errors": {
+      "message": "Estamos trabajando para solucionar este problema. Por favor, inténtelo de nuevo."
+    },
+    "ParsePdfDialog": {
+      "noneParsed": "Ninguno de los PDF cargados puede ser analizado",
+      "parsedSuccessfully": "Se ha añadido {{count}} articulo con éxito.",
+      "parsedSuccessfully_plural": "{{count}} artículos fueron añadidos con éxito.",
+      "zeroPapers": "Se añadieron 0 artículos porque no se detectaron nuevos artículos",
+      "parsePDFFiles": "Analizar archivos PDF",
+      "uploadMore": "Puede cargar uno o varios archivos de articulo en formato PDF.",
+      "parseMetadata": "Citasion analizará todos los metadatos detectables de los archivos PDF cargados y generará entradas de referencia.",
+      "thinking": "¿Estás pensando en almacenar todos tus archivos PDF en línea en un solo lugar?",
+      "somePapers": "Algunos documentos PDF pueden carecer de metadatos para ser analizados. Más información sobre los metadatos PDF",
+      "tryCitasion": "Prueba <2><0>Citasion Premium</0></2> gratis durante 3 meses.",
+      "dragAndDrop": "Arrastre y suelte los archivos aquí o haga clic en"
     }
   }
 }

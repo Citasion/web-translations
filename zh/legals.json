@@ -2,7 +2,6 @@
   "views": {
     "legals": {
       "PrivacyView": {
-        "pageTitle": "",
         "title": "",
         "date": "",
         "topContent": ""
@@ -40,7 +39,6 @@
         "contactUs": ""
       },
       "CookieNoticeView": {
-        "pageTitle": "",
         "title": "",
         "date": "",
         "intro": "",
@@ -52,19 +50,16 @@
         "thirdParty": ""
       },
       "PersonalInfoRequestsView": {
-        "pageTitle": "",
         "title": "",
         "process": "",
         "privacyinfo": ""
       },
       "PrivacyExtensionView": {
-        "pageTitle": "",
         "title": "",
         "date": "",
         "topContent": ""
       },
       "TermsView": {
-        "pageTitle": "",
         "title": "",
         "date": "",
         "definitions": "",
@@ -79,6 +74,20 @@
         "individual": "",
         "organizations": "",
         "arbitration": ""
+      },
+      "terms": "",
+      "privacy": "",
+      "cookie": "",
+      "privacyExtension": "",
+      "personalInfo": ""
+    }
+  },
+  "layouts": {
+    "LegalLayout": {
+      "NavBar": {
+        "extensionPrivacy": "",
+        "cookieNotice": "",
+        "personalInfoRequests": ""
       }
     }
   }

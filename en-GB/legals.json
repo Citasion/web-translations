@@ -5,7 +5,6 @@
         "licence": "# Grant of Licence\nThe Company grants to you a limited, worldwide, non-exclusive, royalty-free, revocable, and non-commercial licence to: use of Site, Software and Services as herein set forth in the following section as directed by the Company. This includes:\n- using the Site only through a browser.\n- installing any extension Software through a web browser.\n- installing and using an add-in via Word's add-in install process.\nThe Company does not grant you any other rights whatsoever in relation to Site, Software and Services. All other rights are expressly reserved by the Company. ",
         "notAllowed": "# Non allowable uses of Site, Software and Services\nYou are strictly prohibited from, and agree that you will not, adapt, edit, change, modify, transform, publish, republish, distribute, or redistribute Site, Software and Services or any elements, portions, or parts thereof, including without limitation, to any elements, portions, or parts of Site, Software and Services (in any form or media) without the Company’s prior written  consent. You agree not to use any automated data collection methods, data mining, robots,  scraping or any data gathering methods of any kind on Site, Software and Services.",
         "organizations": "# Organisational Users\nIf you are an employee, faculty member or student of a university, school or other entity or organisation that has subscribed to Site, Software and Services (an “Enterprise Subscriber”), you are an “Authorised User” of your Enterprise Subscriber and (i) you represent that you have your Enterprise Subscriber’s permission and authority to use the Site, Software and Services and your Enterprise Subscriber’s “User Content” (as defined below) subject to this Agreement, (ii) this Agreement is an agreement between you, individually, and Citasion, and (iii) your Enterprise Subscriber is jointly responsible for your use of the Site, Software and Services.\n\nIf you are entering into this Agreement on behalf of an Enterprise Subscriber, you represent that you have the authority to bind the Enterprise Subscriber to this Agreement, in which case references to “you” in this Agreement shall mean the Enterprise Subscriber. If you do not have such authority, you must not accept this Agreement and may not use the Site, Software and Services.\narrows",
-        "pageTitle": "Citasion: Terms of Service and License Agreement",
         "rightsAndLimits": "# Description of other rights and limitations\n* Unless you have the express written permission from the Company, you may not distribute the Site, Software and Services or any portion thereof to any third parties.\n* You may not disassemble or reverse engineer Site, Software and Services for any purpose, other than for reviewing the code for personal review, and at all times are bound by the terms \nof this Agreement.\n* The Company may provide you with support services, and any supplemental software code provided  to you as part of those services shall be considered part of Site, Software and Services and  subject to the terms and conditions of this Agreement.\n* You must comply with all applicable laws regarding use of Site, Software and Services.",
         "termination": "# Termination\nYour right to use Site, Software and Services continues until terminated by the Company, which may terminate this Agreement and your licence to use Site, Software and Services at any time, without cause and without notice. You may terminate this agreement at any time by uninstalling and stop using Site, Software and Services. This Agreement will automatically terminate if you fail to comply with any of the terms of this Agreement. Upon termination, you agree to stop using and uninstall Site, Software and Services. ",
         "title": "# Terms of Service and Licence Agreement ",
@@ -19,7 +18,6 @@
         "arbitration": "# Arbitration clause\nTHIS AGREEMENT CONTAINS AN ARBITRATION AGREEMENT, WHICH WILL, WITH LIMITED EXCEPTIONS, REQUIRE YOU TO SUBMIT CLAIMS YOU HAVE AGAINST CITASION AND ITS LICENSORS AND ITS SUPPLIERS TO BINDING AND FINAL ARBITRATION. UNDER THE ARBITRATION AGREEMENT (1) YOU WILL ONLY BE PERMITTED TO PURSUE CLAIMS AGAINST Citasion AND ITS LICENSORS AND ITS SUPPLIERS ON YOUR OWN BEHALF, NOT AS A PLAINTIFF OR CLASS MEMBER IN ANY CLASS OR REPRESENTATIVE ACTION OR  PROCEEDING, (2) YOU WILL ONLY BE PERMITTED TO SEEK RELIEF (INCLUDING MONETARY, INJUNCTIVE, AND DECLARATORY RELIEF) ON YOUR OWN BEHALF, AND (3) YOU ARE WAIVING YOUR RIGHT TO A JURY TRIAL AND YOUR RIGHT TO HAVE YOUR CLAIMS DECIDED BY A JUDGE OR JURY."
       },
       "CookieNoticeView": {
-        "pageTitle": "Citasion: Cookie Notice",
         "title": "# Cookie Notice",
         "date": "Last updated September 19, 2021.",
         "intro": "This Cookie Notice explains how we use cookies and similar technologies as well as the options you have to control them.",
@@ -31,13 +29,11 @@
         "thirdParty": "## Third-party opt-outs\n\nThe major online advertising industry groups offer tools to limit how cookies are used for advertising purposes by participating third parties. More information is available on these sites from the Network Advertising Initiative, the Digital Advertising Alliance, and for users in the EU, the European Interactive Digital Advertising Alliance. Also, Google provides web users with the Google Analytics Opt-out Browser Add-on to prevent the collection of data via Google Analytics."
       },
       "PersonalInfoRequestsView": {
-        "pageTitle": "Citasion: Personal Info Request",
         "title": "# How do I request a copy of my Citasion data and information? ",
         "process": "To request a copy of your Citasion data and information: \n\nSend an email to datarequests@citasion.com from the email address that you have verified with your Citasion account.\n\nAfter submitting your request, it may take up to 30 days to prepare your data. Once your data is ready, we'll send you an email message with a link to download your data to your Citasion account. Or, in some circumstances, we may send your data to the email address associated with your account if you have verified that address.\n\nIf you don’t want to wait, you can also access some of your data and information (including your citations and projects) through your Citasion account at any time. \n",
         "privacyinfo": "To learn more about your data and privacy on Citasion check out our [Privacy Policy](/legal/privacy) and [User Agreement](/legal/terms). "
       },
       "PrivacyExtensionView": {
-        "pageTitle": "Citasion: Extension/Add-on/Add-in Privacy Policy",
         "title": "# Extension / Add-on / Add-in Privacy Policy\n\n* Chrome Extension\n* Firefox Add-on\n* Edge Extension\n* Word Add-in",
         "date": "*Effective October 21, 2021*",
         "topContent": "We want you to understand how and why Citasion LLC (\"Citasion,\" \"we\" or \"us\") collects, uses, and shares information about you when you use our Extension / Add-on / Add-in  (henceforth referred to as “Services”) or when you otherwise interact with us or receive a communication from us.\n\nThe use of information received from Google API will adhere the Chrome Web Store User Data Policy including the Limited Use requirements."
@@ -75,10 +71,23 @@
         "contactUs": "## Contact us\n\nIf you have other questions about this Privacy Policy, please contact us at:\n\ninfo@citasion.com"
       },
       "PrivacyView": {
-        "pageTitle": "Citasion Privacy Policy",
         "title": "# Citasion Privacy Policy",
         "date": "*Effective October 14, 2021*",
         "topContent": "We want you to understand how and why Citasion LLC. (\"Citasion,\" \"we\" or \"us\") collects, uses, and shares information about you when you use our sites, mobile apps, widgets, and other online products and services (collectively, the “Services”) or when you otherwise interact with us or receive a communication from us. This Privacy Policy applies to all of our Services including Add-ons, Add-ins and Extensions."
+      },
+      "terms": "Citasion: Terms of Service and License Agreement",
+      "privacy": "Citasion: Privacy Policy",
+      "cookie": "Citasion: Cookie Notice",
+      "privacyExtension": "Citasion: Extension / Add-on / Add-in Privacy Policy",
+      "personalInfo": "Citasion: Personal Information Request"
+    }
+  },
+  "layouts": {
+    "LegalLayout": {
+      "NavBar": {
+        "extensionPrivacy": "Extension Privacy Policy",
+        "cookieNotice": "Cookie Notice",
+        "personalInfoRequests": "Personal Info Requests"
       }
     }
   }

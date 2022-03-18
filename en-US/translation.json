@@ -38,20 +38,20 @@
         "DeleteTextShare": "This operation will stop you from accessing this shared project in the future. Are you sure?",
         "DeleteTextConfirm": "Confirm you want to delete this project by typing its name:",
         "DeleteTextProjectName": "Project Name",
-        "myProjects": "My Projects",
-        "sharedProjects": "Shared Projects",
-        "pageTitle": "Citasion: Projects",
         "whatIsName": "What is the name of this new project?",
         "addnew": "Add a new project",
         "addnewCaps": "ADD A NEW PROJECT",
-        "emailAddresses": "Email Addresses"
+        "projectNameReq": "Project name is required",
+        "errorLoading": "Errors in loading shared projects. Please try refreshing this page.",
+        "Shared": "Shared Projects",
+        "My": "My Projects"
       },
       "ProjectDetailsView": {
         "shareOthersDialog": "To share this project with others, please type or paste their email addresses and click Share.",
         "shareOthers": "Share with others",
         "emailAddresses": "Email Addresses",
-        "articlesReferenced": "<0>{{types.article}}</0><1>journal articles referenced</1>",
-        "conferenceReferenced": "<0>{{types.inproceedings}}</0><1>conference proceedings referenced</1>",
+        "articlesReferenced": "<0>{{number}}</0><1>journal articles referenced</1>",
+        "conferenceReferenced": "<0>{{number}}</0><1>conference proceedings referenced</1>",
         "topSources": "<0>Top   </0><1>reference sources:</1>",
         "expandAbstract": "Expand to see the abstract",
         "addReferencesProject": "Add references to this project",
@@ -130,7 +130,10 @@
         "Project": "Project",
         "SelectedProject": "the project that you want to add the selected references to",
         "AddPaperToolTip": "Add the selected references",
-        "Confirm": "Confirm"
+        "Confirm": "Confirm",
+        "wasAddedToProject": "{{count}} selected paper was added successfully to Project {{project}}",
+        "wasAddedToProject_plural": "{{count}}selected papers were added successfully to Project {{project}}",
+        "wasAddedToProject_0": "The selected paper(s) have already been added to Project {{project}}"
       }
     },
     "application": {
@@ -178,7 +181,6 @@
         "CancelText": "Are you sure to cancel your subscription of Citasion Premium?",
         "Confirm": "Confirm",
         "pageTitle": "Citasion: Account Settings",
-        "defaultPlan": "Default Plan",
         "manageSubscription": "Manage your subscription",
         "willExpire": "Your premium trial will expire by .",
         "expirationDate": "Expiration date {{date}}.",
@@ -231,7 +233,6 @@
       "LoginIframeView": {
         "signinGoogle": "Sign in with Google",
         "signinMicrosoft": "Sign in with Microsoft",
-        "citasionLogin": "Citasion: Login",
         "loginNote": "Log in Citasion now to unlock:",
         "check1": "One-click paper importation",
         "check2": "Easy referencing for Google Docs, Overleaf and Word",
@@ -249,7 +250,6 @@
         "signMicrosoft": "Sign in with Microsoft",
         "pageTitle": "Citasion: Login",
         "pageDescription": "Log in to your Citasion Account and manage your references with ease.",
-        "signupUserPass": "Sign in with Email",
         "signEmail": "Sign in with Email"
       },
       "RegisterView": {
@@ -260,6 +260,14 @@
         "signupGoogle": "Sign up with Google",
         "signupMicrosoft": "Sign up with Microsoft",
         "signupUserPass": "Sign up with Email"
+      },
+      "EmailVerification": {
+        "title": "Email Verification Required",
+        "text": "Your email needs to verified in order to access your account. Please visit your email and follow the instructions that are provided there."
+      },
+      "AuthRedirect": {
+        "errorVerify": "We were unable to verify your email. Please contact support@citasion.com",
+        "invalidPassword": "Invalid password reset token"
       }
     },
     "campaign": {
@@ -316,6 +324,102 @@
         "premiumExpire": "Your premium trial will expire by <2><0>{{expiryDate}}</0></2>.",
         "volumeDiscountsAnswer": "Yes! We offer volume discounts on annual plans for more than 5 members. Please <2><0>contact us</0></2> if you’re buying a plan for more than 5 members."
       }
+    },
+    "home": {
+      "HomeView": {
+        "title": "Citasion: Smart online reference management",
+        "desc": "Citasion is a free reference management tool that makes online academic writing effective. Getting started is simple — download Citasion's extension ..."
+      }
+    },
+    "errors": {
+      "NotAuthorized": {
+        "mightLost": "You might be lost. You are not authorized to access this page.",
+        "back": "Back to home"
+      },
+      "NotFoundView": {
+        "mightLost": "You might be lost. The page you are looking for isn’t here."
+      },
+      "UnknownError": {
+        "error": "An error just occurred."
+      }
+    },
+    "invoice": {
+      "InvoiceDetailView": {
+        "dateOfIssue": "Date of issue",
+        "billedTo": "Billed to",
+        "invoiceDetails": "Invoice Details"
+      }
+    },
+    "pricing": {
+      "PlanChange": {
+        "experience": "Experience the Full Power of Citasion",
+        "chooseDiff": "Choose a Different Premium Plan",
+        "manageRefs": "Manage References.",
+        "premiumfeatures": "Premium users can manage unlimited number of references.",
+        "literatureInsights": "Get Literature Insights.",
+        "literaturesummary": "Worrying about if there are gaps in your literature review? Want to find similar papers but have difficulties in formating effective queries? We have you covered.",
+        "collaborateWithOthers": "Collaborate with others.",
+        "collaborateSummary": "Work with other researchers through project-based reference management to maximize the efficiency of collaborative academic writing.",
+        "testimonial": "Citasion doesn't only manage my references but also allow me to have confidence in my literature review.",
+        "testimonialName": "- Vanessa Dennen, Instructional Technology Researcher",
+        "premiumPromoText": "Citasion Premium helps you conduct comprehensive and insightful literature review.",
+        "changePlan": "Change Your Plan",
+        "currentPlan": "Current Plan",
+        "currentPlanText": "{{plan}} Plan",
+        "priceText": "{{price}} / month + tax",
+        "chargedOn": "charged on {{plan}} basis",
+        "newPlan": "New Plan",
+        "planName": "{{plan}} Plan",
+        "newPlanPrice": "{{price}} / month + tax",
+        "whatHappens": "What happens next?",
+        "expiry": "Your existing plan will expire by {{date}}",
+        "newPlanExpiry": "Your new plan starts by {{date}} and you’ll be charged {{bill}} + tax on that day",
+        "futureCharge": "You would be charged on a {{plan}} basis in the future",
+        "paypalredirect": "You will be directed to Paypal to confirm the change of your plan. You will receive an email from us when your plan is updated successfully",
+        "paypalemail": "You will receive an email from us when your plan is updated successfully",
+        "bestValue": "Best Value",
+        "individualPlans": "INDIVIDUAL PLANS",
+        "upgradePremium": "Upgrade to Premium",
+        "transactionProgress": "Transaction in progress. Please do not refresh the page.",
+        "youHaveChosen": "You have chosen",
+        "planMonth": "{{plan}} Plan {{date}} / month",
+        "weNotice": "We notice that you haven't reached the expiration date of your canceled subscription. You can use the premium service until the expiration date. If you purchase a new plan, you will NOT get a refund for the remaining time of the canceled subscription.",
+        "updatePayment": "Update Payment",
+        "changePaymentMethod": "Change Your Payment Method",
+        "changesWillBeEffective": "Changes will take effect in the next billing cycle.",
+        "paymentChangeAgreement": "The change of payment method will be effective in your next billing cycle. By clicking the payment button above, you are agreeing to our <2>Terms of Service</2>. If you have questions, you can reach out to us by sending an email to us at <4>support@citasion.cm</4>.",
+        "priceDiscount": "<0>${{price}}</0><1> / month</1>",
+        "paymentAgreement": "Your subscription will automatically renew every <1>{{frequency}}</1> month(s). You will be charged <4>{{price}}</4> on each renewal until you cancel in your account settings. If you cancel, previous charges will not be refunded, but you may continue to use the service until the end of the term you paid for. By clicking the \"Check out\" button above, you are agreeing to our <7>Terms of Service</7>. If you have questions, you can reach out to us by sending an email to us at <9>support@citasion.com</9>.",
+        "saveDiscount": "save {{discount}}%",
+        "billedAsOne": "Billed as one payment of ${{price}}"
+      }
+    },
+    "references": {
+      "ReferenceBrowseView": {
+        "selectRef": "Select this reference",
+        "updateRef": "Update or delete this reference"
+      }
+    },
+    "support": {
+      "title": "Citasion: Support Center"
+    },
+    "uninstall": {
+      "title": "Citasion: Sorry to see you go",
+      "why": "Why did you uninstall Citasion?",
+      "yourMessage": "Your message has been received!",
+      "pleaseSelect": "Please select at least one option.",
+      "pleaseCheck": "Please check all that apply:",
+      "paperImport]": "Paper importation doesn't work well",
+      "website]": "Website doesn't work well",
+      "googledocs]": "Doesn't work well on Google Docs",
+      "overleaf]": "Doesn't work well on Overleaf",
+      "word]": "Doesn't work well on Word",
+      "slows": "Slows down my computer",
+      "createAccount": "I don't want to create an account",
+      "other": "Other reasons",
+      "improve": "How else can we improve Citasion?",
+      "helpUs": "Help Us Improve",
+      "helpUsText": "We know our reference management tool isn’t perfect, and we’re committed to making it better for you. Can you ket us know why you uninstalled the Citasion extension?"
     }
   },
   "globals": {
@@ -336,7 +440,6 @@
     "twitter": "Twitter",
     "linkedin": "LinkedIn",
     "login": "Log in",
-    "signup": "Sign Up",
     "loading": "Loading",
     "confirm": "Confirm",
     "projectname": "Project name",
@@ -407,23 +510,49 @@
     "series": "Series",
     "thesisTitle": "Thesis Title",
     "schoolLocation": "School Location",
-    "": "<0>{{title}}</0>"
+    "": "<0>{{title}}</0>",
+    "email": "Email",
+    "password": "Password",
+    "yes": "Yes",
+    "no": "No",
+    "iagree": "I Agree",
+    "error": "Error",
+    "invoices": "Invoices",
+    "paid": "Paid",
+    "invoice": "Invoice",
+    "dueDate": "Due date",
+    "description": "Description",
+    "citasionPremium": "Citasion Premium",
+    "subtotal": "Subtotal",
+    "taxes": "Taxes",
+    "total": "Total",
+    "status": "Status",
+    "amount": "Amount",
+    "id": "ID",
+    "date": "Date",
+    "view": "View",
+    "checkout": "Check Out",
+    "PdfFile": "PDF File",
+    "selectedFiles": "Selected files",
+    "monthly": "Monthly",
+    "quarterly": "Quarterly",
+    "annual": "Annual"
   },
   "components": {
     "HeadBar": {
-      "hello": "Hello {{user.name}}"
+      "hello": "Hello {{name}}"
     },
     "UploadReferenceDialog": {
-      "numberAdded": "{{response}} paper was added successfully.",
-      "numberAdded_plural": "{{response}} papers were added successfully.",
+      "numberAdded": "{{count}} paper was added successfully.",
+      "numberAdded_plural": "{{count}} papers were added successfully.",
       "noneUploaded": "None of the uploaded reference data files can be parsed",
       "noneAdded": "0 papers were added because no new papers were detected",
       "uploadFiles": "Upload Reference Files",
       "importTypes": "Citasion can import references from the following file types:",
-      "uploadOneOrMore": "You can upload one or more exported reference data files.",
       "dragDrop": "Drag and drop files here or click",
       "selectedFiles": "Selected files",
-      "readMoreAboutFormats": "Read more about the formats of reference files that we accept"
+      "readMoreAboutFormats": "Read more about the formats of reference files that we accept",
+      "youCanUpload": "You can upload one or more exported reference data files."
     },
     "UploadPdfDialog": {
       "uploadPdf": "Upload PDF Files",
@@ -488,6 +617,33 @@
       "questionTypes": "Question types",
       "tellUsMore": "Tell us more",
       "iHaveReadTerms": "I have read the <2>Terms and Conditions</2>"
+    },
+    "CitationUpdateDialog": {
+      "updateReference": "Update This Reference"
+    },
+    "CitationDeleteDialog": {
+      "deleteReference": "Delete This Reference",
+      "note1": "This operation will permanently delete this reference. Are you sure?",
+      "note2": "This operation will remove this reference from the current project but won't delete the reference itself. Are you sure?"
+    },
+    "Errors": {
+      "message": "We are working on fixing this issue. Please try again."
+    },
+    "ParsePdfDialog": {
+      "noneParsed": "None of the uploaded PDFs can be parsed",
+      "parsedSuccessfully": "{{count}} paper was added successfully.",
+      "zeroPapers": "0 papers were added because no new papers were detected",
+      "parsePDFFiles": "Parse PDF Files",
+      "uploadMore": "You can upload one or more PDF paper files.",
+      "parseMetadata": "Citasion will parse all the detectable metadata of the uploaded PDF files and generate reference entries.",
+      "thinking": "Thinking about storing all your PDF paper files online in one-place?",
+      "somePapers": "Some PDF papers may lack the metadata to be parsed. Read more about PDF metadata",
+      "parsedSuccessfully_plural": "",
+      "tryCitasion": "Try <2><0>Citasion Premium</0></2> for free for 3 months.",
+      "dragAndDrop": "Drag and drop files here or click"
+    },
+    "CookiesNotification": {
+      "weUseCookies": "We use Cookies to ensure that we give you the best experience on our website. Read our <2>Privacy Policy</2>."
     }
   }
 }

@@ -130,7 +130,8 @@
         "Project": "项目",
         "SelectedProject": "你要添加选中引用的项目",
         "AddPaperToolTip": "添加选择的引用",
-        "Confirm": "确定"
+        "Confirm": "确定",
+        "wasAddedToProject_0": ""
       }
     },
     "application": {
@@ -313,6 +314,27 @@
         "edgeAddon": "Edge插件",
         "wordAddin": "Word插件"
       }
+    },
+    "support": {
+      "title": ""
+    },
+    "uninstall": {
+      "why": "",
+      "yourMessage": "",
+      "pleaseSelect": "",
+      "pleaseCheck": "",
+      "paperImport]": "",
+      "website]": "",
+      "googledocs]": "",
+      "overleaf]": "",
+      "word]": "",
+      "slows": "",
+      "createAccount": "",
+      "other": "",
+      "improve": "",
+      "helpUs": "",
+      "helpUsText": "",
+      "title": ""
     }
   },
   "components": {

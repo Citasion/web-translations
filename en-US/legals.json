@@ -2,7 +2,6 @@
   "views": {
     "legals": {
       "PrivacyView": {
-        "pageTitle": "Citasion Privacy Policy",
         "title": "# Citasion Privacy Policy",
         "date": "*Effective October 14, 2021*",
         "topContent": "We want you to understand how and why Citasion LLC. (\"Citasion,\" \"we\" or \"us\") collects, uses, and shares information about you when you use our sites, mobile apps, widgets, and other online products and services (collectively, the “Services”) or when you otherwise interact with us or receive a communication from us. This Privacy Policy applies to all of our Services including Add-ons, Add-ins and Extensions."
@@ -40,14 +39,12 @@
         "contactUs": "## Contact us\n\nIf you have other questions about this Privacy Policy, please contact us at:\n\ninfo@citasion.com"
       },
       "PrivacyExtensionView": {
-        "pageTitle": "Citasion: Extension/Add-on/Add-in Privacy Policy",
         "title": "# Extension / Add-on / Add-in Privacy Policy\n\n* Chrome Extension\n* Firefox Add-on\n* Edge Extension\n* Word Add-in",
         "date": "*Effective October 21, 2021*",
         "topContent": "We want you to understand how and why Citasion LLC (\"Citasion,\" \"we\" or \"us\") collects, uses, and shares information about you when you use our Extension / Add-on / Add-in  (henceforth referred to as “Services”) or when you otherwise interact with us or receive a communication from us.\n\nThe use of information received from Google API will adhere the Chrome Web Store User Data Policy including the Limited Use requirements."
       },
       "CookieNoticeView": {
         "title": "# Cookie Notice",
-        "pageTitle": "Citasion: Cookie Notice",
         "date": "Last updated September 19, 2021.",
         "intro": "This Cookie Notice explains how we use cookies and similar technologies as well as the options you have to control them.",
         "cookieDefs": "## What are cookies and how does Citasion use them?\n\nA cookie is a small text file that a site stores on your computer or mobile device when you visit the site. Browsers support cookies and similar technologies (such as local storage and pixels) so that a site like Citasion can remember information about your visit and can use the information to improve your experience and to create aggregated anonymized statistics about usage of the site. In this Notice, we use the term “cookie” to refer both to cookies and similar technologies.\n\nCookies may be set by the site you are visiting (called “first-party cookies”) or by a third party, such as those who provide analytics or advertising services or interactive content on the site (“third-party cookies”). In addition to using cookies on our sites, we may also serve our cookies (specifically, our advertising pixel) on third-party sites operated by Citasion advertisers who use our advertising technology.\n\nOur first-party cookies include cookies that are strictly necessary, functional cookies, cookies related to analytics/performance cookies.",
@@ -58,13 +55,11 @@
         "thirdParty": "## Third-party opt-outs\n\nThe major online advertising industry groups offer tools to limit how cookies are used for advertising purposes by participating third parties. More information is available on these sites from the Network Advertising Initiative, the Digital Advertising Alliance, and for users in the EU, the European Interactive Digital Advertising Alliance. Also, Google provides web users with the Google Analytics Opt-out Browser Add-on to prevent the collection of data via Google Analytics."
       },
       "PersonalInfoRequestsView": {
-        "pageTitle": "Citasion: Personal Info Request",
         "title": "# How do I request a copy of my Citasion data and information? ",
         "process": "To request a copy of your Citasion data and information: \n\nSend an email to datarequests@citasion.com from the email address that you have verified with your Citasion account.\n\nAfter submitting your request, it may take up to 30 days to prepare your data. Once your data is ready, we'll send you an email message with a link to download your data to your Citasion account. Or, in some circumstances, we may send your data to the email address associated with your account if you have verified that address.\n\nIf you don’t want to wait, you can also access some of your data and information (including your citations and projects) through your Citasion account at any time. \n",
         "privacyinfo": "To learn more about your data and privacy on Citasion check out our [Privacy Policy](/legal/privacy) and [User Agreement](/legal/terms). "
       },
       "TermsView": {
-        "pageTitle": "Citasion: Terms of Service and License Agreement",
         "title": "# Terms of Service and License Agreement",
         "date": "*Effective as of October 1, 2021*",
         "definitions": "## Definitions\nTogether with its subsidiaries and other affiliates, Citasion LLC, makes available the “Site” (websites including, without limitation, citasion.com and all sub-domains), “Software” (software and mobile applications), and “Services” (including, without limitation, writing feedback suggestions and/or corrections, plagiarism detection, and human proofreading services) to help people communicate more effectively. Access to and use of Citasion’s existing Site, Software and Services, as well as any future Site, Software and Services provided by Citasion are governed by this Terms of Service and License Agreement (this “Agreement”).\n\nTHIS IS A LEGALLY BINDING AGREEMENT. IF YOU DO NOT UNDERSTAND THIS AGREEMENT, OR DO NOT AGREE TO BE BOUND BY IT OR THE PRIVACY POLICY REFERENCED HEREIN, YOU MUST IMMEDIATELY LEAVE THE SITE AND YOU ARE NOT AUTHORIZED TO ACCESS OR USE ANY OF THE SITE, SOFTWARE AND SERVICES. BY ACCESSING OR USING THE SITE, SOFTWARE AND SERVICES, YOU CONFIRM THAT YOU ARE AT LEAST 18 YEARS OLD (OR IF YOU ARE BETWEEN 13 AND 17 YEARS OLD, INCLUSIVE, THAT YOU ARE USING THE SITE, SERVICES AND/OR SOFTWARE ONLY WITH THE APPROVAL OF YOUR PARENT OR GUARDIAN), THAT YOU ARE LEGALLY ABLE TO ENTER INTO THIS AGREEMENT, AND THAT YOU HAVE READ, UNDERSTAND AND AGREE TO BE BOUND BY THIS AGREEMENT.\n\nThis Agreement is a legal agreement between you, and the Company, which is the legal owner of Site, Software and Services created by the Company,and provides the terms and conditions by which you may Site, Software and Services produced by the Company, including any associated media, scripts, printed materials,and online or electronic documentation.This Agreement supersedes any other agreement or understanding with respect to its subject matter.If you don't like what you see here, do not install or use Site, Software and Services.By downloading or using Site, Software and Services, however, you agree to use the them consistent with the terms of this legal agreement.",
@@ -79,6 +74,20 @@
         "individual": "# Individual User\nIf you are an individual subscriber, or are using the Site, Services and Software, this Agreement is between you, individually, and Citasion.",
         "organizations": "# Organizational Users\nIf you are an employee, faculty member or student of a university, school or other entity or organization that has subscribed to Site, Software and Services (an “Enterprise Subscriber”), you are an “Authorized User” of your Enterprise Subscriber and (i) you represent that you have your Enterprise Subscriber’s permission and authority to use the Site, Software and Services and your Enterprise Subscriber’s “User Content” (as defined below) subject to this Agreement, (ii) this Agreement is an agreement between you, individually, and Citasion, and (iii) your Enterprise Subscriber is jointly responsible for your use of the Site, Software and Services.\n\nIf you are entering into this Agreement on behalf of an Enterprise Subscriber, you represent that you have the authority to bind the Enterprise Subscriber to this Agreement, in which case references to “you” in this Agreement shall mean the Enterprise Subscriber. If you do not have such authority, you must not accept this Agreement and may not use the Site, Software and Services.",
         "arbitration": "# Arbitration clause\nTHIS AGREEMENT CONTAINS AN ARBITRATION AGREEMENT, WHICH WILL, WITH LIMITED EXCEPTIONS, REQUIRE YOU TO SUBMIT CLAIMS YOU HAVE AGAINST CITASION AND ITS LICENSORS AND ITS SUPPLIERS TO BINDING AND FINAL ARBITRATION. UNDER THE ARBITRATION AGREEMENT (1) YOU WILL ONLY BE PERMITTED TO PURSUE CLAIMS AGAINST Citasion AND ITS LICENSORS AND ITS SUPPLIERS ON YOUR OWN BEHALF, NOT AS A PLAINTIFF OR CLASS MEMBER IN ANY CLASS OR REPRESENTATIVE ACTION OR  PROCEEDING, (2) YOU WILL ONLY BE PERMITTED TO SEEK RELIEF (INCLUDING MONETARY, INJUNCTIVE, AND DECLARATORY RELIEF) ON YOUR OWN BEHALF, AND (3) YOU ARE WAIVING YOUR RIGHT TO A JURY TRIAL AND YOUR RIGHT TO HAVE YOUR CLAIMS DECIDED BY A JUDGE OR JURY."
+      },
+      "terms": "Citasion: Terms of Service and License Agreement",
+      "privacy": "Citasion: Privacy Policy",
+      "cookie": "Citasion: Cookie Notice",
+      "privacyExtension": "Citasion: Extension / Add-on / Add-in Privacy Policy",
+      "personalInfo": "Citasion: Personal Information Request"
+    }
+  },
+  "layouts": {
+    "LegalLayout": {
+      "NavBar": {
+        "cookieNotice": "Cookie Notice",
+        "personalInfoRequests": "Personal Info Requests",
+        "extensionPrivacy": "Extension Privacy Policy"
       }
     }
   }
