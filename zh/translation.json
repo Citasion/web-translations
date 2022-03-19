@@ -369,7 +369,7 @@
       "addReference": "添加引用"
     },
     "HeadBar": {
-      "hello": "你好 <1>{{user}}</1>"
+      "hello": "你好"
     },
     "TranslationBox": {
       "message": "本页还未被翻译, 点击这里使用Google Translate进行翻译"

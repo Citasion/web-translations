@@ -542,7 +542,7 @@
   },
   "components": {
     "HeadBar": {
-      "hello": "Hello {{name}}"
+      "hello": "Hello"
     },
     "UploadReferenceDialog": {
       "numberAdded": "{{count}} paper was added successfully.",
