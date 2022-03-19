@@ -156,6 +156,7 @@
       "AccountView": {
         "Account": "Account Settings",
         "Name": "Name",
+        "Profile": "Profile",
         "Email": "Email",
         "Free": "Free",
         "Premium": "Premium",
@@ -250,7 +251,8 @@
         "signMicrosoft": "Sign in with Microsoft",
         "pageTitle": "Citasion: Login",
         "pageDescription": "Log in to your Citasion Account and manage your references with ease.",
-        "signEmail": "Sign in with Email"
+        "signEmail": "Sign in with Email",
+        "signUp": "Sign Up"
       },
       "RegisterView": {
         "pageTitle": "Citasion: Register An Account",

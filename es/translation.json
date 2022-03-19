@@ -156,6 +156,7 @@
       "AccountView": {
         "Account": "Configuraciones de la cuenta",
         "Name": "Nombre",
+        "Profile": "Perfil",
         "Email": "Correo electrónico",
         "Free": "Gratis",
         "Premium": "Premium",
@@ -250,7 +251,8 @@
         "signMicrosoft": "Acceder con Microsoft",
         "pageTitle": "Citasion: Iniciar sesión",
         "pageDescription": "Acceda a su cuenta de Citasion y gestione sus referencias con facilidad.",
-        "signEmail": "Acceder con el correo electrónico"
+        "signEmail": "Acceder con el correo electrónico",
+        "signUp": "Regístrese"
       },
       "RegisterView": {
         "signupGoogle": "Registrarse en Google",
