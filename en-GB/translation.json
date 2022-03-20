@@ -46,12 +46,8 @@
         "My": "My Projects",
         "Shared": "Shared Projects"
       },
-      "ProjectDetailsViews": {
-        "beforeGraph": "Before {{yearValue}}",
-        "afterGraph": "After {{yearValue}}",
-        "numreferences": "Number of references by year"
-      },
       "ProjectDetailsView": {
+        "about": "About",
         "articlesReferenced": "<0>{{number}}</0><1>journal articles referenced</1>",
         "conferenceReferenced": "<0>{{number}}</0><1>conference proceedings referenced</1>",
         "shareOthers": "Share with others",
@@ -100,7 +96,10 @@
         "searchAPaper": "Search a paper",
         "venueName": "Venue name",
         "venueUrl": "Venue URL",
-        "addReferencesInMany": "Add references in different ways"
+        "addReferencesInMany": "Add references in different ways",
+        "beforeGraph": "Before {{yearValue}}",
+        "afterGraph": "After {{yearValue}}",
+        "numreferences": "Number of references by year"
       }
     },
     "reference": {

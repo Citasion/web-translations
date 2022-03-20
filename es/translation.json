@@ -46,12 +46,8 @@
         "My": "Mis proyectos",
         "Shared": "Proyectos compartidos"
       },
-      "ProjectDetailsViews": {
-        "beforeGraph": "Antes de {{yearValue}}",
-        "afterGraph": "Después de {{yearValue}}",
-        "numreferences": "Número de referencias por año"
-      },
       "ProjectDetailsView": {
+        "about": "Acerca de",
         "articlesReferenced": "<0>{{number}}</0><1>artículos de revistas referenciados</1>",
         "conferenceReferenced": "<0>{{number}}</0><1>actas de conferencias referenciadas</1>",
         "shareOthers": "Compartir con otros",
@@ -100,7 +96,10 @@
         "searchAPaper": "Buscar un artículo",
         "venueName": "Nombre del lugar de publicación",
         "venueUrl": "Url del lugar de publicación",
-        "addReferencesInMany": "Añadir referencias de diferentes maneras"
+        "addReferencesInMany": "Añadir referencias de diferentes maneras",
+        "beforeGraph": "Antes de {{yearValue}}",
+        "afterGraph": "Después de {{yearValue}}",
+        "numreferences": "Número de referencias por año"
       }
     },
     "reference": {

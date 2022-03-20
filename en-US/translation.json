@@ -47,6 +47,7 @@
         "My": "My Projects"
       },
       "ProjectDetailsView": {
+        "about": "About",
         "shareOthersDialog": "To share this project with others, please type or paste their email addresses and click Share.",
         "shareOthers": "Share with others",
         "emailAddresses": "Email Addresses",
@@ -95,9 +96,7 @@
         "searchAPaper": "Search a paper",
         "venueName": "Venue name",
         "venueUrl": "Venue URL",
-        "addReferencesInMany": "Add references in different ways"
-      },
-      "ProjectDetailsViews": {
+        "addReferencesInMany": "Add references in different ways",
         "numreferences": "Number of references by year",
         "afterGraph": "After {{yearValue}}",
         "beforeGraph": "Before {{yearValue}}"

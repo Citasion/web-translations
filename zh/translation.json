@@ -7,7 +7,7 @@
         "status2": "免费用户",
         "status3": "付费会员",
         "question": "需要帮助?",
-        "support": "点这里查看更多"
+        "support": "请点击这里"
       },
       "TopBar": {
         "Account": "用户设置",
@@ -31,10 +31,10 @@
         "Collaborators": "合作者",
         "Clone": "复制",
         "CloneTitle": "复制此项目",
-        "CloneText": "复制此项目以及此项目内的所有引用",
+        "CloneText": "复制此项目以及此项目内的所有引用文献",
         "Delete": "删除",
         "DeleteTitle": "删除此项目",
-        "DeleteText": "这项命令会删除此项目的数据, 但不会删除项目内的引用, 项目内的引用可以在文献引用页面查看",
+        "DeleteText": "这项命令会删除此项目的数据, 但不会删除项目内的引用; 删除此项目后, 项目内的引用可以在引用管理页面查看",
         "DeleteTextShare": "未来你将无法访问此项目以及项目内的引用文献。你确定吗？",
         "DeleteTextConfirm": "请输入该项目名称来确定你想要删除此项目：",
         "DeleteTextProjectName": "项目名称",
@@ -47,6 +47,7 @@
         "sharedProjects": "共享的项目"
       },
       "ProjectDetailsView": {
+        "about": "关于此项目",
         "accessInsightDashboardNote": "此功为付费功能，你需要先升级你的帐号来使用此项功能",
         "accessInsightDashboardNoteFree": "此功为付费功能，免费用户共享的项目不支持此功能",
         "articlesReferenced": "<0><0>{{types}}</0></0><1>期刊论文</1>",
@@ -76,7 +77,7 @@
         "anExampleRfid": "例3, 论文 \"RFID Tag and RF Structures on a Paper Substrate Using Inkjet-Printing Technology\"",
         "anExampleRethink": "例4, 论文 \"Rethinking student-teacher relationships in higher education: a multidimensional approach\"",
         "addmanually": "You can also add a reference manually by clicking the button by the search bar.",
-        "numberInThisProject": "此项目有<0><0>{{number}}</0></0><1>个引用</1>",
+        "numberInThisProject": "<0><0>{{number}}</0></0><1>个引用</1>",
         "shareOthers": "与其他人共享此项目",
         "shareOthersDialog": "与其他人共享此项目, 请键入邮件地址, 点击确定 (按Enter分隔多人邮件)",
         "emailAddresses": "邮件地址",
@@ -93,11 +94,9 @@
         "venueAnalytics": "目标期刊会议分析",
         "targetVenue": "该项目的目标期刊/会议是什么?",
         "gotIt": "收到！我们会尽快分析目标期刊/会议",
-        "updatingVenueNote": "更新目标期刊/会议信息能让我们分析你的目标期刊/会议; 我们的分析可以帮助你把握目标期刊/会议的动向和标准.",
+        "updatingVenueNote": "更新目标期刊/会议信息能让我们分析你的目标期刊/会议; 我们的分析可以帮助你把握目标期刊/会议的动向和标准",
         "venueName": "目标期刊/会议名字",
-        "venueUrl": "目标期刊/会议链接"
-      },
-      "ProjectDetailsViews": {
+        "venueUrl": "目标期刊/会议链接",
         "numreferences": "引用数 vs 年份",
         "afterGraph": "{{yearValue}}之后",
         "beforeGraph": "{{yearValue}}之前"
@@ -105,7 +104,7 @@
     },
     "reference": {
       "ReferenceBrowseView": {
-        "MyReferences": "我的文献引用",
+        "MyReferences": "我的引用文献",
         "AddReferences": "添加引用",
         "UploadReferenceFiles": "上传引用文件",
         "ParsePDFFiles": "抓取PDF论文数据",
@@ -145,7 +144,7 @@
       "EdgeTitle": "Edge 插件",
       "WordTitle": "Word 插件",
       "WordText": "Citasion 的免费 Word 插件帮助你在任何一个Word文档内管理和使用导入的引用",
-      "WordNote": "注意: 文献引用的自动导入仍需要",
+      "WordNote": "注意: 引用文献的自动导入仍需要",
       "WordOr": "或者",
       "WordNote2": "插件",
       "citasionApps": "Citasion Apps"
@@ -236,7 +235,7 @@
         "freeTrialFor": "免费试用{{count}}个月",
         "advancedReference": "进阶引用管理 & 文献分析",
         "startFree": "开始免费试用",
-        "welcomePremium": "欢迎成为Citasion Premium高级会员",
+        "welcomePremium": "欢迎成为Citasion高级会员",
         "youHaveAccess": "你现在可以使用:",
         "enhanced": "加强的自动引用导入",
         "literatureAnalytics": "文献分析和推荐",
@@ -283,11 +282,11 @@
         "introducing": "向你推荐",
         "citasion": "Citasion",
         "intro": "强大的在线引用管理软件",
-        "check1": "一键导入文献引用",
+        "check1": "一键导入引用文献",
         "check2": "共享引用项目支持多人协同写作",
         "check3": "检查语法, 助力写作",
         "check4": "支持1000+种文献格式",
-        "check5": "文献引用深度分析和推荐",
+        "check5": "引用文献深度分析和推荐",
         "VideoTitle": "Citasion - Need Help Writing a Paper?",
         "addToFirefoxBtn": "<0>安装Firefox插件</0><1>免费</1>",
         "addToChromeBtn": "<0>安装Chrome插件</0><1>免费</1>",
@@ -377,7 +376,7 @@
     "UploadPdfDialog": {
       "uploadPdf": "上传PDF文件",
       "uploadOneOrMorePdf": "你可以上传一个或多个PDF文件",
-      "CitasionWillParse": "Citasion会分析上传论文的所有可发现的元数据, 并且用这些数据生成引用文献.",
+      "CitasionWillParse": "Citasion会分析上传论文的所有可发现的元数据, 并且用这些数据生成引用文献",
       "dragDrop": "拖拽上传文件或点击这里",
       "selectedFiles": "选中文件",
       "pdfLackMeta": "有些PDF论文缺少元数据所以不能被分析; 阅读更多有关元数据的信息"
@@ -419,6 +418,33 @@
       "addPapers": "如何添加引用到项目",
       "write": "如何用Citasion支持学术写作",
       "billing": "高级会员购买和收据"
+    },
+    "CitationUpdateDialog": {
+      "updateReference": "更新引用"
+    },
+    "CitationDeleteDialog": {
+      "deleteReference": "删除引用",
+      "note1": "这项操作会永久删除此引用; 你确定吗?",
+      "note2": "这项操作会将此引用从此项目中移除但不会删除引用; 你确定吗?"
+    },
+    "Errors": {
+      "message": "我们正在努力解决这项技术故障; 请稍后重试"
+    },
+    "ParsePdfDialog": {
+      "noneParsed": "无法分析上传的PDF文件",
+      "parsedSuccessfully": "已成功添加{{count}}条引用",
+      "zeroPapers": "未能添加新的引用因为没有发现新的论文",
+      "parsePDFFiles": "分析PDF文件",
+      "uploadMore": "你可以上传一个或多个PDF文件",
+      "parseMetadata": "Citasion会分析上传论文的所有可发现的元数据, 并且用这些数据生成引用文献",
+      "thinking": "想在线管理你所有的PDF论文?",
+      "somePapers": "有些PDF论文缺少元数据所以不能被分析; 阅读更多有关元数据的信息",
+      "parsedSuccessfully_plural": "",
+      "tryCitasion": "免费试用<2><0>Citasion高级会员</0></2>三个月",
+      "dragAndDrop": "拖拽上传文件或点击这里"
+    },
+    "CookiesNotification": {
+      "weUseCookies": "Citasion使用cookie来给你提供最好的用户体验; 阅读<2>我们的隐私条款</2>可以了解更多"
     }
   },
   "globals": {
