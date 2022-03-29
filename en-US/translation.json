@@ -7,7 +7,7 @@
         "status2": "Free",
         "status3": "Premium",
         "question": "Need Help?",
-        "support": "Check our support center"
+        "support": "Check our support centre"
       },
       "TopBar": {
         "Account": "Account",
@@ -38,26 +38,32 @@
         "DeleteTextShare": "This operation will stop you from accessing this shared project in the future. Are you sure?",
         "DeleteTextConfirm": "Confirm you want to delete this project by typing its name:",
         "DeleteTextProjectName": "Project Name",
-        "whatIsName": "What is the name of this new project?",
-        "addnew": "Add a new project",
         "addnewCaps": "ADD A NEW PROJECT",
+        "addnew": "Add a new project",
+        "whatIsName": "What is the name of this new project?",
         "projectNameReq": "Project name is required",
         "errorLoading": "Errors in loading shared projects. Please try refreshing this page.",
-        "Shared": "Shared Projects",
-        "My": "My Projects"
+        "My": "My Projects",
+        "Shared": "Shared Projects"
       },
       "ProjectDetailsView": {
         "about": "About",
-        "shareOthersDialog": "To share this project with others, please type or paste their email addresses and click Share.",
+        "articlesReferenced": "journal articles referenced",
+        "conferenceReferenced": "conference proceedings referenced",
         "shareOthers": "Share with others",
+        "shareOthersDialog": "To share this project with others, please type or paste their email addresses and click Share.",
         "emailAddresses": "Email Addresses",
-        "articlesReferenced": "<0>{{number}}</0><1>journal articles referenced</1>",
-        "conferenceReferenced": "<0>{{number}}</0><1>conference proceedings referenced</1>",
         "topSources": "<0>Top   </0><1>reference sources:</1>",
         "expandAbstract": "Expand to see the abstract",
         "addReferencesProject": "Add references to this project",
-        "noResultsFound": "No results found for {{query}}",
+        "uploadRefs": "Upload Reference Files",
+        "parsePdf": "Parse PDF Files",
+        "uploadPdf": "Upload PDF Files",
+        "copyPaste": "Copy & Paste BibTeX",
+        "addReferenceManually": "Add A Reference Manually",
+        "importExtension": "Import via Browser Extension",
         "morethan1ref": "... more than 1 references are newly added; refresh the page to see them ...",
+        "noResultsFound": "No results found for {{query}}",
         "loading": "Loading...",
         "loadmore": "Load more references",
         "allloaded": "All references are loaded",
@@ -65,16 +71,10 @@
         "downloadExtension": "Download our extension here",
         "itOnlyTakes": "It only takes a click for you to import references to this project from major academic search aggregators:",
         "anExampleScholar": "an example of searching for \"technology\" on Google Scholar",
-        "addmanually": "You can also add a reference manually by clicking the button by the search bar.",
-        "anExampleRethink": "an example paper titled \"Rethinking student-teacher relationships in higher education: a multidimensional approach\"",
-        "anExampleRfid": "an example paper titled \"RFID Tag and RF Structures on a Paper Substrate Using Inkjet-Printing Technology\"",
         "anExampleUserAuth": "an example paper titled \"User Authentication via Electrical Muscle Stimulation\"",
-        "importExtension": "Import via Browser Extension",
-        "addReferenceManually": "Add A Reference Manually",
-        "copyPaste": "Copy & Paste BibTeX",
-        "uploadPdf": "Upload PDF Files",
-        "parsePdf": "Parse PDF Files",
-        "uploadRefs": "Upload Reference Files",
+        "anExampleRfid": "an example paper titled \"RFID Tag and RF Structures on a Paper Substrate Using Inkjet-Printing Technology\"",
+        "anExampleRethink": "an example paper titled \"Rethinking student-teacher relationships in higher education: a multidimensional approach\"",
+        "addmanually": "You can also add a reference manually by clicking the button by the search bar.",
         "numberInThisProject": "<0>{{number}}</0><1>paper(s) in this project</1>",
         "updateOrDelete": "Update or delete this reference",
         "projectInfo": "Project Information",
@@ -85,21 +85,21 @@
         "recommendedArticles": "Recommended articles",
         "loadMoreRecs": "Load more recommendations",
         "loadedAllRecs": "All recommendations are loaded",
-        "numberOfRecommendations": "<0>{{number}}</0><1>articles are recommended based on your writing and the references in this project</1>",
+        "numberOfRecommendations": "<0><0>{{number}}</0></0><1>articles are recommended based on your writing and the references in this project</1>",
         "accessInsightDashboardNote": "Accessing Insight Dashboard is a premium feature. You can upgrade your account to use it.",
         "accessInsightDashboardNoteFree": "Insight Dashboard is not supported for projects owned by users of the free tier.",
-        "analyzingRightNow": "We are analyzing your writing and the references in this project to provide the best article recommendations. Please check again later.",
+        "analyzingRightNow": "We are analysing your writing and the references in this project to provide the best article recommendations. Please check again later. ",
         "venueAnalytics": "Target venue analytics",
         "targetVenue": "What is your target venue (journal/conference) for this project?",
-        "gotIt": "Got it. It will take us sometime to analyze the target venue!",
+        "gotIt": "Got it. It will take us sometime to analyse the target venue!",
         "updatingVenueNote": "Updating the venue information allows us to analyze your target journal or conference. The analytics provides insights into the trending topics and standards of the venue.",
         "searchAPaper": "Search a paper",
         "venueName": "Venue name",
         "venueUrl": "Venue URL",
         "addReferencesInMany": "Add references in different ways",
-        "numreferences": "Number of references by year",
+        "beforeGraph": "Before {{yearValue}}",
         "afterGraph": "After {{yearValue}}",
-        "beforeGraph": "Before {{yearValue}}"
+        "numreferences": "Number of references by year"
       }
     },
     "reference": {
@@ -204,8 +204,8 @@
         "addToChromeBtn": "<0>Add to Chrome</0><1>It's Free</1>",
         "addToEdgeBtn": "<0>Add to Edge</0><1>It's Free</1>",
         "exploreCitasion": "Explore Citasion",
-        "note1": "Reference Management for Web",
-        "note1Text": "A project-based reference management built for the web. Works with Google Docs, Word, and Overleaf.",
+        "note1": "Cloud-based Reference Management",
+        "note1Text": "A project-based reference management built for the web. Works with Google Docs, Word, and Overleaf. Support for desktop and tablets.",
         "note2": "Seamless Research Collaboration",
         "note2Text": "Share your references projects and insights with others. Write and manage references collaboratively and with ease.",
         "note3": "Smart Reference Recommendation",
@@ -244,7 +244,7 @@
       },
       "LoginView": {
         "memberLogin": "Citasion Member Login",
-        "dontHaveAccount": "Don't have an account?",
+        "dontHaveAccount": "Don’t have an account?",
         "captchaNote": "This site is protected by reCAPTCHA and the <2>Google Privacy Policy</2> and <6>Terms of Service</6> apply.",
         "signGoogle": "Sign in with Google",
         "signMicrosoft": "Sign in with Microsoft",
@@ -254,12 +254,12 @@
         "signUp": "Sign Up"
       },
       "RegisterView": {
+        "signupGoogle": "Sign up with Google",
+        "signupMicrosoft": "Sign up with Microsoft",
         "pageTitle": "Citasion: Register An Account",
         "pageDesc": "Register a Citasion Account and manage your references with ease.",
         "startWith": "Start with Citasion",
         "alreadyHave": "Already have an account?",
-        "signupGoogle": "Sign up with Google",
-        "signupMicrosoft": "Sign up with Microsoft",
         "signupUserPass": "Sign up with Email"
       },
       "EmailVerification": {
@@ -284,6 +284,7 @@
         "unlimitedProjects": "Unlimited sharable projects",
         "styles": "1000+ reference styles",
         "freeTrialFor": "Free trial of {{count}} month",
+        "freeTrialFor_plural": "Free trial of {{count}} months",
         "advancedReference": "Advanced reference management & literature analytics",
         "startFree": "Start Free Trial",
         "welcomePremium": "Welcome to Citasion Premium",
@@ -291,9 +292,9 @@
         "enhanced": "Enhanced automatic reference importation",
         "literatureAnalytics": "Literature Analytics & Recommendations",
         "muchMore": "...and much more",
+        "everythingInFree": "Everything in Free Tier",
         "targetVenue": "Target venue analytics",
         "unlimitedPdf": "Unlimited PDF paper storage",
-        "everythingInFree": "Everything in Free Tier",
         "completeFeature": "A Complete Feature List",
         "allFeatures": "All Features",
         "currentList": "The current list of other research aggregators includes ACM Digital Library, PubMed, Springer, and IEEE Xplore. We are working hard to expand the list constantly.",
@@ -309,9 +310,6 @@
         "volumeDiscounts": "Do you have any volume discounts?",
         "tryPremium": "Can I try Citasion Premium for free?",
         "tryPremiumAnswer": "Yes! All users on the Free Plan can try out Citasion Premium for 90 days. All it takes is to create a free Citasion account. After that, you can revist this page, and the option of free trial will show up.",
-        "freeTrialFor_plural": "Free trial of {{count}} months",
-        "pageTitle": "Citasion: Go Premium",
-        "pageDesc": "Take your reference management to the next level of efficiency.",
         "otherResearchAggregators": "Other research aggregators",
         "basicAnalysis": "Basic analysis",
         "gapIdentification": "Gap identification",
@@ -319,17 +317,13 @@
         "pdfStorage": "PDF paper storage",
         "organize": "Organize literature by project(s)",
         "1000reference": "1000+ reference styles",
-        "smartCitationFinder": "Smart citation finder",
         "shareableProjects": "Sharable projects of literatures",
+        "smartCitationFinder": "Smart citation finder",
+        "pageTitle": "Citasion: Go Premium",
+        "pageDesc": "Take your reference management to the next level of efficiency.",
         "startingAt": "<0>Starting at </0><1>$2.99</1><2>/month</2>",
         "premiumExpire": "Your premium trial will expire by <2><0>{{expiryDate}}</0></2>.",
         "volumeDiscountsAnswer": "Yes! We offer volume discounts on annual plans for more than 5 members. Please <2><0>contact us</0></2> if you’re buying a plan for more than 5 members."
-      }
-    },
-    "home": {
-      "HomeView": {
-        "title": "Citasion: Smart online reference management",
-        "desc": "Citasion is a free reference management tool that makes online academic writing effective. Getting started is simple — download Citasion's extension ..."
       }
     },
     "errors": {
@@ -344,15 +338,45 @@
         "error": "An error just occurred."
       }
     },
-    "invoice": {
+    "home": {
+      "HomeView": {
+        "title": "Citasion: Smart online reference management",
+        "desc": "Citasion is a free reference management tool that makes online academic writing effective. Getting started is simple — download Citasion's extension ..."
+      }
+    },
+    "Invoice": {
       "InvoiceDetailView": {
+        "invoices": "Invoices",
+        "Status": "Status",
+        "Amount": "Amount",
+        "Date": "Date",
+        "View": "View",
+        "paid": "paid",
+        "invoiceDetails": "Invoice Details",
+        "invoice": "Invoice",
+        "dueDate": "Due Date",
         "dateOfIssue": "Date of issue",
         "billedTo": "Billed to",
-        "invoiceDetails": "Invoice Details"
+        "description": "Description",
+        "unitPrice": "Unit Price",
+        "subtotal": "Subtotal",
+        "taxes": "Taxes",
+        "total": "Total"
       }
     },
     "pricing": {
       "PlanChange": {
+        "Monthly": "Monthly",
+        "Quarterly": "Quarterly",
+        "Annual": "Annual",
+        "monthly": "monthly",
+        "quarterly": "quarterly",
+        "annual": "annual",
+        "creditCard": "Credit Card",
+        "paypal": "Paypal",
+        "bestValue": "Best Value",
+        "changePlan": "Change Your Plan",
+        "individualPlans": "INDIVIDUAL PLANS",
         "experience": "Experience the Full Power of Citasion",
         "chooseDiff": "Choose a Different Premium Plan",
         "manageRefs": "Manage References.",
@@ -364,33 +388,30 @@
         "testimonial": "Citasion doesn't only manage my references but also allow me to have confidence in my literature review.",
         "testimonialName": "- Vanessa Dennen, Instructional Technology Researcher",
         "premiumPromoText": "Citasion Premium helps you conduct comprehensive and insightful literature review.",
-        "changePlan": "Change Your Plan",
         "currentPlan": "Current Plan",
-        "currentPlanText": "{{plan}} Plan",
-        "priceText": "{{price}} / month + tax",
+        "currentPlanText": "{{subscription.plan}} Plan",
+        "priceText": "${{price}} / month + tax",
         "chargedOn": "charged on {{plan}} basis",
         "newPlan": "New Plan",
         "planName": "{{plan}} Plan",
-        "newPlanPrice": "{{price}} / month + tax",
+        "newPlanPrice": "${{price}} / month + tax",
         "whatHappens": "What happens next?",
         "expiry": "Your existing plan will expire by {{date}}",
-        "newPlanExpiry": "Your new plan starts by {{date}} and you’ll be charged {{bill}} + tax on that day",
+        "newPlanExpiry": "Your new plan starts by ${{date}} and you’ll be charged ${{bill}} + tax on that day",
         "futureCharge": "You would be charged on a {{plan}} basis in the future",
         "paypalredirect": "You will be directed to Paypal to confirm the change of your plan. You will receive an email from us when your plan is updated successfully",
         "paypalemail": "You will receive an email from us when your plan is updated successfully",
-        "bestValue": "Best Value",
-        "individualPlans": "INDIVIDUAL PLANS",
         "upgradePremium": "Upgrade to Premium",
         "transactionProgress": "Transaction in progress. Please do not refresh the page.",
         "youHaveChosen": "You have chosen",
-        "planMonth": "{{plan}} Plan {{date}} / month",
+        "planMonth": " Plan ${{data}} / month",
         "weNotice": "We notice that you haven't reached the expiration date of your canceled subscription. You can use the premium service until the expiration date. If you purchase a new plan, you will NOT get a refund for the remaining time of the canceled subscription.",
         "updatePayment": "Update Payment",
         "changePaymentMethod": "Change Your Payment Method",
         "changesWillBeEffective": "Changes will take effect in the next billing cycle.",
-        "paymentChangeAgreement": "The change of payment method will be effective in your next billing cycle. By clicking the payment button above, you are agreeing to our <2>Terms of Service</2>. If you have questions, you can reach out to us by sending an email to us at <4>support@citasion.cm</4>.",
+        "paymentChangeAgreement": "The change of payment method will be effective in your next billing cycle. By clicking the Update Payment Method button above, you are agreeing to our <2>Terms of Service</2>. If you have questions, you can reach out to us by sending an email to us at <4>support@citasion.cm</4>.",
         "priceDiscount": "<0>${{price}}</0><1> / month</1>",
-        "paymentAgreement": "Your subscription will automatically renew every <1>{{frequency}}</1> month(s). You will be charged <4>{{price}}</4> on each renewal until you cancel in your account settings. If you cancel, previous charges will not be refunded, but you may continue to use the service until the end of the term you paid for. By clicking the \"Check out\" button above, you are agreeing to our <7>Terms of Service</7>. If you have questions, you can reach out to us by sending an email to us at <9>support@citasion.com</9>.",
+        "paymentAgreement": "Your subscription will automatically renew every <1>{{frequency}}</1> month(s). You will be charged $<4>{{price}}</4> on each renewal until you cancel in your account settings. If you cancel, previous charges will not be refunded, but you may continue to use the service until the end of the term you paid for. By clicking the \"Check out\" button above, you are agreeing to our <7>Terms of Service</7>. If you have questions, you can reach out to us by sending an email to us at <9>support@citasion.com</9>.",
         "saveDiscount": "save {{discount}}%",
         "billedAsOne": "Billed as one payment of ${{price}}"
       }
@@ -405,7 +426,6 @@
       "title": "Citasion: Support Center"
     },
     "uninstall": {
-      "title": "Citasion: Sorry to see you go",
       "why": "Why did you uninstall Citasion?",
       "yourMessage": "Your message has been received!",
       "pleaseSelect": "Please select at least one option.",
@@ -420,7 +440,8 @@
       "other": "Other reasons",
       "improve": "How else can we improve Citasion?",
       "helpUs": "Help Us Improve",
-      "helpUsText": "We know our reference management tool isn’t perfect, and we’re committed to making it better for you. Can you ket us know why you uninstalled the Citasion extension?"
+      "helpUsText": "We know our reference management tool isn’t perfect, and we’re committed to making it better for you. Can you ket us know why you uninstalled the Citasion extension?",
+      "title": "Citasion: Sorry to see you go"
     }
   },
   "globals": {
@@ -436,34 +457,35 @@
     "extensionPrivacy": "Extension Privacy Policy",
     "connect": "Connect",
     "blogs": "Blogs",
-    "help": "Help Center",
+    "help": "Help Centre",
     "facebook": "Facebook",
     "twitter": "Twitter",
     "linkedin": "LinkedIn",
     "login": "Log in",
     "loading": "Loading",
-    "confirm": "Confirm",
-    "projectname": "Project name",
+    "": "<0>{{title}}</0>",
     "profile": "Profile",
     "subscription": "Subscription",
+    "projectname": "Project name",
+    "confirm": "Confirm",
     "projects": "Projects",
     "references": "References",
     "account": "Account",
     "apps": "Apps",
     "premium": "Premium",
+    "analytics": "Literature Analytics",
+    "share": "Share",
     "active": "Active",
     "inactive": "Inactive",
-    "share": "Share",
     "about": "About",
-    "target": "Venue Analytics",
     "recommendation": "Recommendations",
-    "analytics": "Literature Analytics",
+    "target": "Venue Analytics",
     "googleScholar": "Google Scholar",
     "pdfFile": "PDF File",
     "abstract": "Abstract",
-    "springer": "Springer",
-    "ieee": "IEEE",
     "acm": "ACM",
+    "ieee": "IEEE",
+    "springer": "Springer",
     "update": "Update",
     "delete": "Delete",
     "updated": "Updated!",
@@ -473,26 +495,17 @@
     "premiumFeatures": "Premium Features",
     "submit": "Submit",
     "gopremium": "Go Premium",
-    "bibtex": "BibTeX",
-    "ris": "RIS",
-    "nbib": "NBIB",
-    "endnoteXml": "EndNote XML",
-    "type": "Type",
     "required": "Required",
     "journal": "Journal",
     "year": "Year",
+    "volume": "Volume",
+    "number": "Number",
+    "pages": "Pages",
     "pdfLink": "PDF Link/URL",
     "organization": "Organization",
     "lastAccessed": "Last accessed",
     "publisher": "Publisher",
-    "pages": "Pages",
     "publisherLocation": "Publisher location",
-    "number": "Number",
-    "emailAddress": "Email Address",
-    "free": "Free",
-    "select": "Select",
-    "frequentlyAskedQuestions": "Frequently Asked Questions",
-    "volume": "Volume",
     "article": "Journal Article",
     "inproceedings": "Conference Article",
     "incollection": "Book Chapter",
@@ -501,37 +514,33 @@
     "phdthesis": "Ph.D. or Master thesis",
     "techreport": "Technical Documentation",
     "misc": "Miscellaneous",
-    "googleDocs": "Google Docs",
-    "overleaf": "Overleaf",
-    "word": "Word",
-    "unlimited": "Unlimited",
+    "type": "Type",
+    "bibtex": "BibTeX",
+    "ris": "RIS",
+    "nbib": "NBIB",
+    "endnoteXml": "EndNote XML",
+    "free": "Free",
+    "select": "Select",
+    "frequentlyAskedQuestions": "Frequently Asked Questions",
+    "emailAddress": "Email Address",
     "title": "Title",
     "bookTitle": "Book Title",
-    "chapter": "Chapter",
-    "series": "Series",
     "thesisTitle": "Thesis Title",
     "schoolLocation": "School Location",
-    "": "<0>{{title}}</0>",
-    "email": "Email",
-    "password": "Password",
+    "series": "Series",
+    "chapter": "Chapter",
+    "unlimited": "Unlimited",
+    "googleDocs": "Google Docs",
+    "word": "Word",
+    "overleaf": "Overleaf",
     "yes": "Yes",
     "no": "No",
     "iagree": "I Agree",
     "error": "Error",
+    "email": "Email",
+    "password": "Password",
     "invoices": "Invoices",
     "paid": "Paid",
-    "invoice": "Invoice",
-    "dueDate": "Due date",
-    "description": "Description",
-    "citasionPremium": "Citasion Premium",
-    "subtotal": "Subtotal",
-    "taxes": "Taxes",
-    "total": "Total",
-    "status": "Status",
-    "amount": "Amount",
-    "id": "ID",
-    "date": "Date",
-    "view": "View",
     "checkout": "Check Out",
     "PdfFile": "PDF File",
     "selectedFiles": "Selected files",
@@ -553,30 +562,7 @@
       "dragDrop": "Drag and drop files here or click",
       "selectedFiles": "Selected files",
       "readMoreAboutFormats": "Read more about the formats of reference files that we accept",
-      "youCanUpload": "You can upload one or more exported reference data files."
-    },
-    "UploadPdfDialog": {
-      "uploadPdf": "Upload PDF Files",
-      "uploadOneOrMorePdf": "You can upload one or more PDF paper files.",
-      "CitasionWillParse": "Citasion will parse all the detectable metadata of the uploaded PDF files and generate reference entries.",
-      "dragDrop": "Drag and drop files here or click",
-      "selectedFiles": "Selected files",
-      "pdfLackMeta": "Some PDF papers may lack the metadata to be parsed. Read more about PDF metadata"
-    },
-    "BibtexAddDialog": {
-      "invalid": "The provided BibTex list is invalid",
-      "added": "{{count}} paper was added successfully.",
-      "failed": "{{count}} paper was not added because of invalid syntax.",
-      "noAdded": "0 papers were added because no new papers were detected",
-      "somethingWrong": "Something went wrong in parsing your BibTeX list. Please double check your BibTex list",
-      "copyPaste": "Copy & Paste BibTeX",
-      "copyPasteHere": "Copy and paste your BibTeX list here",
-      "readMoreBibtex": "Read more about BibTeX syntax",
-      "added_plural": "{{count}} papers were added successfully.",
-      "failed_plural": "{{count}} papers were not added because of invalid syntax."
-    },
-    "CitationAddDialog": {
-      "addReference": "Add A Reference"
+      "youCanUpload": "You can upload one or more exported reference data files"
     },
     "AddForms": {
       "pdfLinkNeeds": "PDF Link needs to be a valid url.",
@@ -586,22 +572,35 @@
       "authors": "Authors (please list authors in the format of \"last name, first name; last name, first name; ...\")",
       "authorPlaceholder": "e.g., Hellas, Arto; Ihantola, Petri; Petersen, Andrew",
       "conference": "Conference or Conference Proceeding",
+      "oneUpdated": "This paper was updated successfully.",
       "chapterTitle": "Chapter Title",
-      "editor": "Editor (separate different editors by commas)",
-      "oneUpdated": "This paper was updated successfully."
+      "editor": "Editor (separate different editors by commas)"
+    },
+    "BibtexAddDialog": {
+      "invalid": "The provided BibTex list is invalid",
+      "added": "{{count}} paper was added successfully.",
+      "added_plural": "{{count}} papers were added successfully.",
+      "failed": "{{count}} paper was not added because of invalid syntax.",
+      "failed_plural": "{{count}} papers were not added because of invalid syntax.",
+      "noAdded": "0 papers were added because no new papers were detected",
+      "somethingWrong": "Something went wrong in parsing your BibTeX list. Please double check your BibTex list",
+      "copyPaste": "Copy & Paste BibTeX",
+      "copyPasteHere": "Copy and paste your BibTeX list here",
+      "readMoreBibtex": "Read more about BibTeX syntax"
+    },
+    "CitationAddDialog": {
+      "addReference": "Add A Reference"
     },
     "TranslationBox": {
       "message": "This page has not yet been translated. Click here to translate using Google Translate."
     },
-    "Header": {
-      "howCanWeHelp": "Hi! How can we help?",
-      "youMayBeAble": "You may be able to find your answers below:"
-    },
-    "Reading": {
-      "howToStart": "How to start Citasion",
-      "addPapers": "Add papers to your Citasion projects",
-      "write": "Write papers with Citasion",
-      "billing": "Billing and subscription"
+    "UploadPdfDialog": {
+      "uploadPdf": "Upload PDF Files",
+      "uploadOneOrMorePdf": "You can upload one or more PDF paper files.",
+      "CitasionWillParse": "Citasion will parse all the detectable metadata of the uploaded PDF files and generate reference entries.",
+      "dragDrop": "Drag and drop files here or click",
+      "selectedFiles": "Selected files",
+      "pdfLackMeta": "Some PDF papers may lack the metadata to be parsed. Read more about PDF metadata"
     },
     "ContactForm": {
       "howToStart": "How to start Citasion",
@@ -619,13 +618,26 @@
       "tellUsMore": "Tell us more",
       "iHaveReadTerms": "I have read the <2>Terms and Conditions</2>"
     },
-    "CitationUpdateDialog": {
-      "updateReference": "Update This Reference"
+    "Header": {
+      "howCanWeHelp": "Hi! How can we help?",
+      "youMayBeAble": "You may be able to find your answers below:"
+    },
+    "Reading": {
+      "howToStart": "How to start Citasion",
+      "addPapers": "Add papers to your Citasion projects",
+      "write": "Write papers with Citasion",
+      "billing": "Billing and subscription"
     },
     "CitationDeleteDialog": {
       "deleteReference": "Delete This Reference",
       "note1": "This operation will permanently delete this reference. Are you sure?",
       "note2": "This operation will remove this reference from the current project but won't delete the reference itself. Are you sure?"
+    },
+    "CitationUpdateDialog": {
+      "updateReference": "Update This Reference"
+    },
+    "CookiesNotification": {
+      "weUseCookies": "We use Cookies to ensure that we give you the best experience on our website. Read our <2>Privacy Policy</2>."
     },
     "Errors": {
       "message": "We are working on fixing this issue. Please try again."
@@ -633,18 +645,15 @@
     "ParsePdfDialog": {
       "noneParsed": "None of the uploaded PDFs can be parsed",
       "parsedSuccessfully": "{{count}} paper was added successfully.",
+      "parsedSuccessfully_plural": "{{count}} papers were added successfully.",
       "zeroPapers": "0 papers were added because no new papers were detected",
       "parsePDFFiles": "Parse PDF Files",
       "uploadMore": "You can upload one or more PDF paper files.",
       "parseMetadata": "Citasion will parse all the detectable metadata of the uploaded PDF files and generate reference entries.",
       "thinking": "Thinking about storing all your PDF paper files online in one-place?",
       "somePapers": "Some PDF papers may lack the metadata to be parsed. Read more about PDF metadata",
-      "parsedSuccessfully_plural": "",
       "tryCitasion": "Try <2><0>Citasion Premium</0></2> for free for 3 months.",
       "dragAndDrop": "Drag and drop files here or click"
-    },
-    "CookiesNotification": {
-      "weUseCookies": "We use Cookies to ensure that we give you the best experience on our website. Read our <2>Privacy Policy</2>."
     }
   }
 }
