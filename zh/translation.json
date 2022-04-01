@@ -44,7 +44,9 @@
         "whatIsName": "请命名新项目",
         "pageTitle": "Citasion: Projects",
         "myProjects": "我的项目",
-        "sharedProjects": "共享的项目"
+        "sharedProjects": "共享的项目",
+        "My": "我的项目",
+        "Shared": "共享的项目"
       },
       "ProjectDetailsView": {
         "about": "关于此项目",
@@ -205,8 +207,8 @@
         "signMicrosoft": "使用Microsoft登录",
         "signEmail": "使用Email登录",
         "signUp": "注册账户",
-        "pageTitle": "Citasion: 登录",
-        "pageDescription": "登录Citasion 轻松管理你的引用",
+        "title": "Citasion: 登录",
+        "description": "登录Citasion 轻松管理你的引用",
         "memberLogin": "Citasion用户登录",
         "dontHaveAccount": "需要注册Citasion账户?",
         "captchaNote": "该网站启用reCAPTCHA, 并遵循<2>Google隐私协议</2> 和 <6>使用条款</6>."
@@ -214,8 +216,8 @@
       "RegisterView": {
         "signupGoogle": "使用Google注册",
         "signupMicrosoft": "使用Microsoft注册",
-        "pageTitle": "Citasion: 登录",
-        "pageDesc": "注册Citasion账户 轻松管理你的引用",
+        "title": "Citasion: 登录",
+        "description": "注册Citasion账户 轻松管理你的引用",
         "startWith": "注册Citasion账户",
         "alreadyHave": "已经有Citasion账户?"
       }
@@ -226,7 +228,7 @@
         "goBeyond": "升级你的Citasion账户, 助力高效科研合作, 获得深层次文献分析.",
         "forIndividual": "个人用户",
         "basicReference": "基础引用管理",
-        "currentPlan": "现有服务",
+        "currentPlan": "免费会员",
         "defaultPlan": "默认会员",
         "oneClick": "文献一键导入",
         "unlimitedRefs": "无限量引用",
@@ -277,8 +279,8 @@
     },
     "Home": {
       "HomeView": {
-        "title": "Citasion: Smart online reference management",
-        "desc": "Citasion is a free reference management tool that makes online academic writing effective. Getting started is simple — download Citasion's extension ...",
+        "title": "Citasion: 强大的在线引用管理软件",
+        "description": "Citasion是一个强大的免费在线引用管理软件, 支持多种不同写作平台和软件; 现在下载Citasion浏览器插件, 立刻开始高效协同写作 ...",
         "introducing": "向你推荐",
         "citasion": "Citasion",
         "intro": "强大的在线引用管理软件",
@@ -352,6 +354,7 @@
         "paypal": "Paypal",
         "bestValue": "推荐",
         "changePlan": "更新高级会员类别",
+        "upgradePlan": "会员升级",
         "individualPlans": "高级会员",
         "experience": "解锁全面高效引用",
         "chooseDiff": "更新高级会员类别",
@@ -418,7 +421,7 @@
       "validInfoNeeded": "论文信息无效",
       "oneAdded": "已成功添加一条引用",
       "paperTitle": "论文标题",
-      "authors": "论文作者 (请依下列格式列出作者 \"姓1, 名1; 姓2, 名2; ...\")",
+      "authors": "论文作者 (请依下列格式列出作者: \"姓1, 名1; 姓2, 名2; ...\")",
       "authorPlaceholder": "e.g., Hellas, Arto; Ihantola, Petri; Petersen, Andrew",
       "conference": "会议或会议论文集",
       "chapterTitle": "章节标题",
@@ -488,8 +491,8 @@
     },
     "Reading": {
       "howToStart": "如何开始Citasion",
-      "addPapers": "如何添加引用到项目",
-      "write": "如何用Citasion支持学术写作",
+      "addPapers": "如何添加引用",
+      "write": "如何在写作中使用Citasion",
       "billing": "高级会员购买和收据"
     },
     "CitationUpdateDialog": {

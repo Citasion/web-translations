@@ -189,8 +189,8 @@
     },
     "Home": {
       "HomeView": {
-        "title": "Citasion: Smart online reference management",
-        "desc": "Citasion is a free reference management tool that makes online academic writing effective. Getting started is simple — download Citasion's extension ...",
+        "title": "Citasion: Gestión inteligente de referencias en línea",
+        "description": "Citasion es una herramienta gratuita de gestión de referencias que hace que la escritura académica en línea sea eficaz. Empezar es sencillo: descarga la extensión de Citasion...",
         "introducing": "Presentamos",
         "citasion": "Citasion",
         "intro": "Gestión de referencias intuitiva creada para las colaboraciones en la web.",
@@ -248,16 +248,16 @@
         "captchaNote": "Este sitio está protegido por reCAPTCHA y se aplican la <2>Política de privacidad de Google</2> y los <6>Términos de servicio</6>.",
         "signGoogle": "Acceder con Google",
         "signMicrosoft": "Acceder con Microsoft",
-        "pageTitle": "Citasion: Iniciar sesión",
-        "pageDescription": "Acceda a su cuenta de Citasion y gestione sus referencias con facilidad.",
+        "title": "Citasion: Iniciar sesión",
+        "description": "Acceda a su cuenta de Citasion y gestione sus referencias con facilidad.",
         "signEmail": "Acceder con el correo electrónico",
         "signUp": "Regístrese"
       },
       "RegisterView": {
         "signupGoogle": "Registrarse en Google",
         "signupMicrosoft": "Regístrese con Microsoft",
-        "pageTitle": "Citasion: Registre una cuenta",
-        "pageDesc": "Registre una cuenta Citasion y gestione sus referencias con facilidad.",
+        "title": "Citasion: Registre una cuenta",
+        "description": "Registre una cuenta Citasion y gestione sus referencias con facilidad.",
         "startWith": "Comienza con Citasion",
         "alreadyHave": "¿Ya tiene una cuenta?",
         "signupUserPass": "Regístrese con el correo electrónico"
@@ -338,12 +338,6 @@
         "error": "Se ha producido un error."
       }
     },
-    "home": {
-      "HomeView": {
-        "title": "Citasion: Gestión inteligente de referencias en línea",
-        "desc": "Citasion es una herramienta gratuita de gestión de referencias que hace que la escritura académica en línea sea eficaz. Empezar es sencillo: descarga la extensión de Citasion..."
-      }
-    },
     "Invoice": {
       "InvoiceDetailView": {
         "invoices": "Facturas",
@@ -376,6 +370,7 @@
         "paypal": "Paypal",
         "bestValue": "El mejor valor",
         "changePlan": "Cambie su plan",
+        "upgradePlan": "Cambie su plan",
         "individualPlans": "PLANES INDIVIDUALES",
         "experience": "Experimenta toda la potencia de Citasion",
         "chooseDiff": "Elija un plan Premium diferente",
@@ -390,14 +385,14 @@
         "premiumPromoText": "Citasion Premium le ayuda a realizar una revisión bibliográfica exhaustiva y perspicaz.",
         "currentPlan": "Plan actual",
         "currentPlanText": "{{subscription.plan}} Plan",
-        "priceText": "{{price}} / mes + impuestos",
+        "priceText": "${{price}} / mes + impuestos",
         "chargedOn": "se cobran {{plan}}",
         "newPlan": "Nuevo plan",
         "planName": "{{plan}} Plan",
-        "newPlanPrice": "{{price}} / mes + impuestos",
+        "newPlanPrice": "${{price}} / mes + impuestos",
         "whatHappens": "¿Qué pasa después?",
         "expiry": "Su plan actual expirará en {{date}}",
-        "newPlanExpiry": "Su nuevo plan comienza en {{date}} y se le cobrará {{bill}} + impuestos ese día",
+        "newPlanExpiry": "Su nuevo plan comienza en {{date}} y se le cobrará ${{bill}} + impuestos ese día",
         "futureCharge": "En el futuro se le cobraría {{plan}}",
         "paypalredirect": "Será dirigido a Paypal para confirmar el cambio de su plan. Usted recibirá un correo electrónico de nosotros cuando su plan se actualiza con éxito",
         "paypalemail": "Recibirás un correo electrónico cuando su plan se actualice correctamente",

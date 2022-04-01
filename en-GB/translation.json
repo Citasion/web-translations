@@ -190,7 +190,7 @@
     "Home": {
       "HomeView": {
         "title": "Citasion: Smart online reference management",
-        "desc": "Citasion is a free reference management tool that makes online academic writing effective. Getting started is simple — download Citasion's extension ...",
+        "description": "Citasion is a free reference management tool that makes online academic writing effective. Getting started is simple — download Citasion's extension ...",
         "introducing": "Introducing",
         "citasion": "Citasion",
         "intro": "Intuitive reference management built for collaborations on the web.",
@@ -248,16 +248,16 @@
         "captchaNote": "This site is protected by reCAPTCHA and the <2>Google Privacy Policy</2> and <6>Terms of Service</6> apply.",
         "signGoogle": "Sign in with Google",
         "signMicrosoft": "Sign in with Microsoft",
-        "pageTitle": "Citasion: Login",
-        "pageDescription": "Log in to your Citasion Account and manage your references with ease.",
+        "title": "Citasion: Login",
+        "description": "Log in to your Citasion Account and manage your references with ease.",
         "signEmail": "Sign in with Email",
         "signUp": "Sign Up"
       },
       "RegisterView": {
         "signupGoogle": "Sign up with Google",
         "signupMicrosoft": "Sign up with Microsoft",
-        "pageTitle": "Citasion: Register An Account",
-        "pageDesc": "Register a Citasion Account and manage your references with ease.",
+        "title": "Citasion: Register An Account",
+        "description": "Register a Citasion Account and manage your references with ease.",
         "startWith": "Start with Citasion",
         "alreadyHave": "Already have an account?",
         "signupUserPass": "Sign up with Email"
@@ -376,6 +376,7 @@
         "paypal": "Paypal",
         "bestValue": "Best Value",
         "changePlan": "Change Your Plan",
+        "upgradePlan": "Change Your Plan",
         "individualPlans": "INDIVIDUAL PLANS",
         "experience": "Experience the Full Power of Citasion",
         "chooseDiff": "Choose a Different Premium Plan",
@@ -397,7 +398,7 @@
         "newPlanPrice": "${{price}} / month + tax",
         "whatHappens": "What happens next?",
         "expiry": "Your existing plan will expire by {{date}}",
-        "newPlanExpiry": "Your new plan starts by ${{date}} and you’ll be charged ${{bill}} + tax on that day",
+        "newPlanExpiry": "Your new plan starts by {{date}} and you’ll be charged ${{bill}} + tax on that day",
         "futureCharge": "You would be charged on a {{plan}} basis in the future",
         "paypalredirect": "You will be directed to Paypal to confirm the change of your plan. You will receive an email from us when your plan is updated successfully",
         "paypalemail": "You will receive an email from us when your plan is updated successfully",
