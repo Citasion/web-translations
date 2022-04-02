@@ -38,13 +38,9 @@
         "DeleteTextShare": "未来你将无法访问此项目以及项目内的引用文献。你确定吗？",
         "DeleteTextConfirm": "请输入该项目名称来确定你想要删除此项目：",
         "DeleteTextProjectName": "项目名称",
-        "emailAddresses": "邮件地址",
         "addnewCaps": "添加新项目",
         "addnew": "添加新项目",
         "whatIsName": "请命名新项目",
-        "pageTitle": "Citasion: Projects",
-        "myProjects": "我的项目",
-        "sharedProjects": "共享的项目",
         "My": "我的项目",
         "Shared": "共享的项目",
         "projectNameReq": "",
@@ -183,7 +179,6 @@
         "CancelText": "你确定要取消Citasion会员吗?",
         "Confirm": "确定",
         "pageTitle": "Citasion: 帐户设置",
-        "defaultPlan": "默认会员",
         "manageSubscription": "会员管理",
         "willExpire": "你的试用将在<2>{{expiryDate}}</2>过期.",
         "expirationDate": "到期日 {{date}}",
@@ -194,12 +189,6 @@
       "LoginIframeView": {
         "signinGoogle": "使用Google登录",
         "signinMicrosoft": "使用Microsoft登录",
-        "citasionLogin": "Citasion: 登录",
-        "loginNote": "登录Citasion解锁:",
-        "check1": "文献一键导入",
-        "check2": "多平台引用管理 (Google Docs, Overleaf, Word)",
-        "check3": "多人在线合作",
-        "check4": "智能文献推荐分析",
         "citasionMemberLogin": "",
         "protectionNote": "该网站启用reCAPTCHA, 并遵循<2>Google隐私协议</2> 和 <6>使用条款</6>.",
         "termsPrivacy": "<0>使用条款</0> · <2>隐私协议</2>"
@@ -247,7 +236,6 @@
         "unlimitedRefs": "无限量引用",
         "unlimitedProjects": "无限量项目分享",
         "styles": "1000+ 引用格式",
-        "freeTrialFor": "免费试用{{count}}个月",
         "advancedReference": "进阶引用管理 & 文献分析",
         "startFree": "开始免费试用",
         "welcomePremium": "欢迎成为Citasion高级会员",
@@ -273,7 +261,6 @@
         "volumeDiscounts": "你们提供批量购买折扣吗?",
         "tryPremium": "我可以试用 Citasion 高级会员吗?",
         "tryPremiumAnswer": "Yes! 所有的免费用户都可以试用90天的 Citasion 高级会员. 你只需要注册一个Citasion账户并且在此访问本页面.",
-        "freeTrialFor_plural": "免费试用{{count}}个月",
         "pageTitle": "Citasion: 会员升级",
         "pageDesc": "让你的引用和文献管理再上一个台阶",
         "otherResearchAggregators": "其他学术搜索引擎",
@@ -288,7 +275,7 @@
         "startingAt": "<0>只要 </0><1>$2.99</1><2>/月</2>",
         "premiumExpire": "你的Citasion高级会员试用将会在 <2><0>{{expiryDate}}</0></2> 过期.",
         "volumeDiscountsAnswer": "Yes! 只要你一次为超过5人购买年费高级会员. 如果你打算购买超过5人的年费会员, 请<2><0>联系我们</0></2>.",
-        "freeTrialFor_0": ""
+        "freeTrialFor_0": "免费试用{{count}}个月"
       }
     },
     "Home": {
@@ -382,11 +369,9 @@
         "testimonialName": "- Vanessa Dennen, 教育技术专家",
         "premiumPromoText": "Citasion高级会员可以帮助你进行引用的深度分析, 并且推荐最新最相关文献",
         "currentPlan": "现有会员信息",
-        "currentPlanText": "{{plan}}费会员",
         "priceText": "${{price}} / 月",
         "chargedOn": "",
         "newPlan": "更新会员信息",
-        "planName": "{{plan}}费会员",
         "newPlanPrice": "${{price}} / 月",
         "whatHappens": "接下来呢?",
         "expiry": "你的现有会员会在{{date}}过期",
@@ -465,17 +450,13 @@
     },
     "BibtexAddDialog": {
       "invalid": "BibTeX语法有错",
-      "added": "已成功添加{{count}}条引用",
-      "failed": "未能添加{{count}}因为语法错误",
       "noAdded": "未能添加新的引用因为没有发现新的论文",
       "somethingWrong": "未能添加新的引用因为. 请确保你提供的BibTex语法正确",
       "copyPaste": "复制粘帖BibTeX",
       "copyPasteHere": "在这里复制粘帖你的BibTeX",
       "readMoreBibtex": "阅读更多BibTeX语法的相关信息",
-      "added_plural": "已成功添加{{count}}条引用",
-      "failed_plural": "未能添加{{count}}条引用因为语法错误.",
-      "added_0": "",
-      "failed_0": ""
+      "added_0": "已成功添加{{count}}条引用",
+      "failed_0": "未能添加{{count}}因为语法错误"
     },
     "CitationAddDialog": {
       "addReference": "添加引用"
@@ -495,8 +476,6 @@
       "pdfLackMeta": "有些PDF论文缺少元数据所以不能被分析; 阅读更多有关元数据的信息"
     },
     "UploadReferenceDialog": {
-      "numberAdded": "已成功添加{{response}}条引用",
-      "numberAdded_plural": "已成功添加{{response}}条引用",
       "noneUploaded": "上传的引用文件无法被分析",
       "noneAdded": "未能添加新的引用因为没有发现新的论文",
       "uploadFiles": "上传引用文件",
@@ -505,7 +484,7 @@
       "dragDrop": "拖拽上传文件或点击这里",
       "selectedFiles": "选中文件",
       "readMoreAboutFormats": "阅读更多有关Citasion接受的引用文件",
-      "numberAdded_0": ""
+      "numberAdded_0": "已成功添加{{response}}条引用"
     },
     "ContactForm": {
       "howToStart": "如何开始Citasion",
@@ -546,17 +525,15 @@
     },
     "ParsePdfDialog": {
       "noneParsed": "无法分析上传的PDF文件",
-      "parsedSuccessfully": "已成功添加{{count}}条引用",
       "zeroPapers": "未能添加新的引用因为没有发现新的论文",
       "parsePDFFiles": "分析PDF文件",
       "uploadMore": "你可以上传一个或多个PDF文件",
       "parseMetadata": "Citasion会分析上传论文的所有可发现的元数据, 并且用这些数据生成引用文献",
       "thinking": "想在线管理你所有的PDF论文?",
       "somePapers": "有些PDF论文缺少元数据所以不能被分析; 阅读更多有关元数据的信息",
-      "parsedSuccessfully_plural": "",
       "tryCitasion": "免费试用<2><0>Citasion高级会员</0></2>三个月",
       "dragAndDrop": "拖拽上传文件或点击这里",
-      "parsedSuccessfully_0": ""
+      "parsedSuccessfully_0": "已成功添加{{count}}条引用"
     },
     "CookiesNotification": {
       "weUseCookies": "Citasion使用cookie来给你提供最好的用户体验; 阅读<2>我们的隐私条款</2>可以了解更多"
@@ -576,13 +553,11 @@
     "extensionPrivacy": "插件隐私保护协议",
     "connect": "联系我们",
     "blogs": "博客",
-    "invoices": "收据",
     "help": "帮助中心",
     "facebook": "Facebook",
     "twitter": "Twitter",
     "linkedin": "LinkedIn",
     "login": "登录",
-    "signup": "注册",
     "loading": "加载中",
     "confirm": "确定",
     "projectname": "项目名称",
@@ -596,7 +571,6 @@
     "active": "Active",
     "inactive": "Inactive",
     "share": "共享",
-    "about": "关于我们",
     "target": "目标期刊/会议分析",
     "recommendation": "文献推荐",
     "analytics": "文献分析",

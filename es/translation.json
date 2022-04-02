@@ -233,11 +233,6 @@
       "LoginIframeView": {
         "signinGoogle": "Acceder con Google",
         "signinMicrosoft": "Acceder con Microsoft",
-        "loginNote": "Entra en Citasion ahora para desbloquearlo:",
-        "check1": "Importación de artículos con un solo clic",
-        "check2": "Fácil referenciación para Google Docs, Overleaf y Word",
-        "check3": "Apoyo total a la escritura colaborativa",
-        "check4": "Recomendaciones y análisis basados en la IA",
         "citasionMemberLogin": "Inicio de sesión de los miembros de Citasion",
         "protectionNote": "This site is protected by reCAPTCHA and the <2>Google Privacy Policy</2> and <6>Terms of Service</6> apply.",
         "termsPrivacy": "<0>Terms and Conditions</0> · <2>Privacy Policy</2>"
@@ -386,11 +381,9 @@
         "testimonialName": "- Vanessa Dennen, investigadora de tecnología educativa",
         "premiumPromoText": "Citasion Premium le ayuda a realizar una revisión bibliográfica exhaustiva y perspicaz.",
         "currentPlan": "Plan actual",
-        "currentPlanText": "{{subscription.plan}} Plan",
         "priceText": "${{price}} / mes + impuestos",
         "chargedOn": "se cobran {{plan}}",
         "newPlan": "Nuevo plan",
-        "planName": "{{plan}} Plan",
         "newPlanPrice": "${{price}} / mes + impuestos",
         "whatHappens": "¿Qué pasa después?",
         "expiry": "Su plan actual expirará en {{date}}",
@@ -478,7 +471,6 @@
     "share": "Compartir",
     "active": "Activo",
     "inactive": "Inactivo",
-    "about": "Acerca de",
     "recommendation": "Recomendaciones",
     "target": "Análisis del lugar de publicación",
     "googleScholar": "Google Scholar",
@@ -540,8 +532,6 @@
     "error": "Error",
     "email": "Correo electrónico",
     "password": "Contraseña",
-    "invoices": "Facturas",
-    "paid": "Pagado",
     "checkout": "Comprobación",
     "PdfFile": "Archivo PDF",
     "selectedFiles": "Archivos seleccionados",
@@ -563,7 +553,6 @@
       "dragDrop": "Arrastre y suelte los archivos aquí o haga clic en",
       "selectedFiles": "Archivos seleccionados",
       "readMoreAboutFormats": "Más información sobre los formatos de archivos de referencia que aceptamos",
-      "youCanUpload": "Puede cargar uno o varios archivos de datos de referencia exportados.",
       "uploadOneOrMore": ""
     },
     "AddForms": {

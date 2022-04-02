@@ -233,11 +233,6 @@
       "LoginIframeView": {
         "signinGoogle": "Sign in with Google",
         "signinMicrosoft": "Sign in with Microsoft",
-        "loginNote": "Log in Citasion now to unlock:",
-        "check1": "One-click paper importation",
-        "check2": "Easy referencing for Google Docs, Overleaf and Word",
-        "check3": "Full support of collaborative writing",
-        "check4": "AI-based recommendations and analytics",
         "citasionMemberLogin": "Citasion Member Login",
         "protectionNote": "This site is protected by reCAPTCHA and the <2>Google Privacy Policy</2> and <6>Terms of Service</6> apply.",
         "termsPrivacy": "<0>Terms and Conditions</0> · <2>Privacy Policy</2>"
@@ -340,12 +335,6 @@
         "error": "An error just occurred."
       }
     },
-    "home": {
-      "HomeView": {
-        "title": "Citasion: Smart online reference management",
-        "desc": "Citasion is a free reference management tool that makes online academic writing effective. Getting started is simple — download Citasion's extension ..."
-      }
-    },
     "Invoice": {
       "InvoiceDetailView": {
         "invoices": "Invoices",
@@ -392,11 +381,9 @@
         "testimonialName": "- Vanessa Dennen, Instructional Technology Researcher",
         "premiumPromoText": "Citasion Premium helps you conduct comprehensive and insightful literature review.",
         "currentPlan": "Current Plan",
-        "currentPlanText": "{{subscription.plan}} Plan",
         "priceText": "${{price}} / month + tax",
         "chargedOn": "charged on {{plan}} basis",
         "newPlan": "New Plan",
-        "planName": "{{plan}} Plan",
         "newPlanPrice": "${{price}} / month + tax",
         "whatHappens": "What happens next?",
         "expiry": "Your existing plan will expire by {{date}}",
@@ -484,7 +471,6 @@
     "share": "Share",
     "active": "Active",
     "inactive": "Inactive",
-    "about": "About",
     "recommendation": "Recommendations",
     "target": "Venue Analytics",
     "googleScholar": "Google Scholar",
@@ -546,8 +532,6 @@
     "error": "Error",
     "email": "Email",
     "password": "Password",
-    "invoices": "Invoices",
-    "paid": "Paid",
     "checkout": "Check Out",
     "PdfFile": "PDF File",
     "selectedFiles": "Selected files",
@@ -569,7 +553,6 @@
       "dragDrop": "Drag and drop files here or click",
       "selectedFiles": "Selected files",
       "readMoreAboutFormats": "Read more about the formats of reference files that we accept",
-      "youCanUpload": "You can upload one or more exported reference data files",
       "uploadOneOrMore": ""
     },
     "AddForms": {
