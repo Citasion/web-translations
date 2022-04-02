@@ -46,7 +46,9 @@
         "myProjects": "我的项目",
         "sharedProjects": "共享的项目",
         "My": "我的项目",
-        "Shared": "共享的项目"
+        "Shared": "共享的项目",
+        "projectNameReq": "",
+        "errorLoading": ""
       },
       "ProjectDetailsView": {
         "about": "关于此项目",
@@ -211,7 +213,9 @@
         "description": "登录Citasion 轻松管理你的引用",
         "memberLogin": "Citasion用户登录",
         "dontHaveAccount": "需要注册Citasion账户?",
-        "captchaNote": "该网站启用reCAPTCHA, 并遵循<2>Google隐私协议</2> 和 <6>使用条款</6>."
+        "captchaNote": "该网站启用reCAPTCHA, 并遵循<2>Google隐私协议</2> 和 <6>使用条款</6>.",
+        "pageTitle": "",
+        "pageDescription": ""
       },
       "RegisterView": {
         "signupGoogle": "使用Google注册",
@@ -219,7 +223,16 @@
         "title": "Citasion: 登录",
         "description": "注册Citasion账户 轻松管理你的引用",
         "startWith": "注册Citasion账户",
-        "alreadyHave": "已经有Citasion账户?"
+        "alreadyHave": "已经有Citasion账户?",
+        "signupUserPass": ""
+      },
+      "AuthRedirect": {
+        "errorVerify": "",
+        "invalidPassword": ""
+      },
+      "EmailVerification": {
+        "title": "",
+        "text": ""
       }
     },
     "campaign": {
@@ -274,7 +287,8 @@
         "shareableProjects": "引用共享项目",
         "startingAt": "<0>只要 </0><1>$2.99</1><2>/月</2>",
         "premiumExpire": "你的Citasion高级会员试用将会在 <2><0>{{expiryDate}}</0></2> 过期.",
-        "volumeDiscountsAnswer": "Yes! 只要你一次为超过5人购买年费高级会员. 如果你打算购买超过5人的年费会员, 请<2><0>联系我们</0></2>."
+        "volumeDiscountsAnswer": "Yes! 只要你一次为超过5人购买年费高级会员. 如果你打算购买超过5人的年费会员, 请<2><0>联系我们</0></2>.",
+        "freeTrialFor_0": ""
       }
     },
     "Home": {
@@ -393,7 +407,10 @@
         "paymentAgreement": "你的高级会员每<1>{{frequency}}</1>个月会续费一次; 每次续费金额为$<4>{{price}}</4>。你可以在账户设置中取消高级会员的续订; 如果你取消续订, 已付的金额将不会退还给您, 但你可以在高级会员过期前继续使用高级会员的所有功能。点击以上更新支付方式按键表示你已经同意我们的<7>条款</7>。如果您有任何问题, 你可以发邮件到support@citasion.com来联系我们。",
         "saveDiscount": "{{discount}}%折扣",
         "billedAsOne": "一次付款${{price}}",
-        "month": "月"
+        "month": "月",
+        "free": "",
+        "trial": "",
+        "premium": ""
       }
     },
     "uninstall": {
@@ -413,6 +430,24 @@
       "helpUs": "",
       "helpUsText": "",
       "title": ""
+    },
+    "errors": {
+      "NotAuthorized": {
+        "mightLost": "",
+        "back": ""
+      },
+      "NotFoundView": {
+        "mightLost": ""
+      },
+      "UnknownError": {
+        "error": ""
+      }
+    },
+    "references": {
+      "ReferenceBrowseView": {
+        "selectRef": "",
+        "updateRef": ""
+      }
     }
   },
   "components": {
@@ -438,7 +473,9 @@
       "copyPasteHere": "在这里复制粘帖你的BibTeX",
       "readMoreBibtex": "阅读更多BibTeX语法的相关信息",
       "added_plural": "已成功添加{{count}}条引用",
-      "failed_plural": "未能添加{{count}}条引用因为语法错误."
+      "failed_plural": "未能添加{{count}}条引用因为语法错误.",
+      "added_0": "",
+      "failed_0": ""
     },
     "CitationAddDialog": {
       "addReference": "添加引用"
@@ -467,7 +504,8 @@
       "uploadOneOrMore": "你可以上传一个或多个引用文件",
       "dragDrop": "拖拽上传文件或点击这里",
       "selectedFiles": "选中文件",
-      "readMoreAboutFormats": "阅读更多有关Citasion接受的引用文件"
+      "readMoreAboutFormats": "阅读更多有关Citasion接受的引用文件",
+      "numberAdded_0": ""
     },
     "ContactForm": {
       "howToStart": "如何开始Citasion",
@@ -517,7 +555,8 @@
       "somePapers": "有些PDF论文缺少元数据所以不能被分析; 阅读更多有关元数据的信息",
       "parsedSuccessfully_plural": "",
       "tryCitasion": "免费试用<2><0>Citasion高级会员</0></2>三个月",
-      "dragAndDrop": "拖拽上传文件或点击这里"
+      "dragAndDrop": "拖拽上传文件或点击这里",
+      "parsedSuccessfully_0": ""
     },
     "CookiesNotification": {
       "weUseCookies": "Citasion使用cookie来给你提供最好的用户体验; 阅读<2>我们的隐私条款</2>可以了解更多"
@@ -614,6 +653,17 @@
     "series": "系列",
     "thesisTitle": "论文名字",
     "schoolLocation": "学校地址",
-    "": "<0>{{title}}</0>"
+    "": "<0>{{title}}</0>",
+    "yes": "",
+    "no": "",
+    "iagree": "",
+    "error": "",
+    "selectedFiles": "",
+    "email": "",
+    "password": "",
+    "monthly": "",
+    "quarterly": "",
+    "annual": "",
+    "PdfFile": ""
   }
 }
