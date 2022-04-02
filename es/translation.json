@@ -404,10 +404,10 @@
         "paymentAgreement": "Su suscripción se renovará automáticamente cada <1>{frecuencia}}</1> mes(es). Se le cobrará <4>{precio}}</4> en cada renovación hasta que la cancele en la configuración de su cuenta. Si cancelas, no se reembolsarán los cargos anteriores, pero podrás seguir utilizando el servicio hasta el final del plazo que hayas pagado. Al hacer clic en el botón \"Check out\" de arriba, está aceptando nuestros <7>Términos de Servicio</7>. Si tiene preguntas, puede ponerse en contacto con nosotros enviando un correo electrónico a <9>support@citasion.com</9>.",
         "saveDiscount": "ahorra un {{discount}}%.",
         "billedAsOne": "Facturado como un solo pago de ${{price}}",
-        "month": "",
-        "free": "",
-        "trial": "",
-        "premium": ""
+        "month": "Mes",
+        "free": "Gratis",
+        "trial": "Prueba",
+        "premium": "Premium"
       }
     },
     "references": {
@@ -553,7 +553,7 @@
       "dragDrop": "Arrastre y suelte los archivos aquí o haga clic en",
       "selectedFiles": "Archivos seleccionados",
       "readMoreAboutFormats": "Más información sobre los formatos de archivos de referencia que aceptamos",
-      "uploadOneOrMore": ""
+      "uploadOneOrMore": "Puede cargar uno o varios archivos de referencia"
     },
     "AddForms": {
       "pdfLinkNeeds": "El enlace al PDF debe ser una url válida.",
