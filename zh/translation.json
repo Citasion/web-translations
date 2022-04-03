@@ -130,12 +130,12 @@
         "SelectedProject": "你要添加选中引用的项目",
         "AddPaperToolTip": "添加选择的引用",
         "Confirm": "确定",
-        "wasAddedToProject_0": ""
+        "wasAddedToProject_0": "导入了{{count}}条引用"
       }
     },
     "application": {
       "ChromeTitle": "Chrome 插件",
-      "ChromeText": "Citasion 的免费插件帮助你从学术网站 (例如 Google Scholar, PubMed, ACM Digital Library) 自动导入引用, 并且在",
+      "ChromeText": "Citasion 的免费插件帮助你从学术网站 (例如, 中国知网, Google Scholar, ACM Digital Library) 自动导入引用, 并且在",
       "GoogleDoc": "Google Docs 和",
       "Overleaf": "Overleaf 管理和使用导入的引用",
       "Install": "安装",
@@ -189,7 +189,7 @@
       "LoginIframeView": {
         "signinGoogle": "使用Google登录",
         "signinMicrosoft": "使用Microsoft登录",
-        "citasionMemberLogin": "",
+        "citasionMemberLogin": "Citasion用户登录",
         "protectionNote": "该网站启用reCAPTCHA, 并遵循<2>Google隐私协议</2> 和 <6>使用条款</6>.",
         "termsPrivacy": "<0>使用条款</0> · <2>隐私协议</2>"
       },
@@ -209,19 +209,19 @@
       "RegisterView": {
         "signupGoogle": "使用Google注册",
         "signupMicrosoft": "使用Microsoft注册",
-        "title": "Citasion: 登录",
-        "description": "注册Citasion账户 轻松管理你的引用",
+        "title": "Citasion: 注册",
+        "description": "注册Citasion账户, 轻松管理你的引用",
         "startWith": "注册Citasion账户",
         "alreadyHave": "已经有Citasion账户?",
-        "signupUserPass": ""
+        "signupUserPass": "使用Email注册"
       },
       "AuthRedirect": {
-        "errorVerify": "",
-        "invalidPassword": ""
+        "errorVerify": "我们无法验证你的邮箱, 请发邮件到support@citasion.com联系我们",
+        "invalidPassword": "重设密码密钥无效"
       },
       "EmailVerification": {
-        "title": "",
-        "text": ""
+        "title": "请先验证你的邮箱地址",
+        "text": "你需要先验证自己的邮箱地址; 请查看你的邮箱, 并且按照Citasion的邮件指示验证你的邮箱"
       }
     },
     "campaign": {
@@ -273,7 +273,7 @@
         "smartCitationFinder": "智能引用查找",
         "shareableProjects": "引用共享项目",
         "startingAt": "<0>只要 </0><1>$2.99</1><2>/月</2>",
-        "premiumExpire": "你的Citasion高级会员试用将会在 <2><0>{{expiryDate}}</0></2> 过期.",
+        "premiumExpire": "你的Citasion高级会员试用将会在 {{expiryDate}} 过期",
         "volumeDiscountsAnswer": "Yes! 只要你一次为超过5人购买年费高级会员. 如果你打算购买超过5人的年费会员, 请<2><0>联系我们</0></2>.",
         "freeTrialFor_0": "免费试用{{count}}个月"
       }
@@ -341,7 +341,7 @@
       }
     },
     "support": {
-      "title": ""
+      "title": "Citasion: 帮助中心"
     },
     "pricing": {
       "PlanChange": {
@@ -399,39 +399,39 @@
       }
     },
     "uninstall": {
-      "why": "",
-      "yourMessage": "",
-      "pleaseSelect": "",
-      "pleaseCheck": "",
-      "paperImport]": "",
-      "website]": "",
-      "googledocs]": "",
-      "overleaf]": "",
-      "word]": "",
-      "slows": "",
-      "createAccount": "",
-      "other": "",
-      "improve": "",
-      "helpUs": "",
-      "helpUsText": "",
-      "title": ""
+      "why": "请问你为何选择卸载Citasion?",
+      "yourMessage": "我们已收到你的反馈, 谢谢!",
+      "pleaseSelect": "请选择至少一个选项",
+      "pleaseCheck": "请选择您卸载的所有原因:",
+      "paperImport": "引用导入总是出错",
+      "website": "网站总是出错",
+      "googledocs": "Citasion在Google Docs中总是出错",
+      "overleaf": "Citasion在Overleaf中总是出错",
+      "word": "Citasion在Word中总是出错",
+      "slows": "Citasion减慢我电脑的运行速度",
+      "createAccount": "我不想创建一个新的账户",
+      "other": "其他原因",
+      "improve": "我们哪里可以做得更好?",
+      "helpUs": "我们正努力成长, 请帮助我们进步",
+      "helpUsText": "We know our reference management tool isn’t perfect, and we’re committed to making it better for you. Can you ket us know why you uninstalled the Citasion extension?",
+      "title": "Citasion: 很遗憾你选择卸载Citasion插件"
     },
     "errors": {
       "NotAuthorized": {
-        "mightLost": "",
-        "back": ""
+        "mightLost": "你迷路啦; 你没有权限访问此页面",
+        "back": "返回主页"
       },
       "NotFoundView": {
-        "mightLost": ""
+        "mightLost": "你迷路啦; 此页面不存在"
       },
       "UnknownError": {
-        "error": ""
+        "error": "出错啦"
       }
     },
     "references": {
       "ReferenceBrowseView": {
-        "selectRef": "",
-        "updateRef": ""
+        "selectRef": "选择引用",
+        "updateRef": "更新引用"
       }
     }
   },
@@ -628,16 +628,16 @@
     "thesisTitle": "论文名字",
     "schoolLocation": "学校地址",
     "": "<0>{{title}}</0>",
-    "yes": "",
-    "no": "",
-    "iagree": "",
-    "error": "",
-    "selectedFiles": "",
-    "email": "",
-    "password": "",
-    "monthly": "",
-    "quarterly": "",
-    "annual": "",
-    "PdfFile": ""
+    "yes": "确定",
+    "no": "取消",
+    "iagree": "同意",
+    "error": "出错了",
+    "email": "邮件地址",
+    "password": "密码",
+    "PdfFile": "PDF文件",
+    "selectedFiles": "已选中的文件",
+    "monthly": "月费会员",
+    "quarterly": "季度会员",
+    "annual": "年费会员"
   }
 }

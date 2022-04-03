@@ -261,7 +261,7 @@
       },
       "EmailVerification": {
         "title": "Email Verification Required",
-        "text": "Your email needs to verified in order to access your account. Please visit your email and follow the instructions that are provided there."
+        "text": "You need to verify your email address before accessing your account. Please check your email and follow the provided instruction in an email from Citasion"
       },
       "AuthRedirect": {
         "errorVerify": "We were unable to verify your email. Please contact support@citasion.com",
@@ -319,7 +319,7 @@
         "pageTitle": "Citasion: Go Premium",
         "pageDesc": "Take your reference management to the next level of efficiency.",
         "startingAt": "<0>Starting at </0><1>$2.99</1><2>/month</2>",
-        "premiumExpire": "Your premium trial will expire by <2><0>{{expiryDate}}</0></2>.",
+        "premiumExpire": "Your premium trial will expire by {{expiryDate}}.",
         "volumeDiscountsAnswer": "Yes! We offer volume discounts on annual plans for more than 5 members. Please <2><0>contact us</0></2> if you’re buying a plan for more than 5 members."
       }
     },
@@ -424,11 +424,11 @@
       "yourMessage": "Your message has been received!",
       "pleaseSelect": "Please select at least one option.",
       "pleaseCheck": "Please check all that apply:",
-      "paperImport]": "Paper importation doesn't work well",
-      "website]": "Website doesn't work well",
-      "googledocs]": "Doesn't work well on Google Docs",
-      "overleaf]": "Doesn't work well on Overleaf",
-      "word]": "Doesn't work well on Word",
+      "paperImport": "Paper importation doesn't work well",
+      "website": "Website doesn't work well",
+      "googledocs": "Doesn't work well on Google Docs",
+      "overleaf": "Doesn't work well on Overleaf",
+      "word": "Doesn't work well on Word",
       "slows": "Slows down my computer",
       "createAccount": "I don't want to create an account",
       "other": "Other reasons",
