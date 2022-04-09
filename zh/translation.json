@@ -107,7 +107,7 @@
         "MyReferences": "我的引用文献",
         "AddReferences": "添加引用",
         "UploadReferenceFiles": "上传引用文件",
-        "ParsePDFFiles": "抓取PDF论文数据",
+        "ParsePDFFiles": "解析PDF论文数据",
         "UploadPDFFiles": "上传PDF论文",
         "CopyPasteBibtex": "复制粘贴Bibtex",
         "AddReferenceManually": "手动添加引用",
