@@ -1,0 +1,16 @@
+{
+  "views": {
+    "blogs": {
+      "BlogBrowseView": {
+        "title": "Citasion: Blogs",
+        "bodyTitle": "Citasion Blogs",
+        "note": "Showing {{blogLength}} articles",
+        "by": "by",
+        "updated": "Updated",
+        "difficulty": "difficulty",
+        "readingTime": "Reading time"
+      },
+      "BlogDetailView": {}
+    }
+  }
+}
