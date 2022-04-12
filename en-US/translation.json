@@ -645,6 +645,22 @@
       "somePapers": "Some PDF papers may lack the metadata to be parsed. Read more about PDF metadata",
       "tryCitasion": "Try <2><0>Citasion Premium</0></2> for free for 3 months.",
       "dragAndDrop": "Drag and drop files here or click"
+    },
+    "FeaturesAnimation": {
+      "rec2Text": "Graphically based passwords (using images) were used in the development of a method. The novel authentication system was implemented in a web-based prototype application. Alternative solutions were also examined by researchers. However, even as early as 1998 in a request for comments, a study has investigated the possibility of utilizing one-time password methods in websites (Haller, Metz, Nesser, & Straw, 1998).",
+      "rec2TextNewLine": "Graphically based passwords (using images) were used in the development of a method. The novel authentication system was implemented in a web-based prototype application.\\A\\A Alternative solutions were also examined by researchers. However, even as early as 1998 in a request for comments, a study has investigated the possibility of utilizing one-time password methods in websites (Haller, Metz, Nesser, & Straw, 1998).",
+      "rec1Text": "Alternative solutions were also examined by researchers. However, even as early as 1998 in a request for comments, a study has investigated the possibility of utilizing one-time password methods in websites (Haller, Metz, Nesser, & Straw, 1998).\\A\\AReferences\\AHaller, N., Metz, C., Nesser, P., & Straw, M. (1998). A one-time password system. Network Working Group Request for Comments, 2289.",
+      "rec1TextPreFinal": "Alternative solutions were also examined by researchers. However, even as early as 1998 in a request for comments, a study has investigated the possibility of utilizing one-time password methods in websites.",
+      "rec3TextPre": "However, even as early as 1998 in a request for comments, a study has investigated the possibility of utilizing one-time password methods in websites (Haller, Metz, Nesser, & Straw, 1998).",
+      "rec3TextFinal": "Even as early as 1998 in a request for comments, a study has investigated the possibility of utilizing one-time password methods in websites (Haller, Metz, Nesser, & Straw, 1998).",
+      "recommended": "Recommended Citation",
+      "rec3Note": "\"However\" is wordy or unneeded",
+      "rec3Title": "Writing recommendation",
+      "rec2Note": "The paragraph's content appears to be thematically different. Consider splitting into two paragraphs.",
+      "rec2Title": "Writing recommendation",
+      "add": "Add citation",
+      "refAuthorYear": "Haller, Neil and Metz, Craig a... - 1998",
+      "refTitle": "A one-time password system"
     }
   }
 }
