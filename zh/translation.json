@@ -436,6 +436,22 @@
     }
   },
   "components": {
+    "FeaturesAnimation": {
+      "rec2Text": "基于图形的密码（使用图像）被用于开发一种方法。新颖的认证系统在一个基于网络的原型应用中得到了实现。研究人员还研究了其他的解决方案。然而，甚至早在1998年的征求意见中，一项研究已经调查了在网站中利用一次性密码方法的可能性（Haller, Metz, Nesser, & Straw, 1998）。",
+      "rec2TextNewLine": "基于图形的密码（使用图像）被用于开发一种方法。新颖的认证系统在一个基于网络的原型应用中得到了实现。\\A\\A研究人员还研究了其他的解决方案。然而，甚至早在1998年的征求意见中，一项研究已经调查了在网站中利用一次性密码方法的可能性（Haller, Metz, Nesser, & Straw, 1998）。",
+      "rec1Text": "研究人员也研究了其他的解决方案。然而，甚至早在1998年的征求意见中，一项研究已经调查了在网站中利用一次性密码方法的可能性（Haller, Metz, Nesser, & Straw, 1998）。\\A\\A参考文献\\AHaller, N., Metz, C., Nesser, P., & Straw, M. (1998). 一个一次性的密码系统。Network Working Group Request for Comments, 2289.",
+      "rec1TextPreFinal": "研究人员也研究了其他的解决方案。然而，甚至早在1998年的征求意见中，就有研究者调查了在网站中利用一次性密码方法的可能性。",
+      "rec3TextPre": "然而，甚至早在1998年的征求意见中，一项研究已经调查了在网站中利用一次性密码方法的可能性（Haller, Metz, Nesser, & Straw, 1998）。",
+      "rec3TextFinal": "甚至早在1998年的征求意见中，一项研究已经调查了在网站中利用一次性密码方法的可能性（Haller, Metz, Nesser, & Straw, 1998）。",
+      "recommended": "推荐引用",
+      "rec3Note": "\"然而\"是字斟句酌或不需要的",
+      "rec3Title": "写作推荐",
+      "rec2Note": "该段的内容似乎在主题上有所不同。考虑分成两个段落。",
+      "rec2Title": "写作推荐",
+      "add": "添加引文",
+      "refAuthorYear": "哈勒，尼尔和梅茨，克雷格a... - 1998",
+      "refTitle": "一次性密码系统"
+    },
     "AddForms": {
       "pdfLinkNeeds": "PDF链接无效",
       "validInfoNeeded": "论文信息无效",
