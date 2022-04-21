@@ -1,0 +1,35 @@
+{
+  "layouts": {
+    "LegalLayout": {
+      "NavBar": {
+        "extensionPrivacy": "",
+        "cookieNotice": "",
+        "personalInfoRequests": ""
+      }
+    }
+  },
+  "views": {
+    "legals": {
+      "TermsView": {
+        "title": "",
+        "content": ""
+      },
+      "PrivacyView": {
+        "title": "",
+        "content": ""
+      },
+      "CookieNoticeView": {
+        "title": "",
+        "content": ""
+      },
+      "PrivacyExtensionView": {
+        "title": "",
+        "content": ""
+      },
+      "PersonalInfoRequestsView": {
+        "title": "",
+        "content": ""
+      }
+    }
+  }
+}

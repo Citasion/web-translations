@@ -1,0 +1,15 @@
+{
+  "views": {
+    "blogs": {
+      "BlogBrowseView": {
+        "by": "",
+        "updated": "",
+        "difficulty": "",
+        "readingTime": "",
+        "bodyTitle": "",
+        "title": "",
+        "note": ""
+      }
+    }
+  }
+}
