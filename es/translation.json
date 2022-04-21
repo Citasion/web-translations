@@ -645,6 +645,22 @@
       "somePapers": "Algunos documentos PDF pueden carecer de metadatos para ser analizados. Más información sobre los metadatos PDF",
       "tryCitasion": "Prueba <2><0>Citasion Premium</0></2> gratis durante 3 meses.",
       "dragAndDrop": "Arrastre y suelte los archivos aquí o haga clic en"
+    },
+    "FeaturesAnimation": {
+      "rec1TextPreFinal": "",
+      "rec1Text": "",
+      "rec2Text": "",
+      "rec2TextNewLine": "",
+      "rec3TextPre": "",
+      "rec3TextFinal": "",
+      "recommended": "",
+      "refTitle": "",
+      "refAuthorYear": "",
+      "add": "",
+      "rec2Title": "",
+      "rec2Note": "",
+      "rec3Title": "",
+      "rec3Note": ""
     }
   }
 }
