@@ -318,7 +318,7 @@
         "smartCitationFinder": "Buscador inteligente de citas",
         "pageTitle": "Citasion: Ir al premium",
         "pageDesc": "Lleve su gestión de referencias al siguiente nivel de eficiencia.",
-        "startingAt": "<0>Starting at </0><1>$2.99</1><2>/month</2>",
+        "startingAt": "<0>Starting at </0><1>$1.99</1><2>/month</2>",
         "premiumExpire": "Su prueba premium expirará en {{expiryDate}}.",
         "volumeDiscountsAnswer": "Sí. Ofrecemos descuentos por volumen en planes anuales para más de 5 miembros. Por favor, <2><0>contacta con nosotros</0></2> si vas a comprar un plan para más de 5 miembros."
       }
@@ -402,7 +402,7 @@
         "paymentChangeAgreement": "The change of payment method will be effective in your next billing cycle. By clicking the Update Payment Method button above, you are agreeing to our <2>Terms of Service</2>. If you have questions, you can reach out to us by sending an email to us at <4>support@citasion.cm</4>.",
         "priceDiscount": "<0>${{price}}</0><1> / mes</1>",
         "paymentAgreement": "Su suscripción se renovará automáticamente cada <1>{frecuencia}}</1> mes(es). Se le cobrará <4>{precio}}</4> en cada renovación hasta que la cancele en la configuración de su cuenta. Si cancelas, no se reembolsarán los cargos anteriores, pero podrás seguir utilizando el servicio hasta el final del plazo que hayas pagado. Al hacer clic en el botón \"Check out\" de arriba, está aceptando nuestros <7>Términos de Servicio</7>. Si tiene preguntas, puede ponerse en contacto con nosotros enviando un correo electrónico a <9>support@citasion.com</9>.",
-        "saveDiscount": "ahorra un {{discount}}%.",
+        "saveDiscount": "ahorra un {{discount}}%",
         "billedAsOne": "Facturado como un solo pago de ${{price}}",
         "month": "Mes",
         "free": "Gratis",

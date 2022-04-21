@@ -272,7 +272,7 @@
         "1000reference": "1000+ 引用格式",
         "smartCitationFinder": "智能引用查找",
         "shareableProjects": "引用共享项目",
-        "startingAt": "<0>只要 </0><1>$2.99</1><2>/月</2>",
+        "startingAt": "<0>只要 </0><1>$1.99</1><2>/月</2>",
         "premiumExpire": "你的Citasion高级会员试用将会在 {{expiryDate}} 过期",
         "volumeDiscountsAnswer": "Yes! 只要你一次为超过5人购买年费高级会员. 如果你打算购买超过5人的年费会员, 请<2><0>联系我们</0></2>.",
         "freeTrialFor_0": "免费试用{{count}}个月"
