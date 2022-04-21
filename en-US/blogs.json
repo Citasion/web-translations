@@ -9,8 +9,7 @@
         "updated": "Updated",
         "difficulty": "difficulty",
         "readingTime": "Reading time"
-      },
-      "BlogDetailView": {}
+      }
     }
   }
 }
