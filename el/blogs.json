@@ -2,13 +2,13 @@
   "views": {
     "blogs": {
       "BlogBrowseView": {
-        "by": "",
-        "updated": "",
-        "difficulty": "",
-        "readingTime": "",
-        "bodyTitle": "",
-        "title": "",
-        "note": ""
+        "by": "από",
+        "updated": "Ενημερωμένο",
+        "difficulty": "δυσκολία",
+        "readingTime": "Χρόνος ανάγνωσης",
+        "bodyTitle": "Ιστολόγια του Citasion",
+        "title": "Citasion: Ιστολόγια",
+        "note": "Εμφάνιση {{blogLength}} άρθρων "
       }
     }
   }
