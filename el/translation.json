@@ -2,10 +2,10 @@
   "components": {
     "AddForms": {
       "pdfLinkNeeds": "Ο σύνδεσμος PDF πρέπει να είναι ένα έγκυρο url.",
-      "validInfoNeeded": "",
+      "validInfoNeeded": "Δεν παρέχονται έγκυρες πληροφορίες για το άρθρο",
       "oneAdded": "",
-      "oneUpdated": "",
-      "paperTitle": "",
+      "oneUpdated": "Αυτό το άρθρο ενημερώθηκε με επιτυχία.",
+      "paperTitle": "Τίτλος άρθρου",
       "chapterTitle": "Τίτλος κεφαλαίου",
       "authors": "Συγγραφείς (παρακαλείστε να αναφέρετε τους συγγραφείς με τη μορφή \"επώνυμο, όνομα; επώνυμο, όνομα; ...\")",
       "authorPlaceholder": "e.g., Hellas, Arto; Ihantola, Petri; Petersen, Andrew",
@@ -39,38 +39,38 @@
       "weUseCookies": "We use Cookies to ensure that we give you the best experience on our website. Read our <2>Privacy Policy</2>."
     },
     "Errors": {
-      "message": ""
+      "message": "Εργαζόμαστε για τη διόρθωση αυτού του προβλήματος. Παρακαλούμε δοκιμάστε ξανά."
     },
     "FeaturesAnimation": {
-      "rec1TextPreFinal": "",
-      "rec1Text": "",
-      "rec2Text": "",
-      "rec2TextNewLine": "",
-      "rec3TextPre": "",
-      "rec3TextFinal": "",
-      "recommended": "",
-      "refTitle": "",
-      "refAuthorYear": "",
-      "add": "",
-      "rec2Title": "",
-      "rec2Note": "",
-      "rec3Title": "",
-      "rec3Note": ""
+      "rec1TextPreFinal": "Οι ερευνητές εξέτασαν επίσης εναλλακτικές λύσεις. Ωστόσο, ήδη από το 1998, σε ένα αίτημα για σχόλια, μια μελέτη διερεύνησε τη δυνατότητα χρήσης μεθόδων κωδικού πρόσβασης μίας χρήσης σε ιστότοπους.",
+      "rec1Text": "Οι ερευνητές εξέτασαν επίσης εναλλακτικές λύσεις. Ωστόσο, ήδη από το 1998, σε ένα αίτημα για σχόλια, μια μελέτη διερεύνησε τη δυνατότητα χρήσης μεθόδων κωδικού πρόσβασης μιας χρήσης σε ιστότοπους (Haller, Metz, Nesser, & Straw, 1998).\\A\\AReferences\\AHaller, N., Metz, C., Nesser, P., & Straw, M. (1998). Ένα σύστημα κωδικού πρόσβασης μίας χρήσης. Αίτηση για σχόλια της Ομάδας Εργασίας Δικτύου, 2289.",
+      "rec2Text": "Για την ανάπτυξη μιας μεθόδου χρησιμοποιήθηκαν κωδικοί πρόσβασης που βασίζονται σε γραφικά (με χρήση εικόνων). Το νέο σύστημα ελέγχου ταυτότητας υλοποιήθηκε σε μια πρωτότυπη διαδικτυακή εφαρμογή. Οι ερευνητές εξέτασαν επίσης εναλλακτικές λύσεις. Ωστόσο, ήδη από το 1998, σε ένα αίτημα για σχόλια, μια μελέτη διερεύνησε τη δυνατότητα χρήσης μεθόδων κωδικού πρόσβασης μιας χρήσης σε ιστότοπους (Haller, Metz, Nesser, & Straw, 1998).",
+      "rec2TextNewLine": "Για την ανάπτυξη μιας μεθόδου χρησιμοποιήθηκαν κωδικοί πρόσβασης που βασίζονται σε γραφικά (με χρήση εικόνων). Το νέο σύστημα ελέγχου ταυτότητας υλοποιήθηκε σε μια πρωτότυπη διαδικτυακή εφαρμογή. \\A\\A Οι ερευνητές εξέτασαν επίσης εναλλακτικές λύσεις. Ωστόσο, ήδη από το 1998, σε ένα αίτημα για σχόλια, μια μελέτη διερεύνησε τη δυνατότητα χρήσης μεθόδων κωδικού πρόσβασης μιας χρήσης σε ιστότοπους (Haller, Metz, Nesser, & Straw, 1998).",
+      "rec3TextPre": "Ωστόσο, ήδη από το 1998, σε ένα αίτημα για σχόλια, μια μελέτη διερεύνησε τη δυνατότητα χρήσης μεθόδων κωδικού πρόσβασης μίας χρήσης σε ιστότοπους (Haller, Metz, Nesser, & Straw, 1998).",
+      "rec3TextFinal": "Ήδη από το 1998, σε ένα αίτημα για σχόλια, μια μελέτη διερεύνησε τη δυνατότητα χρήσης μεθόδων κωδικού πρόσβασης μίας χρήσης σε ιστότοπους (Haller, Metz, Nesser, & Straw, 1998).",
+      "recommended": "Συνιστώμενη παραπομπή",
+      "refTitle": "Σύστημα κωδικού πρόσβασης μίας χρήσης",
+      "refAuthorYear": "Haller, Neil and Metz, Craig a... - 1998",
+      "add": "Προσθήκη παραπομπής",
+      "rec2Title": "Σύσταση συγγραφής",
+      "rec2Note": "Το περιεχόμενο της παραγράφου φαίνεται να είναι θεματικά διαφορετικό. Εξετάστε το ενδεχόμενο διαχωρισμού σε δύο παραγράφους.",
+      "rec3Title": "Σύσταση συγγραφής",
+      "rec3Note": "Το \"ωστόσο\" είναι φλύαρο ή περιττό"
     },
     "HeadBar": {
-      "hello": ""
+      "hello": "Γεια σου"
     },
     "ParsePdfDialog": {
-      "noneParsed": "",
-      "parsedSuccessfully": "",
-      "parsedSuccessfully_plural": "",
-      "zeroPapers": "",
-      "parsePDFFiles": "",
-      "uploadMore": "",
-      "parseMetadata": "",
-      "thinking": "",
-      "dragAndDrop": "",
-      "somePapers": "",
+      "noneParsed": "Κανένα από τα ανεβασμένα PDF δεν μπορεί να αναλυθεί",
+      "parsedSuccessfully": "{{count}} άρθρο προστέθηκε με επιτυχία.",
+      "parsedSuccessfully_plural": "{{count}} άρθρα προστέθηκαν με επιτυχία.",
+      "zeroPapers": "Προστέθηκαν 0 άρθρα επειδή δεν εντοπίστηκαν νέα άρθρα",
+      "parsePDFFiles": "Ανάλυση αρχείων PDF",
+      "uploadMore": "Μπορείτε να μεταφορτώσετε ένα ή περισσότερα αρχεία άρθρων PDF.",
+      "parseMetadata": "Το Citasion θα αναλύσει όλα τα ανιχνεύσιμα μεταδεδομένα των μεταφορτωμένων αρχείων PDF και θα δημιουργήσει καταχωρήσεις αναφοράς.",
+      "thinking": "Σκέφτεστε να αποθηκεύσετε όλα τα αρχεία των άρθρων σας σε μορφή PDF online σε ένα μέρος;",
+      "dragAndDrop": "Σύρετε και αφήστε αρχεία εδώ ή κάντε κλικ",
+      "somePapers": "Ορισμένα έγγραφα PDF ενδέχεται να μην διαθέτουν τα μεταδεδομένα που πρέπει να αναλυθούν. Διαβάστε περισσότερα για τα μεταδεδομένα PDF",
       "tryCitasion": "Try <2><0>Citasion Premium</0></2> for free for 3 months."
     },
     "TranslationBox": {
@@ -79,8 +79,8 @@
     "UploadPdfDialog": {
       "uploadPdf": "",
       "uploadOneOrMorePdf": "",
-      "CitasionWillParse": "",
-      "dragDrop": "",
+      "CitasionWillParse": "Το Citasion θα αναλύσει όλα τα ανιχνεύσιμα μεταδεδομένα των μεταφορτωμένων αρχείων PDF και θα δημιουργήσει καταχωρήσεις αναφοράς.",
+      "dragDrop": "Σύρετε και αφήστε αρχεία εδώ ή κάντε κλικ",
       "selectedFiles": "",
       "pdfLackMeta": ""
     },
@@ -99,28 +99,28 @@
     "ContactForm": {
       "howToStart": "Πώς να ξεκινήσετε το Citasion",
       "extension": "Επέκταση Chrome/Firefox/Edge",
-      "wordAddin": "",
+      "wordAddin": "Word Add-in",
       "googledocs": "Συγγραφή στα Έγγραφα Google",
       "overleaf": "Συγγραφή σε Overleaf",
       "word": "",
       "billing": "Τιμολόγηση",
       "others": "Λοιποί",
       "cantfind": "Δεν μπορείτε να βρείτε απαντήσεις; Επικοινωνήστε μαζί μας!",
-      "youMustAgree": "",
+      "youMustAgree": "Πρέπει να συμφωνήσετε με τους όρους μας",
       "received": "Το μήνυμά σας ελήφθη!",
       "questionTypes": "Τύποι ερωτήσεων",
-      "tellUsMore": "",
+      "tellUsMore": "Πείτε μας περισσότερα",
       "iHaveReadTerms": "I have read the <2>Terms and Conditions</2>"
     },
     "Header": {
-      "howCanWeHelp": "",
-      "youMayBeAble": ""
+      "howCanWeHelp": "Γεια σας! Πώς μπορούμε να βοηθήσουμε;",
+      "youMayBeAble": "Ίσως μπορέσετε να βρείτε απαντήσεις παρακάτω:"
     },
     "Reading": {
-      "howToStart": "",
-      "addPapers": "",
-      "write": "",
-      "billing": ""
+      "howToStart": "Πώς να ξεκινήσετε το Citasion",
+      "addPapers": "Προσθέστε άρθρα στα ερευνητικά σας έργα Citasion",
+      "write": "Γράψτε άρθρα με το Citasion",
+      "billing": "Τιμολόγηση και συνδρομή"
     }
   },
   "globals": {
