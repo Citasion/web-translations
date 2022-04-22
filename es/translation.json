@@ -568,7 +568,7 @@
       "editor": "Editor (separe los diferentes editores con comas)"
     },
     "BibtexAddDialog": {
-      "invalid": "La lista BibTex proporcionada no es válida",
+      "invalid": "La lista BibTeX proporcionada no es válida",
       "added": "{{count}} artículo ha sido añadido con éxito.",
       "added_plural": "Se han añadido {{count}} artículos con éxito.",
       "failed": "{{count}} artículo no se ha añadido debido a una sintaxis no válida.",

@@ -1,39 +1,39 @@
 {
   "components": {
     "AddForms": {
-      "pdfLinkNeeds": "",
+      "pdfLinkNeeds": "Ο σύνδεσμος PDF πρέπει να είναι ένα έγκυρο url.",
       "validInfoNeeded": "",
       "oneAdded": "",
       "oneUpdated": "",
       "paperTitle": "",
-      "chapterTitle": "",
-      "authors": "",
-      "authorPlaceholder": "",
-      "conference": "",
+      "chapterTitle": "Τίτλος κεφαλαίου",
+      "authors": "Συγγραφείς (παρακαλείστε να αναφέρετε τους συγγραφείς με τη μορφή \"επώνυμο, όνομα; επώνυμο, όνομα; ...\")",
+      "authorPlaceholder": "e.g., Hellas, Arto; Ihantola, Petri; Petersen, Andrew",
+      "conference": "Συνέδριο ή πρακτικά συνεδρίου",
       "editor": ""
     },
     "BibtexAddDialog": {
-      "invalid": "",
-      "added": "",
-      "added_plural": "",
-      "failed": "",
-      "failed_plural": "",
-      "noAdded": "",
-      "somethingWrong": "",
-      "copyPaste": "",
-      "copyPasteHere": "",
-      "readMoreBibtex": ""
+      "invalid": "Η παρεχόμενη λίστα BibTeX είναι άκυρη",
+      "added": "{{count}} άρθρο προστέθηκε με επιτυχία.",
+      "added_plural": "{{count}} άρθρα προστέθηκαν με επιτυχία.",
+      "failed": "{{count}} άρθρο δεν προστέθηκε λόγω μη έγκυρης σύνταξης.",
+      "failed_plural": "{{count}} άρθρα δεν προστέθηκαν λόγω μη έγκυρης σύνταξης.",
+      "noAdded": "Προστέθηκαν 0 άρθρα επειδή δεν εντοπίστηκαν νέα άρθρα",
+      "somethingWrong": "Κάτι πήγε λάθος κατά την ανάλυση της λίστας BibTeX. Παρακαλούμε ελέγξτε ξανά τη λίστα BibTex σας",
+      "copyPaste": "Αντιγραφή & επικόλληση BibTeX",
+      "copyPasteHere": "Αντιγράψτε και επικολλήστε τη λίστα BibTeX εδώ",
+      "readMoreBibtex": "Διαβάστε περισσότερα για τη σύνταξη του BibTeX"
     },
     "CitationAddDialog": {
-      "addReference": ""
+      "addReference": "Προσθέστε μια αναφορά"
     },
     "CitationDeleteDialog": {
-      "deleteReference": "",
-      "note1": "",
-      "note2": ""
+      "deleteReference": "Διαγραφή αυτής της αναφοράς",
+      "note1": "Αυτή η λειτουργία θα διαγράψει οριστικά αυτή την αναφορά. Είστε σίγουροι;",
+      "note2": "Αυτή η λειτουργία θα αφαιρέσει αυτή την αναφορά από το τρέχον ερευνητικό έργο, αλλά δεν θα διαγράψει την ίδια την αναφορά. Είστε σίγουροι;"
     },
     "CitationUpdateDialog": {
-      "updateReference": ""
+      "updateReference": "Ενημέρωση αυτής της αναφοράς"
     },
     "CookiesNotification": {
       "weUseCookies": "We use Cookies to ensure that we give you the best experience on our website. Read our <2>Privacy Policy</2>."
@@ -97,18 +97,18 @@
       "readMoreAboutFormats": ""
     },
     "ContactForm": {
-      "howToStart": "",
-      "extension": "",
+      "howToStart": "Πώς να ξεκινήσετε το Citasion",
+      "extension": "Επέκταση Chrome/Firefox/Edge",
       "wordAddin": "",
-      "googledocs": "",
-      "overleaf": "",
+      "googledocs": "Συγγραφή στα Έγγραφα Google",
+      "overleaf": "Συγγραφή σε Overleaf",
       "word": "",
-      "billing": "",
-      "others": "",
-      "cantfind": "",
+      "billing": "Τιμολόγηση",
+      "others": "Λοιποί",
+      "cantfind": "Δεν μπορείτε να βρείτε απαντήσεις; Επικοινωνήστε μαζί μας!",
       "youMustAgree": "",
-      "received": "",
-      "questionTypes": "",
+      "received": "Το μήνυμά σας ελήφθη!",
+      "questionTypes": "Τύποι ερωτήσεων",
       "tellUsMore": "",
       "iHaveReadTerms": "I have read the <2>Terms and Conditions</2>"
     },

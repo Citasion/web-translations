@@ -568,7 +568,7 @@
       "editor": "Editor (separate different editors by commas)"
     },
     "BibtexAddDialog": {
-      "invalid": "The provided BibTex list is invalid",
+      "invalid": "The provided BibTeX list is invalid",
       "added": "{{count}} paper was added successfully.",
       "added_plural": "{{count}} papers were added successfully.",
       "failed": "{{count}} paper was not added because of invalid syntax.",
