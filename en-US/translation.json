@@ -66,7 +66,7 @@
         "noResultsFound": "No results found for {{query}}",
         "loading": "Loading...",
         "loadmore": "Load more references",
-        "allloaded": "All references are loaded",
+        "allloaded": "All references were loaded",
         "ourExtension": "Our browser extensions support one-click reference importation",
         "downloadExtension": "Download our extension here",
         "itOnlyTakes": "It only takes a click for you to import references to this project from major academic search aggregators:",
