@@ -394,7 +394,7 @@
         "upgradePremium": "Pasar a Premium",
         "transactionProgress": "Transacción en curso. Por favor, no actualice la página.",
         "youHaveChosen": "Usted ha elegido",
-        "planMonth": " Plan {{date}} / mes",
+        "planMonth": " Plan {{data}} / mes",
         "weNotice": "Nos hemos dado cuenta de que no ha llegado la fecha de caducidad de su suscripción cancelada. Puedes utilizar el servicio premium hasta la fecha de caducidad. Si adquieres un nuevo plan, NO se te reembolsará el tiempo restante de la suscripción cancelada.",
         "updatePayment": "Actualizar el pago",
         "changePaymentMethod": "Cambiar el método de pago",
