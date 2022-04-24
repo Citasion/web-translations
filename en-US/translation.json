@@ -131,7 +131,7 @@
         "AddPaperToolTip": "Add the selected references",
         "Confirm": "Confirm",
         "wasAddedToProject": "{{count}} selected paper was added successfully to Project {{project}}",
-        "wasAddedToProject_plural": "{{count}}selected papers were added successfully to Project {{project}}",
+        "wasAddedToProject_plural": "{{count}} selected papers were added successfully to Project {{project}}",
         "wasAddedToProject_0": "The selected paper(s) have already been added to Project {{project}}"
       }
     },
@@ -434,7 +434,7 @@
       "other": "Other reasons",
       "improve": "How else can we improve Citasion?",
       "helpUs": "Help Us Improve",
-      "helpUsText": "We know our reference management tool isn’t perfect, and we’re committed to making it better for you. Can you ket us know why you uninstalled the Citasion extension?",
+      "helpUsText": "We know our reference management tool isn’t perfect, and we’re committed to making it better for you. Can you let us know why you uninstalled the Citasion extension?",
       "title": "Citasion: Sorry to see you go"
     }
   },
