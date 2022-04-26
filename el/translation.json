@@ -36,7 +36,7 @@
       "updateReference": "Ενημέρωση αυτής της αναφοράς"
     },
     "CookiesNotification": {
-      "weUseCookies": "We use Cookies to ensure that we give you the best experience on our website. Read our <2>Privacy Policy</2>."
+      "weUseCookies": "Χρησιμοποιούμε Cookies για να διασφαλίσουμε ότι θα σας προσφέρουμε την καλύτερη δυνατή εμπειρία στον ιστότοπό μας. Διαβάστε την <2>Πολιτική Προστασίας Προσωπικών Δεδομένων</2>."
     },
     "Errors": {
       "message": "Εργαζόμαστε για τη διόρθωση αυτού του προβλήματος. Παρακαλούμε δοκιμάστε ξανά."
@@ -71,10 +71,10 @@
       "thinking": "Σκέφτεστε να αποθηκεύσετε όλα τα αρχεία των άρθρων σας σε μορφή PDF online σε ένα μέρος;",
       "dragAndDrop": "Σύρετε και αφήστε αρχεία εδώ ή κάντε κλικ",
       "somePapers": "Ορισμένα έγγραφα PDF ενδέχεται να μην διαθέτουν τα μεταδεδομένα που πρέπει να αναλυθούν. Διαβάστε περισσότερα για τα μεταδεδομένα PDF",
-      "tryCitasion": "Try <2><0>Citasion Premium</0></2> for free for 3 months."
+      "tryCitasion": "Δοκιμάστε το <2><0>Citasion Premium</0></2> δωρεάν για 3 μήνες."
     },
     "TranslationBox": {
-      "message": "This page has not yet been translated. Click here to translate using Google Translate."
+      "message": "Αυτή η σελίδα δεν έχει ακόμη μεταφραστεί. Κάντε κλικ εδώ για να μεταφράσετε χρησιμοποιώντας το Google Translate."
     },
     "UploadPdfDialog": {
       "uploadPdf": "Ανέβασμα αρχείων PDF",
@@ -110,7 +110,7 @@
       "received": "Το μήνυμά σας ελήφθη!",
       "questionTypes": "Τύποι ερωτήσεων",
       "tellUsMore": "Πείτε μας περισσότερα",
-      "iHaveReadTerms": "I have read the <2>Terms and Conditions</2>"
+      "iHaveReadTerms": "Έχω διαβάσει τους <2>Όρους και Προϋποθέσεις</2>"
     },
     "Header": {
       "howCanWeHelp": "Γεια σας! Πώς μπορούμε να βοηθήσουμε;",
@@ -202,7 +202,7 @@
     "quarterly": "Τριμηνιαία",
     "annual": "Ετήσια",
     "confirm": "Επιβεβαίωση",
-    "checkout": "Ελέγξτε",
+    "checkout": "Πληρωμή",
     "pending": "Εκκρεμεί",
     "projectname": "Όνομα ερευνητικού έργου",
     "premiumFeatures": "Χαρακτηριστικά Premium",
@@ -235,8 +235,8 @@
         "support": "Check our support center"
       },
       "TopBar": {
-        "Account": "Account",
-        "Logout": "Logout"
+        "Account": "Λογαριασμός",
+        "Logout": "Αποσύνδεση"
       }
     }
   },
@@ -274,7 +274,7 @@
         "UpdatePaymentMethod": "Ενημέρωση μεθόδου πληρωμής",
         "expirationDate": "Ημερομηνία λήξης {{date}}.",
         "currentSubscription": "Η τρέχουσα συνδρομή σας ακυρώνεται, αλλά μπορείτε να εξακολουθείτε να χρησιμοποιείτε το Citasion premium μέχρι την ημερομηνία λήξης.",
-        "willExpire": "Your premium trial will expire by <2>{{expiryDate}}</2>."
+        "willExpire": "Η δοκιμαστική σας συνδρομή θα λήξει στις <2>{{expiryDate}}</2>."
       }
     },
     "application": {
@@ -301,7 +301,7 @@
       "LoginView": {
         "pageTitle": "",
         "pageDescription": "",
-        "captchaNote": "This site is protected by reCAPTCHA and the <2>Google Privacy Policy</2> and <6>Terms of Service</6> apply.",
+        "captchaNote": "Αυτός ο ιστότοπος προστατεύεται από το reCAPTCHA και ισχύουν η <2>Πολιτική Προστασίας Προσωπικών Δεδομένων της Google</2> και οι <6>Όροι παροχής υπηρεσιών</6>.",
         "signGoogle": "Σύνδεση με το Google",
         "signMicrosoft": "Σύνδεση με τη Microsoft",
         "signEmail": "Σύνδεση με Email",
@@ -319,8 +319,8 @@
         "signinGoogle": "Σύνδεση με το Google",
         "signinMicrosoft": "Σύνδεση με τη Microsoft",
         "citasionMemberLogin": "Σύνδεση μέλους Citasion",
-        "protectionNote": "This site is protected by reCAPTCHA and the <2>Google Privacy Policy</2> and <6>Terms of Service</6> apply.",
-        "termsPrivacy": "<0>Terms and Conditions</0> · <2>Privacy Policy</2>"
+        "protectionNote": "Αυτός ο ιστότοπος προστατεύεται από το reCAPTCHA και ισχύουν η <2>Πολιτική Προστασίας Προσωπικών Δεδομένων της Google</2> και οι <6>Όροι Παροχής Υπηρεσιών</6>.",
+        "termsPrivacy": "<0>Όροι και Προϋποθέσεις</0> - <2>Πολιτική Προστασίας Προσωπικών Δεδομένων</2>"
       },
       "RegisterView": {
         "signupGoogle": "Εγγραφή στο Google",
@@ -378,8 +378,8 @@
         "volumeDiscounts": "Έχετε εκπτώσεις για μεγαλύτερες αγορές;",
         "tryPremium": "Μπορώ να δοκιμάσω το Citasion Premium δωρεάν;",
         "tryPremiumAnswer": "Ναι! Όλοι οι χρήστες του δωρεάν προγράμματος μπορούν να δοκιμάσουν το Citasion Premium για 90 ημέρες. Το μόνο που χρειάζεται είναι να δημιουργήσετε έναν δωρεάν λογαριασμό Citasion. Μετά από αυτό, μπορείτε να επανεξετάσετε αυτή τη σελίδα και θα εμφανιστεί η επιλογή της δωρεάν δοκιμής.",
-        "startingAt": "<0>Starting at </0><1>$1.99</1><2>/month</2>",
-        "volumeDiscountsAnswer": "Yes! We offer volume discounts on annual plans for more than 5 members. Please <2><0>contact us</0></2> if you’re buying a plan for more than 5 members.",
+        "startingAt": "<0>Από </0><1>$1.99</1><2>/μήνα</2>",
+        "volumeDiscountsAnswer": "Ναι! Προσφέρουμε εκπτώσεις όγκου σε ετήσια προγράμματα για περισσότερα από 5 μέλη. Παρακαλούμε <2><0>επικοινωνήστε μαζί μας</0></2> εάν αγοράζετε ένα πρόγραμμα για περισσότερα από 5 μέλη.",
         "welcomePremium": "Καλώς ήρθατε στο Citasion Premium",
         "youHaveAccess": "Τώρα έχετε πρόσβαση σε:",
         "enhanced": "Ενισχυμένη αυτόματη εισαγωγή αναφοράς",
@@ -409,9 +409,9 @@
         "introducing": "Παρουσιάζουμε το",
         "citasion": "Citasion",
         "intro": "Έξυπνη διαχείριση αναφορών, κατασκευασμένη για συνεργασίες στο διαδίκτυο.",
-        "addToChromeBtn": "<0>Add to Chrome</0><1>It's Free</1>",
-        "addToFirefoxBtn": "<0>Add to Firefox</0><1>It's free</1>",
-        "addToEdgeBtn": "<0>Add to Edge</0><1>It's Free</1>",
+        "addToChromeBtn": "<0>Προσθήκη στον Chrome</0><1>Είναι δωρεάν</1>",
+        "addToFirefoxBtn": "<0>Προσθήκη στον Firefox</0><1>Είναι δωρεάν</1>",
+        "addToEdgeBtn": "<0>Προσθήκη στον Edge</0><1>Είναι δωρεάν</1>",
         "intuitiveNote": "Περιμένει η έξυπνη διαχείριση αναφορών",
         "getStarted": "Ξεκινήστε δωρεάν και διαχειριστείτε τις αναφορές σας με ευκολία",
         "VideoTitle": "Citasion - Χρειάζεστε βοήθεια για να γράψετε ένα άρθρο;",
@@ -504,13 +504,13 @@
         "upgradePlan": "Αλλαγή συνδρομής",
         "upgradePremium": "Αναβάθμιση σε Premium",
         "transactionProgress": "Συναλλαγή σε εξέλιξη. Μην ανανεώνετε τη σελίδα.",
-        "paymentAgreement": "Your subscription will automatically renew every <1>{{frequency}}</1> month(s). You will be charged <4>{{price}}</4> on each renewal until you cancel in your account settings. If you cancel, previous charges will not be refunded, but you may continue to use the service until the end of the term you paid for. By clicking the \"Check out\" button above, you are agreeing to our <7>Terms of Service</7>. If you have questions, you can reach out to us by sending an email to us at <10>support@citasion.com</10>.",
+        "paymentAgreement": "Η συνδρομή σας θα ανανεώνεται αυτόματα κάθε <1>{{frequency}}</1> μήνα/μήνες. Θα χρεώνεστε <4>{{{price}}</4> σε κάθε ανανέωση μέχρι να την ακυρώσετε στις ρυθμίσεις του λογαριασμού σας. Εάν ακυρώσετε, οι προηγούμενες χρεώσεις δεν θα επιστραφούν, αλλά μπορείτε να συνεχίσετε να χρησιμοποιείτε την υπηρεσία μέχρι το τέλος της περιόδου που πληρώσατε. Κάνοντας κλικ στο παραπάνω κουμπί \"Πληρωμή\", συμφωνείτε με τους <7>Όρους παροχής υπηρεσιών</7>. Εάν έχετε ερωτήσεις, μπορείτε να επικοινωνήσετε μαζί μας στέλνοντας μας ένα email στη διεύθυνση <10>support@citasion.com</10>.",
         "youHaveChosen": "Έχετε επιλέξει",
         "planMonth": " Συνδρομή ${{data}} / μήνα",
         "weNotice": "Παρατηρούμε ότι δεν έχετε φτάσει στην ημερομηνία λήξης της ακυρωθείσας συνδρομής σας. Μπορείτε να χρησιμοποιήσετε την υπηρεσία premium μέχρι την ημερομηνία λήξης. Εάν αγοράσετε νέα συνδρομή, ΔΕΝ θα λάβετε επιστροφή χρημάτων για τον υπόλοιπο χρόνο της ακυρωθείσας συνδρομής.",
         "creditCard": "Πιστωτική κάρτα",
         "paypal": "Paypal",
-        "paymentChangeAgreement": "The change of payment method will be effective in your next billing cycle. By clicking the payment button above, you are agreeing to our <2>Terms of Service</2>. If you have questions, you can reach out to us by sending an email to us at <5>support@citasion.cm</5>.",
+        "paymentChangeAgreement": "Η αλλαγή του τρόπου πληρωμής θα ισχύσει στον επόμενο κύκλο χρέωσης. Κάνοντας κλικ στο κουμπί πληρωμής παραπάνω, συμφωνείτε με τους <2>Όρους παροχής υπηρεσιών</2>. Εάν έχετε ερωτήσεις, μπορείτε να επικοινωνήσετε μαζί μας στέλνοντας μας ένα μήνυμα ηλεκτρονικού ταχυδρομείου στη διεύθυνση <5>support@citasion.cm</5>.",
         "updatePayment": "Ενημέρωση πληρωμής",
         "changePaymentMethod": "Αλλαγή του τρόπου πληρωμής σας",
         "changesWillBeEffective": "Οι αλλαγές θα τεθούν σε ισχύ στον επόμενο κύκλο χρέωσης."
@@ -555,7 +555,7 @@
         "numreferences": "Αριθμός αναφορών ανά έτος",
         "articlesReferenced": "αναφερόμενα άρθρα περιοδικών",
         "conferenceReferenced": "αναφερόμενα πρακτικά συνεδρίων",
-        "topSources": "<0>Top   </0><1>reference sources:</1>",
+        "topSources": "<0>Τοπ </0><1>Πηγές αναφοράς:</1>",
         "updateOrDelete": "Ενημέρωση ή διαγραφή αυτής της αναφοράς",
         "expandAbstract": "Επεκτείνετε για να δείτε την περίληψη",
         "searchAPaper": "Αναζήτηση άρθρου",
@@ -580,7 +580,7 @@
         "anExampleRfid": "ένα παράδειγμα εγγράφου με τίτλο \"RFID Tag and RF Structures on a Paper Substrate Using Inkjet-Printing Technology\"",
         "anExampleRethink": "ένα παράδειγμα εργασίας με τίτλο \"Rethinking student-teacher relationships in higher education: a multidimensional approach\"",
         "addmanually": "Μπορείτε επίσης να προσθέσετε μια αναφορά χειροκίνητα κάνοντας κλικ στο κουμπί δίπλα στη γραμμή αναζήτησης.",
-        "numberInThisProject": "<0><0><0>{{number}}</0></0></0><1>paper(s) in this project</1>",
+        "numberInThisProject": "<0><0><0>{{number}}</0></0></0></0><1>εργασία(ες) σε αυτό το έργο</1>",
         "shareOthers": "Κοινή χρήση με άλλους",
         "shareOthersDialog": "Για να μοιραστείτε αυτό το ερευνητικό έργο με άλλους, πληκτρολογήστε ή επικολλήστε τις διευθύνσεις ηλεκτρονικού ταχυδρομείου τους και πατήστε Κοινή Χρήση.",
         "about": "Σχετικά με",
@@ -593,7 +593,7 @@
         "recommendedArticles": "Συνιστώμενα άρθρα",
         "loadMoreRecs": "Φόρτωση περισσότερων συστάσεων",
         "loadedAllRecs": "Όλες οι συστάσεις φορτώθηκαν",
-        "numberOfRecommendations": "<0><0>{{number}}</0></0><1>articles are recommended based on your writing and the references in this project</1>",
+        "numberOfRecommendations": "<0><0>{{number}}</0></0><1>συνιστώνται άρθρα με βάση τα γραπτά σας και τις αναφορές σε αυτό το έργο</1>",
         "venueAnalytics": "Ανάλυση του τόπου που στοχεύετε να δημοσιεύσετε",
         "targetVenue": "Ποιος είναι ο τόπος προορισμού (περιοδικό/συνέδριο) για το ερευνητικό έργο αυτό;",
         "gotIt": "Το έχουμε. Θα μας πάρει λίγο χρόνο να αναλύσουμε τον τόπο δημοσίευσης που στοχεύετε!",
