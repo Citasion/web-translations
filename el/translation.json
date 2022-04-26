@@ -227,12 +227,12 @@
   "layout": {
     "DashboardLayout": {
       "NavBar": {
-        "describe": "Your Tier:",
-        "status1": "\"Loading...\"",
-        "status2": "<0>{{tier}}</0>",
-        "status3": "<0>{{tier}}</0>",
-        "question": "Need Help?",
-        "support": "Check our support center"
+        "describe": "Η βαθμίδα σας:",
+        "status1": "\"Φόρτωση...\"",
+        "status2": "<0>Δωρεάν</0>",
+        "status3": "<0>Premium</0>",
+        "question": "Χρειάζεστε βοήθεια;",
+        "support": "Ελέγξτε το κέντρο υποστήριξής μας"
       },
       "TopBar": {
         "Account": "Λογαριασμός",
