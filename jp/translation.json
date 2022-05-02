@@ -32,7 +32,7 @@
       "updateReference": ""
     },
     "CookiesNotification": {
-      "weUseCookies": "We use Cookies to ensure that we give you the best experience on our website. Read our <2>Privacy Policy</2>."
+      "weUseCookies": "当社は、お客様に当社のウェブサイトを快適にご利用いただくために、クッキーを使用しています。詳しくは、<2>プライバシーポリシー</2>をご覧ください。"
     },
     "Errors": {
       "message": ""
@@ -65,10 +65,10 @@
       "thinking": "",
       "dragAndDrop": "",
       "somePapers": "",
-      "tryCitasion": "Try <2><0>Citasion Premium</0></2> for free for 3 months."
+      "tryCitasion": "<2><0>Citasion Premium</0></2>は3ヶ月間無料でお試しください。"
     },
     "TranslationBox": {
-      "message": "This page has not yet been translated. Click here to translate using Google Translate."
+      "message": "このページはまだ翻訳されていません。Google翻訳を使用して翻訳するためにここをクリックします。"
     },
     "UploadPdfDialog": {
       "uploadPdf": "",
@@ -102,7 +102,7 @@
       "received": "",
       "questionTypes": "",
       "tellUsMore": "",
-      "iHaveReadTerms": "I have read the <2>Terms and Conditions</2>"
+      "iHaveReadTerms": "<2>ご利用条件</2>を読みました。"
     },
     "Header": {
       "howCanWeHelp": "",
@@ -219,16 +219,16 @@
   "layout": {
     "DashboardLayout": {
       "NavBar": {
-        "describe": "Your Tier:",
-        "status1": "\"Loading...\"",
-        "status2": "<0>{{tier}}</0>",
-        "status3": "<0>{{tier}}</0>",
-        "question": "Need Help?",
-        "support": "Check our support center"
+        "describe": "クラス：",
+        "status1": "\"読み込み...\"",
+        "status2": "<0>無料</0>",
+        "status3": "<0>プレミアム</0>",
+        "question": "お困りですか？",
+        "support": "サポートセンターを調べてください"
       },
       "TopBar": {
-        "Account": "Account",
-        "Logout": "Logout"
+        "Account": "アカウント",
+        "Logout": "ログアウト"
       }
     }
   },
@@ -399,9 +399,9 @@
         "introducing": "",
         "citasion": "",
         "intro": "",
-        "addToChromeBtn": "<0>Add to Chrome</0><1>It's Free</1>",
+        "addToChromeBtn": "<0>Chrome（クローム）に追加</0><1>無料</1>",
         "addToFirefoxBtn": "<0>Add to Firefox</0><1>It's free</1>",
-        "addToEdgeBtn": "<0>Add to Edge</0><1>It's Free</1>",
+        "addToEdgeBtn": "<0>Edge（エッジ）に追加</0><1>無料</1>",
         "intuitiveNote": "",
         "getStarted": "",
         "VideoTitle": "",
