@@ -2,9 +2,9 @@
   "layouts": {
     "LegalLayout": {
       "NavBar": {
-        "extensionPrivacy": "",
-        "cookieNotice": "",
-        "personalInfoRequests": ""
+        "extensionPrivacy": "ブラウザー拡張機能プライバシーポリシー",
+        "cookieNotice": "クッキーに関するお知らせ",
+        "personalInfoRequests": "個人情報請求について"
       }
     }
   },
