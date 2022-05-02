@@ -266,7 +266,7 @@
         "UpdatePaymentMethod": "",
         "expirationDate": "",
         "currentSubscription": "",
-        "willExpire": "Your premium trial will expire by <2>{{expiryDate}}</2>."
+        "willExpire": "プレミアム試用期間は<2>{{expiryDate}}</2>までとなります。 "
       }
     },
     "application": {
@@ -311,7 +311,7 @@
         "signinGoogle": "",
         "signinMicrosoft": "",
         "citasionMemberLogin": "",
-        "protectionNote": "This site is protected by reCAPTCHA and the <2>Google Privacy Policy</2> and <6>Terms of Service</6> apply.",
+        "protectionNote": "このサイトはreCAPTCHAによって保護されており、<2>Googleのプライバシーポリシー</2>と<6>利用規約</6>が適用されます。",
         "termsPrivacy": "<0>Terms and Conditions</0> · <2>Privacy Policy</2>"
       },
       "RegisterView": {
@@ -400,7 +400,7 @@
         "citasion": "",
         "intro": "",
         "addToChromeBtn": "<0>Chrome（クローム）に追加</0><1>無料</1>",
-        "addToFirefoxBtn": "<0>Add to Firefox</0><1>It's free</1>",
+        "addToFirefoxBtn": "<0>Firefox（ファイアフォックス）に追加</0><1>無料</1>",
         "addToEdgeBtn": "<0>Edge（エッジ）に追加</0><1>無料</1>",
         "intuitiveNote": "",
         "getStarted": "",
