@@ -293,7 +293,7 @@
       "LoginView": {
         "pageTitle": "",
         "pageDescription": "",
-        "captchaNote": "This site is protected by reCAPTCHA and the <2>Google Privacy Policy</2> and <6>Terms of Service</6> apply.",
+        "captchaNote": "このサイトはreCAPTCHAによって保護されており、<2>Googleのプライバシーポリシー</2>と<6>利用規約</6>が適用されます。",
         "signGoogle": "",
         "signMicrosoft": "",
         "signEmail": "",
@@ -312,7 +312,7 @@
         "signinMicrosoft": "",
         "citasionMemberLogin": "",
         "protectionNote": "このサイトはreCAPTCHAによって保護されており、<2>Googleのプライバシーポリシー</2>と<6>利用規約</6>が適用されます。",
-        "termsPrivacy": "<0>Terms and Conditions</0> · <2>Privacy Policy</2>"
+        "termsPrivacy": "<0>利用規約</0> - <2>プライバシーポリシー</2>"
       },
       "RegisterView": {
         "signupGoogle": "",
@@ -368,8 +368,8 @@
         "volumeDiscounts": "",
         "tryPremium": "",
         "tryPremiumAnswer": "",
-        "startingAt": "<0>Starting at </0><1>$1.99</1><2>/month</2>",
-        "volumeDiscountsAnswer": "Yes! We offer volume discounts on annual plans for more than 5 members. Please <2><0>contact us</0></2> if you’re buying a plan for more than 5 members.",
+        "startingAt": "<2>月額</2><1>1.99ドル</1><0>から</0>",
+        "volumeDiscountsAnswer": "はい。5名様以上の年間プランにはボリュームディスカウントをご用意しています。 5名以上のプランを購入される場合は、<2><0>ご連絡ください</0></2>。",
         "welcomePremium": "",
         "youHaveAccess": "",
         "enhanced": "",
