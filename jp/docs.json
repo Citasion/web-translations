@@ -1,0 +1,57 @@
+{
+  "layouts": {
+    "DocsLayout": {
+      "NavBar": {
+        "StartView": "",
+        "MigrateView": "",
+        "ImportView": "",
+        "ManageView": "",
+        "GoogleDocsView": "",
+        "OverleafView": "",
+        "WordView": "",
+        "CollaborateView": "",
+        "BillingBasicsView": ""
+      }
+    }
+  },
+  "views": {
+    "docs": {
+      "StartView": {
+        "title": "",
+        "content": ""
+      },
+      "ImportView": {
+        "title": "",
+        "content": ""
+      },
+      "MigrateView": {
+        "title": "",
+        "content": ""
+      },
+      "ManageView": {
+        "title": "",
+        "content": ""
+      },
+      "WordView": {
+        "title": "",
+        "content": ""
+      },
+      "OverleafView": {
+        "title": "",
+        "content": ""
+      },
+      "GoogleDocsView": {
+        "title": "",
+        "content": ""
+      },
+      "CollaborateView": {
+        "title": "",
+        "content": ""
+      },
+      "BillingBasicsView": {
+        "title": "",
+        "content": ""
+      }
+    }
+  }
+}
