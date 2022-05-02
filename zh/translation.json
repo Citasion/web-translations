@@ -387,7 +387,7 @@
         "updatePayment": "更新支付方式",
         "changePaymentMethod": "更新支付方式",
         "changesWillBeEffective": "更新会从下一次付费开始生效",
-        "paymentChangeAgreement": "更新支付方式会从下一次付费开始生效。点击以上确定按键表示你已经同意我们的<2>条款</2>。如果您有任何问题, 你可以发邮件到<4>support@citasion.cm</4>来联系我们。",
+        "paymentChangeAgreement": "更新支付方式会从下一次付费开始生效。点击以上确定按键表示你已经同意我们的<2>条款</2>。如果您有任何问题, 你可以发邮件到<4>support@citasion.com</4>来联系我们。",
         "priceDiscount": "<0>${{price}}</0><1> / 月</1>",
         "paymentAgreement": "你的高级会员每<1>{{frequency}}</1>个月会续费一次; 每次续费金额为$<4>{{price}}</4>。你可以在账户设置中取消高级会员的续订; 如果你取消续订, 已付的金额将不会退还给您, 但你可以在高级会员过期前继续使用高级会员的所有功能。点击以上更新支付方式按键表示你已经同意我们的<7>条款</7>。如果您有任何问题, 你可以发邮件到support@citasion.com来联系我们。",
         "saveDiscount": "{{discount}}%折扣",
