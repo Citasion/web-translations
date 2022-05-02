@@ -234,7 +234,7 @@
         "signinGoogle": "Acceder con Google",
         "signinMicrosoft": "Acceder con Microsoft",
         "citasionMemberLogin": "Inicio de sesión de los miembros de Citasion",
-        "protectionNote": "This site is protected by reCAPTCHA and the <2>Google Privacy Policy</2> and <6>Terms of Service</6> apply.",
+        "protectionNote": "Este sitio está protegido por reCAPTCHA y se aplican la <2>Política de privacidad de Google</2> y los <6>Términos de servicio</6>.",
         "termsPrivacy": "<0>Terms and Conditions</0> · <2>Privacy Policy</2>"
       },
       "LoginView": {
