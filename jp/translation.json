@@ -494,7 +494,7 @@
         "upgradePlan": "",
         "upgradePremium": "",
         "transactionProgress": "",
-        "paymentAgreement": "Your subscription will automatically renew every <1>{{frequency}}</1> month(s). You will be charged <4>{{price}}</4> on each renewal until you cancel in your account settings. If you cancel, previous charges will not be refunded, but you may continue to use the service until the end of the term you paid for. By clicking the \"Check out\" button above, you are agreeing to our <7>Terms of Service</7>. If you have questions, you can reach out to us by sending an email to us at <10>support@citasion.com</10>.",
+        "paymentAgreement": "購読は<1>{{frequency}}</1>ヶ月ごとに自動的に更新されます。アカウント設定でキャンセルするまで、更新期間ごとに<4>{{price}}</4>ドルが課金されます。キャンセルした場合、それまでの料金は返金されませんが、支払った期間の終了までサービスを利用することができます。上記の「チェックアウト」ボタンをクリックすることにより、お客様は当社の<7>利用規約</7>に同意したことになります。ご質問がある場合は、<9>support@citasion.com</9> まで電子メールでご連絡ください。",
         "youHaveChosen": "",
         "planMonth": "",
         "weNotice": "",
