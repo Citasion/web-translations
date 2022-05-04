@@ -1,23 +1,23 @@
 {
   "components": {
     "AddForms": {
-      "pdfLinkNeeds": "",
-      "validInfoNeeded": "",
-      "oneAdded": "",
-      "oneUpdated": "",
-      "paperTitle": "",
-      "chapterTitle": "",
-      "authors": "",
-      "authorPlaceholder": "",
-      "conference": "",
-      "editor": ""
+      "pdfLinkNeeds": "PDFリンクは有効なURLである必要があります。",
+      "validInfoNeeded": "有効な記事情報が提供されていない",
+      "oneAdded": "1件の記事が正常に追加されました。",
+      "oneUpdated": "この記事は正常に更新されました。",
+      "paperTitle": "記事タイトル",
+      "chapterTitle": "章題",
+      "authors": "著者名（「姓、名；姓、名；...」の形式で記載してください。）",
+      "authorPlaceholder": "例：Hellas, Arto; Ihantola, Petri; Petersen, Andrew",
+      "conference": "学会・会議録",
+      "editor": "エディター（異なるエディターはカンマで区切ってください。）"
     },
     "BibtexAddDialog": {
-      "invalid": "",
-      "noAdded": "",
+      "invalid": "提供されたBibTeXのリストが無効である",
+      "noAdded": "新しい記事が検出されなかったため、0件の記事が追加された",
       "somethingWrong": "",
-      "copyPaste": "",
-      "copyPasteHere": "",
+      "copyPaste": "BibTeXのコピー＆ペースト",
+      "copyPasteHere": "BibTeXリストをコピーして、ここに貼り付けてください。",
       "readMoreBibtex": ""
     },
     "CitationAddDialog": {
