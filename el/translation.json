@@ -99,7 +99,7 @@
     "ContactForm": {
       "howToStart": "Πώς να ξεκινήσετε το Citasion",
       "extension": "Επέκταση Chrome/Firefox/Edge",
-      "wordAddin": "Word Add-in",
+      "wordAddin": "Πρόσθετο Word",
       "googledocs": "Συγγραφή στα Έγγραφα Google",
       "overleaf": "Συγγραφή σε Overleaf",
       "word": "Συγγραφή στο Word",
@@ -161,7 +161,7 @@
     "chromeExtension": "Επέκταση Chrome",
     "firefoxAddon": "Firefox Addon",
     "edgeAddon": "Edge Addon",
-    "wordAddin": "Word Add-in",
+    "wordAddin": "Πρόσθετο Word",
     "trust": "Εμπιστοσύνη",
     "terms": "Όροι και Προϋποθέσεις",
     "privacy": "Πολιτική προστασίας προσωπικών δεδομένων",
@@ -418,7 +418,7 @@
         "chromeExtension": "Επέκταση Chrome",
         "firefoxAddon": "Πρόσθετο του Firefox",
         "edgeAddon": "Πρόσθετο Edge",
-        "wordAddin": "Word Add-In",
+        "wordAddin": "Πρόσθετο Word",
         "exploreCitasion": "Εξερευνηστε το Citasion",
         "note1": "Διαχείριση βασισμένη στο cloud",
         "note1Text": "Μια διαχείριση παραπομπών για ερευνητικά έργα βασισμένη στο διαδίκτυο. Δουλεύει με τα Google Docs, Word και Overleaf. ",
@@ -439,7 +439,7 @@
         "word": "Word",
         "overleaf": "Overleaf",
         "andmore": "... και άλλα",
-        "wordAddInNote": "If you write in Word, you will also need <2><0>our Word Add-in</0></2>."
+        "wordAddInNote": "Αν γράφετε στο Word, θα χρειαστείτε επίσης <2><0>το πρόσθετο του Word</0></2>."
       }
     },
     "Invoice": {
@@ -575,8 +575,8 @@
         "allloaded": "Όλες οι αναφορές φορτώθηκαν",
         "ourExtension": "Οι επεκτάσεις του προγράμματος περιήγησής μας υποστηρίζουν την εισαγωγή αναφοράς με ένα κλικ. ",
         "downloadExtension": "Κατεβάστε την επέκτασή μας εδώ.",
-        "ifWriteInWord": "If you write in Word, you will also need to install our Word Add-in to manage your citations/references in Word documents.",
-        "wordAddIn": "Download our Word Add-In here.",
+        "ifWriteInWord": "Αν γράφετε στο Word, θα πρέπει επίσης να εγκαταστήσετε το πρόσθετο του Word για να διαχειρίζεστε τις παραπομπές/αναφορές σας σε έγγραφα του Word.",
+        "wordAddIn": "Κατεβάστε το πρόσθετο του Word εδώ.",
         "itOnlyTakes": "Χρειάζεται μόνο ένα κλικ για να εισαγάγετε αναφορές σε αυτό το έργο από μεγάλους συσσωρευτές ακαδημαϊκών αναζητήσεων:",
         "anExampleScholar": "ένα παράδειγμα αναζήτησης για την \"technology\" στο Google Scholar",
         "anExampleUserAuth": "ένα παράδειγμα εγγράφου με τίτλο \"User Authentication via Electrical Muscle Stimulation\"",
