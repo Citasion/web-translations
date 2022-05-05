@@ -69,9 +69,8 @@
         "allloaded": "Todas las referencias fueron cargadas",
         "ourExtension": "Nuestras extensiones de navegador admiten la importación de referencias con un solo clic. ",
         "downloadExtension": "Descargue nuestra extensión aquí.",
-        "ifWriteInWord": "If you write in Word, you will also need to install ",
-        "wordAddIn": "our Word Add-in",
-        "manageWord": " to manage your citations/references in Word documents.",
+        "ifWriteInWord": "If you write in Word, you will also need to install our Word Add-in to manage your citations/references in Word documents.",
+        "wordAddIn": "Download our Word Add-In here.",
         "itOnlyTakes": "Sólo hace falta un clic para importar referencias a este proyecto desde los principales agregadores de búsquedas académicas:",
         "anExampleScholar": "un ejemplo de búsqueda de \"technology\" en Google Scholar",
         "anExampleUserAuth": "un artículo de ejemplo titulado \"User Authentication via Electrical Muscle Stimulation\"",
@@ -117,8 +116,6 @@
         "ImportBrowserExtension": "Importar a través de la extensión del navegador ",
         "MoreThanOne": "... se agregan más de 1 referencias nuevas; refresca la pagina para verlos... ",
         "NoResult": "No se encontraron resultados para",
-        "AlsoExtension": "Nuestras extensiones de navegador admiten la importación de referencias con un solo clic",
-        "Download": "Descarga nuestra extensión aquí",
         "OneClickImport": "Solo necesita un clic para importar referencias a este proyecto desde los principales agregadores de búsqueda académica:",
         "GSExample": "un ejemplo de búsqueda de 'tecnología' en Google Scholar",
         "ACMExample": "un documento de ejemplo titulado 'User Authentication via Electrical Muscle Stimulation'",
@@ -135,7 +132,8 @@
         "Confirm": "Confirmar",
         "wasAddedToProject": "{{count}} artículo seleccionado se ha añadido con éxito al Proyecto {{project}}",
         "wasAddedToProject_plural": "{{count}} artículos seleccionados se añadieron con éxito al Proyecto {{project}}",
-        "wasAddedToProject_0": "Los artículos seleccionados ya se han añadido al proyecto {{project}}"
+        "wasAddedToProject_0": "Los artículos seleccionados ya se han añadido al proyecto {{project}}",
+        "searchAPaper": ""
       }
     },
     "application": {
@@ -229,7 +227,8 @@
         "chromeExtension": "Extensión de Chrome",
         "firefoxAddon": "Firefox Add-on",
         "edgeAddon": "Edge Add-on",
-        "wordAddin": "Word Add-In"
+        "wordAddin": "Word Add-In",
+        "wordAddInNote": "If you write in Word, you will also need <2><0>our Word Add-in</0></2>."
       }
     },
     "auth": {

@@ -55,7 +55,7 @@
         "topSources": "<0>主要   </0><1>论文来源:</1>",
         "updateOrDelete": "更新或删除此引用",
         "expandAbstract": "展开论文摘要",
-        "searchAPaper": "搜索论文",
+        "searchAPaper": "在该项目内搜索论文",
         "addReferencesInMany": "添加引用",
         "addReferencesProject": "向此项目添加引用",
         "uploadRefs": "上传引用文件",
@@ -71,9 +71,8 @@
         "allloaded": "已经加载所有引用",
         "ourExtension": "我们的浏览器插件支持一键点击添加引用，并且帮助你在Google Docs和Overleaf中管理你的文内引文和参考文献。",
         "downloadExtension": "请点击这里下载我们的浏览器插件",
-        "ifWriteInWord": "如果你用Word写作，你还需要安装",
-        "wordAddIn": "我们的Word插件",
-        "manageWord": "来管理你在Word文档中的引用/参考文献。",
+        "ifWriteInWord": "如果你用Word写作，你还需要安装我们的Word插件来管理你在Word文档中的引用/参考文献。",
+        "wordAddIn": "请点击这里下载我们的Word插件",
         "itOnlyTakes": "使用我们的浏览器插件，你可一键点击从学术搜索引擎添加引用",
         "anExampleScholar": "例1, 用Google Scholar搜索 \"technology\"",
         "anExampleUserAuth": "例2, 论文 \"User Authentication via Electrical Muscle Stimulation\"",
@@ -117,8 +116,6 @@
         "ImportBrowserExtension": "自动添加引用",
         "MoreThanOne": "... 你添加了多个引用; 刷新页面查看所有添加的引用 ...",
         "NoResult": "没有找到任何论文; 请考虑更换搜索关键字 ",
-        "AlsoExtension": "我们的浏览器插件支持一键下载引用",
-        "Download": "点这里下载浏览器插件",
         "OneClickImport": "我们的浏览器插件支持一键下载引用。你可以使用我们的浏览器插件从学术站点及搜索引擎下载引用:",
         "GSExample": "在 Google Scholar 中搜索'technology'",
         "ACMExample": "论文'User Authentication via Electrical Muscle Stimulation'",
@@ -133,7 +130,8 @@
         "SelectedProject": "你要添加选中引用的项目",
         "AddPaperToolTip": "添加选择的引用",
         "Confirm": "确定",
-        "wasAddedToProject_0": "导入了{{count}}条引用"
+        "wasAddedToProject_0": "导入了{{count}}条引用",
+        "searchAPaper": "在所有添加的文献中搜索论文"
       }
     },
     "application": {
@@ -320,7 +318,8 @@
         "chromeExtension": "Chrome插件",
         "firefoxAddon": "Firefox插件",
         "edgeAddon": "Edge插件",
-        "wordAddin": "Word插件"
+        "wordAddin": "Word插件",
+        "wordAddInNote": "如果你用Word写作，你还将需要安装<2><0>我们的Word插件</0></2>."
       }
     },
     "Invoice": {

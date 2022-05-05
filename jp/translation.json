@@ -428,7 +428,8 @@
         "googleDocs": "",
         "word": "",
         "overleaf": "",
-        "andmore": ""
+        "andmore": "",
+        "wordAddInNote": "If you write in Word, you will also need <2><0>our Word Add-in</0></2>."
       }
     },
     "Invoice": {
@@ -564,9 +565,8 @@
         "allloaded": "",
         "ourExtension": "",
         "downloadExtension": "",
-        "ifWriteInWord": "If you write in Word, you will also need to install ",
-        "wordAddIn": "our Word Add-in",
-        "manageWord": "to manage your citations/references in Word documents.",
+        "ifWriteInWord": "If you write in Word, you will also need to install our Word Add-in to manage your citations/references in Word documents.",
+        "wordAddIn": "Download our Word Add-In here.",
         "itOnlyTakes": "",
         "anExampleScholar": "",
         "anExampleUserAuth": "",
@@ -613,8 +613,6 @@
         "ImportBrowserExtension": "",
         "MoreThanOne": "",
         "NoResult": "",
-        "AlsoExtension": "",
-        "Download": "",
         "OneClickImport": "",
         "GSExample": "",
         "ACMExample": "",
@@ -629,7 +627,8 @@
         "SelectedProject": "",
         "Project": "",
         "AddPaperToolTip": "",
-        "Confirm": ""
+        "Confirm": "",
+        "searchAPaper": ""
       }
     },
     "support": {
