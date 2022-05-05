@@ -15,21 +15,21 @@
     "BibtexAddDialog": {
       "invalid": "提供されたBibTeXのリストが無効である",
       "noAdded": "新しい記事が検出されなかったため、0件の記事が追加された",
-      "somethingWrong": "",
+      "somethingWrong": "BibTeXリストの解析に何か問題があったようです。BibTexリストを再度確認してください。",
       "copyPaste": "BibTeXのコピー＆ペースト",
       "copyPasteHere": "BibTeXリストをコピーして、ここに貼り付けてください。",
-      "readMoreBibtex": ""
+      "readMoreBibtex": "BibTeXの構文についてもっと読んでください"
     },
     "CitationAddDialog": {
-      "addReference": ""
+      "addReference": "参考文献を追加"
     },
     "CitationDeleteDialog": {
-      "deleteReference": "",
-      "note1": "",
-      "note2": ""
+      "deleteReference": "この参考文献を削除",
+      "note1": "この操作は、この参考文献を永久に削除します。本当にいいんですか？",
+      "note2": "この操作は、現在のプロジェクトからこの参考文献を削除しますが、参考文献自体を削除することはありません。本当にいいんですか？"
     },
     "CitationUpdateDialog": {
-      "updateReference": ""
+      "updateReference": "この参考文献を更新"
     },
     "CookiesNotification": {
       "weUseCookies": "当社は、お客様に当社のウェブサイトを快適にご利用いただくために、クッキーを使用しています。詳しくは、<2>プライバシーポリシー</2>をご覧ください。"
@@ -90,14 +90,14 @@
     },
     "ContactForm": {
       "howToStart": "",
-      "extension": "",
+      "extension": "Chrome/Firefox/Edgeの拡張機能",
       "wordAddin": "",
-      "googledocs": "",
+      "googledocs": "Googleドキュメントで書く",
       "overleaf": "",
       "word": "",
-      "billing": "",
+      "billing": "課金",
       "others": "",
-      "cantfind": "",
+      "cantfind": "答えが見つかりません？ご連絡ください。",
       "youMustAgree": "",
       "received": "",
       "questionTypes": "",
