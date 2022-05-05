@@ -35,84 +35,84 @@
       "weUseCookies": "当社は、お客様に当社のウェブサイトを快適にご利用いただくために、クッキーを使用しています。詳しくは、<2>プライバシーポリシー</2>をご覧ください。"
     },
     "Errors": {
-      "message": ""
+      "message": "この問題を解決するために努力しています。もう一度お試しください。"
     },
     "FeaturesAnimation": {
-      "rec1TextPreFinal": "",
-      "rec1Text": "",
-      "rec2Text": "",
-      "rec2TextNewLine": "",
-      "rec3TextPre": "",
-      "rec3TextFinal": "",
-      "recommended": "",
-      "refTitle": "",
-      "refAuthorYear": "",
-      "add": "",
-      "rec2Title": "",
-      "rec2Note": "",
-      "rec3Title": "",
-      "rec3Note": ""
+      "rec1TextPreFinal": "また、代替案も研究者によって検討された。しかし、1998年のコメント募集の時点でも、Webサイトにおけるワンタイムパスワード方式の活用の可能性を検討する研究が行われている。",
+      "rec1Text": "また、代替案も研究者によって検討された。しかし、1998年のコメント募集の時点でも、Webサイトにおけるワンタイムパスワード方式の活用の可能性を検討した研究がある（Haller, Metz, Nesser, & Straw, 1998）。ワンタイムパスワードシステム。ネットワークワーキンググループの意見募集、2289。",
+      "rec2Text": "手法の開発には、グラフィカルなパスワード（画像を使用）が用いられた。この新しい認証システムは、ウェブベースのプロトタイプアプリケーションに実装されました。代替案も研究者によって検討された。しかし、1998年のコメント募集の時点でも、Webサイトにおけるワンタイムパスワード方式の活用の可能性を検討した研究がある（Haller、Metz、Nesser、& Straw、1998）。",
+      "rec2TextNewLine": "手法の開発には、グラフィカルなパスワード（画像を使用）が用いられた。この新しい認証方式は、Web ベースのプロトタイプアプリケーションに実装された。しかし、1998年のコメント募集の時点でも、Webサイトにおけるワンタイムパスワード方式の活用の可能性を検討した研究がある（Haller、Metz、Nesser、& Straw、1998）。",
+      "rec3TextPre": "しかし、1998年のコメント募集の時点でも、Webサイトにおけるワンタイムパスワード方式の活用の可能性を調査した研究がある（Haller, Metz, Nesser, & Straw, 1998）。",
+      "rec3TextFinal": "1998年のコメント募集の時点でも、Webサイトにおけるワンタイムパスワード方式の活用の可能性を調査した研究がある（Haller, Metz, Nesser, & Straw, 1998）。",
+      "recommended": "推奨される引用",
+      "refTitle": "ワンタイムパスワードシステム",
+      "refAuthorYear": "Haller, Neil and Metz, Craig a... - 1998",
+      "add": "引用の追加",
+      "rec2Title": "文章の推薦",
+      "rec2Note": "段落の内容がテーマ別に分かれているように見える。2つの段落に分割することを検討する。",
+      "rec3Title": "文章の推薦",
+      "rec3Note": "However is wordy or unneeded"
     },
     "HeadBar": {
-      "hello": ""
+      "hello": "こんにちは"
     },
     "ParsePdfDialog": {
-      "noneParsed": "",
-      "zeroPapers": "",
-      "parsePDFFiles": "",
-      "uploadMore": "",
-      "parseMetadata": "",
-      "thinking": "",
-      "dragAndDrop": "",
-      "somePapers": "",
+      "noneParsed": "アップロードされたPDFがどれも解析できない",
+      "zeroPapers": "新しい記事が検出されなかったため、0件の記事が追加された",
+      "parsePDFFiles": "PDFファイルの解析",
+      "uploadMore": "1つまたは複数のPDF記事ファイルをアップロードすることができます。",
+      "parseMetadata": "Citasionは、アップロードされたPDFファイルの検出可能なすべてのメタデータを解析し、参考文献エントリーを生成します。",
+      "thinking": "PDFの論文ファイルをオンラインで一箇所に保存することをお考えですか？",
+      "dragAndDrop": "ここにファイルをドラッグ＆ドロップしてください。",
+      "somePapers": "PDFの論文によっては、解析するためのメタデータが不足している場合があります。PDFのメタデータについてはこちらをご覧ください。",
       "tryCitasion": "<2><0>Citasion Premium</0></2>は3ヶ月間無料でお試しください。"
     },
     "TranslationBox": {
       "message": "このページはまだ翻訳されていません。Google翻訳を使用して翻訳するためにここをクリックします。"
     },
     "UploadPdfDialog": {
-      "uploadPdf": "",
-      "uploadOneOrMorePdf": "",
-      "CitasionWillParse": "",
-      "dragDrop": "",
-      "selectedFiles": "",
-      "pdfLackMeta": ""
+      "uploadPdf": "PDFファイルのアップロード",
+      "uploadOneOrMorePdf": "1つまたは複数のPDF記事ファイルをアップロードすることができます。",
+      "CitasionWillParse": "Citasionは、アップロードされたPDFファイルの検出可能なすべてのメタデータを解析し、参考文献エントリを生成します。",
+      "dragDrop": "ここにファイルをドラッグ＆ドロップしてください。",
+      "selectedFiles": "選択されたファイル",
+      "pdfLackMeta": "PDFの記事によっては、解析するためのメタデータが不足している場合があります。PDFのメタデータについて、詳しくはこちらをご覧ください。"
     },
     "UploadReferenceDialog": {
-      "noneUploaded": "",
-      "noneAdded": "",
+      "noneUploaded": "アップロードされた参考文献データファイルは、どれも解析することができません",
+      "noneAdded": "新しい記事が検出されなかったため、0件の記事が追加されました。",
       "uploadFiles": "",
-      "importTypes": "",
+      "importTypes": "Citasionは、以下のファイルタイプから参考文献を取り込むことができます。",
       "uploadOneOrMore": "",
-      "dragDrop": "",
+      "dragDrop": "ここにファイルをドラッグ＆ドロップしてください。",
       "selectedFiles": "",
-      "readMoreAboutFormats": ""
+      "readMoreAboutFormats": "受付可能な参考文献ファイルのフォーマットについて詳しく見てください"
     },
     "ContactForm": {
-      "howToStart": "",
+      "howToStart": "Citasionの始め方",
       "extension": "Chrome/Firefox/Edgeの拡張機能",
-      "wordAddin": "",
+      "wordAddin": "Wordアドイン",
       "googledocs": "Googleドキュメントで書く",
-      "overleaf": "",
-      "word": "",
+      "overleaf": "Overleafに書き込む",
+      "word": "Wordでの書き込み",
       "billing": "課金",
-      "others": "",
+      "others": "その他",
       "cantfind": "答えが見つかりません？ご連絡ください。",
-      "youMustAgree": "",
-      "received": "",
-      "questionTypes": "",
-      "tellUsMore": "",
+      "youMustAgree": "当社の規約に同意していただく必要があります",
+      "received": "メッセージを受け取りました",
+      "questionTypes": "質問の種類",
+      "tellUsMore": "もっと詳しく教えてください",
       "iHaveReadTerms": "<2>ご利用条件</2>を読みました。"
     },
     "Header": {
-      "howCanWeHelp": "",
-      "youMayBeAble": ""
+      "howCanWeHelp": "こんにちは！どうされましたか？",
+      "youMayBeAble": "以下に、答えを見つけることができるかもしれません。"
     },
     "Reading": {
-      "howToStart": "",
-      "addPapers": "",
-      "write": "",
-      "billing": ""
+      "howToStart": "Citasionの開始方法",
+      "addPapers": "Citasionプロジェクトに記事を追加",
+      "write": "Citasionで記事を書く",
+      "billing": "課金・購読"
     }
   },
   "globals": {
