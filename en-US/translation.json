@@ -233,33 +233,27 @@
     },
     "auth": {
       "LoginIframeView": {
-        "signinGoogle": "Sign in with Google",
-        "signinMicrosoft": "Sign in with Microsoft",
         "citasionMemberLogin": "Citasion Member Login",
         "protectionNote": "This site is protected by reCAPTCHA and the <2>Google Privacy Policy</2> and <6>Terms of Service</6> apply.",
         "termsPrivacy": "<0>Terms and Conditions</0> · <2>Privacy Policy</2>"
       },
       "LoginView": {
         "memberLogin": "Citasion Member Login",
-        "dontHaveAccount": "Don’t have an account?",
+        "dontHaveAccount": "Don't have an account?",
         "captchaNote": "This site is protected by reCAPTCHA and the <2>Google Privacy Policy</2> and <6>Terms of Service</6> apply.",
-        "signGoogle": "Sign in with Google",
-        "signMicrosoft": "Sign in with Microsoft",
         "title": "Citasion: Login",
         "description": "Log in to your Citasion Account and manage your references with ease.",
-        "signEmail": "Sign in with Email",
         "signUp": "Sign Up",
-        "pageTitle": "",
-        "pageDescription": ""
+        "pageTitle": "Citasion: Member Login",
+        "pageDescription": "Log into Citasion and manage your references with ease.",
+        "signInWith": "Sign in with:"
       },
       "RegisterView": {
-        "signupGoogle": "Sign up with Google",
-        "signupMicrosoft": "Sign up with Microsoft",
         "title": "Citasion: Register An Account",
-        "description": "Register a Citasion Account and manage your references with ease.",
+        "description": "Register a Citasion account and manage your references with ease.",
         "startWith": "Start with Citasion",
         "alreadyHave": "Already have an account?",
-        "signupUserPass": "Sign up with Email"
+        "signUpWith": "Sign up with:"
       },
       "EmailVerification": {
         "title": "Email Verification Required",
@@ -267,7 +261,11 @@
       },
       "AuthRedirect": {
         "errorVerify": "We were unable to verify your email. Please contact support@citasion.com",
-        "invalidPassword": "Invalid password reset token"
+        "invalidPassword": "Invalid password reset token",
+        "reset": "Rest Password",
+        "login": "Please try again",
+        "pageTitle": "Citasion: Rest Password",
+        "pageDescription": "Reset your Citasion password"
       }
     },
     "campaign": {

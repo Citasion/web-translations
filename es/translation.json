@@ -233,8 +233,6 @@
     },
     "auth": {
       "LoginIframeView": {
-        "signinGoogle": "Acceder con Google",
-        "signinMicrosoft": "Acceder con Microsoft",
         "citasionMemberLogin": "Inicio de sesión de los miembros de Citasion",
         "protectionNote": "Este sitio está protegido por reCAPTCHA y se aplican la <2>Política de privacidad de Google</2> y los <6>Términos de servicio</6>.",
         "termsPrivacy": "<0>Terms and Conditions</0> · <2>Privacy Policy</2>"
@@ -243,23 +241,19 @@
         "memberLogin": "Inicio de sesión",
         "dontHaveAccount": "¿No tiene una cuenta?",
         "captchaNote": "Este sitio está protegido por reCAPTCHA y se aplican la <2>Política de privacidad de Google</2> y los <6>Términos de servicio</6>.",
-        "signGoogle": "Acceder con Google",
-        "signMicrosoft": "Acceder con Microsoft",
         "title": "Citasion: Iniciar sesión",
         "description": "Acceda a su cuenta de Citasion y gestione sus referencias con facilidad.",
-        "signEmail": "Acceder con el correo electrónico",
         "signUp": "Regístrese",
         "pageTitle": "",
-        "pageDescription": ""
+        "pageDescription": "",
+        "signInWith": ""
       },
       "RegisterView": {
-        "signupGoogle": "Registrarse en Google",
-        "signupMicrosoft": "Regístrese con Microsoft",
         "title": "Citasion: Registre una cuenta",
         "description": "Registre una cuenta Citasion y gestione sus referencias con facilidad.",
         "startWith": "Comienza con Citasion",
         "alreadyHave": "¿Ya tiene una cuenta?",
-        "signupUserPass": "Regístrese con el correo electrónico"
+        "signUpWith": ""
       },
       "EmailVerification": {
         "title": "Se requiere la verificación del correo electrónico",
@@ -267,7 +261,11 @@
       },
       "AuthRedirect": {
         "errorVerify": "No hemos podido verificar su correo electrónico. Por favor, póngase en contacto con support@citasion.com",
-        "invalidPassword": "Ficha de restablecimiento de contraseña no esta válida"
+        "invalidPassword": "Ficha de restablecimiento de contraseña no esta válida",
+        "reset": "",
+        "login": "",
+        "pageTitle": "",
+        "pageDescription": ""
       }
     },
     "campaign": {

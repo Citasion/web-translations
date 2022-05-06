@@ -188,37 +188,35 @@
     },
     "auth": {
       "LoginIframeView": {
-        "signinGoogle": "使用Google登录",
-        "signinMicrosoft": "使用Microsoft登录",
-        "citasionMemberLogin": "Citasion用户登录",
         "protectionNote": "该网站启用reCAPTCHA, 并遵循<2>Google隐私协议</2> 和 <6>使用条款</6>.",
-        "termsPrivacy": "<0>使用条款</0> · <2>隐私协议</2>"
+        "termsPrivacy": "<0>使用条款</0> · <2>隐私协议</2>",
+        "citasionMemberLogin": ""
       },
       "LoginView": {
-        "signGoogle": "使用Google登录",
-        "signMicrosoft": "使用Microsoft登录",
-        "signEmail": "使用Email登录",
         "signUp": "注册账户",
         "title": "Citasion: 登录",
         "description": "登录Citasion 轻松管理你的引用",
         "memberLogin": "Citasion用户登录",
         "dontHaveAccount": "需要注册Citasion账户?",
         "captchaNote": "该网站启用reCAPTCHA, 并遵循<2>Google隐私协议</2> 和 <6>使用条款</6>.",
-        "pageTitle": "",
-        "pageDescription": ""
+        "pageTitle": "Citasion: 登录",
+        "pageDescription": "登录Citasion, 轻松管理你的引用",
+        "signInWith": "使用如下方式登录："
       },
       "RegisterView": {
-        "signupGoogle": "使用Google注册",
-        "signupMicrosoft": "使用Microsoft注册",
-        "title": "Citasion: 注册",
+        "title": "Citasion: 注册账户",
         "description": "注册Citasion账户, 轻松管理你的引用",
         "startWith": "注册Citasion账户",
         "alreadyHave": "已经有Citasion账户?",
-        "signupUserPass": "使用Email注册"
+        "signUpWith": "使用如下方式注册："
       },
       "AuthRedirect": {
         "errorVerify": "我们无法验证你的邮箱, 请发邮件到support@citasion.com联系我们",
-        "invalidPassword": "重设密码密钥无效"
+        "invalidPassword": "重设密码所需的密钥无效",
+        "reset": "重置密码",
+        "login": "请再试一次",
+        "pageTitle": "Citasion: 重置密码",
+        "pageDescription": "重置你的Citasion密码"
       },
       "EmailVerification": {
         "title": "请先验证你的邮箱地址",

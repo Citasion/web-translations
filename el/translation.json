@@ -296,40 +296,38 @@
     "auth": {
       "AuthRedirect": {
         "errorVerify": "Δεν μπορέσαμε να επαληθεύσουμε το email σας. Παρακαλούμε επικοινωνήστε με το support@citasion.com",
-        "invalidPassword": "Μη έγκυρο token επαναφοράς κωδικού πρόσβασης"
+        "invalidPassword": "Μη έγκυρο token επαναφοράς κωδικού πρόσβασης",
+        "reset": "",
+        "login": "",
+        "pageTitle": "",
+        "pageDescription": ""
       },
       "LoginView": {
         "pageTitle": "",
         "pageDescription": "",
         "captchaNote": "Αυτός ο ιστότοπος προστατεύεται από το reCAPTCHA και ισχύουν η <2>Πολιτική Προστασίας Προσωπικών Δεδομένων της Google</2> και οι <6>Όροι παροχής υπηρεσιών</6>.",
-        "signGoogle": "Σύνδεση με το Google",
-        "signMicrosoft": "Σύνδεση με τη Microsoft",
-        "signEmail": "Σύνδεση με Email",
         "title": "Citasion: Σύνδεση",
         "description": "Συνδεθείτε στο λογαριασμό σας στο Citasion και διαχειριστείτε τις αναφορές σας με ευκολία.",
         "signUp": "Εγγραφή",
         "memberLogin": "Σύνδεση μέλους Citasion",
-        "dontHaveAccount": "Δεν έχετε λογαριασμό;"
+        "dontHaveAccount": "Δεν έχετε λογαριασμό;",
+        "signInWith": ""
       },
       "EmailVerification": {
         "title": "Απαιτείται επαλήθευση email",
         "text": "Πρέπει να επαληθεύσετε τη διεύθυνση ηλεκτρονικού ταχυδρομείου σας πριν αποκτήσετε πρόσβαση στο λογαριασμό σας. Παρακαλούμε ελέγξτε το email σας και ακολουθήστε τις οδηγίες που παρέχονται σε ένα email από το Citasion."
       },
       "LoginIframeView": {
-        "signinGoogle": "Σύνδεση με το Google",
-        "signinMicrosoft": "Σύνδεση με τη Microsoft",
         "citasionMemberLogin": "Σύνδεση μέλους Citasion",
         "protectionNote": "Αυτός ο ιστότοπος προστατεύεται από το reCAPTCHA και ισχύουν η <2>Πολιτική Προστασίας Προσωπικών Δεδομένων της Google</2> και οι <6>Όροι Παροχής Υπηρεσιών</6>.",
         "termsPrivacy": "<0>Όροι και Προϋποθέσεις</0> - <2>Πολιτική Προστασίας Προσωπικών Δεδομένων</2>"
       },
       "RegisterView": {
-        "signupGoogle": "Εγγραφή στο Google",
-        "signupMicrosoft": "Εγγραφή στη Microsoft",
-        "signupUserPass": "Εγγραφή με Email",
         "title": "Citasion: Εγγραφή λογαριασμού",
         "description": "Καταχωρήστε έναν λογαριασμό Citasion και διαχειριστείτε τις αναφορές σας με ευκολία.",
         "startWith": "Έναρξη με το Citasion",
-        "alreadyHave": "Έχετε ήδη λογαριασμό;"
+        "alreadyHave": "Έχετε ήδη λογαριασμό;",
+        "signUpWith": ""
       }
     },
     "campaign": {

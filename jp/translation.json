@@ -288,40 +288,38 @@
     "auth": {
       "AuthRedirect": {
         "errorVerify": "",
-        "invalidPassword": ""
+        "invalidPassword": "",
+        "reset": "",
+        "login": "",
+        "pageTitle": "",
+        "pageDescription": ""
       },
       "LoginView": {
         "pageTitle": "",
         "pageDescription": "",
         "captchaNote": "このサイトはreCAPTCHAによって保護されており、<2>Googleのプライバシーポリシー</2>と<6>利用規約</6>が適用されます。",
-        "signGoogle": "",
-        "signMicrosoft": "",
-        "signEmail": "",
         "title": "",
         "description": "",
         "signUp": "",
         "memberLogin": "",
-        "dontHaveAccount": ""
+        "dontHaveAccount": "",
+        "signInWith": ""
       },
       "EmailVerification": {
         "title": "",
         "text": ""
       },
       "LoginIframeView": {
-        "signinGoogle": "",
-        "signinMicrosoft": "",
         "citasionMemberLogin": "",
         "protectionNote": "このサイトはreCAPTCHAによって保護されており、<2>Googleのプライバシーポリシー</2>と<6>利用規約</6>が適用されます。",
         "termsPrivacy": "<0>利用規約</0> - <2>プライバシーポリシー</2>"
       },
       "RegisterView": {
-        "signupGoogle": "",
-        "signupMicrosoft": "",
-        "signupUserPass": "",
         "title": "",
         "description": "",
         "startWith": "",
-        "alreadyHave": ""
+        "alreadyHave": "",
+        "signUpWith": ""
       }
     },
     "campaign": {
