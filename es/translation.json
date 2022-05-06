@@ -69,8 +69,8 @@
         "allloaded": "Todas las referencias fueron cargadas",
         "ourExtension": "Nuestras extensiones de navegador admiten la importación de referencias con un solo clic. ",
         "downloadExtension": "Descargue nuestra extensión aquí.",
-        "ifWriteInWord": "If you write in Word, you will also need to install our Word Add-in to manage your citations/references in Word documents.",
-        "wordAddIn": "Download our Word Add-In here.",
+        "ifWriteInWord": "Si escribe en Word, también tendrá que instalar nuestro complemento de Word para gestionar sus citas/referencias en los documentos de Word.",
+        "wordAddIn": "Descargue nuestro complemento de Word aquí.",
         "itOnlyTakes": "Sólo hace falta un clic para importar referencias a este proyecto desde los principales agregadores de búsquedas académicas:",
         "anExampleScholar": "un ejemplo de búsqueda de \"technology\" en Google Scholar",
         "anExampleUserAuth": "un artículo de ejemplo titulado \"User Authentication via Electrical Muscle Stimulation\"",
@@ -146,7 +146,7 @@
       "FirefoxTitle": "Citasion para Firefox",
       "EdgeTitle": "Citasion para Edge",
       "WordTitle": "Citasion para Word",
-      "WordText": "El Word Add-in del Citasion es gratis y lo ayuda a administrar citas y referencias en Word.",
+      "WordText": "El Complemento de Word del Citasion es gratis y lo ayuda a administrar citas y referencias en Word.",
       "WordNote": "Nota:",
       "WordOr": "o",
       "WordNote2": "aún se requiere extensión para la importación de referencia",
@@ -227,8 +227,8 @@
         "chromeExtension": "Extensión de Chrome",
         "firefoxAddon": "Firefox Add-on",
         "edgeAddon": "Edge Add-on",
-        "wordAddin": "Word Add-In",
-        "wordAddInNote": "If you write in Word, you will also need <2><0>our Word Add-in</0></2>."
+        "wordAddin": "Complemento de Word",
+        "wordAddInNote": "Si escribe en Word, también necesitará <2><0>nuestro complemento de Word</0></2>."
       }
     },
     "auth": {
@@ -444,7 +444,7 @@
     "chromeExtension": "Extensión de Chrome",
     "firefoxAddon": "Addon para Firefox",
     "edgeAddon": "Addon para Edge",
-    "wordAddin": "Word Add-in",
+    "wordAddin": "Complemento de Word",
     "trust": "Confianza",
     "terms": "Términos y condiciones",
     "privacy": "Política de privacidad",
@@ -596,7 +596,7 @@
     "ContactForm": {
       "howToStart": "Cómo empezar Citasion",
       "extension": "Extensión Chrome/Firefox/Edge",
-      "wordAddin": "Word Add-in",
+      "wordAddin": "Complemento de Word",
       "googledocs": "Escribir en Google Docs",
       "overleaf": "Escribir en Overleaf",
       "word": "Escribir en Word",
