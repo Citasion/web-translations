@@ -262,9 +262,9 @@
       "AuthRedirect": {
         "errorVerify": "We were unable to verify your email. Please contact support@citasion.com",
         "invalidPassword": "Invalid password reset token",
-        "reset": "Rest Password",
+        "reset": "Reset Password",
         "login": "Please try again",
-        "pageTitle": "Citasion: Rest Password",
+        "pageTitle": "Citasion: Reset Password",
         "pageDescription": "Reset your Citasion password"
       }
     },
