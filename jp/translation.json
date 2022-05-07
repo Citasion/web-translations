@@ -266,7 +266,11 @@
         "UpdatePaymentMethod": "",
         "expirationDate": "",
         "currentSubscription": "",
-        "willExpire": "プレミアム試用期間は<2>{{expiryDate}}</2>までとなります。 "
+        "willExpire": "プレミアム試用期間は<2>{{expiryDate}}</2>までとなります。 ",
+        "EnablePassword": "",
+        "PasswordAuth": "",
+        "Enabled": "",
+        "NotEnabled": ""
       }
     },
     "application": {
@@ -286,17 +290,7 @@
       "WordNote2": ""
     },
     "auth": {
-      "AuthRedirect": {
-        "errorVerify": "",
-        "invalidPassword": "",
-        "reset": "",
-        "login": "",
-        "pageTitle": "",
-        "pageDescription": ""
-      },
       "LoginView": {
-        "pageTitle": "",
-        "pageDescription": "",
         "captchaNote": "このサイトはreCAPTCHAによって保護されており、<2>Googleのプライバシーポリシー</2>と<6>利用規約</6>が適用されます。",
         "title": "",
         "description": "",
@@ -304,10 +298,6 @@
         "memberLogin": "",
         "dontHaveAccount": "",
         "signInWith": ""
-      },
-      "EmailVerification": {
-        "title": "",
-        "text": ""
       },
       "LoginIframeView": {
         "citasionMemberLogin": "",
@@ -320,6 +310,25 @@
         "startWith": "",
         "alreadyHave": "",
         "signUpWith": ""
+      },
+      "EnablePasswordView": {
+        "title": "",
+        "description": "",
+        "memberLogin": "",
+        "error": "Error: You need to  <2>reauthenticate your current account</2> first."
+      },
+      "ReAuth": {
+        "title": "",
+        "description": "",
+        "memberLogin": "",
+        "signInWith": ""
+      },
+      "ResetPasswordView": {
+        "invalidPassword": "",
+        "pageTitle": "",
+        "pageDescription": "",
+        "reset": "",
+        "login": ""
       }
     },
     "campaign": {

@@ -185,7 +185,11 @@
         "manageSubscription": "Manage your subscription",
         "willExpire": "Your premium trial will expire by .",
         "expirationDate": "Expiration date {{date}}.",
-        "currentSubscription": "Your current subscription is canceled but you can still use Citasion premium untill the expiration date."
+        "currentSubscription": "Your current subscription is canceled but you can still use Citasion premium untill the expiration date.",
+        "EnablePassword": "Enable Password Login",
+        "PasswordAuth": "Password Authentication",
+        "Enabled": "Enabled",
+        "NotEnabled": "Not enabled"
       }
     },
     "Home": {
@@ -244,8 +248,6 @@
         "title": "Citasion: Login",
         "description": "Log in to your Citasion Account and manage your references with ease.",
         "signUp": "Sign Up",
-        "pageTitle": "Citasion: Member Login",
-        "pageDescription": "Log into Citasion and manage your references with ease.",
         "signInWith": "Sign in with:"
       },
       "RegisterView": {
@@ -255,17 +257,24 @@
         "alreadyHave": "Already have an account?",
         "signUpWith": "Sign up with:"
       },
-      "EmailVerification": {
-        "title": "Email Verification Required",
-        "text": "You need to verify your email address before accessing your account. Please check your email and follow the provided instruction in an email from Citasion"
+      "EnablePasswordView": {
+        "title": "Citasion: Email Verification",
+        "description": "Verify your Citation Email",
+        "memberLogin": "Enable Email/Password Login",
+        "error": "Error: You need to <2>reauthenticate your current account</2> first."
       },
-      "AuthRedirect": {
-        "errorVerify": "We were unable to verify your email. Please contact support@citasion.com",
+      "ReAuth": {
+        "title": "Citasion: Re-Authenticate Yourself",
+        "description": "Re-authenticate yourself",
+        "memberLogin": "Re-Authentication",
+        "signInWith": "Before you enable password authentication, please re-authenticate your current account:"
+      },
+      "ResetPasswordView": {
         "invalidPassword": "Invalid password reset token",
-        "reset": "Reset Password",
-        "login": "Please try again",
         "pageTitle": "Citasion: Reset Password",
-        "pageDescription": "Reset your Citasion password"
+        "pageDescription": "Reset your Citasion password",
+        "reset": "Reset Password",
+        "login": "Please try again"
       }
     },
     "campaign": {

@@ -185,7 +185,11 @@
         "manageSubscription": "Gestionar su suscripción",
         "willExpire": "Su prueba premium expirará en {{expiryDate}}.",
         "expirationDate": "Fecha de caducidad {{date}}.",
-        "currentSubscription": "Su suscripción actual se cancela, pero puede seguir utilizando Citasion Premium hasta la fecha de caducidad."
+        "currentSubscription": "Su suscripción actual se cancela, pero puede seguir utilizando Citasion Premium hasta la fecha de caducidad.",
+        "EnablePassword": "",
+        "PasswordAuth": "",
+        "Enabled": "",
+        "NotEnabled": ""
       }
     },
     "Home": {
@@ -244,8 +248,6 @@
         "title": "Citasion: Iniciar sesión",
         "description": "Acceda a su cuenta de Citasion y gestione sus referencias con facilidad.",
         "signUp": "Regístrese",
-        "pageTitle": "Citasion: Inicio de sesión de los miembros",
-        "pageDescription": "Entra en Citasion y gestiona sus referencias con facilidad.",
         "signInWith": "Inicia sesión con:"
       },
       "RegisterView": {
@@ -255,12 +257,19 @@
         "alreadyHave": "¿Ya tiene una cuenta?",
         "signUpWith": "Regístrese con:"
       },
-      "EmailVerification": {
-        "title": "Se requiere la verificación del correo electrónico",
-        "text": "Su correo electrónico debe ser verificado para poder acceder a su cuenta. Por favor, visite su correo electrónico y siga las instrucciones que se proporcionan allí."
+      "EnablePasswordView": {
+        "title": "",
+        "description": "",
+        "memberLogin": "",
+        "error": "Error: You need to  <2>reauthenticate your current account</2> first."
       },
-      "AuthRedirect": {
-        "errorVerify": "No hemos podido verificar su correo electrónico. Por favor, póngase en contacto con support@citasion.com",
+      "ReAuth": {
+        "title": "",
+        "description": "",
+        "memberLogin": "",
+        "signInWith": ""
+      },
+      "ResetPasswordView": {
         "invalidPassword": "Ficha de restablecimiento de contraseña no esta válida",
         "reset": "Restablecer contraseña",
         "login": "Por favor, inténtelo de nuevo",

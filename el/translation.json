@@ -274,7 +274,11 @@
         "UpdatePaymentMethod": "Ενημέρωση μεθόδου πληρωμής",
         "expirationDate": "Ημερομηνία λήξης {{date}}.",
         "currentSubscription": "Η τρέχουσα συνδρομή σας ακυρώνεται, αλλά μπορείτε να εξακολουθείτε να χρησιμοποιείτε το Citasion premium μέχρι την ημερομηνία λήξης.",
-        "willExpire": "Η δοκιμαστική σας συνδρομή θα λήξει στις <2>{{expiryDate}}</2>."
+        "willExpire": "Η δοκιμαστική σας συνδρομή θα λήξει στις <2>{{expiryDate}}</2>.",
+        "EnablePassword": "",
+        "PasswordAuth": "",
+        "Enabled": "",
+        "NotEnabled": ""
       }
     },
     "application": {
@@ -294,17 +298,7 @@
       "WordNote2": "η επέκταση εξακολουθεί να απαιτείται για την εισαγωγή αναφοράς"
     },
     "auth": {
-      "AuthRedirect": {
-        "errorVerify": "Δεν μπορέσαμε να επαληθεύσουμε το email σας. Παρακαλούμε επικοινωνήστε με το support@citasion.com",
-        "invalidPassword": "Μη έγκυρο token επαναφοράς κωδικού πρόσβασης",
-        "reset": "Επαναφορά κωδικού πρόσβασης",
-        "login": "Παρακαλώ προσπαθήστε ξανά",
-        "pageTitle": "Citasion: Επαναφορά κωδικού πρόσβασης",
-        "pageDescription": "Επαναφέρετε τον κωδικό πρόσβασής σας στο Citasion"
-      },
       "LoginView": {
-        "pageTitle": "Citasion: Σύνδεση μέλους",
-        "pageDescription": "Συνδεθείτε στο Citasion και διαχειριστείτε τις αναφορές σας με ευκολία.",
         "captchaNote": "Αυτός ο ιστότοπος προστατεύεται από το reCAPTCHA και ισχύουν η <2>Πολιτική Προστασίας Προσωπικών Δεδομένων της Google</2> και οι <6>Όροι παροχής υπηρεσιών</6>.",
         "title": "Citasion: Σύνδεση",
         "description": "Συνδεθείτε στο λογαριασμό σας στο Citasion και διαχειριστείτε τις αναφορές σας με ευκολία.",
@@ -312,10 +306,6 @@
         "memberLogin": "Σύνδεση μέλους Citasion",
         "dontHaveAccount": "Δεν έχετε λογαριασμό;",
         "signInWith": "Συνδεθείτε με:"
-      },
-      "EmailVerification": {
-        "title": "Απαιτείται επαλήθευση email",
-        "text": "Πρέπει να επαληθεύσετε τη διεύθυνση ηλεκτρονικού ταχυδρομείου σας πριν αποκτήσετε πρόσβαση στο λογαριασμό σας. Παρακαλούμε ελέγξτε το email σας και ακολουθήστε τις οδηγίες που παρέχονται σε ένα email από το Citasion."
       },
       "LoginIframeView": {
         "citasionMemberLogin": "Σύνδεση μέλους Citasion",
@@ -328,6 +318,25 @@
         "startWith": "Έναρξη με το Citasion",
         "alreadyHave": "Έχετε ήδη λογαριασμό;",
         "signUpWith": "Εγγραφείτε με:"
+      },
+      "EnablePasswordView": {
+        "title": "",
+        "description": "",
+        "memberLogin": "",
+        "error": "Error: You need to  <2>reauthenticate your current account</2> first."
+      },
+      "ReAuth": {
+        "title": "",
+        "description": "",
+        "memberLogin": "",
+        "signInWith": ""
+      },
+      "ResetPasswordView": {
+        "invalidPassword": "Μη έγκυρο token επαναφοράς κωδικού πρόσβασης",
+        "reset": "Επαναφορά κωδικού πρόσβασης",
+        "login": "Παρακαλώ προσπαθήστε ξανά",
+        "pageTitle": "Citasion: Επαναφορά κωδικού πρόσβασης",
+        "pageDescription": "Επαναφέρετε τον κωδικό πρόσβασής σας στο Citasion"
       }
     },
     "campaign": {

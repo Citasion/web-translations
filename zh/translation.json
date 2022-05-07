@@ -183,7 +183,11 @@
         "manageSubscription": "会员管理",
         "willExpire": "你的试用将在<2>{{expiryDate}}</2>过期.",
         "expirationDate": "到期日 {{date}}",
-        "currentSubscription": "你已经取消你的会员; 在到期日前你可以继续使用Citasion高级会员功能"
+        "currentSubscription": "你已经取消你的会员; 在到期日前你可以继续使用Citasion高级会员功能",
+        "EnablePassword": "启用密码登录",
+        "PasswordAuth": "密码登录",
+        "Enabled": "已启用",
+        "NotEnabled": "未启用"
       }
     },
     "auth": {
@@ -199,8 +203,6 @@
         "memberLogin": "Citasion用户登录",
         "dontHaveAccount": "需要注册Citasion账户?",
         "captchaNote": "该网站启用reCAPTCHA, 并遵循<2>Google隐私协议</2> 和 <6>使用条款</6>.",
-        "pageTitle": "Citasion: 登录",
-        "pageDescription": "登录Citasion, 轻松管理你的引用",
         "signInWith": "使用如下方式登录："
       },
       "RegisterView": {
@@ -210,17 +212,24 @@
         "alreadyHave": "已经有Citasion账户?",
         "signUpWith": "使用如下方式注册："
       },
-      "AuthRedirect": {
-        "errorVerify": "我们无法验证你的邮箱, 请发邮件到support@citasion.com联系我们",
+      "EnablePasswordView": {
+        "title": "Citasion: 启用密码认证",
+        "description": "启用Citasion密码认证",
+        "memberLogin": "启用密码认证",
+        "error": "出错了：你需要先<2>重新认证你的当前账户</2>。"
+      },
+      "ReAuth": {
+        "title": "Citasion: 重新验证你的账户",
+        "description": "重新验证你的Citasion账户",
+        "memberLogin": "重新验证你的Citasion账户",
+        "signInWith": "在你启用密码认证之前，请重新认证你当前的账户："
+      },
+      "ResetPasswordView": {
         "invalidPassword": "重设密码所需的密钥无效",
         "reset": "重置密码",
         "login": "请再试一次",
         "pageTitle": "Citasion: 重置密码",
         "pageDescription": "重置你的Citasion密码"
-      },
-      "EmailVerification": {
-        "title": "请先验证你的邮箱地址",
-        "text": "你需要先验证自己的邮箱地址; 请查看你的邮箱, 并且按照Citasion的邮件指示验证你的邮箱"
       }
     },
     "campaign": {
