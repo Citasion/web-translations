@@ -320,13 +320,13 @@
         "signUpWith": "Εγγραφείτε με:"
       },
       "EnablePasswordView": {
-        "title": "Επαλήθευση email",
+        "title": "Citasion: Επαλήθευση email",
         "description": "Επαληθεύστε το Citasion email σας",
         "memberLogin": "Ενεργοποίηση σύνδεσης μέσω email/κωδικού πρόσβασης",
         "error": "Error: You need to  <2>reauthenticate your current account</2> first."
       },
       "ReAuth": {
-        "title": "Επαναπιστοποίηση του λογαριασμού σας",
+        "title": "Citasion: Επαναπιστοποίηση του λογαριασμού σας",
         "description": "Επαναπιστοποίηση του λογαριασμού σας",
         "memberLogin": "Επαναπιστοποίηση",
         "signInWith": "Πριν ενεργοποιήσετε τον έλεγχο ταυτότητας κωδικού πρόσβασης, παρακαλείστε να πραγματοποιήσετε εκ νέου έλεγχο ταυτότητας του τρέχοντος λογαριασμού σας:"

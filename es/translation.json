@@ -186,10 +186,10 @@
         "willExpire": "Su prueba premium expirará en {{expiryDate}}.",
         "expirationDate": "Fecha de caducidad {{date}}.",
         "currentSubscription": "Su suscripción actual se cancela, pero puede seguir utilizando Citasion Premium hasta la fecha de caducidad.",
-        "EnablePassword": "",
-        "PasswordAuth": "",
-        "Enabled": "",
-        "NotEnabled": ""
+        "EnablePassword": "Activar el inicio de sesión con contraseña",
+        "PasswordAuth": "Autenticación con contraseña",
+        "Enabled": "Activado",
+        "NotEnabled": "No está activado"
       }
     },
     "Home": {
@@ -258,16 +258,16 @@
         "signUpWith": "Regístrese con:"
       },
       "EnablePasswordView": {
-        "title": "",
-        "description": "",
-        "memberLogin": "",
+        "title": "Citasion: Verificación del correo electrónico",
+        "description": "Verifique su correo electrónico de Citasion",
+        "memberLogin": "Activar el inicio de sesión por correo electrónico/contraseña",
         "error": "Error: You need to  <2>reauthenticate your current account</2> first."
       },
       "ReAuth": {
-        "title": "",
-        "description": "",
-        "memberLogin": "",
-        "signInWith": ""
+        "title": "Citasion: Reautenticarse",
+        "description": "Vuelva a autentificarse",
+        "memberLogin": "Reautenticación",
+        "signInWith": "Antes de activar la autenticación de la contraseña, vuelva a autenticar su cuenta actual:"
       },
       "ResetPasswordView": {
         "invalidPassword": "Ficha de restablecimiento de contraseña no esta válida",
