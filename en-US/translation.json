@@ -259,7 +259,7 @@
       },
       "EnablePasswordView": {
         "title": "Citasion: Email Verification",
-        "description": "Verify your Citation Email",
+        "description": "Verify your Citasion Email",
         "memberLogin": "Enable Email/Password Login",
         "error": "Error: You need to <2>reauthenticate your current account</2> first."
       },

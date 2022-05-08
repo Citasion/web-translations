@@ -275,10 +275,10 @@
         "expirationDate": "Ημερομηνία λήξης {{date}}.",
         "currentSubscription": "Η τρέχουσα συνδρομή σας ακυρώνεται, αλλά μπορείτε να εξακολουθείτε να χρησιμοποιείτε το Citasion premium μέχρι την ημερομηνία λήξης.",
         "willExpire": "Η δοκιμαστική σας συνδρομή θα λήξει στις <2>{{expiryDate}}</2>.",
-        "EnablePassword": "",
-        "PasswordAuth": "",
-        "Enabled": "",
-        "NotEnabled": ""
+        "EnablePassword": "Ενεργοποίηση σύνδεσης με κωδικό πρόσβασης",
+        "PasswordAuth": "Ταυτοποίηση με κωδικό πρόσβασης",
+        "Enabled": "Ενεργοποιημένο",
+        "NotEnabled": "Δεν είναι ενεργοποιημένο"
       }
     },
     "application": {
@@ -320,16 +320,16 @@
         "signUpWith": "Εγγραφείτε με:"
       },
       "EnablePasswordView": {
-        "title": "",
-        "description": "",
-        "memberLogin": "",
+        "title": "Επαλήθευση email",
+        "description": "Επαληθεύστε το Citasion email σας",
+        "memberLogin": "Ενεργοποίηση σύνδεσης μέσω email/κωδικού πρόσβασης",
         "error": "Error: You need to  <2>reauthenticate your current account</2> first."
       },
       "ReAuth": {
-        "title": "",
-        "description": "",
-        "memberLogin": "",
-        "signInWith": ""
+        "title": "Επαναπιστοποίηση του λογαριασμού σας",
+        "description": "Επαναπιστοποίηση του λογαριασμού σας",
+        "memberLogin": "Επαναπιστοποίηση",
+        "signInWith": "Πριν ενεργοποιήσετε τον έλεγχο ταυτότητας κωδικού πρόσβασης, παρακαλείστε να πραγματοποιήσετε εκ νέου έλεγχο ταυτότητας του τρέχοντος λογαριασμού σας:"
       },
       "ResetPasswordView": {
         "invalidPassword": "Μη έγκυρο token επαναφοράς κωδικού πρόσβασης",
