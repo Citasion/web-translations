@@ -232,7 +232,8 @@
         "firefoxAddon": "Firefox Add-on",
         "edgeAddon": "Edge Add-on",
         "wordAddin": "Complemento de Word",
-        "wordAddInNote": "Si escribe en Word, también necesitará <2><0>nuestro complemento de Word</0></2>."
+        "wordAddInNote": "Si escribe en Word, también necesitará <2><0>nuestro complemento de Word</0></2>.",
+        "citasionPhonetic": ""
       }
     },
     "auth": {

@@ -326,7 +326,8 @@
         "firefoxAddon": "Firefox插件",
         "edgeAddon": "Edge插件",
         "wordAddin": "Word插件",
-        "wordAddInNote": "如果你用Word写作，你还将需要安装<2><0>我们的Word插件</0></2>."
+        "wordAddInNote": "如果你用Word写作，你还将需要安装<2><0>我们的Word插件</0></2>.",
+        "citasionPhonetic": ""
       }
     },
     "Invoice": {

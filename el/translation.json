@@ -446,7 +446,8 @@
         "word": "Word",
         "overleaf": "Overleaf",
         "andmore": "... και άλλα",
-        "wordAddInNote": "Αν γράφετε στο Word, θα χρειαστείτε επίσης <2><0>το πρόσθετο του Word</0></2>."
+        "wordAddInNote": "Αν γράφετε στο Word, θα χρειαστείτε επίσης <2><0>το πρόσθετο του Word</0></2>.",
+        "citasionPhonetic": ""
       }
     },
     "Invoice": {
