@@ -233,7 +233,7 @@
         "edgeAddon": "Edge Add-on",
         "wordAddin": "Complemento de Word",
         "wordAddInNote": "Si escribe en Word, también necesitará <2><0>nuestro complemento de Word</0></2>.",
-        "citasionPhonetic": ""
+        "citasionPhonetic": " "
       }
     },
     "auth": {
@@ -627,7 +627,7 @@
       "addPapers": "Añade artículos a sus proyectos Citasion",
       "write": "Escribe artículos con Citasion",
       "billing": "Facturación y suscripción",
-      "moreTopics": ""
+      "moreTopics": "más temas"
     },
     "CitationDeleteDialog": {
       "deleteReference": "Borrar esta referencia",
