@@ -309,8 +309,7 @@
       },
       "LoginIframeView": {
         "citasionMemberLogin": "Σύνδεση μέλους Citasion",
-        "protectionNote": "Αυτός ο ιστότοπος προστατεύεται από το reCAPTCHA και ισχύουν η <2>Πολιτική Προστασίας Προσωπικών Δεδομένων της Google</2> και οι <6>Όροι Παροχής Υπηρεσιών</6>.",
-        "termsPrivacy": "<0>Όροι και Προϋποθέσεις</0> - <2>Πολιτική Προστασίας Προσωπικών Δεδομένων</2>"
+        "loginFailure": "<0>Read more</0> if you have difficulties logging into your account via Google."
       },
       "RegisterView": {
         "title": "Citasion: Εγγραφή λογαριασμού",

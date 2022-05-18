@@ -36,6 +36,10 @@
       "BillingBasicsView": {
         "title": "Citasion: Facturación y suscripción",
         "content": "# ¿Cómo puedo comprar una suscripción premium?\n\nPuede comprar una suscripción Premium visitando [https://citasion.com/es/go-premium](https://citasion.com/es/go-premium). O si está en el plan por defecto (gratuito), puede hacer clic en el botón Premium en su tablero de inicio después de iniciar la sesión.\n\n Actualmente ofrecemos tres tipos de suscripciones premium:\n\n * Plan mensual\n\n * Plan trimestral\n\n * Plan anual\n\n # ¿Qué métodos de pago aceptan?\n\n Aceptamos las principales tarjetas de crédito y Paypal.\n\n # ¿Puedo cambiar mi suscripción premium?\n\nSí, puede cambiar los datos de su suscripción en su cuenta de Citasion. Es muy fácil:\n\n 1. Accede a tu cuenta de Citasion\n\n 2. Haz clic en la pestaña Cuenta de la izquierda\n\n 3. Elija la pestaña Suscripción\n\n Puede cambiar su suscripción de las siguientes maneras:\n\n * cambiar su forma de pago\n\n * cambiar el plan de suscripción\n\n * cancelar su suscripción\n\n # ¿Cómo puedo acceder a mis recibos?\n\n Para acceder a sus recibos, vaya a la pestaña Suscripción de la página Cuenta y haga clic en el botón Ver mi recibo.\n\n Puede ver cada uno de sus recibos en línea o elegir descargar una versión en PDF.\n"
+      },
+      "AccountManagementView": {
+        "content": "",
+        "title": ""
       }
     }
   },
@@ -50,7 +54,8 @@
         "OverleafView": "Utilizar Citasion en Overleaf",
         "GoogleDocsView": "Utilizar Citasion en Google Docs",
         "CollaborateView": "Colaborar con otros",
-        "BillingBasicsView": "Facturación y suscripción"
+        "BillingBasicsView": "Facturación y suscripción",
+        "AccountManagementView": ""
       }
     }
   }

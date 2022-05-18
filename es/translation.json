@@ -238,8 +238,7 @@
     "auth": {
       "LoginIframeView": {
         "citasionMemberLogin": "Inicio de sesión de los miembros de Citasion",
-        "protectionNote": "Este sitio está protegido por reCAPTCHA y se aplican la <2>Política de privacidad de Google</2> y los <6>Términos de servicio</6>.",
-        "termsPrivacy": "<0>Terms and Conditions</0> · <2>Privacy Policy</2>"
+        "loginFailure": "<0>Read more</0> if you have difficulties logging into your account via Google."
       },
       "LoginView": {
         "memberLogin": "Inicio de sesión",

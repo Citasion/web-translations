@@ -10,7 +10,8 @@
         "OverleafView": "",
         "WordView": "",
         "CollaborateView": "",
-        "BillingBasicsView": ""
+        "BillingBasicsView": "",
+        "AccountManagementView": ""
       }
     }
   },
@@ -51,6 +52,10 @@
       "BillingBasicsView": {
         "title": "",
         "content": ""
+      },
+      "AccountManagementView": {
+        "content": "",
+        "title": ""
       }
     }
   }
