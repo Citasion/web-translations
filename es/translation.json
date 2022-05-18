@@ -626,7 +626,8 @@
       "howToStart": "Cómo empezar Citasion",
       "addPapers": "Añade artículos a sus proyectos Citasion",
       "write": "Escribe artículos con Citasion",
-      "billing": "Facturación y suscripción"
+      "billing": "Facturación y suscripción",
+      "moreTopics": ""
     },
     "CitationDeleteDialog": {
       "deleteReference": "Borrar esta referencia",

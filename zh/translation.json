@@ -535,7 +535,8 @@
       "howToStart": "如何开始Citasion",
       "addPapers": "如何添加引用",
       "write": "如何在写作中使用Citasion",
-      "billing": "高级会员购买和收据"
+      "billing": "高级会员购买和收据",
+      "moreTopics": "查看更多内容"
     },
     "CitationUpdateDialog": {
       "updateReference": "更新引用"

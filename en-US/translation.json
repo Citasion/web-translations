@@ -626,7 +626,8 @@
       "howToStart": "How to start Citasion",
       "addPapers": "Add papers to your Citasion projects",
       "write": "Write papers with Citasion",
-      "billing": "Billing and subscription"
+      "billing": "Billing and subscription",
+      "moreTopics": "more topics"
     },
     "CitationDeleteDialog": {
       "deleteReference": "Delete This Reference",
