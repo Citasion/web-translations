@@ -1,10 +1,10 @@
 ## 概述  
 
-一般来说，将你的数据从其他服务迁移到Citasion上只需要两步：  
+一般来说，将你的数据从其他服务迁移到BibNext上只需要两步：  
 
 1. 从其他服务中导出数据  
 
-2. 将导出的数据上传到你的目标Citasion项目  
+2. 将导出的数据上传到你的目标BibNext项目  
 
 以下内容概括如何从其他服务中导出数据：  
 
@@ -16,7 +16,7 @@
 
 * [从Papers导出数据](#papers)  
 
-关于如何将导出的数据上传到Citasion项目的信息，你可以在<a href='/zh/docs/import-manage-papers'>这篇文章</a>找到更多信息。  
+关于如何将导出的数据上传到BibNext项目的信息，你可以在<a href='/zh/docs/import-manage-papers'>这篇文章</a>找到更多信息。  
 
 ## 从Mendeley导出数据<a name='mendeley'></a>  
 
@@ -28,7 +28,7 @@
 
 3. 将导出的RIS文件保存到你的电脑上  
 
-之后你可以根据<a href='/zh/docs/import-manage-papers'>这篇文章中的内容</a>，将导出的数据上传到Citasion项目中。  
+之后你可以根据<a href='/zh/docs/import-manage-papers'>这篇文章中的内容</a>，将导出的数据上传到BibNext项目中。  
 
 ## 从Zotero导出数据<a name='zotero'></a>  
 
@@ -40,7 +40,7 @@
 
 3. 将导出的RIS文件保存到你的电脑上  
 
-之后你可以根据<a href='/zh/docs/import-manage-papers'>这篇文章中的内容</a>，将导出的数据上传到Citasion项目中。  
+之后你可以根据<a href='/zh/docs/import-manage-papers'>这篇文章中的内容</a>，将导出的数据上传到BibNext项目中。  
 
 ## 从EndNote导出数据<a name='endnote'></a>  
 
@@ -52,7 +52,7 @@
 
 3. 将导出的RIS或XML文件保存到你的电脑上  
 
-之后你可以根据<a href='/zh/docs/import-manage-papers'>这篇文章中的内容</a>，将导出的数据上传到Citasion项目中。  
+之后你可以根据<a href='/zh/docs/import-manage-papers'>这篇文章中的内容</a>，将导出的数据上传到BibNext项目中。  
 
 ## 从Papers导出数据<a name='papers'></a>  
 
@@ -62,5 +62,5 @@
 
 2. 将导出的RIS或XML文件保存到你的电脑上  
 
-之后你可以根据<a href='/zh/docs/import-manage-papers'>这篇文章中的内容</a>，将导出的数据上传到Citasion项目中。 
+之后你可以根据<a href='/zh/docs/import-manage-papers'>这篇文章中的内容</a>，将导出的数据上传到BibNext项目中。 
 

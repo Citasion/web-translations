@@ -132,25 +132,24 @@
         "Confirm": "Confirmar",
         "wasAddedToProject": "{{count}} artículo seleccionado se ha añadido con éxito al Proyecto {{project}}",
         "wasAddedToProject_plural": "{{count}} artículos seleccionados se añadieron con éxito al Proyecto {{project}}",
-        "wasAddedToProject_0": "Los artículos seleccionados ya se han añadido al proyecto {{project}}",
         "searchAPaper": "Busque un artículo en todas las referencias añadidas"
       }
     },
     "application": {
-      "ChromeTitle": "Citasion para Chrome",
-      "ChromeText": "La extensión de navegador gratuita de Citasion lo ayuda a importar citas de Google Scholar, PubMed, ACM Digital Library y muchos agregadores de investigación, así como a administrar referencias en",
+      "ChromeTitle": "BibNext para Chrome",
+      "ChromeText": "La extensión de navegador gratuita de BibNext lo ayuda a importar citas de Google Scholar, PubMed, ACM Digital Library y muchos agregadores de investigación, así como a administrar referencias en",
       "GoogleDoc": "Google Docs y",
       "Overleaf": "Overleaf.",
       "Install": "Instalar",
       "LearnMore": "Aprender más",
-      "FirefoxTitle": "Citasion para Firefox",
-      "EdgeTitle": "Citasion para Edge",
-      "WordTitle": "Citasion para Word",
-      "WordText": "El Complemento de Word del Citasion es gratis y lo ayuda a administrar citas y referencias en Word.",
+      "FirefoxTitle": "BibNext para Firefox",
+      "EdgeTitle": "BibNext para Edge",
+      "WordTitle": "BibNext para Word",
+      "WordText": "El Complemento de Word del BibNext es gratis y lo ayuda a administrar citas y referencias en Word.",
       "WordNote": "Nota:",
       "WordOr": "o",
       "WordNote2": "aún se requiere extensión para la importación de referencia",
-      "citasionApps": "Aplicaciones de Citasion"
+      "BibNextApps": "Aplicaciones de BibNext"
     },
     "account": {
       "AccountView": {
@@ -178,14 +177,14 @@
         "SeeMyReceipts": "Ver mis recibos",
         "ChooseDifferentPlan": "Elija un plan diferente",
         "CancelMySubscription": "Cancelar mi suscripción",
-        "CancelTitle": "Cancelar Suscripción Premium de Citasion ",
-        "CancelText": "Está seguro de cancelar su suscripción a Citasion Premium?",
+        "CancelTitle": "Cancelar Suscripción Premium de BibNext ",
+        "CancelText": "Está seguro de cancelar su suscripción a BibNext Premium?",
         "Confirm": "Confirmar",
-        "pageTitle": "Citasion: Configuración de la cuenta",
+        "pageTitle": "BibNext: Configuración de la cuenta",
         "manageSubscription": "Gestionar su suscripción",
         "willExpire": "Su prueba premium expirará en {{expiryDate}}.",
         "expirationDate": "Fecha de caducidad {{date}}.",
-        "currentSubscription": "Su suscripción actual se cancela, pero puede seguir utilizando Citasion Premium hasta la fecha de caducidad.",
+        "currentSubscription": "Su suscripción actual se cancela, pero puede seguir utilizando BibNext Premium hasta la fecha de caducidad.",
         "EnablePassword": "Activar el inicio de sesión con contraseña",
         "PasswordAuth": "Autenticación con contraseña",
         "Enabled": "Activado",
@@ -194,21 +193,21 @@
     },
     "Home": {
       "HomeView": {
-        "title": "Citasion: Gestión inteligente de referencias en línea",
-        "description": "Citasion es una herramienta gratuita de gestión de referencias que hace que la escritura académica en línea sea eficaz. Empezar es sencillo: descarga la extensión de Citasion...",
+        "title": "BibNext: Gestión inteligente de referencias en línea",
+        "description": "BibNext es una herramienta gratuita de gestión de referencias que hace que la escritura académica en línea sea eficaz. Empezar es sencillo: descarga la extensión de BibNext...",
         "introducing": "Presentamos",
-        "citasion": "Citasion",
+        "BibNext": "BibNext",
         "intro": "Gestión de referencias intuitiva creada para las colaboraciones en la web.",
         "check1": "Una importación de referencias a golpe de clic",
         "check2": "Proyectos de referencia compartibles",
         "check3": "Gestión de referencias sin complicaciones para la escritura colaborativa",
         "check4": "Más de 1.000 estilos de referencia disponibles",
         "check5": "Una visión inteligente de su bibliografía y lista de referencias",
-        "VideoTitle": "Citasion - ¿Necesita ayuda para escribir un artículo?",
+        "VideoTitle": "BibNext - ¿Necesita ayuda para escribir un artículo?",
         "addToFirefoxBtn": "<0>Añadir a Firefox</0>. <1>Es gratis</1>",
         "addToChromeBtn": "<0>Añadir a Chrome</0>. <1>Es gratis</1>",
         "addToEdgeBtn": "<0>Añadir a Edge</0>. <1>Es gratis</1>",
-        "exploreCitasion": "Explora Citasion",
+        "exploreBibNext": "Explora BibNext",
         "note1": "Gestión de referencias para la web",
         "note1Text": "Una gestión de referencias basada en proyectos construida para la web. Funciona con Google Docs, Word y Overleaf.",
         "note2": "Colaboración sin fisuras en la investigación",
@@ -233,38 +232,38 @@
         "edgeAddon": "Edge Add-on",
         "wordAddin": "Complemento de Word",
         "wordAddInNote": "Si escribe en Word, también necesitará <2><0>nuestro complemento de Word</0></2>.",
-        "citasionPhonetic": " "
+        "BibNextPhonetic": " "
       }
     },
     "auth": {
       "LoginIframeView": {
-        "citasionMemberLogin": "Inicio de sesión de los miembros de Citasion",
+        "BibNextMemberLogin": "Inicio de sesión de los miembros de BibNext",
         "loginFailure": "<0>Read more</0> if you have difficulties logging into your account via Google."
       },
       "LoginView": {
         "memberLogin": "Inicio de sesión",
         "dontHaveAccount": "¿No tiene una cuenta?",
         "captchaNote": "Este sitio está protegido por reCAPTCHA y se aplican la <2>Política de privacidad de Google</2> y los <6>Términos de servicio</6>.",
-        "title": "Citasion: Iniciar sesión",
-        "description": "Acceda a su cuenta de Citasion y gestione sus referencias con facilidad.",
+        "title": "BibNext: Iniciar sesión",
+        "description": "Acceda a su cuenta de BibNext y gestione sus referencias con facilidad.",
         "signUp": "Regístrese",
         "signInWith": "Inicia sesión con:"
       },
       "RegisterView": {
-        "title": "Citasion: Registre una cuenta",
-        "description": "Registre una cuenta Citasion y gestione sus referencias con facilidad.",
-        "startWith": "Comienza con Citasion",
+        "title": "BibNext: Registre una cuenta",
+        "description": "Registre una cuenta BibNext y gestione sus referencias con facilidad.",
+        "startWith": "Comienza con BibNext",
         "alreadyHave": "¿Ya tiene una cuenta?",
         "signUpWith": "Regístrese con:"
       },
       "EnablePasswordView": {
-        "title": "Citasion: Verificación del correo electrónico",
-        "description": "Verifique su correo electrónico de Citasion",
+        "title": "BibNext: Verificación del correo electrónico",
+        "description": "Verifique su correo electrónico de BibNext",
         "memberLogin": "Activar el inicio de sesión por correo electrónico/contraseña",
         "error": "Error: You need to  <2>reauthenticate your current account</2> first."
       },
       "ReAuth": {
-        "title": "Citasion: Reautenticarse",
+        "title": "BibNext: Reautenticarse",
         "description": "Vuelva a autentificarse",
         "memberLogin": "Reautenticación",
         "signInWith": "Antes de activar la autenticación de la contraseña, vuelva a autenticar su cuenta actual:"
@@ -273,8 +272,8 @@
         "invalidPassword": "Ficha de restablecimiento de contraseña no esta válida",
         "reset": "Restablecer contraseña",
         "login": "Por favor, inténtelo de nuevo",
-        "pageTitle": "Citasion: Restablecer contraseña",
-        "pageDescription": "Restablecer la contraseña de Citasion"
+        "pageTitle": "BibNext: Restablecer contraseña",
+        "pageDescription": "Restablecer la contraseña de BibNext"
       }
     },
     "campaign": {
@@ -293,7 +292,7 @@
         "freeTrialFor_plural": "Prueba gratuita de {{count}} meses",
         "advancedReference": "Gestión avanzada de referencias y análisis de la literatura",
         "startFree": "Iniciar prueba gratuita",
-        "welcomePremium": "Bienvenido a Citasion Premium",
+        "welcomePremium": "Bienvenido a BibNext Premium",
         "youHaveAccess": "Ahora tiene acceso a:",
         "enhanced": "Importación automática de referencias mejorada",
         "literatureAnalytics": "Análisis de la literatura y recomendaciones",
@@ -312,10 +311,10 @@
         "formsOfPayment": "¿Qué formas de pago aceptan?",
         "formsOfPaymentAccepted": "Aceptamos las principales tarjetas de crédito (por ejemplo, Visa, American Express, Mastercard, Discover) y PayPal.",
         "premiumPlan": "¿Qué incluye el Plan Premium?",
-        "premiumPlanDetails": "El plan Premium de Citasion ofrece un número ilimitado de proyectos y referencias, análisis avanzados de la literatura, recomendaciones, análisis del lugar y almacenamiento ilimitado de documentos PDF.",
+        "premiumPlanDetails": "El plan Premium de BibNext ofrece un número ilimitado de proyectos y referencias, análisis avanzados de la literatura, recomendaciones, análisis del lugar y almacenamiento ilimitado de documentos PDF.",
         "volumeDiscounts": "¿Tienen descuentos por volumen?",
-        "tryPremium": "¿Puedo probar Citasion Premium gratis?",
-        "tryPremiumAnswer": "Sí. Todos los usuarios del plan gratuito pueden probar Citasion Premium durante 90 días. Todo lo que hay que hacer es crear una cuenta gratuita de Citasion. Después, puedes volver a visitar esta página y aparecerá la opción de prueba gratuita.",
+        "tryPremium": "¿Puedo probar BibNext Premium gratis?",
+        "tryPremiumAnswer": "Sí. Todos los usuarios del plan gratuito pueden probar BibNext Premium durante 90 días. Todo lo que hay que hacer es crear una cuenta gratuita de BibNext. Después, puedes volver a visitar esta página y aparecerá la opción de prueba gratuita.",
         "otherResearchAggregators": "Otros agregadores de investigación",
         "basicAnalysis": "Análisis básico",
         "gapIdentification": "Identificación de lagunas",
@@ -325,7 +324,7 @@
         "1000reference": "Más de 1000 estilos de referencia",
         "shareableProjects": "Proyectos compartidos de literaturas",
         "smartCitationFinder": "Buscador inteligente de citas",
-        "pageTitle": "Citasion: Ir al premium",
+        "pageTitle": "BibNext: Ir al premium",
         "pageDesc": "Lleve su gestión de referencias al siguiente nivel de eficiencia.",
         "startingAt": "<0>Starting at </0><1>$1.99</1><2>/month</2>",
         "premiumExpire": "Su prueba premium expirará en {{expiryDate}}.",
@@ -378,7 +377,7 @@
         "changePlan": "Cambie su plan",
         "upgradePlan": "Cambie su plan",
         "individualPlans": "PLANES INDIVIDUALES",
-        "experience": "Experimenta toda la potencia de Citasion",
+        "experience": "Experimenta toda la potencia de BibNext",
         "chooseDiff": "Elija un plan Premium diferente",
         "manageRefs": "Gestionar las referencias.",
         "premiumfeatures": "Los usuarios Premium pueden gestionar un número ilimitado de referencias.",
@@ -386,9 +385,9 @@
         "literaturesummary": "¿Le preocupa si hay lagunas en su revisión bibliográfica? ¿Desea encontrar artículos similares pero tiene dificultades para formular consultas eficaces? Nosotros le ayudamos.",
         "collaborateWithOthers": "Colaborar con otros.",
         "collaborateSummary": "Trabaje con otros investigadores mediante la gestión de referencias basada en proyectos para maximizar la eficiencia de la escritura académica colaborativa.",
-        "testimonial": "Citasion no sólo gestiona mis referencias sino que también me permite tener confianza en mi revisión bibliográfica.",
+        "testimonial": "BibNext no sólo gestiona mis referencias sino que también me permite tener confianza en mi revisión bibliográfica.",
         "testimonialName": "- Vanessa Dennen, investigadora de tecnología educativa",
-        "premiumPromoText": "Citasion Premium le ayuda a realizar una revisión bibliográfica exhaustiva y perspicaz.",
+        "premiumPromoText": "BibNext Premium le ayuda a realizar una revisión bibliográfica exhaustiva y perspicaz.",
         "currentPlan": "Plan actual",
         "priceText": "${{price}} / mes + impuestos",
         "chargedOn": "se cobran {{plan}}",
@@ -408,9 +407,9 @@
         "updatePayment": "Actualizar el pago",
         "changePaymentMethod": "Cambiar el método de pago",
         "changesWillBeEffective": "Los cambios entrarán en vigor en el siguiente ciclo de facturación.",
-        "paymentChangeAgreement": "The change of payment method will be effective in your next billing cycle. By clicking the Update Payment Method button above, you are agreeing to our <2>Terms of Service</2>. If you have questions, you can reach out to us by sending an email to us at <4>support@citasion.cm</4>.",
+        "paymentChangeAgreement": "The change of payment method will be effective in your next billing cycle. By clicking the Update Payment Method button above, you are agreeing to our <2>Terms of Service</2>. If you have questions, you can reach out to us by sending an email to us at <4>support@BibNext.cm</4>.",
         "priceDiscount": "<0>${{price}}</0><1> / mes</1>",
-        "paymentAgreement": "Su suscripción se renovará automáticamente cada <1>{frequency}}</1> mes(es). Se le cobrará $<4>{price}}</4> en cada renovación hasta que la cancele en la configuración de su cuenta. Si cancelas, no se reembolsarán los cargos anteriores, pero podrás seguir utilizando el servicio hasta el final del plazo que hayas pagado. Al hacer clic en el botón \"Check out\" de arriba, está aceptando nuestros <7>Términos de Servicio</7>. Si tiene preguntas, puede ponerse en contacto con nosotros enviando un correo electrónico a <9>support@citasion.com</9>.",
+        "paymentAgreement": "Su suscripción se renovará automáticamente cada <1>{frequency}}</1> mes(es). Se le cobrará $<4>{price}}</4> en cada renovación hasta que la cancele en la configuración de su cuenta. Si cancelas, no se reembolsarán los cargos anteriores, pero podrás seguir utilizando el servicio hasta el final del plazo que hayas pagado. Al hacer clic en el botón \"Check out\" de arriba, está aceptando nuestros <7>Términos de Servicio</7>. Si tiene preguntas, puede ponerse en contacto con nosotros enviando un correo electrónico a <9>support@bibnext.com</9>.",
         "saveDiscount": "ahorra un {{discount}}%",
         "billedAsOne": "Facturado como un solo pago de ${{price}}",
         "month": "Mes",
@@ -422,14 +421,16 @@
     "references": {
       "ReferenceBrowseView": {
         "selectRef": "Seleccionar esta referencia",
-        "updateRef": "Actualizar o eliminar esta referencia"
+        "updateRef": "Actualizar o eliminar esta referencia",
+        "selectRefNote": "Pulsar Ctrl/Command mientras se selecciona puede ayudar a seleccionar varias referencias",
+        "selectAll": "Seleccionar todas las referencias"
       }
     },
     "support": {
-      "title": "Citasion: Centro de apoyo"
+      "title": "BibNext: Centro de apoyo"
     },
     "uninstall": {
-      "why": "¿Por qué has desinstalado Citasion?",
+      "why": "¿Por qué has desinstalado BibNext?",
       "yourMessage": "Su mensaje ha sido recibido.",
       "pleaseSelect": "Por favor, seleccione al menos una opción.",
       "pleaseCheck": "Por favor, marque todo lo que corresponda:",
@@ -441,10 +442,10 @@
       "slows": "El software ralentiza mi ordenador",
       "createAccount": "No quiero crear una cuenta",
       "other": "Otras razones",
-      "improve": "¿De qué otra forma podemos mejorar Citasion?",
+      "improve": "¿De qué otra forma podemos mejorar BibNext?",
       "helpUs": "Ayúdanos a mejorar",
-      "helpUsText": "Sabemos que nuestra herramienta de gestión de referencias no es perfecta, y nos comprometemos a mejorarla para usted. Puede decirnos por qué ha desinstalado la extensión Citasion?",
-      "title": "Citasion: Lamento que se vaya"
+      "helpUsText": "Sabemos que nuestra herramienta de gestión de referencias no es perfecta, y nos comprometemos a mejorarla para usted. Puede decirnos por qué ha desinstalado la extensión BibNext?",
+      "title": "BibNext: Lamento que se vaya"
     }
   },
   "globals": {
@@ -558,7 +559,7 @@
       "noneUploaded": "Ninguno de los archivos de datos de referencia cargados puede ser analizado",
       "noneAdded": "Se añadieron 0 artículos porque no se detectaron nuevos artículos",
       "uploadFiles": "Subir archivos de referencia",
-      "importTypes": "Citasion puede importar referencias de los siguientes tipos de archivos:",
+      "importTypes": "BibNext puede importar referencias de los siguientes tipos de archivos:",
       "dragDrop": "Arrastre y suelte los archivos aquí o haga clic en",
       "selectedFiles": "Archivos seleccionados",
       "readMoreAboutFormats": "Más información sobre los formatos de archivos de referencia que aceptamos",
@@ -597,13 +598,13 @@
     "UploadPdfDialog": {
       "uploadPdf": "Subir archivos PDF",
       "uploadOneOrMorePdf": "Puede cargar uno o varios archivos de documentos PDF.",
-      "CitasionWillParse": "Citasion analizará todos los metadatos detectables de los archivos PDF cargados y generará entradas de referencia.",
+      "BibNextWillParse": "BibNext analizará todos los metadatos detectables de los archivos PDF cargados y generará entradas de referencia.",
       "dragDrop": "Arrastre y suelte los archivos aquí o haga clic en",
       "selectedFiles": "Archivos seleccionados",
       "pdfLackMeta": "Algunos artículos en PDF pueden carecer de los metadatos necesarios para ser analizados. Más información sobre los metadatos PDF"
     },
     "ContactForm": {
-      "howToStart": "Cómo empezar Citasion",
+      "howToStart": "Cómo empezar BibNext",
       "extension": "Extensión Chrome/Firefox/Edge",
       "wordAddin": "Complemento de Word",
       "googledocs": "Escribir en Google Docs",
@@ -623,9 +624,9 @@
       "youMayBeAble": "Es posible que pueda encontrar sus respuestas a través de la siguiente página:"
     },
     "Reading": {
-      "howToStart": "Cómo empezar Citasion",
-      "addPapers": "Añade artículos a sus proyectos Citasion",
-      "write": "Escribe artículos con Citasion",
+      "howToStart": "Cómo empezar BibNext",
+      "addPapers": "Añade artículos a sus proyectos BibNext",
+      "write": "Escribe artículos con BibNext",
       "billing": "Facturación y suscripción",
       "moreTopics": "más temas"
     },
@@ -650,10 +651,10 @@
       "zeroPapers": "Se añadieron 0 artículos porque no se detectaron nuevos artículos",
       "parsePDFFiles": "Analizar archivos PDF",
       "uploadMore": "Puede cargar uno o varios archivos de articulo en formato PDF.",
-      "parseMetadata": "Citasion analizará todos los metadatos detectables de los archivos PDF cargados y generará entradas de referencia.",
+      "parseMetadata": "BibNext analizará todos los metadatos detectables de los archivos PDF cargados y generará entradas de referencia.",
       "thinking": "¿Estás pensando en almacenar todos tus archivos PDF en línea en un solo lugar?",
       "somePapers": "Algunos documentos PDF pueden carecer de metadatos para ser analizados. Más información sobre los metadatos PDF",
-      "tryCitasion": "Prueba <2><0>Citasion Premium</0></2> gratis durante 3 meses.",
+      "tryBibNext": "Prueba <2><0>BibNext Premium</0></2> gratis durante 3 meses.",
       "dragAndDrop": "Arrastre y suelte los archivos aquí o haga clic en"
     },
     "FeaturesAnimation": {

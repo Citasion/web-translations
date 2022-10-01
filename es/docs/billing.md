@@ -14,7 +14,7 @@ Esta sección cubre:
 
 ## ¿Cómo puedo comprar una suscripción premium?
 
-Puede comprar una suscripción Premium visitando [https://citasion.com/es/go-premium](https://citasion.com/es/go-premium). O si está en el plan por defecto (gratuito), puede hacer clic en el botón Premium en su tablero de inicio después de iniciar la sesión.
+Puede comprar una suscripción Premium visitando [https://BibNext.com/es/go-premium](https://BibNext.com/es/go-premium). O si está en el plan por defecto (gratuito), puede hacer clic en el botón Premium en su tablero de inicio después de iniciar la sesión.
 
  Actualmente ofrecemos tres tipos de suscripciones premium:
 
@@ -34,9 +34,9 @@ Puede comprar una suscripción Premium visitando [https://citasion.com/es/go-pre
 
 ## ¿Puedo cambiar mi suscripción premium?
 
-Sí, puede cambiar los datos de su suscripción en su cuenta de Citasion. Es muy fácil:
+Sí, puede cambiar los datos de su suscripción en su cuenta de BibNext. Es muy fácil:
 
- 1. Accede a tu cuenta de Citasion
+ 1. Accede a tu cuenta de BibNext
 
  2. Haz clic en la pestaña Cuenta de la izquierda
 

@@ -132,25 +132,24 @@
         "Confirm": "Confirm",
         "wasAddedToProject": "{{count}} selected paper was added successfully to Project {{project}}",
         "wasAddedToProject_plural": "{{count}} selected papers were added successfully to Project {{project}}",
-        "wasAddedToProject_0": "The selected paper(s) have already been added to Project {{project}}",
         "searchAPaper": "Search for a paper in all the added references"
       }
     },
     "application": {
-      "ChromeTitle": "Citasion for Chrome",
-      "ChromeText": "Citasion's free browser extension helps you import citations from Google Scholar, PubMed, ACM Digital Library, and many research aggregators, as well as manage references in",
+      "ChromeTitle": "BibNext for Chrome",
+      "ChromeText": "BibNext's free browser extension helps you import citations from Google Scholar, PubMed, ACM Digital Library, and many research aggregators, as well as manage references in",
       "GoogleDoc": "Google Docs and",
       "Overleaf": "Overleaf.",
       "Install": "Install",
       "LearnMore": "Learn more",
-      "FirefoxTitle": "Citasion for Firefox",
-      "EdgeTitle": "Citasion for Edge",
-      "WordTitle": "Citasion for Word",
-      "WordText": "Citasion's free Word Add-in helps you manage citations and references in Word.",
+      "FirefoxTitle": "BibNext for Firefox",
+      "EdgeTitle": "BibNext for Edge",
+      "WordTitle": "BibNext for Word",
+      "WordText": "BibNext's free Word Add-in helps you manage citations and references in Word.",
       "WordNote": "Note:",
       "WordOr": "or",
       "WordNote2": "extension is still required for reference importation",
-      "citasionApps": "Citasion Apps"
+      "BibNextApps": "BibNext Apps"
     },
     "account": {
       "AccountView": {
@@ -178,14 +177,14 @@
         "SeeMyReceipts": "See My Receipts",
         "ChooseDifferentPlan": "Choose a Different Plan",
         "CancelMySubscription": "Cancel My Subscription",
-        "CancelTitle": "Cancel Citasion Premium Subscription",
-        "CancelText": "Are you sure to cancel your subscription of Citasion Premium?",
+        "CancelTitle": "Cancel BibNext Premium Subscription",
+        "CancelText": "Are you sure to cancel your subscription of BibNext Premium?",
         "Confirm": "Confirm",
-        "pageTitle": "Citasion: Account Settings",
+        "pageTitle": "BibNext: Account Settings",
         "manageSubscription": "Manage your subscription",
         "willExpire": "Your premium trial will expire by .",
         "expirationDate": "Expiration date {{date}}.",
-        "currentSubscription": "Your current subscription is canceled but you can still use Citasion premium untill the expiration date.",
+        "currentSubscription": "Your current subscription is canceled but you can still use BibNext premium untill the expiration date.",
         "EnablePassword": "Enable Password Login",
         "PasswordAuth": "Password Authentication",
         "Enabled": "Enabled",
@@ -194,21 +193,21 @@
     },
     "Home": {
       "HomeView": {
-        "title": "Citasion: Smart online reference management",
-        "description": "Citasion is a free reference management tool that makes online academic writing effective. Getting started is simple — download Citasion's extension ...",
+        "title": "BibNext: Smart online reference management",
+        "description": "BibNext is a free reference management tool that makes online academic writing effective. Getting started is simple — download BibNext's extension ...",
         "introducing": "Introducing",
-        "citasion": "Citasion",
+        "BibNext": "BibNext",
         "intro": "Intuitive reference management built for collaborations on the web.",
         "check1": "A click-away reference importation",
         "check2": "Sharable reference projects for collaborative writing",
         "check3": "Grammar checker and writing assistant",
         "check4": "1,000+ of available reference styles",
         "check5": "Smart insights into your literature and reference list",
-        "VideoTitle": "Citasion - Need Help Writing a Paper?",
+        "VideoTitle": "BibNext - Need Help Writing a Paper?",
         "addToFirefoxBtn": "<0>Add to Firefox</0><1>It's free</1>",
         "addToChromeBtn": "<0>Add to Chrome</0><1>It's Free</1>",
         "addToEdgeBtn": "<0>Add to Edge</0><1>It's Free</1>",
-        "exploreCitasion": "Explore Citasion",
+        "exploreBibNext": "Explore BibNext",
         "note1": "Cloud-based Management",
         "note1Text": "A project-based reference management built for the web. Works with Google Docs, Word, and Overleaf. ",
         "note2": "Seamless Research Collaboration",
@@ -233,46 +232,46 @@
         "edgeAddon": "Edge Add-on",
         "wordAddin": "Word Add-In",
         "wordAddInNote": "If you write in Word, you will also need <2><0>our Word Add-in</0></2>.",
-        "citasionPhonetic": " "
+        "BibNextPhonetic": " "
       }
     },
     "auth": {
       "LoginIframeView": {
-        "citasionMemberLogin": "Citasion Member Login",
+        "BibNextMemberLogin": "BibNext Member Login",
         "loginFailure": "<0>Read more</0> if you have difficulties logging into your account via Google."
       },
       "LoginView": {
-        "memberLogin": "Citasion Member Login",
+        "memberLogin": "BibNext Member Login",
         "dontHaveAccount": "Don't have an account?",
         "captchaNote": "This site is protected by reCAPTCHA and the <2>Google Privacy Policy</2> and <6>Terms of Service</6> apply.",
-        "title": "Citasion: Login",
-        "description": "Log in to your Citasion Account and manage your references with ease.",
+        "title": "BibNext: Login",
+        "description": "Log in to your BibNext Account and manage your references with ease.",
         "signUp": "Sign Up",
         "signInWith": "Sign in with:"
       },
       "RegisterView": {
-        "title": "Citasion: Register An Account",
-        "description": "Register a Citasion account and manage your references with ease.",
-        "startWith": "Start with Citasion",
+        "title": "BibNext: Register An Account",
+        "description": "Register a BibNext account and manage your references with ease.",
+        "startWith": "Start with BibNext",
         "alreadyHave": "Already have an account?",
         "signUpWith": "Sign up with:"
       },
       "EnablePasswordView": {
-        "title": "Citasion: Email Verification",
-        "description": "Verify your Citasion Email",
+        "title": "BibNext: Email Verification",
+        "description": "Verify your BibNext Email",
         "memberLogin": "Enable Email/Password Login",
         "error": "Error: You need to <2>reauthenticate your current account</2> first."
       },
       "ReAuth": {
-        "title": "Citasion: Re-Authenticate Yourself",
+        "title": "BibNext: Re-Authenticate Yourself",
         "description": "Re-authenticate yourself",
         "memberLogin": "Re-Authentication",
         "signInWith": "Before you enable password authentication, please re-authenticate your current account:"
       },
       "ResetPasswordView": {
         "invalidPassword": "Invalid password reset token",
-        "pageTitle": "Citasion: Reset Password",
-        "pageDescription": "Reset your Citasion password",
+        "pageTitle": "BibNext: Reset Password",
+        "pageDescription": "Reset your BibNext password",
         "reset": "Reset Password",
         "login": "Please try again"
       }
@@ -293,7 +292,7 @@
         "freeTrialFor_plural": "Free trial of {{count}} months",
         "advancedReference": "Advanced reference management & literature analytics",
         "startFree": "Start Free Trial",
-        "welcomePremium": "Welcome to Citasion Premium",
+        "welcomePremium": "Welcome to BibNext Premium",
         "youHaveAccess": "You now have access to:",
         "enhanced": "Enhanced automatic reference importation",
         "literatureAnalytics": "Literature Analytics & Recommendations",
@@ -312,10 +311,10 @@
         "formsOfPayment": "What forms of payment do you accept?",
         "formsOfPaymentAccepted": "We accept major credit cards (e.g., Visa, American Express, Mastercard, Discover) and PayPal.",
         "premiumPlan": "What does the Premium Plan include?",
-        "premiumPlanDetails": "Citasion's Premium Plan offers unlimited numbers of projects and references, advanced literature analytics, recommendations, venue analytics, and unlimited PDF paper storage.",
+        "premiumPlanDetails": "BibNext's Premium Plan offers unlimited numbers of projects and references, advanced literature analytics, recommendations, venue analytics, and unlimited PDF paper storage.",
         "volumeDiscounts": "Do you have any volume discounts?",
-        "tryPremium": "Can I try Citasion Premium for free?",
-        "tryPremiumAnswer": "Yes! All users on the Free Plan can try out Citasion Premium for 90 days. All it takes is to create a free Citasion account. After that, you can revist this page, and the option of free trial will show up.",
+        "tryPremium": "Can I try BibNext Premium for free?",
+        "tryPremiumAnswer": "Yes! All users on the Free Plan can try out BibNext Premium for 90 days. All it takes is to create a free BibNext account. After that, you can revist this page, and the option of free trial will show up.",
         "otherResearchAggregators": "Other research aggregators",
         "basicAnalysis": "Basic analysis",
         "gapIdentification": "Gap identification",
@@ -325,7 +324,7 @@
         "1000reference": "1000+ reference styles",
         "shareableProjects": "Sharable projects of literatures",
         "smartCitationFinder": "Smart citation finder",
-        "pageTitle": "Citasion: Go Premium",
+        "pageTitle": "BibNext: Go Premium",
         "pageDesc": "Take your reference management to the next level of efficiency.",
         "startingAt": "<0>Starting at </0><1>$1.99</1><2>/month</2>",
         "premiumExpire": "Your premium trial will expire by {{expiryDate}}.",
@@ -378,7 +377,7 @@
         "changePlan": "Change Your Plan",
         "upgradePlan": "Change Your Plan",
         "individualPlans": "INDIVIDUAL PLANS",
-        "experience": "Experience the Full Power of Citasion",
+        "experience": "Experience the Full Power of BibNext",
         "chooseDiff": "Choose a Different Premium Plan",
         "manageRefs": "Manage References.",
         "premiumfeatures": "Premium users can manage unlimited number of references.",
@@ -386,9 +385,9 @@
         "literaturesummary": "Worrying about if there are gaps in your literature review? Want to find similar papers but have difficulties in formatting effective queries? We have you covered.",
         "collaborateWithOthers": "Collaborate with others.",
         "collaborateSummary": "Work with other researchers through project-based reference management to maximize the efficiency of collaborative academic writing.",
-        "testimonial": "Citasion doesn't only manage my references but also allow me to have confidence in my literature review.",
+        "testimonial": "BibNext doesn't only manage my references but also allow me to have confidence in my literature review.",
         "testimonialName": "- Vanessa Dennen, Instructional Technology Researcher",
-        "premiumPromoText": "Citasion Premium helps you conduct comprehensive and insightful literature review.",
+        "premiumPromoText": "BibNext Premium helps you conduct comprehensive and insightful literature review.",
         "currentPlan": "Current Plan",
         "priceText": "${{price}} / month + tax",
         "chargedOn": "charged on {{plan}} basis",
@@ -408,9 +407,9 @@
         "updatePayment": "Update Payment",
         "changePaymentMethod": "Change Your Payment Method",
         "changesWillBeEffective": "Changes will take effect in the next billing cycle.",
-        "paymentChangeAgreement": "The change of payment method will be effective in your next billing cycle. By clicking the Update Payment Method button above, you are agreeing to our <2>Terms of Service</2>. If you have questions, you can reach out to us by sending an email to us at <4>support@citasion.com</4>.",
+        "paymentChangeAgreement": "The change of payment method will be effective in your next billing cycle. By clicking the Update Payment Method button above, you are agreeing to our <2>Terms of Service</2>. If you have questions, you can reach out to us by sending an email to us at <4>support@bibnext.com</4>.",
         "priceDiscount": "<0>${{price}}</0><1> / month</1>",
-        "paymentAgreement": "Your subscription will automatically renew every <1>{{frequency}}</1> month(s). You will be charged $<4>{{price}}</4> on each renewal until you cancel in your account settings. If you cancel, previous charges will not be refunded, but you may continue to use the service until the end of the term you paid for. By clicking the \"Check out\" button above, you are agreeing to our <7>Terms of Service</7>. If you have questions, you can reach out to us by sending an email to us at <9>support@citasion.com</9>.",
+        "paymentAgreement": "Your subscription will automatically renew every <1>{{frequency}}</1> month(s). You will be charged $<4>{{price}}</4> on each renewal until you cancel in your account settings. If you cancel, previous charges will not be refunded, but you may continue to use the service until the end of the term you paid for. By clicking the \"Check out\" button above, you are agreeing to our <7>Terms of Service</7>. If you have questions, you can reach out to us by sending an email to us at <9>support@bibnext.com</9>.",
         "saveDiscount": "save {{discount}}%",
         "billedAsOne": "Billed as one payment of ${{price}}",
         "month": "Month",
@@ -422,14 +421,16 @@
     "references": {
       "ReferenceBrowseView": {
         "selectRef": "Select this reference",
-        "updateRef": "Update or delete this reference"
+        "updateRef": "Update or delete this reference",
+        "selectRefNote": "Pressing Ctrl/Command while selecting can help you select multiple references",
+        "selectAll": "Select all references"
       }
     },
     "support": {
-      "title": "Citasion: Support Center"
+      "title": "BibNext: Support Center"
     },
     "uninstall": {
-      "why": "Why did you uninstall Citasion?",
+      "why": "Why did you uninstall BibNext?",
       "yourMessage": "Your message has been received!",
       "pleaseSelect": "Please select at least one option.",
       "pleaseCheck": "Please check all that apply:",
@@ -441,10 +442,10 @@
       "slows": "Slows down my computer",
       "createAccount": "I don't want to create an account",
       "other": "Other reasons",
-      "improve": "How else can we improve Citasion?",
+      "improve": "How else can we improve BibNext?",
       "helpUs": "Help Us Improve",
-      "helpUsText": "We know our reference management tool isn’t perfect, and we’re committed to making it better for you. Can you let us know why you uninstalled the Citasion extension?",
-      "title": "Citasion: Sorry to see you go"
+      "helpUsText": "We know our reference management tool isn’t perfect, and we’re committed to making it better for you. Can you let us know why you uninstalled the BibNext extension?",
+      "title": "BibNext: Sorry to see you go"
     }
   },
   "globals": {
@@ -558,7 +559,7 @@
       "noneUploaded": "None of the uploaded reference data files can be parsed",
       "noneAdded": "0 papers were added because no new papers were detected",
       "uploadFiles": "Upload Reference Files",
-      "importTypes": "Citasion can import references from the following file types:",
+      "importTypes": "BibNext can import references from the following file types:",
       "dragDrop": "Drag and drop files here or click",
       "selectedFiles": "Selected files",
       "readMoreAboutFormats": "Read more about the formats of reference files that we accept",
@@ -597,13 +598,13 @@
     "UploadPdfDialog": {
       "uploadPdf": "Upload PDF Files",
       "uploadOneOrMorePdf": "You can upload one or more PDF paper files.",
-      "CitasionWillParse": "Citasion will parse all the detectable metadata of the uploaded PDF files and generate reference entries.",
+      "BibNextWillParse": "BibNext will parse all the detectable metadata of the uploaded PDF files and generate reference entries.",
       "dragDrop": "Drag and drop files here or click",
       "selectedFiles": "Selected files",
       "pdfLackMeta": "Some PDF papers may lack the metadata to be parsed. Read more about PDF metadata"
     },
     "ContactForm": {
-      "howToStart": "How to start Citasion",
+      "howToStart": "How to start BibNext",
       "extension": "Chrome/Firefox/Edge extension",
       "wordAddin": "Word Add-in",
       "googledocs": "Writing in Google Docs",
@@ -623,9 +624,9 @@
       "youMayBeAble": "You may be able to find your answers below:"
     },
     "Reading": {
-      "howToStart": "How to start Citasion",
-      "addPapers": "Add papers to your Citasion projects",
-      "write": "Write papers with Citasion",
+      "howToStart": "How to start BibNext",
+      "addPapers": "Add papers to your BibNext projects",
+      "write": "Write papers with BibNext",
       "billing": "Billing and subscription",
       "moreTopics": "more topics"
     },
@@ -650,10 +651,10 @@
       "zeroPapers": "0 papers were added because no new papers were detected",
       "parsePDFFiles": "Parse PDF Files",
       "uploadMore": "You can upload one or more PDF paper files.",
-      "parseMetadata": "Citasion will parse all the detectable metadata of the uploaded PDF files and generate reference entries.",
+      "parseMetadata": "BibNext will parse all the detectable metadata of the uploaded PDF files and generate reference entries.",
       "thinking": "Thinking about storing all your PDF paper files online in one-place?",
       "somePapers": "Some PDF papers may lack the metadata to be parsed. Read more about PDF metadata",
-      "tryCitasion": "Try <2><0>Citasion Premium</0></2> for free for 3 months.",
+      "tryBibNext": "Try <2><0>BibNext Premium</0></2> for free for 3 months.",
       "dragAndDrop": "Drag and drop files here or click"
     },
     "FeaturesAnimation": {

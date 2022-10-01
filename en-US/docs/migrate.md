@@ -1,10 +1,10 @@
 # Overview\n\n
 
-In general, you can migrate your data from other services to Citasion in two easy steps:\n\n
+In general, you can migrate your data from other services to BibNext in two easy steps:\n\n
 
 1. export data from other services first\n\n
 
-2. upload the exported data to your target Citasion project\n\n
+2. upload the exported data to your target BibNext project\n\n
 
 The following content only covers how to export data from other services:\n\n
 
@@ -16,7 +16,7 @@ The following content only covers how to export data from other services:\n\n
 
 * [Migrate from Papers](#papers)\n\n
 
-You can find more on how to upload the exported data to a Citasion project in <a href='/docs/import-manage-papers'>this article</a>.\n\n
+You can find more on how to upload the exported data to a BibNext project in <a href='/docs/import-manage-papers'>this article</a>.\n\n
 
 <a name='mendeley'></a>\n\n
 
@@ -30,7 +30,7 @@ You can export your Mendeley library in a few easy steps:\n\n
 
 3. save the exported RIS file to your computer\n\n
 
-After that, you can <a href='/docs/import-manage-papers'>follow this instruction to upload the exported data to a Citasion project</a>.\n\n
+After that, you can <a href='/docs/import-manage-papers'>follow this instruction to upload the exported data to a BibNext project</a>.\n\n
 
 <a name='zotero'></a>\n\n
 
@@ -44,7 +44,7 @@ You can export your Zotero library in a few easy steps:\n\n
 
 3. save the exported RIS file to your computer\n\n
 
-After that, you can <a href='/docs/import-manage-papers'>follow this instruction to upload the exported data to a Citasion project</a>.\n\n
+After that, you can <a href='/docs/import-manage-papers'>follow this instruction to upload the exported data to a BibNext project</a>.\n\n
 
 <a name='endnote'></a>\n\n
 
@@ -58,7 +58,7 @@ You can export your EndNote library in a few easy steps:\n\n
 
 3. save the exported RIS or XML file to your computer\n\n
 
-After that, you can <a href='/docs/import-manage-papers'>follow this instruction to upload the exported data to a Citasion project</a>.\n\n
+After that, you can <a href='/docs/import-manage-papers'>follow this instruction to upload the exported data to a BibNext project</a>.\n\n
 
 <a name='papers'></a>\n\n
 
@@ -70,5 +70,5 @@ You can export your Papers library in a few easy steps:\n\n
 
 2. save the exported RIS file to your computer\n\n
 
-After that, you can <a href='/docs/import-manage-papers'>follow this instruction to upload the exported data to a Citasion project</a>.  
+After that, you can <a href='/docs/import-manage-papers'>follow this instruction to upload the exported data to a BibNext project</a>.  
 

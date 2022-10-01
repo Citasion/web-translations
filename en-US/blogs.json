@@ -2,8 +2,8 @@
   "views": {
     "blogs": {
       "BlogBrowseView": {
-        "title": "Citasion: Blogs",
-        "bodyTitle": "Citasion Blogs",
+        "title": "BibNext: Blogs",
+        "bodyTitle": "BibNext Blogs",
         "note": "Showing {{blogLength}} articles",
         "by": "by",
         "updated": "Updated",

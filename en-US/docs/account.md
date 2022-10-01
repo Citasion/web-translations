@@ -4,7 +4,7 @@ This section covers:
 
 * [I can't remember my password. What should I do?](#password)   
 
-* [I can't log into my Citasion account using Google/Microsoft in the Word environment. What should I do?](#social-account)   
+* [I can't log into my BibNext account using Google/Microsoft in the Word environment. What should I do?](#social-account)   
 
 * [I have already created an account using Google/Microsoft. Can I log into the same account using email and password?](#password-authentication)   
 
@@ -20,9 +20,9 @@ After providing your email address for resetting your password, you should recei
 
 <a name='social-account'></a>   
 
-## I can't log into my Citasion account using Google/Microsoft in the Word environment. What should I do?   
+## I can't log into my BibNext account using Google/Microsoft in the Word environment. What should I do?   
 
-The authentication is not stable in the Word environment. We have received multiple reports from users that authentication using Google/Microsoft may fail in the Word environment. If that happens to you, you can enable password login for your account, and log into your Citasion account using email/password in the Word environment.   
+The authentication is not stable in the Word environment. We have received multiple reports from users that authentication using Google/Microsoft may fail in the Word environment. If that happens to you, you can enable password login for your account, and log into your BibNext account using email/password in the Word environment.   
 
 To enable password login for your account, you can refer to the answer of the next question.   
 
@@ -32,7 +32,7 @@ To enable password login for your account, you can refer to the answer of the ne
 
 Yes. You can enable password login for the same account. To do so, you need to follow the steps below:   
 
-* navigate to and log into Citasion via your regular browser   
+* navigate to and log into BibNext via your regular browser   
 
 * click **Account** on the left navigation bar   
 
@@ -40,6 +40,6 @@ Yes. You can enable password login for the same account. To do so, you need to f
 
 <img src='/static/images/support/password-not-enabled.jpg' alt='password not enabled' width='400' />   
 
-You will be redirected to re-authenticate yourself, and set up email/password login for the same account. After enabling password login, you can verify the status of your account by visiting the [/account](https://citasion.com/account) page again; if the password login is successfully enabled, you should see that listed in yoour Account status:   
+You will be redirected to re-authenticate yourself, and set up email/password login for the same account. After enabling password login, you can verify the status of your account by visiting the [/account](https://BibNext.com/account) page again; if the password login is successfully enabled, you should see that listed in yoour Account status:   
 
 <img src='/static/images/support/password-enabled.png' alt='password enabled' width='400' />

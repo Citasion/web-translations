@@ -2,7 +2,7 @@
 
 Αυτή η ενότητα καλύπτει:  
 
-* [Πώς μπορώ να ξεκινήσω τη χρήση του Citasion στα Έγγραφα Google;](#start)  
+* [Πώς μπορώ να ξεκινήσω τη χρήση του BibNext στα Έγγραφα Google;](#start)  
 
 * [Πώς μπορώ να προσθέσω παραπομπές στο κείμενο στα Έγγραφα Google;](#citations)  
 
@@ -10,27 +10,27 @@
 
 * [Πώς μπορώ να αλλάξω το στυλ βιβλιογραφίας στα Έγγραφα Google;](#style)  
 
-## Πώς μπορώ να ξεκινήσω να χρησιμοποιώ το Citasion στα Έγγραφα Google; <a name='start'></a>  
+## Πώς μπορώ να ξεκινήσω να χρησιμοποιώ το BibNext στα Έγγραφα Google; <a name='start'></a>  
 
-Με την επέκταση του προγράμματος περιήγησης Citasion, μπορείτε εύκολα να αναφέρετε τις αναφορές από οποιοδήποτε από τα ερευνητικά σας έργα Citasion στα Έγγραφα Google. Οι επεκτάσεις Citasion μπορούν να βρεθούν για όλα τα μεγάλα προγράμματα περιήγησης:  
+Με την επέκταση του προγράμματος περιήγησης BibNext, μπορείτε εύκολα να αναφέρετε τις αναφορές από οποιοδήποτε από τα ερευνητικά σας έργα BibNext στα Έγγραφα Google. Οι επεκτάσεις BibNext μπορούν να βρεθούν για όλα τα μεγάλα προγράμματα περιήγησης:  
 
-- [Chrome](https://chrome.google.com/webstore/detail/citasion/oklpcimghhhhanifldcdlfgoaigfiolj) ![Chrome ><](/static/images/docs/chrome-tiny.png)  
+- [Chrome](https://chrome.google.com/webstore/detail/BibNext/oklpcimghhhhanifldcdlfgoaigfiolj) ![Chrome ><](/static/images/docs/chrome-tiny.png)  
 
-- [Firefox](https://addons.mozilla.org/en-US/firefox/addon/citasion/) ![Firefox ><](/static/images/docs/firefox-tiny.png)  
+- [Firefox](https://addons.mozilla.org/en-US/firefox/addon/BibNext/) ![Firefox ><](/static/images/docs/firefox-tiny.png)  
 
-- [Edge](https://microsoftedge.microsoft.com/addons/detail/citasion/kgcdgjmildkboglkjlmllmkchhibgbcc) ![Edge ><](/static/images/docs/edge-tiny.png) Π
+- [Edge](https://microsoftedge.microsoft.com/addons/detail/BibNext/kgcdgjmildkboglkjlmllmkchhibgbcc) ![Edge ><](/static/images/docs/edge-tiny.png) Π
 
-ριν ξεκινήσετε να χρησιμοποιείτε το Citasion στα Έγγραφα Google, πρέπει να συσχετίσετε το Έγγραφο Google στο οποίο εργάζεστε με ένα από τα ερευνητικά έργα σας στο Citasion. Το Citasion αντλεί αναφορές στο Έγγραφό σας Google μόνο από το συνδεδεμένο ερευνητικό έργο Citasion. Γ
+ριν ξεκινήσετε να χρησιμοποιείτε το BibNext στα Έγγραφα Google, πρέπει να συσχετίσετε το Έγγραφο Google στο οποίο εργάζεστε με ένα από τα ερευνητικά έργα σας στο BibNext. Το BibNext αντλεί αναφορές στο Έγγραφό σας Google μόνο από το συνδεδεμένο ερευνητικό έργο BibNext. Γ
 
-ια να συσχετίσετε ένα Έγγραφο Google με ένα ερευνητικό έργο Citasion, παρακαλούμε κάντε το εξής:  
+ια να συσχετίσετε ένα Έγγραφο Google με ένα ερευνητικό έργο BibNext, παρακαλούμε κάντε το εξής:  
 
-1. κάντε κλικ στο κουμπί Citasion στην επάνω γραμμή πλοήγησης.  
+1. κάντε κλικ στο κουμπί BibNext στην επάνω γραμμή πλοήγησης.  
 
 2. κάντε κλικ στο κουμπί Ορισμός σχετικού ερευνητικού έργου  
 
 3. επιλέξτε το ερευνητικό έργο με το οποίο θέλετε να συσχετίσετε το Έγγραφο Google στο αναδυόμενο παράθυρο  
 
-4. κάντε κλικ στο κουμπί Αλλαγή συσχετιζόμενου ερευνητικού έργου 1. κάντε κλικ στο κουμπί Citasion στην επάνω γραμμή πλοήγησης.  
+4. κάντε κλικ στο κουμπί Αλλαγή συσχετιζόμενου ερευνητικού έργου 1. κάντε κλικ στο κουμπί BibNext στην επάνω γραμμή πλοήγησης.  
 
 <img src='/static/images/support/googledoc-associate-project.png' alt='associate project' width='400' />  <img src='/static/images/support/googledoc-associate-project.png' alt='associate project' width='400' />   
 
@@ -40,7 +40,7 @@
 
 1. σταματήστε τον κέρσορα στο σημείο που θέλετε να εισάγετε τις παραπομπές  
 
-2. κάνοντας κλικ στο κουμπί Citasion >> Εισαγωγή παραπομπής ή πατώντας ταυτόχρονα τα πλήκτρα Ctrl και M  
+2. κάνοντας κλικ στο κουμπί BibNext >> Εισαγωγή παραπομπής ή πατώντας ταυτόχρονα τα πλήκτρα Ctrl και M  
 
 3. αναζητώντας τις παραπομπές που θέλετε να προσθέσετε στο αναδυόμενο παράθυρο και προσθέτοντας τις παραπομπές αναλόγως 1. σταματήστε τον κέρσορα στο σημείο που θέλετε να εισάγετε τις παραπομπές  
 
@@ -52,7 +52,7 @@
 
 1. σταματήστε τον κέρσορα στο σημείο όπου θέλετε να εισαγάγετε αναφορές (συνήθως στο τέλος ενός εγγράφου)  
 
-2. κάνοντας κλικ στο κουμπί Citasion >> Εισαγωγή παραπομπών  
+2. κάνοντας κλικ στο κουμπί BibNext >> Εισαγωγή παραπομπών  
 
 3. περιμένοντας να φορτωθούν οι αναφορές  
 
@@ -60,6 +60,6 @@
 
 Μπορείτε να αλλάξετε το στυλ της βιβλιογραφίας με τους εξής τρόπους:  
 
-1. κάνοντας κλικ στο κουμπί Citasion >> αλλαγή στυλ βιβλιογραφίας  
+1. κάνοντας κλικ στο κουμπί BibNext >> αλλαγή στυλ βιβλιογραφίας  
 
 2. περιμένοντας να εμφανιστεί το νέο στυλ ## Πώς μπορώ να αλλάξω το στυλ της βιβλιογραφίας στα Έγγραφα Google; <a name='style'></a>\n

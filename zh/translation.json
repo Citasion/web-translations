@@ -130,13 +130,13 @@
         "SelectedProject": "你要添加选中引用的项目",
         "AddPaperToolTip": "添加选择的引用",
         "Confirm": "确定",
-        "wasAddedToProject_0": "导入了{{count}}条引用",
+        "wasAddedToProject_0": "{{count}}条引用已被成功导入项目{{project}}",
         "searchAPaper": "在所有添加的文献中搜索论文"
       }
     },
     "application": {
       "ChromeTitle": "Chrome 插件",
-      "ChromeText": "Citasion 的免费插件帮助你从学术网站 (例如, 中国知网, Google Scholar, ACM Digital Library) 自动导入引用, 并且在",
+      "ChromeText": "BibNext 的免费插件帮助你从学术网站 (例如, 中国知网, Google Scholar, ACM Digital Library) 自动导入引用, 并且在",
       "GoogleDoc": "Google Docs 和",
       "Overleaf": "Overleaf 管理和使用导入的引用",
       "Install": "安装",
@@ -144,11 +144,11 @@
       "FirefoxTitle": "Firefox 插件",
       "EdgeTitle": "Edge 插件",
       "WordTitle": "Word 插件",
-      "WordText": "Citasion 的免费 Word 插件帮助你在任何一个Word文档内管理和使用导入的引用",
+      "WordText": "BibNext 的免费 Word 插件帮助你在任何一个Word文档内管理和使用导入的引用",
       "WordNote": "注意: 引用文献的自动导入仍需要",
       "WordOr": "或者",
       "WordNote2": "插件",
-      "citasionApps": "Citasion Apps"
+      "BibNextApps": "BibNext Apps"
     },
     "account": {
       "AccountView": {
@@ -177,13 +177,13 @@
         "ChooseDifferentPlan": "更改会员类别",
         "CancelMySubscription": "取消会员",
         "CancelTitle": "取消会员",
-        "CancelText": "你确定要取消Citasion会员吗?",
+        "CancelText": "你确定要取消BibNext会员吗?",
         "Confirm": "确定",
-        "pageTitle": "Citasion: 帐户设置",
+        "pageTitle": "BibNext: 帐户设置",
         "manageSubscription": "会员管理",
         "willExpire": "你的试用将在<2>{{expiryDate}}</2>过期.",
         "expirationDate": "到期日 {{date}}",
-        "currentSubscription": "你已经取消你的会员; 在到期日前你可以继续使用Citasion高级会员功能",
+        "currentSubscription": "你已经取消你的会员; 在到期日前你可以继续使用BibNext高级会员功能",
         "EnablePassword": "启用密码登录",
         "PasswordAuth": "密码登录",
         "Enabled": "已启用",
@@ -192,49 +192,49 @@
     },
     "auth": {
       "LoginIframeView": {
-        "citasionMemberLogin": "Citasion会员登录",
+        "BibNextMemberLogin": "BibNext会员登录",
         "loginFailure": "如果你无法通过Google登录，请点<0>这里</0>。"
       },
       "LoginView": {
         "signUp": "注册账户",
-        "title": "Citasion: 登录",
-        "description": "登录Citasion 轻松管理你的引用",
-        "memberLogin": "Citasion用户登录",
-        "dontHaveAccount": "需要注册Citasion账户?",
+        "title": "BibNext: 登录",
+        "description": "登录BibNext 轻松管理你的引用",
+        "memberLogin": "BibNext用户登录",
+        "dontHaveAccount": "需要注册BibNext账户?",
         "captchaNote": "该网站启用reCAPTCHA, 并遵循<2>Google隐私协议</2> 和 <6>使用条款</6>.",
         "signInWith": "使用如下方式登录："
       },
       "RegisterView": {
-        "title": "Citasion: 注册账户",
-        "description": "注册Citasion账户, 轻松管理你的引用",
-        "startWith": "注册Citasion账户",
-        "alreadyHave": "已经有Citasion账户?",
+        "title": "BibNext: 注册账户",
+        "description": "注册BibNext账户, 轻松管理你的引用",
+        "startWith": "注册BibNext账户",
+        "alreadyHave": "已经有BibNext账户?",
         "signUpWith": "使用如下方式注册："
       },
       "EnablePasswordView": {
-        "title": "Citasion: 启用密码认证",
-        "description": "启用Citasion密码认证",
+        "title": "BibNext: 启用密码认证",
+        "description": "启用BibNext密码认证",
         "memberLogin": "启用密码认证",
         "error": "出错了：你需要先<2>重新认证你的当前账户</2>。"
       },
       "ReAuth": {
-        "title": "Citasion: 重新验证你的账户",
-        "description": "重新验证你的Citasion账户",
-        "memberLogin": "重新验证你的Citasion账户",
+        "title": "BibNext: 重新验证你的账户",
+        "description": "重新验证你的BibNext账户",
+        "memberLogin": "重新验证你的BibNext账户",
         "signInWith": "在你启用密码认证之前，请重新认证你当前的账户："
       },
       "ResetPasswordView": {
         "invalidPassword": "重设密码所需的密钥无效",
         "reset": "重置密码",
         "login": "请再试一次",
-        "pageTitle": "Citasion: 重置密码",
-        "pageDescription": "重置你的Citasion密码"
+        "pageTitle": "BibNext: 重置密码",
+        "pageDescription": "重置你的BibNext密码"
       }
     },
     "campaign": {
       "CampaignStarter": {
         "elevate": "让你的引用管理再上一个台阶",
-        "goBeyond": "升级你的Citasion账户, 助力高效科研合作, 获得深层次文献分析.",
+        "goBeyond": "升级你的BibNext账户, 助力高效科研合作, 获得深层次文献分析.",
         "forIndividual": "个人用户",
         "basicReference": "基础引用管理",
         "currentPlan": "免费会员",
@@ -245,7 +245,7 @@
         "styles": "1000+ 引用格式",
         "advancedReference": "进阶引用管理 & 文献分析",
         "startFree": "开始免费试用",
-        "welcomePremium": "欢迎成为Citasion高级会员",
+        "welcomePremium": "欢迎成为BibNext高级会员",
         "youHaveAccess": "你现在可以使用:",
         "enhanced": "加强的自动引用导入",
         "literatureAnalytics": "文献分析和推荐",
@@ -263,12 +263,12 @@
         "enjoyedBy": "我们的的用户来自",
         "formsOfPayment": "你们接受哪种付款方式?",
         "formsOfPaymentAccepted": "我们接受主要的信用卡 (e.g., Visa, Mastercard, Union Pay) 和 PayPal.",
-        "premiumPlan": "Citasion 高级会员都包括哪些服务?",
-        "premiumPlanDetails": "Citasion 高级会员提供无限量的引用和共享项目, 文献分析和推荐, 目标期刊会议分析, 以及无限量 PDF 文件存储.",
+        "premiumPlan": "BibNext 高级会员都包括哪些服务?",
+        "premiumPlanDetails": "BibNext 高级会员提供无限量的引用和共享项目, 文献分析和推荐, 目标期刊会议分析, 以及无限量 PDF 文件存储.",
         "volumeDiscounts": "你们提供批量购买折扣吗?",
-        "tryPremium": "我可以试用 Citasion 高级会员吗?",
-        "tryPremiumAnswer": "Yes! 所有的免费用户都可以试用90天的 Citasion 高级会员. 你只需要注册一个Citasion账户并且在此访问本页面.",
-        "pageTitle": "Citasion: 会员升级",
+        "tryPremium": "我可以试用 BibNext 高级会员吗?",
+        "tryPremiumAnswer": "Yes! 所有的免费用户都可以试用90天的 BibNext 高级会员. 你只需要注册一个BibNext账户并且在此访问本页面.",
+        "pageTitle": "BibNext: 会员升级",
         "pageDesc": "让你的引用和文献管理再上一个台阶",
         "otherResearchAggregators": "其他学术搜索引擎",
         "basicAnalysis": "基础文献分析",
@@ -280,28 +280,28 @@
         "smartCitationFinder": "智能引用查找",
         "shareableProjects": "引用共享项目",
         "startingAt": "<0>只要 </0><1>$1.99</1><2>/月</2>",
-        "premiumExpire": "你的Citasion高级会员试用将会在 {{expiryDate}} 过期",
+        "premiumExpire": "你的BibNext高级会员试用将会在 {{expiryDate}} 过期",
         "volumeDiscountsAnswer": "Yes! 只要你一次为超过5人购买年费高级会员. 如果你打算购买超过5人的年费会员, 请<2><0>联系我们</0></2>.",
         "freeTrialFor_0": "免费试用{{count}}个月"
       }
     },
     "Home": {
       "HomeView": {
-        "title": "Citasion: 强大的在线引用管理软件",
-        "description": "Citasion是一个强大的免费在线引用管理软件, 支持多种不同写作平台和软件; 现在下载Citasion浏览器插件, 立刻开始高效协同写作 ...",
+        "title": "BibNext: 强大的在线引用管理软件",
+        "description": "BibNext是一个强大的免费在线引用管理软件, 支持多种不同写作平台和软件; 现在下载BibNext浏览器插件, 立刻开始高效协同写作 ...",
         "introducing": "向你推荐",
-        "citasion": "Citasion",
+        "BibNext": "BibNext",
         "intro": "强大的在线引用管理软件",
         "check1": "一键导入引用文献",
         "check2": "共享引用项目支持多人协同写作",
         "check3": "检查语法, 助力写作",
         "check4": "支持1000+种文献格式",
         "check5": "引用文献深度分析和推荐",
-        "VideoTitle": "Citasion - Need Help Writing a Paper?",
+        "VideoTitle": "BibNext - Need Help Writing a Paper?",
         "addToFirefoxBtn": "<0>安装Firefox插件</0><1>免费</1>",
         "addToChromeBtn": "<0>安装Chrome插件</0><1>免费</1>",
         "addToEdgeBtn": "<0>安装Edge插件</0><1>免费</1>",
-        "exploreCitasion": "探索Citasion",
+        "exploreBibNext": "探索BibNext",
         "note1": "在线引用管理",
         "note1Text": "基于写作项目的在线引用管理. 支持Google Docs, Word, 和Overleaf。",
         "note2": "高效学术协同写作",
@@ -326,7 +326,7 @@
         "edgeAddon": "Edge插件",
         "wordAddin": "Word插件",
         "wordAddInNote": "如果你用Word写作，你还将需要安装<2><0>我们的Word插件</0></2>.",
-        "citasionPhonetic": " "
+        "BibNextPhonetic": " "
       }
     },
     "Invoice": {
@@ -350,7 +350,7 @@
       }
     },
     "support": {
-      "title": "Citasion: 帮助中心"
+      "title": "BibNext: 帮助中心"
     },
     "pricing": {
       "PlanChange": {
@@ -371,12 +371,12 @@
         "manageRefs": "引用管理",
         "premiumfeatures": "高级会员享有不限量的项目和引用, 以及PFD存储",
         "literatureInsights": "文献分析",
-        "literaturesummary": "担心你的文献引用有年份缺口? 想要搜索类似论文但没有合适的关键字? Citasion高级会员可以帮到你",
+        "literaturesummary": "担心你的文献引用有年份缺口? 想要搜索类似论文但没有合适的关键字? BibNext高级会员可以帮到你",
         "collaborateWithOthers": "协同协作",
         "collaborateSummary": "和合作者共同管理一个或多个项目, 协同写作, 协同引用",
-        "testimonial": "Citasion doesn't only manage my references but also allow me to have confidence in my literature review.",
+        "testimonial": "BibNext doesn't only manage my references but also allow me to have confidence in my literature review.",
         "testimonialName": "- Vanessa Dennen, 教育技术专家",
-        "premiumPromoText": "Citasion高级会员可以帮助你进行引用的深度分析, 并且推荐最新最相关文献",
+        "premiumPromoText": "BibNext高级会员可以帮助你进行引用的深度分析, 并且推荐最新最相关文献",
         "currentPlan": "现有会员信息",
         "priceText": "${{price}} / 月",
         "chargedOn": "",
@@ -396,9 +396,9 @@
         "updatePayment": "更新支付方式",
         "changePaymentMethod": "更新支付方式",
         "changesWillBeEffective": "更新会从下一次付费开始生效",
-        "paymentChangeAgreement": "更新支付方式会从下一次付费开始生效。点击以上确定按键表示你已经同意我们的<2>条款</2>。如果您有任何问题, 你可以发邮件到<4>support@citasion.com</4>来联系我们。",
+        "paymentChangeAgreement": "更新支付方式会从下一次付费开始生效。点击以上确定按键表示你已经同意我们的<2>条款</2>。如果您有任何问题, 你可以发邮件到<4>support@bibnext.com</4>来联系我们。",
         "priceDiscount": "<0>${{price}}</0><1> / 月</1>",
-        "paymentAgreement": "你的高级会员每<1>{{frequency}}</1>个月会续费一次; 每次续费金额为$<4>{{price}}</4>。你可以在账户设置中取消高级会员的续订; 如果你取消续订, 已付的金额将不会退还给您, 但你可以在高级会员过期前继续使用高级会员的所有功能。点击以上更新支付方式按键表示你已经同意我们的<7>条款</7>。如果您有任何问题, 你可以发邮件到support@citasion.com来联系我们。",
+        "paymentAgreement": "你的高级会员每<1>{{frequency}}</1>个月会续费一次; 每次续费金额为$<4>{{price}}</4>。你可以在账户设置中取消高级会员的续订; 如果你取消续订, 已付的金额将不会退还给您, 但你可以在高级会员过期前继续使用高级会员的所有功能。点击以上更新支付方式按键表示你已经同意我们的<7>条款</7>。如果您有任何问题, 你可以发邮件到support@bibnext.com来联系我们。",
         "saveDiscount": "{{discount}}%折扣",
         "billedAsOne": "一次付款${{price}}",
         "month": "月",
@@ -408,22 +408,22 @@
       }
     },
     "uninstall": {
-      "why": "请问你为何选择卸载Citasion?",
+      "why": "请问你为何选择卸载BibNext?",
       "yourMessage": "我们已收到你的反馈, 谢谢!",
       "pleaseSelect": "请选择至少一个选项",
       "pleaseCheck": "请选择您卸载的所有原因:",
       "paperImport": "引用导入总是出错",
       "website": "网站总是出错",
-      "googledocs": "Citasion在Google Docs中总是出错",
-      "overleaf": "Citasion在Overleaf中总是出错",
-      "word": "Citasion在Word中总是出错",
-      "slows": "Citasion减慢我电脑的运行速度",
+      "googledocs": "BibNext在Google Docs中总是出错",
+      "overleaf": "BibNext在Overleaf中总是出错",
+      "word": "BibNext在Word中总是出错",
+      "slows": "BibNext减慢我电脑的运行速度",
       "createAccount": "我不想创建一个新的账户",
       "other": "其他原因",
       "improve": "我们哪里可以做得更好?",
       "helpUs": "我们正努力成长, 请帮助我们进步",
-      "helpUsText": "We know our reference management tool isn’t perfect, and we’re committed to making it better for you. Can you ket us know why you uninstalled the Citasion extension?",
-      "title": "Citasion: 很遗憾你选择卸载Citasion插件"
+      "helpUsText": "We know our reference management tool isn’t perfect, and we’re committed to making it better for you. Can you ket us know why you uninstalled the BibNext extension?",
+      "title": "BibNext: 很遗憾你选择卸载BibNext插件"
     },
     "errors": {
       "NotAuthorized": {
@@ -440,7 +440,9 @@
     "references": {
       "ReferenceBrowseView": {
         "selectRef": "选择引用",
-        "updateRef": "更新引用"
+        "updateRef": "更新引用",
+        "selectRefNote": "在选择时按下Ctrl/Command可以帮助你选中多条引用",
+        "selectAll": "选择所有引用"
       }
     }
   },
@@ -495,7 +497,7 @@
     "UploadPdfDialog": {
       "uploadPdf": "上传PDF文件",
       "uploadOneOrMorePdf": "你可以上传一个或多个PDF文件",
-      "CitasionWillParse": "Citasion会分析上传论文的所有可发现的元数据, 并且用这些数据生成引用文献",
+      "BibNextWillParse": "BibNext会分析上传论文的所有可发现的元数据, 并且用这些数据生成引用文献",
       "dragDrop": "拖拽上传文件或点击这里",
       "selectedFiles": "选中文件",
       "pdfLackMeta": "有些PDF论文缺少元数据所以不能被分析; 阅读更多有关元数据的信息"
@@ -504,20 +506,20 @@
       "noneUploaded": "上传的引用文件无法被分析",
       "noneAdded": "未能添加新的引用因为没有发现新的论文",
       "uploadFiles": "上传引用文件",
-      "importTypes": "Citasion接受以下类型的引用:",
+      "importTypes": "BibNext接受以下类型的引用:",
       "uploadOneOrMore": "你可以上传一个或多个引用文件",
       "dragDrop": "拖拽上传文件或点击这里",
       "selectedFiles": "选中文件",
-      "readMoreAboutFormats": "阅读更多有关Citasion接受的引用文件",
+      "readMoreAboutFormats": "阅读更多有关BibNext接受的引用文件",
       "numberAdded_0": "已成功添加{{response}}条引用"
     },
     "ContactForm": {
-      "howToStart": "如何开始Citasion",
+      "howToStart": "如何开始BibNext",
       "extension": "Chrome/Firefox/Edge插件",
       "wordAddin": "Word插件",
-      "googledocs": "使用Citasion支持在Google Docs中写作",
-      "overleaf": "使用Citasion支持在Overleaf中写作",
-      "word": "使用Citasion支持在Word中写作",
+      "googledocs": "使用BibNext支持在Google Docs中写作",
+      "overleaf": "使用BibNext支持在Overleaf中写作",
+      "word": "使用BibNext支持在Word中写作",
       "billing": "高级会员购买",
       "others": "其他",
       "cantfind": "还有更多问题? 联系我们!",
@@ -525,16 +527,16 @@
       "received": "我们已经收到你的问题!",
       "questionTypes": "问题分类",
       "tellUsMore": "告诉我们更多",
-      "iHaveReadTerms": "我已经阅读了<2>Citasion的条款和声明</2>"
+      "iHaveReadTerms": "我已经阅读了<2>BibNext的条款和声明</2>"
     },
     "Header": {
       "howCanWeHelp": "Hi! 请问有什么可以帮到你的吗?",
       "youMayBeAble": "你也许可以从下列菜单中找到你问题的答案:"
     },
     "Reading": {
-      "howToStart": "如何开始Citasion",
+      "howToStart": "如何开始BibNext",
       "addPapers": "如何添加引用",
-      "write": "如何在写作中使用Citasion",
+      "write": "如何在写作中使用BibNext",
       "billing": "高级会员购买和收据",
       "moreTopics": "查看更多内容"
     },
@@ -554,15 +556,15 @@
       "zeroPapers": "未能添加新的引用因为没有发现新的论文",
       "parsePDFFiles": "分析PDF文件",
       "uploadMore": "你可以上传一个或多个PDF文件",
-      "parseMetadata": "Citasion会分析上传论文的所有可发现的元数据, 并且用这些数据生成引用文献",
+      "parseMetadata": "BibNext会分析上传论文的所有可发现的元数据, 并且用这些数据生成引用文献",
       "thinking": "想在线管理你所有的PDF论文?",
       "somePapers": "有些PDF论文缺少元数据所以不能被分析; 阅读更多有关元数据的信息",
-      "tryCitasion": "免费试用<2><0>Citasion高级会员</0></2>三个月",
+      "tryBibNext": "免费试用<2><0>BibNext高级会员</0></2>三个月",
       "dragAndDrop": "拖拽上传文件或点击这里",
       "parsedSuccessfully_0": "已成功添加{{count}}条引用"
     },
     "CookiesNotification": {
-      "weUseCookies": "Citasion使用cookie来给你提供最好的用户体验; 阅读<2>我们的隐私条款</2>可以了解更多"
+      "weUseCookies": "BibNext使用cookie来给你提供最好的用户体验; 阅读<2>我们的隐私条款</2>可以了解更多"
     }
   },
   "globals": {

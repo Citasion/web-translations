@@ -14,7 +14,7 @@ This section covers:
 
 ## How do I purchase a premium subscription?  
 
-You can purchase a premium subscription by visiting [https://citasion.com/go-premium](https://citasion.com/go-premium). Or if you are on the default plan (free), you can click the Premium button on your home dashboard after logging in.  
+You can purchase a premium subscription by visiting [https://BibNext.com/go-premium](https://BibNext.com/go-premium). Or if you are on the default plan (free), you can click the Premium button on your home dashboard after logging in.  
 
 We currently offer three types of premium subscriptions:  
 
@@ -34,9 +34,9 @@ We accept all major credit cards and Paypal.
 
 ## Can I change my premium subscription?  
 
-Yes! You can change your subscription details in your Citasion account. It's easy:  
+Yes! You can change your subscription details in your BibNext account. It's easy:  
 
-1. Log in to your Citasion account  
+1. Log in to your BibNext account  
 
 2. Click on the Account tab to the left  
 
