@@ -307,7 +307,7 @@
         "note2": "高效学术协同写作",
         "note2Text": "和研究伙伴共享项目，引用，和深度分析；协作管理引用和写作。",
         "note3": "智能引用推荐",
-        "note3Text": "智能系统早知道你要引用的文献；深度分析提供关键信息和推荐。",
+        "note3Text": "智能驱动的系统提早知道你要引用的文献，并能自动插入其参考文献。",
         "worksOnline": "支持你使用的平台和软件",
         "searchPapers": "你熟悉的学术搜索引擎",
         "write": "你熟悉的写作平台",
@@ -326,7 +326,22 @@
         "edgeAddon": "Edge插件",
         "wordAddin": "Word插件",
         "wordAddInNote": "如果你用Word写作，你还将需要安装<2><0>我们的Word插件</0></2>.",
-        "BibNextPhonetic": " "
+        "BibNextPhonetic": " ",
+        "quote1": "Bibnext是我用过的最好的文献管理工具。Bibnext容易上手，而且免费。手动点赞！",
+        "quote1Author": "Tahereh Ahearn",
+        "quote1Affiliation": "Georgia State University",
+        "quote2": "Bibnext在Google Docs和Word中都很好用。我喜欢能在两个平台上使用它。",
+        "quote2Author": "Ding Lu",
+        "quote2Affiliation": "University of South Alabama",
+        "quote3": "在Overleaf中管理参考文献是一个挑战，我认为Bibnext提供了很好的解决方案。",
+        "quote3Author": "Mahthildis Rashid",
+        "quote3Affiliation": "Pfizer",
+        "quote4": "除了参考文献管理功能外，我喜欢推Bibnext的推荐引文的自动生成，它为我节省了大量的时间。",
+        "quote4Author": "Netta Elías",
+        "quote4Affiliation": "Autolab",
+        "getAccess": "注册你的BibNext帐号",
+        "getAccessDetails": "只需要一分钟就可以建立你的BibNext账户。如果你有任何问题，<2>我们</2> 很乐意帮助你。",
+        "getAccessAction": "注册BibNext"
       }
     },
     "Invoice": {
