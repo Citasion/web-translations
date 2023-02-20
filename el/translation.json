@@ -343,7 +343,7 @@
       "CampaignStarter": {
         "otherResearchAggregators": "Άλλοι συσσωρευτές έρευνας ιστότοπων",
         "basicAnalysis": "Βασική ανάλυση",
-        "gapIdentification": "Εντοπισμός κενών",
+        "citationRecommendation": "Εντοπισμός κενών",
         "literatureRecommendation": "Σύσταση βιβλιογραφίας",
         "pdfStorage": "Αποθήκευση άρθρου PDF",
         "organize": "Οργάνωση της βιβλιογραφίας ανά ερευνητικό έργο(α)",
@@ -373,7 +373,7 @@
         "completeFeature": "Πλήρης κατάλογος χαρακτηριστικών",
         "allFeatures": "Όλα τα χαρακτηριστικά",
         "currentList": "Ο τρέχων κατάλογος άλλων ιστοτόπων συγκέντρωσης ερευνητικών δεδομένων περιλαμβάνει τις ACM Digital Library, PubMed, Springer και IEEE Xplore. Εργαζόμαστε σκληρά για τη συνεχή επέκταση του καταλόγου.",
-        "identifyYearGaps": "Εντοπίστε τα κενά του έτους στη βιβλιογραφική σας ανασκόπηση",
+        "citationRecommendationDetails": "Εντοπίστε τα κενά του έτους στη βιβλιογραφική σας ανασκόπηση",
         "recommendTheMost": "Προτείνετε την πιο σχετική βιβλιογραφία για το άρθρο που επεξεργάζεστε.",
         "collaborativeAcademic": "Συνεργατική ακαδημαϊκή σύνταξη",
         "grabTheNext": "Βρείτε την επόμενη αναφορά που πρόκειται να παραθέσετε.",

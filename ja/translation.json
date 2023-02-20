@@ -339,7 +339,7 @@
       "CampaignStarter": {
         "otherResearchAggregators": "",
         "basicAnalysis": "",
-        "gapIdentification": "",
+        "citationRecommendation": "",
         "literatureRecommendation": "",
         "pdfStorage": "",
         "organize": "",
@@ -367,7 +367,7 @@
         "completeFeature": "",
         "allFeatures": "",
         "currentList": "",
-        "identifyYearGaps": "",
+        "citationRecommendationDetails": "",
         "recommendTheMost": "",
         "collaborativeAcademic": "",
         "grabTheNext": "",
