@@ -252,6 +252,7 @@
     },
     "auth": {
       "LoginIframeView": {
+        "login": "Inicia sesión en BibNext ahora para desbloquearlo:",
         "BibNextMemberLogin": "Inicio de sesión de los miembros de BibNext",
         "loginFailure": "<0>Read more</0> if you have difficulties logging into your account via Google."
       },

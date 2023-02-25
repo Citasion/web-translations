@@ -192,6 +192,7 @@
     },
     "auth": {
       "LoginIframeView": {
+        "login": "现在登录BibNext来解锁以下功能：",
         "BibNextMemberLogin": "BibNext会员登录",
         "loginFailure": "如果你无法通过Google登录，请点<0>这里</0>。"
       },

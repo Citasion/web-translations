@@ -252,6 +252,7 @@
     },
     "auth": {
       "LoginIframeView": {
+        "login": "Log in BibNext now to unlock:",
         "BibNextMemberLogin": "BibNext Member Login",
         "loginFailure": "<0>Read more</0> if you have difficulties logging into your account via Google."
       },
