@@ -102,6 +102,10 @@
         "beforeGraph": "Before {{yearValue}}",
         "afterGraph": "After {{yearValue}}",
         "numreferences": "Number of references by year"
+      },
+      "ProjectSingleCitationView": {
+        "invididualReference": "Individual Reference",
+        "goToProject": "Go to this project"
       }
     },
     "reference": {
@@ -115,7 +119,7 @@
         "AddReferenceManually": "Add A Reference Manually",
         "ImportBrowserExtension": "Import via Browser Extension",
         "MoreThanOne": "... more than 1 references are newly added; refresh the page to see them ...",
-        "NoResult": "No results found for",
+        "NoResult": "No results found",
         "OneClickImport": "It only takes a click for you to import references to this project from major academic search aggregators:",
         "GSExample": "an example of searching for 'technology' on Google Scholar",
         "ACMExample": "an example paper titled 'User Authentication via Electrical Muscle Stimulation'",

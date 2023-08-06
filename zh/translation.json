@@ -102,6 +102,10 @@
         "numreferences": "引用数 vs 年份",
         "afterGraph": "{{yearValue}}之后",
         "beforeGraph": "{{yearValue}}之前"
+      },
+      "ProjectSingleCitationView": {
+        "invididualReference": "单个文献",
+        "goToProject": "转到该项目"
       }
     },
     "reference": {

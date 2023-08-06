@@ -102,6 +102,10 @@
         "beforeGraph": "Antes de {{yearValue}}",
         "afterGraph": "Después de {{yearValue}}",
         "numreferences": "Número de referencias por año"
+      },
+      "ProjectSingleCitationView": {
+        "invididualReference": "Referencia individual",
+        "goToProject": "Ir a este proyecto"
       }
     },
     "reference": {
@@ -115,7 +119,7 @@
         "AddReferenceManually": "Agregar una referencia manualmente ",
         "ImportBrowserExtension": "Importar a través de la extensión del navegador ",
         "MoreThanOne": "... se agregan más de 1 referencias nuevas; refresca la pagina para verlos... ",
-        "NoResult": "No se encontraron resultados para",
+        "NoResult": "No se han encontrado resultados",
         "OneClickImport": "Solo necesita un clic para importar referencias a este proyecto desde los principales agregadores de búsqueda académica:",
         "GSExample": "un ejemplo de búsqueda de 'tecnología' en Google Scholar",
         "ACMExample": "un documento de ejemplo titulado 'User Authentication via Electrical Muscle Stimulation'",
