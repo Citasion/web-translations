@@ -446,7 +446,28 @@
       }
     },
     "support": {
-      "title": "BibNext: Support Center"
+      "title": "BibNext: Support Center",
+      "header": "HELP CENTER",
+      "contactUs": "Contact us for more",
+      "contactUs2": "detailed support",
+      "contact": "Contact us",
+      "subHeader": "Check out our FAQs and guides, or contact us for detailed support",
+      "faq": "FAQ",
+      "faqVerbose": "Frequently asked",
+      "faqVerbose2": "questions and answers",
+      "goToFaq": "Go to FAQs",
+      "guide": "Guides",
+      "guideVerbose": "Articles and resources",
+      "guideVerbose2": "to guide you",
+      "support": "Support",
+      "checkOurGuide": "Check our guides",
+      "mostFreqQuestions": "Most frequently asked questions",
+      "home": "Home",
+      "supportCenter": "Support center",
+      "freqAskedQues": "Frequently asked questions",
+      "guideResource": "Guides & Resources",
+      "readingTime": "Reading time",
+      "updatedOn": "Updated on"
     },
     "uninstall": {
       "why": "Why did you uninstall BibNext?",
@@ -640,7 +661,15 @@
     },
     "Header": {
       "howCanWeHelp": "Hi! How can we help?",
-      "youMayBeAble": "You may be able to find your answers below:"
+      "youMayBeAble": "You may be able to find your answers below:",
+      "mostFreqQuestions": "Most frequently asked questions",
+      "goToFaq": "Go to FAQs",
+      "guide": "Guides",
+      "guideVerbose": "Articles and resources",
+      "faqVerbose2": "questions and answers",
+      "guideVerbose2": "to guide you",
+      "checkOurGuide": "Check our guides",
+      "support": "Support"
     },
     "Reading": {
       "howToStart": "How to start BibNext",

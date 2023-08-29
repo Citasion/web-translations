@@ -369,7 +369,27 @@
       }
     },
     "support": {
-      "title": "BibNext: 帮助中心"
+      "title": "BibNext: 帮助中心",
+      "header": "帮助中心",
+      "subHeader": "查看我们的常见问题和指南，或联系我们获取详细支持",
+      "faq": "FAQ",
+      "faqVerbose": "常见",
+      "faqVerbose2": "问题和解答",
+      "guideVerbose": "详细的",
+      "guideVerbose2": "文章和资源",
+      "guide": "指南",
+      "support": "联系我们",
+      "checkOurGuide": "查看我们的指南",
+      "contactUs": "如需更多帮助",
+      "contactUs2": "请联系我们",
+      "contact": "联系我们",
+      "mostFreqQuestions": "最常见问题",
+      "home": "主页",
+      "supportCenter": "帮助中心",
+      "freqAskedQues": "常见问题",
+      "guideResource": "帮助指南",
+      "readingTime": "阅读时间",
+      "updatedOn": "更新时间"
     },
     "pricing": {
       "PlanChange": {
